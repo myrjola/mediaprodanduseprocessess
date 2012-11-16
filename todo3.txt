@@ -1,0 +1,6 @@
+Task1
+TODO skriv en metod för att retrieva metadata
+TODO Gör en minimal NewsItem för bilden
+
+Task2
+TODO Hitta en set av similar images med lire analysera resultaten
