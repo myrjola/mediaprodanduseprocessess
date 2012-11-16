@@ -1,1 +1,3 @@
 *.class
+mpup_part3_images/*
+.settings/*
