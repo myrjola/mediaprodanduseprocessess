@@ -1,3 +1,4 @@
 *.class
 mpup_part3_images/*
 .settings/*
+path_to_newsitems/*
