@@ -2,6 +2,7 @@ package aalto.media.newsml;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.ArrayList;
 
 import org.apache.sanselan.ImageReadException;
 import org.apache.sanselan.Sanselan;
@@ -23,7 +24,6 @@ public class ImageParser {
 
         } catch (ImageReadException | IOException e) {
             // TODO Auto-generated catch block
-            e.printStackTrace();
         }
 
         return "";
@@ -34,9 +34,8 @@ public class ImageParser {
         try {
             XMPMeta meta = XMPMetaFactory.parseFromString(xmp);
             return meta.getProperty(XMPConst.NS_DC, "identifier").toString();
-        } catch (XMPException e) {
+        } catch (XMPException | java.lang.NullPointerException e) {
             // TODO Auto-generated catch block
-            e.printStackTrace();
             return "";
         }
 
@@ -49,12 +48,37 @@ public class ImageParser {
         return new NewsItem();
     }
 
+    public static void iterateImages(File[] files, ArrayList<NewsItem> newsItems) {
+        for (File file : files) {
+            //System.out.println(file.getAbsolutePath());
+            if (file.isDirectory()) {
+                iterateImages(file.listFiles(), newsItems); // Calls same method again.
+            } else {
+                String guid = getNewsItemGuid(ImageParser.readXMP(file.getAbsolutePath()));
+                //System.out.println(guid);
+                for (NewsItem ni: newsItems) {
+                    if (ni.getGuid().equals(guid)) {
+                        System.out.println("Found match in " + ni.toString());
+                    } else {
+                        //System.out.println(ni.getGuid() + " not matching " + guid);
+                    }
+
+                }
+            }
+        }
+    }
+
 
     /**
      * @param args
      */
     public static void main(String[] args) {
-        System.out.println(getNewsItemGuid(ImageParser.readXMP(args[0])));
+
+        PackageGenerator pg = new PackageGenerator(args[0]);
+        PackageItem pi = pg.generatePackage();
+        
+
+        iterateImages(new File(args[1]).listFiles(), pi.newsItems);
 
     }
 

@@ -147,33 +147,36 @@ public class PackageGenerator {
 	 * Method for generating packageItem from newsItem list.
 	 */
 	
-	private PackageItem generatePackage() {
+	public PackageItem generatePackage() {
 		// An example for generating packageItem
 
 		// Finds all items from specific department
 		ArrayList<NewsItem> packageItems = new ArrayList<NewsItem>();
 		for (int i = 0; i < newsItems.size(); i++) {
 			NewsItem item = newsItems.get(i);
-			System.out.println(item.getDepartment());
-			if (item.getDepartment().equals(("Talous"))) { // You can use your own rules here.
+			//System.out.println(item.getDepartment());
+			//if (item.getDepartment().equals(("Kotimaa"))) { // You can use your own rules here.
 				packageItems.add(item);
-			}
+			//}
 		}
 		// Sort items by date (newest first)
 		Collections.sort(packageItems, new NewsItemComparator());
 		
 		// Creates packageItem containing first 10 items
-		int items = 10;
-		if (packageItems.size() < 10) items = packageItems.size();
+		int items = 10000000;
+		if (packageItems.size() < 10000000) items = packageItems.size();
 		
 		PackageItem packageItem = new PackageItem();
 		packageItem.setHeadline("Talouden kymmenen kuuminta.");
 		packageItem.setContributorName("GruppSex");
 		
 		for (int i = 0; i < items; i++) {
-			System.out.println("Adding news item " + packageItems.get(i).getGuid() + " (" +
-				packageItems.get(i).getVersion_created() + ")");
-			packageItem.addNewsItem(packageItems.get(i));
+            /*
+			 *System.out.println("Adding news item " + packageItems.get(i).getGuid() + " (" +
+			 *    packageItems.get(i).getVersion_created() + ")");
+			 */
+			 packageItem.addNewsItem(packageItems.get(i));
+             
 		}
 		return packageItem;
 	}
@@ -208,7 +211,7 @@ public class PackageGenerator {
 	}
 
 	public static void main(String[] args) {
-        System.out.println(System.getProperty("user.dir"));
+        // System.out.println(System.getProperty("user.dir"));
 		PackageGenerator packageGenerator = 
 				new PackageGenerator("path_to_newsitems");
 	}

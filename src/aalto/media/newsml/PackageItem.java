@@ -48,7 +48,7 @@ public class PackageItem {
     /*
      * Newsitems in package
      */
-    private ArrayList<NewsItem> newsItems;
+    public ArrayList<NewsItem> newsItems;
     
     public PackageItem() {
         groupItems = new ArrayList<GroupItem>();
