@@ -1,5 +1,5 @@
 Task1
-TODO skriv en metod för att retrieva metadata
+DONE skriv en metod för att retrieva metadata
 TODO Gör en minimal NewsItem för bilden
 
 Task2

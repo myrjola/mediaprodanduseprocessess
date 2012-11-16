@@ -90,6 +90,7 @@ public class PackageGenerator {
 			NodeList nodes;
 			
 			NewsItem newsItem = new NewsItem();
+			newsItem.setFile(newsItemFile);
 			try {
 				//Get guid of the NewsItem
 				expr = xpath.compile(GUID_XPATH);

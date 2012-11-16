@@ -1,5 +1,6 @@
 package aalto.media.newsml;
 
+import java.io.File;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -24,6 +25,9 @@ public class NewsItem {
 	private String department;
 	// Related categories of the news item
 	private String[] categories;
+	// File
+	private File file;
+	
 
 	// Add more fields here.
 	
@@ -106,5 +110,13 @@ public class NewsItem {
 		String s = "NewsItem " + getGuid() + "\n" +
 				"Version " + getVersion() + ", sent " + getVersion_created();
 		return s;
+	}
+
+	public File getFile() {
+		return file;
+	}
+
+	public void setFile(File file) {
+		this.file = file;
 	}
 }
