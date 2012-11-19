@@ -186,6 +186,7 @@ public class ImgIndxr {
 		if (imageFileOK) {
 			ImageSearchHits hits = null;
 			try {
+				System.out.println("Results for search based on Color Histogram");
 				hits = searcher1.search(img, ir);
 				for (int i = 0; i < hits.length(); i++) {
 		            String fileName = hits.doc(i).getValues(DocumentBuilder.FIELD_NAME_IDENTIFIER)[0];
@@ -193,6 +194,7 @@ public class ImgIndxr {
 		            System.out.println(hits.score(i) + ": \t" + fileName);
 		        }
 				
+				System.out.println("Results for search based on Edge Histogram");
 				hits = searcher2.search(img, ir);
 				for (int i = 0; i < hits.length(); i++) {
 		            String fileName = hits.doc(i).getValues(DocumentBuilder.FIELD_NAME_IDENTIFIER)[0];
@@ -200,6 +202,7 @@ public class ImgIndxr {
 		            System.out.println(hits.score(i) + ": \t" + fileName);
 		        }
 				
+				System.out.println("Results for search based on Color Layout:");
 				hits = searcher3.search(img, ir);
 				for (int i = 0; i < hits.length(); i++) {
 		            String fileName = hits.doc(i).getValues(DocumentBuilder.FIELD_NAME_IDENTIFIER)[0];
@@ -207,6 +210,7 @@ public class ImgIndxr {
 		            System.out.println(hits.score(i) + ": \t" + fileName);
 		        }
 				
+				System.out.println("Results for search based on CEDD:");
 				hits = searcher4.search(img, ir);
 				for (int i = 0; i < hits.length(); i++) {
 		            String fileName = hits.doc(i).getValues(DocumentBuilder.FIELD_NAME_IDENTIFIER)[0];
