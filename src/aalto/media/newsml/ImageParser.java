@@ -1,7 +1,9 @@
 package aalto.media.newsml;
 
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.io.StringWriter;
 import java.util.ArrayList;
 
@@ -165,10 +167,17 @@ public class ImageParser {
 						}
                 		String xmlString = sw.toString();
 
-                		System.out.println(xmlString);
-                	    
-                        System.out.println("Found match in " + ni.toString());
+                		PrintWriter out;
+						try {
+							out = new PrintWriter("pictureitems/" + guid + ".xml");
+	                		out.print(xmlString);
+	                		out.close();
+						} catch (FileNotFoundException e) {
+							// TODO Auto-generated catch block
+							e.printStackTrace();
+						}
 
+                		                		
                     } else {
                         //System.out.println(ni.getGuid() + " not matching " + guid);
                     }
