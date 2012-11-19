@@ -158,7 +158,10 @@ public class ImgIndxr {
 	
 	public static void searchImages(String imageFilePath, String lire_index) {
 		IndexReader ir = null;
-		ImageSearcher searcher = null;
+		ImageSearcher searcher1 = null;
+		ImageSearcher searcher2 = null;
+		ImageSearcher searcher3 = null;
+		ImageSearcher searcher4 = null;
 		BufferedImage img = null;
 		boolean imageFileOK = false;
 		
@@ -168,7 +171,10 @@ public class ImgIndxr {
 			ir = IndexReader.open(FSDirectory.open(new File(lire_index)));
 			
 			// Change the searcher-type to correspond with your index.
-			searcher = ImageSearcherFactory.createColorHistogramImageSearcher(maxHits);
+			searcher1 = ImageSearcherFactory.createColorHistogramImageSearcher(maxHits);
+			searcher2 = ImageSearcherFactory.createEdgeHistogramImageSearcher(maxHits);
+			searcher3 = ImageSearcherFactory.createColorLayoutImageSearcher(maxHits);
+			searcher4 = ImageSearcherFactory.createCEDDImageSearcher(maxHits);
 	        img = ImageIO.read(new File(imageFilePath));
 	        imageFileOK = true;
 		} catch (CorruptIndexException e) {
@@ -180,7 +186,28 @@ public class ImgIndxr {
 		if (imageFileOK) {
 			ImageSearchHits hits = null;
 			try {
-				hits = searcher.search(img, ir);
+				hits = searcher1.search(img, ir);
+				for (int i = 0; i < hits.length(); i++) {
+		            String fileName = hits.doc(i).getValues(DocumentBuilder.FIELD_NAME_IDENTIFIER)[0];
+		            // Print out predicted similarity values for maxHits number of images.
+		            System.out.println(hits.score(i) + ": \t" + fileName);
+		        }
+				
+				hits = searcher2.search(img, ir);
+				for (int i = 0; i < hits.length(); i++) {
+		            String fileName = hits.doc(i).getValues(DocumentBuilder.FIELD_NAME_IDENTIFIER)[0];
+		            // Print out predicted similarity values for maxHits number of images.
+		            System.out.println(hits.score(i) + ": \t" + fileName);
+		        }
+				
+				hits = searcher3.search(img, ir);
+				for (int i = 0; i < hits.length(); i++) {
+		            String fileName = hits.doc(i).getValues(DocumentBuilder.FIELD_NAME_IDENTIFIER)[0];
+		            // Print out predicted similarity values for maxHits number of images.
+		            System.out.println(hits.score(i) + ": \t" + fileName);
+		        }
+				
+				hits = searcher4.search(img, ir);
 				for (int i = 0; i < hits.length(); i++) {
 		            String fileName = hits.doc(i).getValues(DocumentBuilder.FIELD_NAME_IDENTIFIER)[0];
 		            // Print out predicted similarity values for maxHits number of images.
