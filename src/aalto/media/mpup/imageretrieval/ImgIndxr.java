@@ -224,10 +224,13 @@ public class ImgIndxr {
 	}
 
 	public static void main(String[] args) {
-		
+		if (args.length < 1) {
+			System.out.println("You must give path to image file as argument.");
+			return;
+		}
 		try {
-			String indexLocation = ImgIndxr.createIndex("pathToImageCollection");
-			ImgIndxr.searchImages("pathToSearchedImage", 
+			String indexLocation = ImgIndxr.createIndex("imageindex.idx");
+			ImgIndxr.searchImages(args[0], 
 					indexLocation);
 		} catch (IOException e) {
 			e.printStackTrace();
