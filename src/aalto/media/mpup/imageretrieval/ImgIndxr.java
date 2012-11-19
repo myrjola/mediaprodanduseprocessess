@@ -71,6 +71,12 @@ public class ImgIndxr {
 	        // Using the Color histogram as visual feature
 	    	builder.addBuilder((
 	    			DocumentBuilderFactory.getColorHistogramDocumentBuilder()));
+	    	builder.addBuilder((
+	    			DocumentBuilderFactory.getEdgeHistogramBuilder()));
+	    	builder.addBuilder((
+	    			DocumentBuilderFactory.getColorLayoutBuilder()));
+	    	builder.addBuilder((
+	    			DocumentBuilderFactory.getCEDDDocumentBuilder()));
 	
 		    IndexWriterConfig conf = new IndexWriterConfig(Version.LUCENE_36,
 		            new WhitespaceAnalyzer(Version.LUCENE_36));
