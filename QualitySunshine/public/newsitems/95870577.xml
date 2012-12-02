@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870577" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T16:47:06</versionCreated>
+<firstCreated>2012-07-28T16:46:39</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.fia.com" residref="urn:newsml:stt.fi:wwwlink:0000129">
+<title>Fédération Internationale de l'Automobile (FIA)</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T16:46:39</contentCreated>
+<contentModified>2012-07-28T16:47:06</contentModified>
+<located type="loctype:City">
+<name>Budapest</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:128">
+<name>stt 128</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:56765">
+<name>F1: Löytääkö Kimi Räikkönen eturivin lähtöpaikoille hitaalla Hungaroringin radalla?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97762513">
+<name>F1: Löytääkö Kimi Räikkönen eturivin lähtöpaikoille hitaalla Hungaroringin radalla?</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001221">
+<name>1221</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15039000">
+<name>Autourheilu Moottoriurheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15039001">
+<name>Formula 1</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Budapest</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Aika-ajo Hamiltonin ylivoimaa, Räikkönen 5:s</headline><creditline>STT&#8211;AFP-Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Lewis Hamilton on väkevässä aika-ajovireessä formula ykkösissä. Unkarin gp:n aika-ajossa hän kirjautti parhaan ajan kaikilla kolmella jaksolla ja jätti lähimmätkin haastajat lähes puolen sekunnin päähän.</p>
+  <p>Paalupaikka oli Hamiltonille kauden kolmas. Kahdessa viimeisessä gp:ssä hän on jäänyt ilman MM-pisteitä.</p>
+  <p>&#8211;&#8201; Me emme sano, että olisimme rentoutuneita. Tiedämme, että meillä on paljon töitä tehtävänä tästä viikonlopusta lähtien, brittikuljettaja totesi.</p>
+  <p>Monelle muulle MM-sarjan kärkikuskille aika-ajo Hungaroringin hellekelissä oli vaikeampi. Red Bullin Sebastian Vettel oli lähellä karsiutua jo avausjakson jälkeen, mutta hän paransi loppua kohti ja nousi kolmanneksi. </p>
+  <p>Vettelin tallitoveri Mark Webber sen sijaan karsiutui päätösjaksolta ja jäi sijalle 11. MM-sarjaa johtava Ferrarin Fernando Alonso oli kuudes.</p>
+  <p>Lotuksen Kimi Räikkönen ajoi viidenneksi. Hän teki parhaan aikansa toisella jaksolla eikä kyennyt parannukseen päätöskolmanneksen kahdella yrityksellään.</p>
+  <p>Räikkösen tallitoveri Romain Grosjean pääsee kisaan eturivistä Hamiltonin rinnalta.</p>
+  <p>Mercedeksen Nico Rosberg lähtee sunnuntain kilpailuun ruudusta 13 ja Caterhamin Heikki Kovalainen ruudusta 19. </p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

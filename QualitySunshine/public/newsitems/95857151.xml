@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95857151" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T15:38:26</versionCreated>
+<firstCreated>2012-07-29T15:38:23</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T15:38:23</contentCreated>
+<contentModified>2012-07-29T15:38:26</contentModified>
+<located type="loctype:City">
+<name>Pariisi</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:109">
+<name>stt 109</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74685">
+<name>Huippukokit paljastavat maailman johtajien ruokamieltymyksiä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97737577">
+<name>Huippukokit paljastavat maailman johtajien ruokamieltymyksiä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002273">
+<name>2273</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:10000000">
+<name>Vapaa-aika</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:10003000">
+<name>Ruoka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8000000">
+<name>Human interest</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8007000">
+<name>Kuninkaalliset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<slugline>///LEHTIVERSIO KV. KUVAA///</slugline>
+<dateline>Pariisi</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Huippukokit paljastavat maailmanjohtajien inhokkiruokia</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Moni presidentti pelkää myrkytystä ja haluaa ruoalleen maistajan</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Yhdysvaltain presidentti Barack Obama ei voi sietää punajuurta ja Ranskan presidentti Francois Hollande ei syö artisokkaa, paljastavat maailmanjohtajien palveluksessa toimivat huippukokit.</p>
+  <p>Noin kahdestakymmenestä huippukokista koostuva joukko tapaa säännöllisesti toisiaan. Tapaamisissa vaihdetaan tietoja maailman vaikutusvaltaisimpien miesten ja naisten ruokatottumuksista.</p>
+  <p>Artisokkaa ei siis tarjoilla Ranskan Elysee-palatsissa, mutta juusto sen sijaan on tehnyt paluun ruokalistalle. Kyseistä herkkua ei tarjoiltu suklaariippuvaisen Nicolas Sarkozyn presidenttikaudella, kertoo linnan kokki Bernard Vaussion.</p>
+  <p></p>
+  <p>
+<h3>Catherine kevensi kastikkeet</h3>
+</p>
+  <p></p>
+  <p>Poliitikoilla ja kuninkaallisilla on myös tarkkoja toiveita ruokansa laadusta. Britanniassa prinssi Williamin keittiössä kastikkeita on kevennetty tämän vaimon, herttuatar Catherinen, toiveesta. </p>
+  <p>Monacossa puolestaan ruhtinasperheen kokki on opetellut valmistamaan Etelä-Afrikan perinteistä liharuokaa bobotieta ruhtinas Albertin vaimolle Charlenelle. Ruhtinas itse on suuri lähiruoan ystävä, kertoo kokki Christian Garcia, joka saa suuren osan käyttämistään aineksista linnan puutarhasta.</p>
+  <p>Johtajien ruokatarjoilujen perään haikailevat monet jo siviilielämään siirtyneet. Rautarouvana tunnettu Britannian entinen pääministeri Margaret Thatcher on lämmöllä muistellut laadukkaita pihvejä, joita pääministerin Downing Streetin virka-asunnolla tarjoiltiin. Kauppiaan tytär muisti myös tarkasti, kuinka paljon herkku maksoi.</p>
+  <p>&#8211;&#8201; Se oli herkullista, mutta oi, niin kallista! muistelee Britannian kuningasperheen kokki rautarouvan sanoneen.</p>
+  <p></p>
+  <p>
+<h3>Putin pelkää myrkytystä</h3>
+</p>
+  <p></p>
+  <p>Ruokailu ei ole maailmanjohtajille vain kulinaristinen elämys. Venäjän presidentinpalatsin Kremlin kokin mukaan Vladimir Putin ei syö mitään, ennen kuin joku muu on annosta ensin maistanut. Käytäntöihin kuuluu, että lääkäri ja kokki tarkistavat yhdessä annoksen.</p>
+  <p>Keskiajan monarkkien tavoin myrkytykseen varautuva Putin ei ole pelkonsa kanssa yksin. Britannian kuningasperheen kokin mukaan entisen Yhdysvaltain presidentin vierailulla Lontoossa presidenttiä seurasi kaksi FBI:n agenttia, jotka halusivat maistaa kaikkea ennen presidenttiä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

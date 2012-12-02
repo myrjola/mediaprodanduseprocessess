@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95882704" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T10:22:15</versionCreated>
+<firstCreated>2012-07-31T10:22:11</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T10:22:11</contentCreated>
+<contentModified>2012-07-31T10:22:15</contentModified>
+<located type="loctype:City">
+<name>Tampere</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:049">
+<name>stt 049</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75435">
+<name>Suominen Joustopakkaukset aloittaa yt-neuvottelut lomautuksista</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97783489">
+<name>Suominen Joustopakkaukset aloittaa yt-neuvottelut lomautuksista</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000802">
+<name>802</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7023"/>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4013000">
+<name>Prosessiteollisuus Metsä- ja paperiteollisuus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4013995">
+<name>Kartongit ja pakkaukset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:9000000">
+<name>Työelämä</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:9003000">
+<name>Työllisyys</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:9003002">
+<name>Lomautukset Irtisanomiset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Tampere</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Suominen aikoo lomauttaa Tampereella</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7023">
+<name>Tampere</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=61.4978,+23.7623</definition>
+<geoAreaDetails>
+<position latitude="61.49781" longitude="23.76226"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:295">
+<name>Tampere</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:27">
+<name>Pirkanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suominen-yhtiö aikoo lomauttaa henkilökuntaansa Tampereen joustopakkaustehtaalla. Yhtiön mukaan taustalla on se, että tuotteiden kysynnän ennakoidaan tulevan puolen vuoden aikana vähentyvän.</p>
+  <p>Tiistaina aloitettiin yt-neuvottelut enintään 40 päivän lomautuksista, jotka toteutettaisiin lyhyemmissä jaksoissa. Neuvottelut koskevat 170 ihmistä eli koko Tampereen joustopakkausyksikön henkilöstöä.</p>
+  <p>Heinäkuun alussa päättyivät yt-neuvottelut Suomisen kuitukangastehtaalla Nakkilassa. Siellä osa tuotantolinjoista suljetaan ja väkeä vähennetään noin 70 henkilöä.</p>
+  <p>Suominen-konserni valmistaa teollisuudelle ja kaupalle kuitukankaita, kosteuspyyhkeitä ja joustopakkauksia. Yhtiö toimii Suomen lisäksi Espanjassa, Hollannissa, Italiassa, Puolassa, Venäjällä ja Yhdysvalloissa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

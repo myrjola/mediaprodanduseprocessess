@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120804:95905042" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-04T16:22:23</versionCreated>
+<firstCreated>2012-08-04T15:53:16</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-04T15:53:16</contentCreated>
+<contentModified>2012-08-04T16:22:23</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:133">
+<name>stt 133</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76059">
+<name>Saarikko: kokoomus jojoilee kotitalousvähennyksessä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97823692">
+<name>Saarikko: kokoomus jojoilee kotitalousvähennyksessä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000954">
+<name>954</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4017000">
+<name>Talouselämä Talouspolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16003000">
+<name>Levottomuudet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16003003">
+<name>Poliittiset kiistat Toisinajattelijat</name>
+</subject>
+<slugline>///LEHTIVERSIO UUSITAAN POLITIIKAN KOODILLA///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Saarikko: Kokoomus jojoilee kotitalousvähennyksessä</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Keskustan varapuheenjohtaja kansanedustaja Annika Saarikko pitää kokoomuksen eduskuntaryhmän varapuheenjohtaja Petteri Orpon esitystä kotitalousvähennyksen korottamisesta kokoomuksen kunnallisvaalitemppuna.</p>
+  <p>Kansanedustaja Orpo esitti torstaina, että kotitalousvähennys pitäisi korottaa ennalleen. Saarikko toteaa, että pääministeri Jyrki Kataisen (kok.) hallitus on leikannut kotitalousvähennyksen enimmäismäärää 3&#8201; 000 eurosta 2&#8201; 000 euroon ja karsinut vähennysosuuden aiemmasta 60 prosentista 45 prosenttiin.</p>
+  <p>&#8211;&#8201; Onhan tämä aika erikoista jojopolitiikkaa ja haiskahtaa vaalibluffilta, Saarikko tuoksuttelee.</p>
+  <p>Jojoliikkeitä seurannut Saarikko nostaa esiin, että kotitalousvähennyksen enimmäismäärää korotettiin edellisellä vaalikaudella, kun keskusta toimi pääministeripuolueena.</p>
+  <p>&#8211;&#8201; Kotitalousvähennys nähtiin tuolloin tärkeänä keinona parantaa palvelualojen työllisyystilannetta.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

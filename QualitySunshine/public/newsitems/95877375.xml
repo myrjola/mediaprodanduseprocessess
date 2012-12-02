@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95877375" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T08:47:37</versionCreated>
+<firstCreated>2012-07-30T08:47:34</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T08:47:34</contentCreated>
+<contentModified>2012-07-30T08:47:37</contentModified>
+<located type="loctype:City">
+<name>Washington/Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:038">
+<name>stt 038</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75259">
+<name>Lehti: USA:n Afganistan-jälleennrakennuksen hyödyt kyseenalaiset</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97773612">
+<name>Lehti: USA:n Afganistan-jälleennrakennuksen hyödyt kyseenalaiset</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001094">
+<name>1094</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16009000">
+<name>Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11024000">
+<name>Yleiset poliittiset kysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11024003">
+<name>Poliittinen kehitys</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14027000">
+<name>Jälleenrakentaminen</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Washington/Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Lehti: Jälleenrakentamisen hyödyt Afganistanissa kyseenalaiset</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Yhdysvaltain aloittamien massiivisten jälleenrakennus- ja kehityshankkeiden hyödyt Afganistanissa saattavat olla kyseenalaiset, kirjoittaa sanomalehti Washington Post. Lehden mukaan Yhdysvaltain hallinnon tilaama tarkastusraportti katsoo, että projektit voivat pahimmillaan jopa lietsoa tyytymättömyyttä.</p>
+  <p>Raportti huomauttaa, että monet hankkeista ovat niin pahasti myöhässä aikataulusta, ettei niistä ehditä saada mitään hyötyä ennen kuin amerikkalaisjoukot jo poistuvat maasta. Afganistanilla puolestaan ei välttämättä ole varoja tai osaamista viedä niitä loppuun.</p>
+  <p>&#8211;&#8201; Jos asetetaan tavoitteita joita ei saavuteta, sekä Yhdysvaltain että Afganistanin hallinnot voivat menettää kansan tuen, raportti varoittaa.</p>
+  <p>Yhdysvaltain sodanjohto, diplomaatit ja useat asiantuntijat ovat pitkään pitäneet infrastruktuurihankkeita elintärkeänä tekijänä Afganistanin vakauttamisessa. Yhdysvallat on käyttänyt projekteihin vuosikymmenen mittaan noin 90 miljardia dollaria.</p>
+  <p>Yhdysvaltain Kabulin-lähetystö moitti tarkastusraporttia spekulatiiviseksi.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

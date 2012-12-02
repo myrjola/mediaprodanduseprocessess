@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95856371" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T09:45:11</versionCreated>
+<firstCreated>2012-07-28T09:45:07</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T09:45:07</contentCreated>
+<contentModified>2012-07-28T09:45:11</contentModified>
+<located type="loctype:City">
+<name>Lahti</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:044">
+<name>stt 044</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74607">
+<name>Ovatko leväkasvattamot osa tulevaisuuden energia- ja jätehuoltoa?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97735776">
+<name>Leväkasvattamoista tulee osa tulevaisuuden energia- ja jätehuoltoa?</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003301">
+<name>3301</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:13000000">
+<name>Tiede Teknologia</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005000">
+<name>Energia Raaka-aineet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005001">
+<name>Vaihtoehtoiset energialähteet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6000000">
+<name>Ympäristö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6013000">
+<name>Saastuneiden alueiden puhdistus</name>
+</subject>
+<slugline>///LEHTIVERSIO KAINALOKSI TÄSTÄ ON KYSE: SUURI MAHDOLLISUUS///</slugline>
+<dateline>Lahti</dateline>
+<by>MERJA ÅKERLIND</by>
+<description role="drol:summary">Levänergiaa tutkitaan ympäri maailmaa. Eräät levälajit voisivat menestyä Suomessakin ja puhdistaa samalla sopivissa oloissa jätevesiä. Suomalaisilla on iso leväenegiaprojekti meneillään myös Intiassa. Näin arvelevat professori Martin Romantschuk ja tutkija Marika Viita Helsingin yliopiston ympäristötieteiden laitokselta Lahdesta.
+ </description>
+<headline>Leväkasvattamo tuottaisi energiaa jätevesiä puhdistaen</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>On vain löydettävä paras laji ja eristystekniikka sekä hukkalämpöä</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Leväenergia on totta kymmenen vuoden kuluttua, arvelee professori Martin Romantschuk Helsingin yliopistosta. Hän uskoo uuteen energialähteeseen myös Suomessa, vaikka tutkimuksen painopiste on lämpimillä vyöhykkeillä. Pohjolassa leväkasvattamot voisivat toimia osana jätehuoltoa.</p>
+  <p>Vihreä vesimassa velloo Helsingin yliopiston ympäristötieteen laitoksella Lahdessa. Kasvatuspulloista on edetty tänä kesänä 200 litran altaaseen, jota putket valaisevat molemmin puolin. Kellaritila on sen verran vilpoinen, että kesälläkin kaipaa pitkähihaista.</p>
+  <p>Suurin osa tuhansista mikrolevälajeista ei Suomen oloissa pärjäisi. Suomalaistutkijat luottavat kotoisiin miksotrofeihin.</p>
+  <p>&#8211;&#8201; Miksotrofiset levät selviävät yli pimeimmän kauden, kun monet levät kituisivat marras-tammikuussa, tietää tutkija Marika Tikka.</p>
+  <p></p>
+  <p>
+<h3>Levä ei vaadi peltoa</h3>
+</p>
+  <p></p>
+  <p>Leväpuuroa riittää koealtaassa jo niin, että kohta kokeillaan lipidien eristämistä. Juuri ne ovat öljyn raaka-ainetta, mutta ratkaisematta on vielä iso mutta: veden poistaminen levämassasta. Toistaiseksi tunnetut tekniikat vievät enemmän energiaa kuin levät tuottavat.</p>
+  <p>Niinpä leväöljyn hinta on huomattavasti korkeampi kuin fossiilisen. Levät kiinnostavat silti ympäri maailmaa, koska massa kasvaa päivässä jopa kolminkertaiseksi ja antaa satoa jatkuvasti.</p>
+  <p>Leväkasvattamo ei kilpaile kasvavan ihmiskunnan tarvitsemista pelloista niin kuin ensimmäisen sukupolven biopolttoaineet, korostaa Martin Romantschuk.</p>
+  <p></p>
+  <p>
+<h3>Kasvattamoita jätekeskuksiin</h3>
+</p>
+  <p></p>
+  <p>Tekesin rahoittama Aldiga-hanke on tutkinut leväenergiaa vuodesta 2010. Helsingin yliopiston lisäksi mukana ovat VTT, Suomen ympäristökeskus sekä Lahden ja Hämeen ammattikorkeakoulut.</p>
+  <p>Näyttää siltä, että Pohjolassa ainoa järkevä tapa on yhdistää leväkasvattamo jätesysteemiin ja hyödyntää hukkalämpöä. Muutoin tuotanto on liian kallista, koska meillä levää syntyy kansainvälisten arvioitten mukaan vain kolmannes siitä mitä Saharassa.</p>
+  <p>&#8211;&#8201; Suuresta kompostointilaitoksesta saadaan sopivia ravinteita ja jätevettä sekä hukkalämpöä, toteaa Marika Tikka. &#8211;&#8201; Sinne leväkasvattamo sopii osaksi suljettua kiertoa, biokaasulaitoksen rinnalle. Ihannemittakaavaa vielä etsitään.</p>
+  <p>Päijät-Hämeen Jätehuolto on jo merkinnyt levälaitoksen Kujalan jätekeskuksen laajennussuunnitelmiin tulevaisuuden hahmotelmana.</p>
+  <p>Yksi pidemmän aikavälin mahdollisuus on Martin Romantschukin mukaan se, että leväkasvattamo hyödyntäisi ydinvoimalan lauhdeveden lämpöä.</p>
+  <p></p>
+  <p>
+<h3>Suomalaiset mukana Intiassa</h3>
+</p>
+  <p></p>
+  <p>Suomalaistutkijat etsivät teknologia- ja asiantuntijayrityksille leväbisnesmahdollisuuksia jo Intiassa asti. Professori Romantschukin johdolla ja Tekesin tuella on tänä vuonna alkanut Algind-hanke, joka sekin yhdistää jätehuollon ja biopolttoaineen.</p>
+  <p>Ideana on käyttää eri jätevirtoja. Leviä kasvattamalla voisi puhdistaa esimerkiksi Intian lukuisten kalankasvatuslammikoitten jätevettä. Kun levät kerätään talteen, saadaan biopolttoainetta: öljyä, kaasua tai molempia.</p>
+ 
+  
+  
+  
+  
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

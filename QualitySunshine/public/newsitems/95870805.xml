@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870805" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T17:42:27</versionCreated>
+<firstCreated>2012-07-28T17:42:24</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T17:42:24</contentCreated>
+<contentModified>2012-07-28T17:42:27</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:135">
+<name>stt 135</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75132">
+<name>Olympialaiset: Uuden-Seelannin soutajille ME</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97763026">
+<name>Olympialaiset: Uuden-Seelannin soutajille ME</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000940">
+<name>940</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15047000">
+<name>Soutu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Lontoo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Uuden-Seelannin soutajat ME-vauhdissa</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Uuden-Seelannin soutukaksikko Hamish Bond&#8211;Eric Murray pitivät hurjaa vauhtia olympialaisten alkuerissä lauantaina. Kun miehet ylittivät maalilinjan, kello näytti kaksikon maailmanennätyslukua 6.08,50.</p>
+  <p>Moninkertaiset maailmanmestarit kohensivat luokan ME-aikaa lähes kuudella sekunnilla. Brittisoutajien Matthew Pinsentin ja James Cracknellin nimissä ollut ennätys olikin vanhentunut jo kymmenen vuotta.</p>
+  <p>&#8211;&#8201; Kuusi sekuntia, vau, mutta ei se yllätä minua. Huomasimme lämmittelyssä, että myötätuuli oli mukava ja erissä tehtiin hyviä aikoja. Olosuhteet olivat nopeat, mutta ei meillä oikeasti ollut tietoa kuinka nopeasti oikein menimmekään, Bond hehkutteli kisan jälkeen.</p>
+  <p>Kaksikkosoudun muille pareille suoritus oli varmasti itseluottamusta romahduttava. Luotto ei välttämättä aiemminkaan ollut kovin korkealla, sillä Bond ja Murray eivät ole koskaan hävinneet kisaa lyöttäydyttyään pariksi vuonna 2009.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

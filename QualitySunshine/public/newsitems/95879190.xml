@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95879190" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T14:02:47</versionCreated>
+<firstCreated>2012-08-02T14:02:44</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T14:02:44</contentCreated>
+<contentModified>2012-08-02T14:02:47</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:137">
+<name>stt 137</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74505">
+<name>Uusiutuvan dieselin kysyntä kasvatti Neste Oilin liikevaihtoa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97756071">
+<name>Neste Oilin tulos</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000986">
+<name>986</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005000">
+<name>Energia Raaka-aineet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005003">
+<name>Öljy ja kaasu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016000">
+<name>Yritysinformaatio</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016018">
+<name>Tulostiedotteet</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Neste Oilin tulos laski, mutta uusiutuvat polttoaineet nostivat liikevaihtoa. Bensan hintaan yhtiö ei odota muutoksia. </description>
+<headline>Neste Oilin toimitusjohtaja: Bensan hinta tuskin nousee</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Neste Oilin toimitusjohtaja Matti Lievonen ei odota suuria muutoksia bensan hintaan.</p>
+  <p>&#8211;&#8201; Se on aika stabiili. Raakaöljyn hinnassa ei näy hirveitä ylöspäinmenoja, jos mitään kriisiä ei tule, Lievonen arvioi yhtiön tulosjulkistustilaisuudessa.</p>
+  <p>Lievonen ei ollut tyytyväinen Neste Oilin huhti-kesäkuun tulokseen. Tulos ennen veroja painui 144 miljoonaa euroa miinukselle, kun se vuotta aiemmin oli 98 miljoonaa voitolla. Vertailukelpoinen liiketulos pieneni viidenneksen 38 miljoonaan euroon Porvoon ja Naantalin jalostamojen huoltotöiden vuoksi.</p>
+  <p>Uusiutuvat polttoaineet kuitenkin kasvattivat yhtiön liikevaihtoa. Uusiutuvan dieselin myynti oli yhtiön mukaan ennätystasolla.</p>
+  <p>&#8211;&#8201; Mutta marginaalit olivat historiallisen matalat, mikä laski tulosta, Lievonen sanoi.</p>
+  <p>Uusiutuvien polttoaineiden tuloksen odotetaan paranevan vuoden loppua kohden. </p>
+  <p>Yhtiö odottaa, että koko vuoden vertailukelpoinen liikevoitto on selvästi viime vuotta parempi.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

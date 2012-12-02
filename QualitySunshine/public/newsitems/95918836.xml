@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95918836" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T16:08:23</versionCreated>
+<firstCreated>2012-08-07T16:08:19</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-08-07T16:08:19</contentCreated>
+<contentModified>2012-08-07T16:08:23</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:162">
+<name>stt 162</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76198">
+<name>Valtiovarainministeri Jutta Urpilainen esittelee ministeriönsä suunnitelmat ensi vuoden talousarvioesitykseksi.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97847355">
+<name>Kehysbudjetointi vähentänyt ministeriöiden neuvotteluvaraa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001725">
+<name>1725</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<slugline>///KAINALO JUTTUUN VM:N SUUNNITELMISTA VALTION BUDJETIKSI///</slugline>
+<dateline>Helsinki</dateline>
+<by>JUSSI VALKAMA</by>
+<description role="drol:summary"/>
+<headline>Pokerinpeluu budjettiriihissä vähentynyt</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Vuotuisten budjettiriihien merkitys on pienentynyt viimeisten 20 vuoden aikana, ja ne ovat lyhentyneet selvästi. Samalla on vähentynyt ministeriöiden välinen pokerinpeluu valtion varoista ja budjettiriihiin aiemmin kiinteästi liittynyt poliittinen dramatiikka, sanoo Helsingin yliopiston taloushistorian professori Sakari Heikkinen.</p>
+  <p>Hallituksen budjettiriihi saattoi aiemmin kestää jopa viikon, nykyään selvitään parissa päivässä.</p>
+  <p>Suurin syy muutokseen on ollut lisääntynyt kehysbudjetointi, joka tarkoittaa sitä, että hallitus päättää valtion budjetin menokehykset neljälle seuraavalle vuodelle. Sen jälkeen kehystä tarkistetaan säännöllisesti.</p>
+  <p>Ensimmäiset kehysbudjetit laadittiin Harri Holkerin (kok.) hallituksen viimeisenä keväänä vuonna 1991 Matti Louekosken (sd.) ollessa valtiovarainministerinä. Sen jälkeen kehysbudjettien merkitys on edelleen lisääntynyt.</p>
+  <p>&#8211;&#8201; Tavoitteena oli saada talouden suunnittelusta pitkäjänteisempää. Heikko budjettisuunnittelu oli ollut valtion taloudenpidossa pitkään ongelma, Heikkinen sanoo.</p>
+  <p>Heikkisen mukaan 1990-luvun lama ei ollut suoraan vaikuttamassa kehysbudjetoinnin lisääntymiseen. Vielä vuonna 1991 käsitys tulevasta lamasta oli hatara.</p>
+  <p>Valtiovarainministeriön virkamiesten vahva asema on säilynyt dominoivana muutoksen keskellä. Budjetin valmistelu on ministeriön päätehtävä, joka on hioutunut niin, että se rullaa eteenpäin riippumatta siitä, kuka on valtiovarainministeri.</p>
+  <p>&#8211;&#8201; Virkamiehillä on asiantuntijavaltaa, joka korostuu etenkin valtiovarainministerien alkutaipaleella.</p>
+  <p>Heikkinen korostaa, että virkamiehillä ei ole enempää valtaa kuin mitä poliitikot ovat heille antaneet.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

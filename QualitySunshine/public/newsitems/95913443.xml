@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120806:95913443" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-06T16:37:05</versionCreated>
+<firstCreated>2012-08-06T16:36:38</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-06T16:36:38</contentCreated>
+<contentModified>2012-08-06T16:37:05</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:155">
+<name>stt 155</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75452">
+<name>Miten asiantuntijat kommentoivat Suomen talouden näkymiä? VM on kertonut heikentävänsä ensi vuoden talousennustetta.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97837387">
+<name>Kuinka vaikeassa taloustilanteessa VM kokoaa ensi vuoden budjettia? Valtiovarainministeri Jutta Urpilainen kertoo reunaehdoista.</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003540">
+<name>3540</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:12223"/>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006000">
+<name>Julkinen hallinto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006009">
+<name>Ministerit</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY KAINALO JA TUORETTA KUVAA///</slugline>
+<dateline>Helsinki</dateline>
+<by>TIINA TUOMINEN</by>
+<description role="drol:summary">Paikalla ovat myös hallinto- ja kuntaministeri Henna Virkkunen ja ministeriön muu johto. Urpilainen on toimittajien tavattavissa lounastauolla maanantaina 6.8. n. klo 12. Neuvottelujen päätyttyä Urpilainen pitää tiedotustilaisuuden Munkkiniemen vierastalolla. Tarkka aika ilmoitetaan myöhemmin.
+</description>
+<headline>Talousviisaat pitävät VM:n ennustetta liian varovaisena</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:12223">
+<name>Valtion vierastalo</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.1931,+24.8736</definition>
+<geoAreaDetails>
+<position latitude="60.193057" longitude="24.873584"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Kalastajatorpantie3</line>
+<postalCode>HELSINKI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>"Ministeriön arvio perustuu ehkä pari viikkoa vanhoihin näkemyksiin"</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Valtiovarainministeriö joutuu heikentämään ennustetta ensi vuoden talouskasvusta. Valtiovarainministeri Jutta Urpilainen (sd.) sanoo, että uuden ennusteen mukaan talous kasvaa ensi vuonna 0&#8211;1 prosenttia. Aiemmin kasvuksi arvioitiin 1,2 prosenttia. STT:n haastattelemat talousasiantuntijat pitävät VM:n ennustetta jopa liian synkkänä. He uskovat talouden kääntyvän tai jo kääntyneen hienoiseen nousuun.</p>
+  <p>Budjettiin ei ole Urpilaisen mukaan tulossa maaliskuussa päätetyn lisäksi uusia leikkauksia tai veronkorotuksia. Asiantuntijat arvioivat linjaa varovaiseksi, mutta luontevaksi ratkaisuksi. Talouspolitiikkaa ei ole heidän mielestään nyt syytä kiristää.</p>
+  <p></p>
+  <p>
+<h3>Kuinka realistinen VM:n uusi ennuste on?</h3>
+</p>
+  <p>Pääekonomisti Pasi Kuoppamäki, Sampo Pankki: Oma ennusteemme on hieman optimistisempi, 1,5 prosenttia. Se perustuu näkemykselle, että Euroopan talouskriisiin löytyy jonkinlainen ratkaisu vielä tämän vuoden kuluessa. Jos syksyä kohden vaikuttaa siltä, ettei selkeää ratkaisua ole nähtävissä ja yhä useampien euromaiden tilanne muuttumassa vaikeampaan suuntaan, vaikuttavat VM:n johtopäätökset ihan realistisilta.</p>
+  <p>Ennustepäällikkö Eero Lehto, Palkansaajien tutkimuslaitos: Se on aika iso haarukka. Näkymä ei ole niin huono kuin vuosi sitten elokuussa, jolloin ei vielä ollut mitään kunnollista mekanismia kriisin hallitsemiseen. VM:n arvio perustuu ehkä pari viikkoa vanhoihin näkemyksiin, sillä tilanne vaihtelee niin usein. Epävarmuus on kuitenkin niin suurta, että voidaan esittää monenlaisia arvioita.</p>
+  
+  <p>
+<h3>Urpilaisen (sd.) mukaan budjettikehykset ovat tiukat, mutta niiden sisällä pystytään tekemään valintoja. Millaisia arvovalintoja pitäisi tehdä?</h3>
+</p>
+  <p>Kuoppamäki: Pitäisi pitää tässä tilanteessa huoli siitä, että Suomen taloudella on vaikeasta tilanteesta huolimatta riittävät kasvuedellytykset. Vaihtotase on vajonnut pakkaselle pitkästä aikaa. Suomeen tarvitaan uutta, kilpailukykyistä teollisuutta ja sen ylläpitämiseksi kunnon koulutusjärjestelmää. Toki nämä ovat poliittisia ratkaisuja loppupeleissä.</p>
+  <p>Lehto: On vähän liioiteltu, mitä budjetin raameissa pystytään tekemään. Esimerkiksi vanhuspalvelulakiin pitäisi saada varoja, mutta tarkoittaako se, että tulee joku lisäveronkorotus? En usko, että siitä syntyy yhteisymmärrystä.</p>
+  <p></p>
+  <p>
+<h3>VM:n mukaan budjettiriihessä ei tule uusia menoleikkauksia eikä veronkorotuksia. Toisaalta ei tehdä myöskään menolisäyksiä tai verohelpotuksia. Onko tämä Suomen kannalta oikeanlaista politiikkaa?</h3>
+</p>
+  <p>Ylijohtaja Juhana Vartiainen, Valtion taloudellinen tutkimuslaitos: Suhdannemielessä on varovaisen järkevä lähtökohta, ettei kiristetä finanssipolitiikkaa. Kansainvälinen taantuma näyttää pitkittyvän, eikä Suomella ole syytä taantumaa syventää. Suomella ei ole myöskään mitään vaikeuksia rahoittaa alijäämäänsä. </p>
+  <p>Kuoppamäki: Se on ihan luonteva johtopäätös. Joidenkin mielestä voisi olla hyvä aika elvyttää, kun Suomen valtio ei ole vielä kovin velkainen ja talouskasvu on hyytymässä. En usko, että yksittäisillä elvytystoimilla saavutettaisiin kovin hyviä tuloksia, kun muu Eurooppa on vähän heikossa kunnossa. </p>
+  <p>Lehto: Mikään ei ole muuttunut radikaalisti maaliskuusta. Julkinen talous on vahvistunut viime vuodesta tämän vuoden ensimmäisellä neljänneksellä. Sen perusteella ei ole mitään syytä lisäsäästöihin tai lisäveronkorotuksiin alijäämän pienentämiseksi. Finanssipolitiikka on vedetty äärimmäisen tiukaksi jo näillä päätöksillä.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

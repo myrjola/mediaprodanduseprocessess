@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95894498" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T12:57:47</versionCreated>
+<firstCreated>2012-08-02T12:57:20</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T12:57:20</contentCreated>
+<contentModified>2012-08-02T12:57:47</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:113">
+<name>stt 113</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75770">
+<name>Viapori Jazz soi jälleen Suomenlinnassa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97804822">
+<name>Viapori Jazz soi jälleen Suomenlinnassa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000779">
+<name>779</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7219"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011003">
+<name>Jazz</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Viapori Jazz soi Suomenlinnassa 22.-25.8.</description>
+<headline>Uusi jazz soi Suomenlinnassa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7219">
+<name>Suomenlinna</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Viapori Jazz painottuu tänä vuonna uuteen musiikkiin. Suomenlinnassa kuullaan 22.&#8211;25. elokuuta tuoreita kokoonpanoja sekä ennen kuulemattomia sävellyksiä.</p>
+  <p>Anna-Mari Kähärä tarjoaa festivaalilla säveliä vielä julkaisemattomalta toiselta albumiltaan. Kekkereillä päästään niin ikään kuulemaan, miltä kuulostaa Jukka Perkon, Verneri Pohjolan ja Samuli Kosmisen yhteissoitto. Elokuvaa ja musiikkia puolestaan yhdistävät Aki Rissanen, Teppo Mäkynen ja Antti Lötjönen. Uutta ja vähän vanhempaa materiaaliaan esittää festivaalilla myös Yona &amp; Liikkuvat pikkupilvet.</p>
+  <p>Viapori Jazzin klassikkosarjaa jatkaa tribuutti Billie Holidaylle. Marjo Leinonen uppoutuu Lady Dayn säveliin pianisti Seppo Kantosen säestyksellä.</p>
+  <p>Viapori Jazz on osa Helsingin juhlaviikkoja.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95867927" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T21:17:56</versionCreated>
+<firstCreated>2012-07-27T21:17:53</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T21:17:53</contentCreated>
+<contentModified>2012-07-27T21:17:56</contentModified>
+<located type="loctype:City">
+<name>Vieremä</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:218">
+<name>stt 218</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75058">
+<name>Ravit: Vieremän ravit</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97758187">
+<name>Vieremän ravijuttu</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000917">
+<name>917</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:13420"/>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15030000">
+<name>Hevosurheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15030003">
+<name>Raviurheilu</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Vieremä</dateline>
+<by/>
+<description role="drol:summary">&lt;kotimaa.deski@stt.fi&gt;, &lt;toimitus@stt-lehtikuva.fi&gt;</description>
+<headline>Ride Elisa vei Vieremän suurkilpailun</headline>
+</contentMeta>
+<assert qcode="sttlocationalias:13420">
+<name>Vieremä</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=63.7428,+27.0021</definition>
+<geoAreaDetails>
+<position latitude="63.742802" longitude="27.00209"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:326">
+<name>Vieremä</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:38">
+<name>Pohjois-Savo</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  <p>Elli Nevalaisen valmentama Ride Elisa hallitsi Vieremällä neljävuotiaiden lämminveristen suurkilpailua. Sen suoritus palkittiin 10&#8201; 000 eurolla. Jukka-Pekka Kauhanen ajoi sillä jo neljännen peräkkäisen voiton.</p>
+  <p>&#8211;&#8201; Hevonen tuntuu tosi jaksavalta, enkä ole siitä heikkoja puolia löytänyt, Kauhanen kehui.</p>
+  <p>Tammat saivat 20 metrin hyvityksen. Kun Ride Elisa kiihdytti johtoon, ohjastajalla oli sen jälkeen selvä taktiikka. </p>
+  <p>&#8211;&#8201; Vaikka suursuosikki Classical Duo tuli vierelle, päätin, että ajan keulasta.</p>
+  <p>Sisäradalla kolmantena juossut Rocktown Bailiff oli loppusuoralla ainoa, joka edes havitteli Ride Elisan ohi. Sekin joutui selityksittä tyytymään toiseen sijaan.</p>
+  <p>Suomenhevosten kovan tasoituksen voittanut Virijori paransi rataennätyksen lukemiin 23,4. Lämminveristen lyhyen ryhmän nimiinsä vienyt Garlands Dream puolestaan pudotti lämminveristen vastaavan ennätyksen 12,7 a-tulokseen.</p>
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

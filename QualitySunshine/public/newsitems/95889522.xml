@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120806:95889522" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-06T13:21:43</versionCreated>
+<firstCreated>2012-08-06T13:21:39</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-06T13:21:39</contentCreated>
+<contentModified>2012-08-06T13:21:43</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:098">
+<name>stt 098</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75617">
+<name>Tutkija: Biopolttoaineiden käyttö johtaa elintarvikkeiden hintojen nousuun</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97795583">
+<name>Tutkija: Biopolttoaineiden käyttö johtaa elintarvikkeiden hintojen nousuun</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003343">
+<name>3343</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005000">
+<name>Energia Raaka-aineet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005011">
+<name>Fossiiliset polttoaineet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005000">
+<name>Energia Raaka-aineet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005003">
+<name>Öljy ja kaasu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4015000">
+<name>Liikenne</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005000">
+<name>Energia Raaka-aineet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005001">
+<name>Vaihtoehtoiset energialähteet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6000000">
+<name>Ympäristö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6001000">
+<name>Uusiutuvat energialähteet</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY KAINALO, MINIFAKTA, TÄSTÄ ON KYSE -FAKTA SEKÄ GRAFIIKKAA JA KUVITUSKUVAA LEHTIKUVALTA.///</slugline>
+<dateline>Helsinki</dateline>
+<by>PAULIINA PIETILÄ</by>
+<description role="drol:summary">Biopolttoaineiden kulutus kasvaa. Esimerkiksi Yhdysvalloissa haluttaisiin luopua bioetanolivaatimuksista, koska maissisadot ovat jääneet pieneksi kuivuuden takia, ja tämä nostaa ruoan hintoja.</description>
+<headline>Biopolttoaineista tuli ruuan hinnannousun syntipukki</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Yhdysvalloissa halutaan laskea biovaatimuksia kuihtuneen maissisadon vuoksi</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Yhdysvaltoja piinaava kuivuus uhkaa nostaa maailman elintarvikkeiden hintoja. Tämä on herättänyt jälleen keskustelun maan biopolttoainevaatimuksista. </p>
+  <p>Suomalaistutkijan mukaan erityisesti kasvipohjaiset biopolttoaineet ovat nostaneet ruoan hintaa merkittävästi.</p>
+  <p>&#8211;&#8201; Elintarvikkeiden kallistuminen alkoi siitä, kun biopolttoainetuotantoa alettiin tukea. Viljelijät saavat energiakasveista paremman hinnan kuin muista kasveista. Tämä yhteys ruoan hinnan nousuun on todistettu monta kertaa, sanoo maatalousteknologian erikoistutkija Winfried Schäfer Maa- ja elintarviketalouden tutkimuskeskus MTT:stä.</p>
+  <p>Yhdysvalloissa biopolttoaineiden raaka-aineena käytetään yleisesti maissia. Maan maissin tuotannosta 40 prosenttia käytetään polttoaineisiin. </p>
+  <p>Pahin kuivuus yli 50 vuoteen on uutistoimisto Reutersin mukaan pienentänyt maan maissisatoa neljänneksen ennustetusta. Yhdysvallat on maailman suurin maissintuottaja.</p>
+  
+  <p>
+<h3>Biopolttoaineiden käyttö kasvaa EU:ssa</h3>
+</p>
+  <p></p>
+  <p>Maailman suurimpiin elintarvikeyhtiöihin kuuluvan Cargillin toimitusjohtaja Gregory Page sanoi viime viikolla, että maailman maissintuotanto vähenee 3&#8211;4 prosenttia tulevana satovuonna. Pagen mukaan tämän vuoksi maissin kysyntä kasvaa suhteettomaksi, mikä johtaa rajuun hinnannousuun niin karjantuottajille kuin kuluttajillekin. Maissia käytetään paljon karjan rehuna.</p>
+  <p>&#8211;&#8201; Tarjonnan pienentyminen johtaa jopa 40&#8211;50 prosentin hintojen nousuun, Page ennusti CNBC:n haastattelussa.</p>
+  <p>Pagen ja monien karjantuottajien mielestä Yhdysvaltojen biopolttoainevaatimuksia tulisi laskea. </p>
+  <p>Page huomautti, että Brasiliassa tehtiin näin viime vuonna, kun kuivuus pienensi satoja. Brasiliassa etanolia tehdään ruokosokerista.</p>
+  <p>Myös Euroopan unionissa biopolttoaineiden käytön halutaan kasvavan. Uusiutuvia energianlähteitä koskevan direktiivin mukaan EU-maiden liikenteen polttoaineista 10 prosenttia tulisi saada uusituvasta energiasta vuoteen 2020 mennessä. EU:n tuoreen polttoainebarometrin mukaan biopolttoaineiden käyttö on kasvanut tasaisesti liikenteessä. Tavoitteena on pienentää kasvihuonepäästöjä.</p>
+  <p></p>
+  <p>
+<h3>Tutkija uskoo aurinkoenergiaan</h3>
+</p>
+  <p></p>
+  <p> Schäferin mielestä kasvipohjaisten biopolttoaineiden käyttö ei ole välttämättä lainkaan ympäristöystävällistä. </p>
+  <p>&#8211;&#8201; Henkilökohtaisesti uskon, että energiakasvituotanto on huono ratkaisu. Ei vain taloudellisista syistä, vaan myös fysikaalisista syistä.</p>
+  <p>Schäfer uskoo, että kasvien sisäinen arvo on liian suuri suoraan polttoainesiin käytettäväksi.</p>
+  <p>&#8211;&#8201; Kasveissa on korkealaatuista energiaa. Jos esimerkiksi kaadan puun ja poltan sen, saan lämpöä. Mutta jos kaadan puun, teen siitä pöydän ja poltan pöydän elinkaarensa lopussa yhdessä valmistusjätteiden kanssa, saan saman energian. Mutta sillä välillä minulla on ollut pöytä käytettävissä, hän vertaa.</p>
+  <p>Schäferin mielestä järkevin uusiutuva energialähde olisi aurinkoenergia.</p>
+  <p>&#8211;&#8201; Aurinkoenergian suora muutos sähköksi, lämmöksi, tuulienergiaksi ja näihin liittyvät varastointiteknologiat ovat paljon tehokkaampia kuin energiakasvin fotosynteesi. Myös hiilivetyjen synteesistä aurinkoenergian avulla puhutaan silloin tällöin konferensseissa, mutta tutkimukseen ei investoida riittävästi.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95878252" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T13:19:12</versionCreated>
+<firstCreated>2012-07-30T13:19:09</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T13:19:09</contentCreated>
+<contentModified>2012-07-30T13:19:12</contentModified>
+<located type="loctype:City">
+<name>Milano</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:096">
+<name>stt 096</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75304">
+<name>italian lainahuutokauppa onnistui</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97775554">
+<name>italian lainahuutokauppa onnistui</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000751">
+<name>751</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008009">
+<name>Korko</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008008">
+<name>Valtion velka</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Milano</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Italian onnistunut lainahuutokauppa piristi markkinoita</headline><creditline>STT&#8211;AFP-Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Italia sai maanantaina järjestetyssä huutokaupassa lainojaan kaupaksi entistä alemmalla korolla. Italian kymmenvuotisen valtionlainan korko laski hieman alle kuuteen prosenttiin, kun se kuukausi takaperin oli lähes 6,2 prosenttia. Myös Italian viisivuotisen lainan korko laski selvästi, yli 5,8 prosentista vajaaseen 5,29 prosenttiin. </p>
+  <p>Italia keräsi huutokaupalla lähes 5,5 miljardia euroa, mikä oli ennakkoon asetetun haarukan yläpäässä. </p>
+  <p>Italian lainahuutokaupan onnistuminen vahvisti pörssien nousua Euroopassa. Sen tulkittiin osoittavan, että markkinoilla luotetaan Euroopan keskuspankin ja euromaiden vakuutuksiin tehdä kaikki tarvittavat toimet yhteisvaluutta euron tukemiseksi.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

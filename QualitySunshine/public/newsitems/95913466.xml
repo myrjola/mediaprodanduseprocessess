@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120806:95913466" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-06T14:19:59</versionCreated>
+<firstCreated>2012-08-06T14:19:56</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-06T14:19:56</contentCreated>
+<contentModified>2012-08-06T14:19:59</contentModified>
+<located type="loctype:City">
+<name>Los Angeles</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:119">
+<name>stt 119</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76223">
+<name>Batman nujersi Total Recallin uuden version Pohjois-Amerikan lippuluukuilla</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97837832">
+<name>Batman nujersi Total Recallin uuden version Pohjois-Amerikan lippuluukuilla</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000715">
+<name>715</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1005000">
+<name>Elokuva </name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1024000">
+<name>Sarjakuvat Pilakuvat</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Los Angeles</dateline>
+<by/>
+<description role="drol:summary">Batman nujersi Total Recallin uuden version Pohjois-Amerikan lippuluukuilla.</description>
+<headline>Batman nujersi Total Recallin Pohjois-Amerikassa</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Batman-filmi Yön ritarin paluu oli kolmatta viikonloppua peräkkäin Pohjois-Amerikan katsotuin elokuva. Lepakkomiehen seikkailut pitivät selvästi takanaan Total Recallin uuden version, joka tuli ensi-iltaansa.</p>
+  <p>Yön ritarin paluu rohmusi Yhdysvalloissa ja Kanadassa nyt 36,4 miljoonaa dollaria (29,7 milj. euroa). Colin Farrellin tähdittämä Total Recall ylti avauksessaan 26 miljoonan taalan tuottoon.</p>
+  <p>Batman-trilogian päätösosa Yön ritarin paluu on ollut viime viikkoina katsotuin elokuva myös Suomessa.</p>
+  <p>Total Recall muistetaan takavuosien hittifilminä. Tuolloin pääosassa rymisti Arnold Schwarzenegger. Suomessa uusi Total Recall saapuu valkokankaille 31. elokuuta.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

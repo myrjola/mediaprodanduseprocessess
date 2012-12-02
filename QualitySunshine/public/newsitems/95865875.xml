@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95865875" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T10:18:11</versionCreated>
+<firstCreated>2012-07-28T10:18:07</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T10:18:07</contentCreated>
+<contentModified>2012-07-28T10:18:11</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:052">
+<name>stt 052</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74613">
+<name>Miten sateinen kesä on vaikuttanut pohjavesitilanteeseen eri puolilla Suomea?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97738279">
+<name>Rankkasateet lisäävät turvepäästöjä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001267">
+<name>1267</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17004000">
+<name>Säätilastot Sääilmiöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6000000">
+<name>Ympäristö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6010000">
+<name>Vesivarat</name>
+</subject>
+<slugline>///KAINALO LIITTYY JUTTUUN POHJAVESITILANTEESTA///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Turvetuotannon päästöt lisääntyvät rankkasateilla</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Turvetuotantoalueiden päästömittauksia jätetään tekemättä rankkasateilla, mikä antaa väärän kuvan tuotannon vesistökuormituksista, toteaa Suomen luonnonsuojeluliitto (SLL). Liiton mukaan turvetuotantoalueiden päästöt kesän rankkasateiden aikana ovat moninkertaiset normaaliin tilanteeseen verrattuna.</p>
+  <p>&#8211;&#8201; Normaalisti puhdistusmenetelmillä pystytään kohtuullisesti saamaan kiinni orgaanisia aineita, mutta tulva-aikoina virtaukset ovat liian suuria. Tämä antaa virheellisen kuvan koko päästöjen määrästä, sanoo liiton puheenjohtaja Risto Sulkava.</p>
+  <p>Tarkastaja Sirpa Salo Keski-Suomen ely-keskuksesta kertoo, että Keski-Suomessa turvetuotantoalueiden tarkkailuohjelmissa määrätään yleensä ottamaan rankkasadenäytteitä mahdollisuuksien mukaan. Usein tavoitteena on saada kultakin asemalta kaksi tällaista lisänäytettä vuosittain.</p>
+  <p>&#8211;&#8201; Jos yksi konsultti seuraa satoja soita, se ei ehdi ottaa näitä lisänäytteitä kaikkialta. Mielestäni näytteitä otetaan nykyisellään liian vähän. Viime vuoden tarkkailuraportin mukaan näitä lisänäytteitä analysoitiin muutamia.</p>
+  <p>SLL:n mukaan suurien virtauksien aikana vesistöihin päätyy kiintoainetta jopa 90 prosenttia koko vuodeksi sallitusta päästömäärästä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

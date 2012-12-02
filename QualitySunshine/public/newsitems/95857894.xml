@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95857894" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T03:35:47</versionCreated>
+<firstCreated>2012-07-28T03:35:15</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T03:35:15</contentCreated>
+<contentModified>2012-07-28T03:35:47</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:019">
+<name>stt 019</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74613">
+<name>Miten sateinen kesä on vaikuttanut pohjavesitilanteeseen eri puolilla Suomea?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97737691">
+<name>Miten sateinen kesä on vaikuttanut pohjavesitilanteeseen eri puolilla Suomea?</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000384">
+<name>384</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17004000">
+<name>Säätilastot Sääilmiöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6000000">
+<name>Ympäristö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6010000">
+<name>Vesivarat</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Pohjavesien pinnat tavallista korkeammalla</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Pohjavesien pinnat ovat suuressa osassa maata tavanomaista korkeammalla, kerrotaan Suomen ympäristökeskuksesta. Keskuksen mukaan pinnat ovat 20&#8211;30 senttiä yli ajankohdan keskimääräisen. Tilanne on melko samanlainen ympäri Suomen.</p>
+  <p>Pohjavesien pintojen korkeuteen ovat vaikuttaneet sateisen kesän lisäksi luminen talvi sekä viime syksyn sateet.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

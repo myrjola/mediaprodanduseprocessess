@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120806:95849602" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-06T10:37:38</versionCreated>
+<firstCreated>2012-08-06T10:37:34</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-06T10:37:34</contentCreated>
+<contentModified>2012-08-06T10:37:38</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:065">
+<name>stt 065</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74384">
+<name>Tarja Turunen: Uudella livealbumillani laulaa hyvinvoiva artisti</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97722250">
+<name>Tarja Turunen: uudella vivealbumillani laulaa hyvivoiva artisti</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003490">
+<name>3490</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY GRAFIIKKAA JA KUVAA LEHTIKUVALTA///</slugline>
+<dateline>Helsinki</dateline>
+<by>ANTTI EEROLA</by>
+<description role="drol:summary"/>
+<headline>Konserttitaltioinnin julkaiseva Tarja Turunen ei kaipaa itikoita</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Valko-Venäjällä presidentin kiekkoilu vaikuttaa konserttiaikatauluihin</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Tarja Turunen julkaisi viime joulun alla konserttitaltioinnin Tarja Turunen &amp; Harus: In Concert &#8211; Live At Sibelius Hall. Levy saa seurakseen lisää livemusiikkia, kun Turunen julkaisee elokuun lopulla cd/dvd-paketin Act I.  </p>
+  <p>Argentiinassa Rosarion Teatro el Circulossa nauhoitettu Act I on mittavahko paketti. Sellaisen julkaiseminen oli Turusen mielestä luontevaa jatkoa studioalbumeille My Winter Storm ja What Lies Beneath.  &#8211;&#8201; Päädyin kattavaan kappalevalikoimaan. Halusin toteuttaa tämän kokonaisuuden tavalla, josta fanini pystyvät oikeasti nauttimaan. Panostin tuotantoon ajallisesti ja laadullisesti todella paljon.</p>
+  <p>&#8211;&#8201; Act I:n myötä toivon ihmisten ympäri maailmaa näkevän, kuinka onnellinen ja hyvinvoiva artisti olen ja kuinka paljon nautin musiikista tänä päivänä, Tarja Turunen kertoo sähköpostitse Argentiinasta. </p>
+  <p>Albumille on niputettu samaan pakettiin Belinda Carlislen Heaven Is A Place On Earth ja Bon Jovin Livin' On A Prayer &#8211; ilmeisesti siksi, että ne ovat jokseenkin sama kappale. Ainakaan vielä ei kuitenkaan ole luvassa lisää vastaavanlaisia vetoja. Sellaiseksi kelpaisi esimerkiksi yhdistelmä Jethro Tullin kappaleesta We Used To Know ja Eaglesin Hotel Californiasta.</p>
+  <p>&#8211;&#8201; Valitsin nuo mainitsemasi Carlislen ja Bon Jovin kappaleet sekä Ankie Baggerin Where Were You Last Nightin samaan medleyn osiksi, sillä todellakin kappaleet ovat lähestulkoon samanlaiset ja halusin keikkaani huumorimielessä vähän kevennystä. Musiikkimaailmassa on niin paljon tarjontaa, että varmasti tällaisia yhdistelmiä löytyisi enemmänkin, jos alkaisi niitä etsiä, Turunen olettaa.</p>
+  <p></p>
+  <p>
+<h3>Kultainen keskitie löytyi</h3>
+</p>
+  <p></p>
+  <p>Kiertueet vievät Tarja Turusta vinhasti maasta toiseen. Keväällä hän konsertoi muun muassa Valko-Venäjällä. Maan presidentin Aleksandr Lukashenkon otteet ovat herättäneet runsaasti pahennusta. EU-maita on esimerkiksi pyydetty boikotoimaan Valko-Venäjän vuoden 2014 jääkiekon MM-kisoja.</p>
+  <p>&#8211;&#8201; Esiinnyin alkuvuodesta 25 maassa ja kyllä, Valko-Venäjä oli keikkakalenterissani mukana. Tällä kertaa presidentti ei kuitenkaan ollut tulossa pelaamaan jääkiekkoa jäähalliin, jossa esiinnyin. Näin tapahtui edellisen kerran esiintyessäni samassa jäähallissa. Silloin konserttiani piti aikaistaa tunnilla ihan vain sen takia. Ja paikalliset konserttijärjestäjät olivat silloin silminnähden hermostuneita.</p>
+  <p>&#8211;&#8201; Nyt halli oli täynnä kirkuvia ja onnellisia faneja ja konsertti oli menestys, Turunen kertoo. </p>
+  <p>Act I:n ilmestymisestä huolimatta Turunen valmistelee jo täysillä seuraavaa studioalbumiaan.</p>
+  <p>&#8211;&#8201; Biisejä on syntynyt parin vuoden aikana tasaiseen tahtiin. Olen todella tyytyväinen materiaaliin. Tunnen, että olen löytänyt kultaisen keskitien musiikilleni. Siitä antoi viitteitä jo What Lies Beneth -albumini. </p>
+  <p>&#8211;&#8201; Rakastan haasteisiin hyppäämistä. Sitä uuden levyn tuottaminen on jälleen kerran ollut. Luulisin, että saan kaiken valmiiksi ensi kevääseen mennessä ja julkaisua voidaan odotella loppukesästä tai alkusyksystä 2013.</p>
+  <p>Kesä vuosimallia 2012 menee Turuselta ilman käyntiä Suomessa. Ainakaan hyttysiä Turusella ei tule ikävä.</p>
+  <p>&#8211;&#8201; Itikoita en kaipaa. On kiirinyt korviini uutisia Suomesta, että itikoita on riittävästi tänä kesänä. Suomen kesästä kaipaan kauniita järvimaisemia, veden liplatusta ja hiljaisuutta. Työt vievät muualle koko kesän ajan, joten Suomessa emme tällä kertaa pääse piipahtamaan.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

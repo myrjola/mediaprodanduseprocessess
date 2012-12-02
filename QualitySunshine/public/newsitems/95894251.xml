@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95894251" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T16:28:21</versionCreated>
+<firstCreated>2012-08-02T16:28:16</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T16:28:16</contentCreated>
+<contentModified>2012-08-02T16:28:21</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:190">
+<name>stt 190</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74854">
+<name>Teknologiateollisuus varoittaa heikentyneistä näkymistä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97803003">
+<name>Teknologiateollisuus varoittaa heikentyneistä näkymistä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003299">
+<name>3299</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4011000">
+<name>Metalliteollisuus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003000">
+<name>Tietotekniikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003001">
+<name>IT-teknologia Tietoliikenne</name>
+</subject>
+<slugline>///LEHTIVERSIO LIITTYY TÄSTÄ ON KYSE -FAKTA, GRAFIIKKA JA LEHTIKUVAA///</slugline>
+<dateline>Helsinki</dateline>
+<by>ANNIINA LUOTONEN</by>
+<description role="drol:summary">Teknologiateollisuuden suhdannetilanteesta ja lähikuukausien näkymistä pidetään tiedotustilaisuus 2.8. klo 10. Lisäksi tilaisuudessa käsitellään Suomen kilpailukyvyn kehitystä tuoreimpien tietojen valossa. Tilaisuutta isännöi toimitusjohtaja Jorma Turunen.</description>
+<headline>Teknologiateollisuus synkistelee syksyn näkymiä</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Etujärjestön mielestä suomalaiset työntekijät ovat liian kalliita</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suomalaisen teknologiateollisuuden saamat tilaukset ovat vähentyneet tuntuvasti viime kuukausina. Vuoden takaiseen verrattuna tilaukset vähenivät huhti-kesäkuussa 16 prosenttia, selviää Teknologiateollisuuden suhdannekatsauksesta.</p>
+  <p>Alan yritysten syksyn näkymät näyttävät synkiltä. Laihat tilauskirjat tarkoittavat todennäköisesti sitä, että yritysten liikevaihto laskee vuoden takaisesta.</p>
+  <p>Toimitusjohtaja Jorma Turusen mukaan heikon suhdanteen lisäksi alalla on käynnissä merkittävä rakennemuutos.</p>
+  <p>Hänen mukaansa teknologiateollisuuden rakennemuutos tarvitsee tukea myös valtiovallalta.</p>
+  <p>&#8211;&#8201; Teollisuus hoitaa oman kilpailukykynsä ja muutoksensa, mutta toimintaympäristöstä pitää tulla tukea tälle uusiutumiselle, Turunen sanoi suhdannekatsauksen julkistustilaisuudessa.</p>
+  <p>Hän kiitteli muun muassa tutkimus- ja kehittämismenoille suunniteltua verohyvitystä, jonka on tarkoitus tulla voimaan ensi vuoden alusta. Toimia tarvitaan hänen mukaansa kuitenkin lisää.</p>
+  <p></p>
+  <p>
+<h3>"Työvoima liian kallista"</h3>
+</p>
+  <p></p>
+  <p>Suomalaisten teknologiateollisuuden työpaikat syntyvät yhä useammin ulkomaille.</p>
+  <p>Ulkomailla olevan henkilöstön määrä lisääntyi viime vuonna seitsemän prosenttia, kun kotimaassa lisäystä oli vain prosentti.</p>
+  <p>&#8211;&#8201; Jotta iso ja paksu julkinen hallinto voitaisiin maksaa, tarvittaisiin uusia työpaikkoja nimenomaan Suomeen, Turunen huomautti.</p>
+  <p>Teknologiateollisuuden yritykset työllistävät Suomessa suoraan noin 300&#8201; 000 ihmistä. Kun mukaan lasketaan välilliset työpaikat, on määrä 750&#8201; 000.</p>
+  <p>Etujärjestön mukaan työpaikkoja syntyy yhä enemmän ulkomaille sen vuoksi, että työvoimakustannukset ovat Suomessa niin kalliit. Työajasta ja palkoista pitäisi sen mukaan päättää yrityksissä, koska niissä tiedetään parhaiten, kuinka paljon palkankorotusvaraa on.</p>
+  <p>Teknologiateollisuus arvostelee sitä, että palkankorotuksista päätetään keskimääräisen tuottavuuskehityksen perusteella.</p>
+  <p>&#8211;&#8201; Vientisektorilla on niin keskeinen rooli julkisen talouden kustantamisessa, että sillä pitäisi olla benchmarking-rooli, kun puhutaan palkkakustannusten kehityksestä, Turunen vaati.</p>
+  <p></p>
+  <p>
+<h3>Konsulteilla menee yhä hyvin</h3>
+</p>
+  <p></p>
+  <p>Teknologiateollisuuden sisällä toimialojen näkymät eroavat huomattavasti.</p>
+  <p>Synkimmältä näyttää elektroniikka- ja sähköteollisuuden tilanne. Alan yritykset saivat huhti-kesäkuussa uusia tilauksia 28 prosenttia vuoden takaista vähemmän. Kone- ja metalliteollisuudessa uudet tilaukset vähenivät 21 prosenttia.</p>
+  <p>Sen sijaan alan suunnittelu- ja konsultointipalveluilla sekä tietotekniikkayrityksillä tilauskirjat täyttyivät edelleen reipasta vauhtia.</p>
+  <p>Eurooppa on Suomen teollisuustuotteille ja palveluille tärkeä vientikohde. Huhti-kesäkuussa suomalaisyritysten ulkomailta saamista vientitilauksista noin 75 prosenttia tuli Euroopasta ja Venäjältä.</p>
+  <p>Teknologiateollisuudessa on seurattu huolestuneina varsinkin euroalueen ostopäällikköindeksien painumista touko-, kesä- ja heinäkuussa. Yritysten toimintaa ja odotuksia mittaava teollisuuden ja palvelualojen indeksi on heikentynyt viime kuukausina euroalueella niin paljon, että myös euroalueen kansantuotteen arvioidaan heikentyneen.</p>
+  <p>Eurostat julkistaa ennakkotietoja huhti-kesäkuun bkt:sta myöhemmin tässä kuussa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

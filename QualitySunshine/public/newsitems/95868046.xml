@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95868046" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T21:31:45</versionCreated>
+<firstCreated>2012-07-27T21:31:41</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0013">
+<name>Tulokset</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T21:31:41</contentCreated>
+<contentModified>2012-07-27T21:31:45</contentModified>
+<located type="loctype:City">
+<name/>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:223">
+<name>stt 223</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97758411">
+<name/>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000000">
+<name>0</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<slugline/>
+<dateline/>
+<by/>
+<description role="drol:summary">tulokset.VI_27.07.2012.lopullinen</description>
+<headline>Ravituloksia/Vieremä</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+<p>Vieremä 27.07 Toto5</p>
+<p>9. lähtö, TROIKKA-1, lv 2160 m Cartivet Meeting -karsinta: 1) Mojito*/Jarkko Kervinen 15,5a (2,4), 2) E.V. Divine 15,8a (3,95).3) Bags Berich* 15,9a (19,06).4) Whirlaway Boko 15,9a (18,11).poissa: 2, 10, 12. Toto (7-3-8): 2,40 1,33-1,51-3,96 3,93. Troikka: 73,58.</p>
+<p>10. lähtö, sh 2160 m: 1) Waru/Tero E Mäenpää 27,5 (11,87), 2) Vivantti 28,5 (8,15).3) Riitun Ritari 28,7 x (17,8).4) Lintan Pysti 27,3 (28,48).poissa: 10. Toto (9-3-2): 11,87 2,38-4,17-6,40 45,73.</p>
+<p>Toto5 pelivaihto 103&#8201; 699,15 e, voitto-osuus 114,20 e </p>
+<p>Pelivaihto 361&#8201; 679,25 e, yleisöä 3&#8201; 321</p>
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95868568" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T01:07:56</versionCreated>
+<firstCreated>2012-07-28T01:07:53</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T01:07:53</contentCreated>
+<contentModified>2012-07-28T01:07:56</contentModified>
+<located type="loctype:City">
+<name>Turku</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:008">
+<name>stt 008</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75066">
+<name>Vesi tulvi ravintolalaivaan Turussa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97759246">
+<name>Vesi tulvi ravintolalaivaan Turussa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000806">
+<name>806</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3016000">
+<name>Onnettomuuksien ehkäisy </name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Turku</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Turkulainen ravintolalaiva oli vaarassa kellahtaa nurin</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Ravintolalaiva Katarinaan Turussa tulvi perjantai-iltana runsaasti vettä. Noin 150 asiakasta joutui poistumaan alukselta.</p>
+  <p>Pelastuslaitoksen mukaan laivan alimmalla kannella oli pahimmillaan jopa kaksi metriä vettä ja aluksen pohja luultavasti kävi Aurajoen pohjassa. Alus oli kallellaan, joten sen pelättiin kääntyvän nurin. </p>
+  <p>Pelastuslaitos sai illan ja yön aikana veden pumpattua pois. Laivan vahingot jäivät päivystävän palomestarin mukaan vähäisiksi, ja suurin osa vesivahingoista ei koske asiakastiloja.</p>
+  <p>Pelastuslaitoksen mukaan aluksella oli tehty viikon aikana huoltotöitä, joiden yhteydessä jokin luukku laivan rungossa oli luultavasti jäänyt auki. Reikää aluksesta ei löytynyt.</p>
+  <p>Katarina sijaitsee Aurajoessa Turun kaupunginteatterin edustalla.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

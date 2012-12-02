@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95883686" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T18:56:35</versionCreated>
+<firstCreated>2012-07-31T18:56:32</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.festivals.fi" residref="urn:newsml:stt.fi:wwwlink:0002316">
+<title>Finland Festivals</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.korsholmmusicfestival.fi" residref="urn:newsml:stt.fi:wwwlink:0002500">
+<title>Korsholman Musiikkijuhlat</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T18:56:32</contentCreated>
+<contentModified>2012-07-31T18:56:35</contentModified>
+<located type="loctype:City">
+<name>Vaasa</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:215">
+<name>stt 215</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75290">
+<name>Korsholman Musiikkijuhlat käynnistyvät huomenna</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97785556">
+<name>Korsholman Musiikkijuhlat käynnistyvät huomenna</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000941">
+<name>941</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:13908"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011001">
+<name>Klassinen musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Vaasa</dateline>
+<by/>
+<description role="drol:summary">Ennakkoon pidettävässä Korsholman musiikkijuhlien tiedotustilaisuudessa esitellään 30-vuotisjuhlajulkaisu ja avataan julistenäyttely. Muiden päivien lehdistötilaisuudet alkavat kello 9 tai 10.
+
+Lehdistötilaisuudet: 
+
+
+Ti 31.7.	klo 15: Marko Ylönen – taiteellinen johtaja, Monica Johnson – toiminnanjohtaja, Olli Mustonen, Toshi Ichiyanagi, Seppo Kimanen
+
+Ke 1.8.	klo 10: Erica Nygård, Jan Söderblom, Tuulia Ylönen, Arto Satukangas, Zoran Marković
+
+To 2.8.	klo 9: Uusi Helsinki-kvartetti, Alissa Margulis, Yuval Gotlibovich, Martti Rautio
+
+Pe 3.8.	klo 9: Torleif Thedéen, Maano Männi, Kristiina Junttu, Lasse Hjelt, Laura Hynninen
+
+Ma 6.8.	klo 9: Christian Altenburger, Matti Rantanen, Jakob Koranyi
+
+Ti 7.8.	klo 9: Hannu Lintu, Karen Gomyo, Henri Sigfridsson, Marko Ylönen –taiteellinen johtaja, seuraava taiteellinen johtaja
+
+Ke 8.8.	klo 10: Marko Ylönen – taiteellinen johtaja, Monica Johnson – toiminnanjohtaja, Bodil Eriksén-Neuman – hallituksen puheenjohtaja, seuraava taiteellinen johtaja
+</description>
+<headline>Korsholman musiikkijuhlat vie Ranskasta Venäjän kautta Japaniin</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:13908">
+<name>CULTURUM / VÖS Lukio</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=63.0943,+21.6073</definition>
+<geoAreaDetails>
+<position latitude="63.094311" longitude="21.607281"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:317">
+<name>Vaasa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:40">
+<name>Pohjanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Koulukatu 31</line>
+<postalCode>VAASA</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Korsholman musiikkijuhlat alkaa keskiviikkona. Kahdeksanpäiväisellä festivaalilla on tarjolla 29 konserttia.</p>
+  <p>30-vuotisjuhlaansa viettävän tapahtuman teema on Pariisi&#8211;Pietari&#8211;Tokio. Ranskalaisista säveltäjistä esille nousee etenkin Claude Debussy. Venäläisistä nimistä festivaalilla kuullaan muun muassa Dmitri Shostakovitshia ja Pjotr Tshaikovskia. </p>
+  <p> Japanilaisen musiikin osuuden on ideoinut professori Seppo Kimanen. Hän myös juontaa maanantain 30-vuotisjuhlakonsertin, jossa lähes kaikki juhlan taiteilijat esiintyvät. Konsertissa kuullaan lisäksi kantaesitys tokiolaiselta Toshi Ichiyanagilta.</p>
+  <p>Kansainvälisistä solisteista juhlille saapuvat muun muassa viulistit Christian Alterburger ja Karen Gomyo, alttoviulisti Yuval Gotlibovich, sellisti Jakob Koranyi sekä kontrabasisti Zoran Markovic.</p>
+  <p>8. elokuuta päättyvän festivaalin konsertit järjestetään Vaasassa ja lähikunnissa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

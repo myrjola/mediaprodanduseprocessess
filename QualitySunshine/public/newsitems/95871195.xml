@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95871195" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T19:22:25</versionCreated>
+<firstCreated>2012-07-28T19:22:22</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T19:22:22</contentCreated>
+<contentModified>2012-07-28T19:22:25</contentModified>
+<located type="loctype:City">
+<name>Utajärvi</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:173">
+<name>stt 173</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:72536">
+<name>Piereskelyn SM-titteli meni Saloon</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97763686">
+<name>Piereskelyn SM-titteli meni Saloon</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000863">
+<name>863</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:8162"/>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8000000">
+<name>Human interest</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8002000">
+<name>Erikoisuudet Sattumukset</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY TUORETTA KUVAA///</slugline>
+<dateline>Utajärvi</dateline>
+<by/>
+<description role="drol:summary">Ensi kertaa pidettävät piereskelyn SM-kisat paukutellaan Utajärvellä. Suurin desibelimittarilla mitattu äänenvoimakkuus ratkaisee mestaruuden.</description>
+<headline>Piereskelyn SM-titteli meni Saloon</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:8162">
+<name>Utajärvi</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:312">
+<name>Utajärvi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:23">
+<name>Pohjois-Pohjanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Taiteilijanimellä Sutu esiintynyt mies vei mestaruuden Saloon ensimmäisissä piereskelyn SM-kisoissa Utajärvellä Pohjois-Pohjanmaalla lauantaina. Voittaja sai aikaan 78,9 desibelin pärähdyksen.</p>
+  <p>Kisassa oli yhdeksän osanottajaa, kaikki miehiä. Toiseksi selviytyi kajaanilainen nimimerkki Tuskanparahdus (73 desibeliä) ja kolmanneksi nimettömänä esiintynyt muhoslainen kilpailuja (64).</p>
+  <p>&#8211;&#8201; Muut eivät saaneet tulosta kovasta yrityksestä huolimatta, kertoi kilpailuidean isä Seppo Kinnunen STT:lle.</p>
+  <p>Osallistujat istuivat desibelimittarilla varustetun pieruputken päällä. Putkessa oli myös langaton mikrofoni, joten yleisö kuuli kilpailusuoritukset.</p>
+  <p>Yleisöä oli Kinnusen mukaan 300&#8211;400. Kilpailu järjestettiin mutafutistapahtuman yhteydessä.</p>
+  <p>Kinnunen ei vielä tiennyt, järjestääkö hän kisan ensi vuonnakin.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

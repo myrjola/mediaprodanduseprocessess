@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120803:95900323" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-03T14:55:24</versionCreated>
+<firstCreated>2012-08-03T14:55:21</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-03T14:55:21</contentCreated>
+<contentModified>2012-08-03T14:55:24</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:148">
+<name>stt 148</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75936">
+<name>Bobby Womackin konsertti Flow-festivaalilla peruuntui</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97815514">
+<name>Bobby Womackin konsertti Flow-festivaalilla peruuntui</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000748">
+<name>748</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7670"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011004">
+<name>Populaarimusiikki</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Bobby Womackin konsertti Flow-festivaalilla peruuntui.</description>
+<headline>Bobby Womackin konsertti Helsingissä peruuntui</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7670">
+<name>Helsinki</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Soulin konkari Bobby Womack on peruuttanut esiintymisensä Helsingin Flow-festivaalilla. Amerikkalaisen oli määrä konsertoida Suomessa 10. elokuuta.</p>
+  <p>Womack joutui sairastumisen vuoksi perumaan kaikki elokuulle suunnitellut esiintymisensä. 68-vuotiaan artistin kunto on keväällä todetun syövän jälkeen uudelleen heikentynyt.</p>
+  <p>Womackin tunnetuimpiin kappaleisiin lukeutuvat Across The 110th Street ja Rolling Stonesinkin versioima It's All Over Now. Äskettäin veteraani julkaisi kiitetyn paluualbumin Bravest Man In The Universe.</p>
+  <p>Womackin vierailun peruuntumisen vuoksi Flow-festivaalilla siirtyy päälavalle amerikkalainen R'n'B-artisti Frank Ocean. Womackin tilalle etsitään lisäksi korvaavaa esiintyjää.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

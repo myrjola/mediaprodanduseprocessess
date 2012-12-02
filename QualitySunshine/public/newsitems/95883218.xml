@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95883218" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T12:32:23</versionCreated>
+<firstCreated>2012-07-31T12:32:20</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T12:32:20</contentCreated>
+<contentModified>2012-07-31T12:32:23</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:075">
+<name>stt 075</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:73638">
+<name>Orion julkaisee osavuosikatsauksensa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97784659">
+<name>Orion julkaisee osavuosikatsauksensa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000917">
+<name>917</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:11605"/>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016000">
+<name>Yritysinformaatio</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016038">
+<name>Osavuosikatsaukset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4002000">
+<name>Kemianteollisuus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4002006">
+<name>Lääketeollisuus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016000">
+<name>Yritysinformaatio</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016018">
+<name>Tulostiedotteet</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Orion julkaisee osavuosikatsauksensa tammi-kesäkuulta noin klo 12.00. Tiedotustilaisuus klo 13.30 Helsingissä, paikalla toimitusjohtaja Timo Lappalainen.
+
+Tilaisuus on seurattavissa myös suorana webcast-lähetyksenä osoitteessa www.orion.fi. Alustuksen jälkeen voi yhtiön johdolle esittää kysymyksiä myös puhelimitse sekä suomeksi että englanniksi.
+ 
+Puhelinkonferenssin tunnus on 914111 ja puhelinnumerot konferenssiin osallistuttaessa ovat:
+Soitettaessa Yhdysvalloista +1 334 323 6203
+Muut maat +44 (0)20 7162 0125</description>
+<headline>Orionin tulos liki ennallaan</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:11605">
+<name>Hotel Kämp</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.1678,+24.9474</definition>
+<geoAreaDetails>
+<position latitude="60.167792" longitude="24.947444"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Pohjoisesplanadi29</line>
+<postalCode>HELSINKI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Lääkeyhtiö Orionin tulos ja liikevaihto pysyivät huhti-kesäkuussa lähellä vuoden takaista tasoa. Yhtiön tulos ennen veroja parani hieman 65,2 miljoonaan euroon. Liikevaihto kasvoi pari prosenttia 233 miljoonaan euroon.</p>
+  <p>Orion arvioi, että sen koko vuoden liikevaihto ja -voitto kasvavat hieman viime vuodesta.</p>
+  <p>Yhtiön mukaan tuotelanseeraukset tukevat yhä sen asemaa markkinajohtajana Suomessa, mutta hintakilpailu lääkealalla jatkuu.</p>
+  <p>Toimitusjohtaja Timo Lappalaisen mukaan geneeristen kilpailijoiden tulo markkinoille on odotetusti pienentänyt Parkinsonin taudin hoitoon käytettävän Stalevon toimituksia Yhdysvaltojen markkinoille. Osa myynnin laskusta on kuitenkin pystytty korvaamaan geneeristen entakaponi-tuotteiden toimituksilla.</p>
+  <p>&#8211;&#8201; Muun tuotteistomme myynti kehittyi edelleen hyvin ja on kasvanut 10 prosenttia vuoden ensimmäisellä puoliskolla, Lappalainen toteaa yhtiön tiedotteessa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

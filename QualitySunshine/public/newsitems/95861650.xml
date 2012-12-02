@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95861650" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T20:20:10</versionCreated>
+<firstCreated>2012-07-28T20:20:06</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0021">
+<name>Faktalista</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.noc.fi" residref="urn:newsml:stt.fi:wwwlink:0000312">
+<title>Suomen Olympiakomitea</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.olympic.org" residref="urn:newsml:stt.fi:wwwlink:0000319">
+<title>Official website of the Olympic Movement</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T20:20:06</contentCreated>
+<contentModified>2012-07-28T20:20:10</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:196">
+<name>stt 196</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74396">
+<name>Olympialaiset: Lontoon olympiakisojen tulokset</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97746174">
+<name>Olympialaiset: Sunnuntain suomalaiset Lontoossa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001070">
+<name>1070</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///FAKTALISTA///</slugline>
+<dateline>Lontoo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Sunnuntain 29.&#8201; 7. suomalaiset Lontoon olympialaisissa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Lontoo:</p>
+  <p>Sunnuntain 29. heinäkuuta suomalaiset olympialaisissa (ajat Suomen aikaa):</p>
+  <p>Klo 11.00 Mira Suhonen, ampumaurheilu, naisten 10 m ilmapistooli, alkukilpailu (klo 11.45 finaali).</p>
+  <p>Klo 11.30 Annika Urvikko, telinevoimistelu, naisten karsintakilpailu (1. ryhmä).</p>
+  <p>Klo 11.30 Jaana Sundberg, judo, naisten alle 52 kg, 1. kierroksella vastassa Albanian Majlinda Kelmendi (klo 16 keröilyerät, välierät ja mitaliottelut).</p>
+  <p>Klo 12.24 Matias Koski, uinti, miesten 200 m vu, alkuerät (2. erä).</p>
+  <p>Klo 13.13 Jenna Laukkanen, uinti, naisten 100 m ru, alkuerät (2. erä).</p>
+  <p>Klo 13.30 Jarkko Nieminen, tennis, miesten kaksinpelin 1. kierrosta, vastassa Intian Somdev Devvarman.</p>
+  <p>Klo 14.00 Pia Sundstedt, pyöräily, naisten maantiepyöräily.</p>
+  <p>Klo 14.00 Tapio Nirkko, purjehdus, miesten Finn.</p>
+  <p>Klo 14.00 Silja Lehtinen, Silja Kanerva, Mikaela Wulff, purjehdus, naisten Elliott 6 m (Match Race).</p>
+  <p>Klo 21.36 mahdollisesti Matias Koski, uinti, miesten 200 m vu, välierät.</p>
+  <p>Klo 21.47 mahdollisesti Jenna Laukkanen, uinti, naisten 100 m ru, välierät.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120808:95923212" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-08T17:09:33</versionCreated>
+<firstCreated>2012-08-08T17:09:30</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-08T17:09:30</contentCreated>
+<contentModified>2012-08-08T17:09:33</contentModified>
+<located type="loctype:City">
+<name>Turku</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:198">
+<name>stt 198</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76238">
+<name>Julkisuudessa mm. näyttelijöitä moittinut Kirsikkapuiston ohjaaja Andriy Zholdak STT:n haastattelussa.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97855964">
+<name>Kohuttu teatteriohjaaja Andriy Zholdak vaatii näyttelijöiltä vahvuutta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003576">
+<name>3576</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<slugline>///LEHTIVERSIO LISÄKSI FAKTALAATIKKO JA TAMPEREEN TEATTERIKESÄSSÄ TEHTY KAINALOJUTTU (KAINALON TOIMITTAJANA PÄIVI PIHLAJARINNE)///</slugline>
+<dateline>Turku</dateline>
+<by>MARIA SVANSTRÖM, MAIJA LIELAHTI</by>
+<description role="drol:summary">STT 2.6.
+
+Turun kaupunginteatterin johtaja Raija-Liisa Seilo ei ole huolissaan ensi syksyllä ohjelmistoon tulevan Kirsikkapuisto-näytelmän puolesta. Lauantaina keskustelua herätti Helsingin Sanomien verkkolehdessä julkaistu avoin kirje, jonka Kirsikkapuistoa ohjaava Andriy Zholdak oli kirjoittanut työryhmälleen.
+Seilon mukaan venäjästä suomeksi käännetty kirje luettiin teatterin päättäjäisissä viime viikon perjantaina.
+Kirjeessä ohjaaja sanoo muun muassa, että se, mitä näyttelijät saavat irti tekstistä, on jotain todella mitätöntä. Lisäksi hän moittii näyttelijöitä halusta toistaa kaikessa rauhassa sitä, mitä ovat ennenkin tehneet. Ohjaaja kirjoittaa melkein luhistuvansa näyttelijöiden velttouden ja pehmeyden alla.
+
+"Ohjaajaa kuvaa taidekäsitystään"
+
+Seilo kertoo tunteneensa Zholdakin kymmenen vuotta.
+–Hän läksyttää näyttelijöitä, vaatii heiltä paljon, mutta niin hän vaatii itseltäänkin.
+Kirsikkapuiston harjoitukset jatkuvat vasta elokuussa.
+–Täytyy muistaa, että hän on myös kouluttaja. Hän haluaa, että asiat pysyvät näyttelijöiden päässä kesän yli, Seilo pohtii.
+Teatterinjohtaja kertoo lukeneensa kirjeen ennen teatterin päättäjäisiä. Hän luonnehtii ohjaajan kuvailevan siinä omaa ehdotonta taidekäsitystään. Seilo pitää liian jyrkkänä ilmaisua, että näyttelijät olisivat päättäjäisissä olleet shokissa.
+–Olihan se rankkaa tekstiä. Kaikki hiljenivät. Osa näyttelijöistä oli kuitenkin mukana jo Anna Kareninassa, ja Kirsikkapuiston harjoitusten aikana Zholdakin työskentelytapa on kyllä tullut tutuksi.
+
+Kohinaa jo aiemminkin
+
+Harjoitusvaiheessa oleva näytelmä nousi otsikoihin jo toukokuussa, kun näytelmän päärooliin valmistautunut Tea Ista poistui harjoituksista ja ilmoitti lähtevänsä kotiin.
+Hänen piti esittää tilanomistajatar Ranevskajaa vuorotellen Krista Kososen kanssa. Ohjaajan tarkoitus oli tehdä kummallekin oma tulkinta roolista. </description>
+<headline>Ihmismielen padot murtuvat</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Kohuohjaaja Andriy Zholdak vaatii näyttelijöiltä vahvuutta</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>&#8211;&#8201; Tulevaisuuden teatterissa kaikki mitä tapahtuu lavalla tulee olemaan aitoa. Jos näyttelijä sanoo ”minä rakastan sinua”, se tapahtuu oikeasti, sanoo teatteriohjaaja Andriy Zholdak kuvitellessaan, millaista teatteri voisi olla 50 vuoden kuluttua.</p>
+  <p>Zholdak ohjaa parhaillaan Tshehovin Kirsikkapuistoa Turun kaupunginteatteriin. Esitystä varten on kasassa materiaalia kahdeksan tunnin verran. Siitä on tarkoitus karsia puolet.</p>
+  <p>&#8211;&#8201; Se tulee olemaan vaikeaa. Kaikki palaset ovat tärkeitä minulle, ohjaaja sanoo.</p>
+  <p> Ukrainalainen Zholdak tunnetaan vaativana ohjaajana, joka pistää näyttelijät koville. Ennen kesälomaa hän kirjoitti Kirsikkapuiston näyttelijöille avoimen kirjeen, jossa hän väitti, ettei työryhmä ollut saanut mitään merkityksellistä irti tekstistä ja että he suhtautuvat välinpitämättömästi teatteriin.</p>
+  <p>&#8211;&#8201; Olin työskennellyt kovasti saadakseni näyttelijät avautumaan, mutta he panivat vastaan.</p>
+  <p>Ohjaajan kritiikki oli suunnattu ennen kaikkea suomalaisen teatterin tekemisen tapoihin. Hän ei silti kiistä olevansa vaativa.</p>
+  <p>&#8211;&#8201; Teatterin täytyy murtaa kaikki puolustusmekanismit, jotka estävät meitä uskaltamasta elää ja tuntea. Ennen kuin esitys voi välittyä katsojalle, näyttelijän puolustusmekanismit täytyy nujertaa, Zholdak sanoo. </p>
+  <p>Siksi näyttelijöiden täytyy olla vahvoja.</p>
+  <p>&#8211;&#8201; Ihmisissä on jatkuvasti käynnissä tulisia prosesseja, joita ei voi hallita. Teatteri on paikka, jossa padot murtuvat ja vesi vuotaa yli, ohjaaja luonnehtii.</p>
+  <p></p>
+  <p>
+<h3>Kaikkialla rakastetaan samalla tavalla</h3>
+</p>
+  
+  <p>Zholdak on ohjannut esityksiä lukuisiin eurooppalaisteattereihin. Vuonna 2010 hän ohjasi Turun kaupunginteatteriin menestystä niittäneen Anna Kareninan, jonka nimiroolissa loisti Krista Kosonen. Kosonen tähdittää myös tekeillä olevaa Kirsikkapuistoa. Näyttelijä Tea Ista sen sijaan vetäytyi projektista toukokuussa: hän kommentoi mediassa, ettei esityksen toteuttamiseen ollut tarpeeksi aikaa. </p>
+  <p>Viime vuonna Zholdak ohjasi suomenruotsalaiseen Klockriketeaterniin Tshehovin Morbror Vanjan. Hän näkee eron suomenruotsalaisten ja suomea puhuvien suomalaisten välillä.</p>
+  <p>&#8211;&#8201; Suomea puhuvat ovat syvästi yhteydessä luontoon. Toisen maailmansodan jälkeisen taloudellisen ja kulttuurisen kehityksen myötä pukeuduitte herrojen asuun. Silloin tällöin se asu kuitenkin riisutaan.</p>
+  <p>Suomenruotsalaiset ovat sitä vastoin Zholdakin mielestä kuin kaloja kuivalla maalla.</p>
+  <p>&#8211;&#8201; Piilotajuisesti he ymmärtävät, että tulevat lopulta integroitumaan suomea puhuvaan väestöön.</p>
+  <p>Zholdak painottaa, että lopulta kulttuurierot ovat pieniä.</p>
+  <p>&#8211;&#8201; Ihmiset ovat samanlaisia kaikkialla. He ovat mustasukkaisia ja rakastavat samalla tavalla.</p>
+  <p></p>
+  <p>
+<h3>Syntynyt kohauttamaan</h3>
+</p>
+  <p></p>
+  <p>Zholdak sanoo syntyneensä kohauttamaan. Nykyään hän etsii parasta tapaa saavuttaa päämääränsä. Ohjaajan on kuitenkin vaikea löytää ihmisiä, joiden kanssa hän voi tehdä yhteistyötä. Heidän täytyy uskaltaa hypätä tuntemattomaan.</p>
+  <p>&#8211;&#8201; En halua haavoittaa ketään. Kaikilla ihmisillä on hyviä ominaisuuksia, mutta useimmat ovat kuin parasiitteja.</p>
+  <p>Zholdakin mukaan nämä loiseliöt nauttivat toisten saavutuksista vailla omaa luovuutta. </p>
+  <p>&#8211;&#8201; Sillä tavalla ei synny ainuttakaan neroa, joka luo jotain uudenlaista: musiikkia, matemaattisia kaavoja tai suurta kirjallisuutta.</p>
+  <p>Miksi juuri teatteri on niin voimakas taidemuoto?</p>
+  <p>&#8211;&#8201; Teatteriesitys koetaan yhdessä muiden kanssa. Katsojien välille syntyy yhteys. Teatterissakäynti on kuin olisi pilvessä ilman huumeita.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

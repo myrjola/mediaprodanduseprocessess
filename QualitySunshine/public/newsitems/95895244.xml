@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95895244" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T15:35:10</versionCreated>
+<firstCreated>2012-08-02T15:35:06</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T15:35:06</contentCreated>
+<contentModified>2012-08-02T15:35:10</contentModified>
+<located type="loctype:City">
+<name>Hamina</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:171">
+<name>stt 171</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75281">
+<name>Google kaksinkertaistaa Haminan palvelinkeskuksensa koon. Investointi on 150 miljoonaa euroa.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97806147">
+<name>Googlen Haminan palvelinkeskus uudistuu</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001107">
+<name>1107</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:13907"/>
+<subject type="cpnat:category" qcode="subj:9000000">
+<name>Työelämä</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:9003000">
+<name>Työllisyys</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008034">
+<name>Yritykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4004000">
+<name>Rakentaminen Kiinteistöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4004001">
+<name>Maarakennus Teollisuusrakennus Vesirakennus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003000">
+<name>Tietotekniikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003001">
+<name>IT-teknologia Tietoliikenne</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Hamina</dateline>
+<by/>
+<description role="drol:summary">EMBARGOTIETOA: 
+
+Presidentti Sauli niinistö vierailee Googlen Haminan palvelinkeskuksessa. Ennen tiedotustilaisuutta presidentti käy tutustumiskierroksella palvelinkeskuksessa.
+
+Myöhemmin järjestettävässä tiedotustilaisuudessa kerrotaan Googlen mukaan kohtalaisen merkittävästä muutoksesta yhtiön toiminnassa. </description>
+<headline>Google laajentaa Haminassa 150 miljoonalla eurolla</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:13907">
+<name>Googlen Haminan palvelinkeskus </name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.571,+27.1894</definition>
+<geoAreaDetails>
+<position latitude="60.570992" longitude="27.189421"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:25">
+<name>Hamina</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:35">
+<name>Kymenlaakso</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Hakukoneyhtiö Google kaksinkertaistaa Haminan palvelinkeskuksensa koon ja investoi siihen miljoonia.</p>
+  <p>&#8211;&#8201; Olemme investoimassa 150 miljoonaa euroa lisää laajentaaksemme Haminan palvelinkeskusta, joka jo nyt kuuluu luokkansa energiatehokkaimpiin maailmassa, sanoo Googlen palvelinkeskuspäällikkö Dieter Kern tiedotteessa.</p>
+  <p>Entiseen Stora Enson paperitehtaaseen rakennettu palvelinkeskus hyödyntää merivesijäähdytysjärjestelmää, joka on Googlen mukaan ensimmäinen laatuaan maailmassa.</p>
+  <p>Rakentamisvaihe työllistää yhtiön mukaan parhaimmillaan jopa 500 insinööriä ja rakennustyöntekijää. Muutostöiden arvellaan kestävän puolisentoista vuotta. Samassa yhteydessä restauroidaan Alvar Aallon suunnitteleman rakennuksen julkisivu.</p>
+  <p>Viime syyskuussa toimintansa käynnistänyt palvelinkeskus työllistää tällä hetkellä 90 henkeä. Google arvioi laajennetun palvelinkeskuksen tuovan työtä 25 uudelle työntekijälle, kun täysipäiväiset työntekijät ja alihankkijat lasketaan mukaan.</p>
+  <p>Yhtiön tämänpäiväiseen lehdistötilaisuuteen Haminassa osallistui myös presidentti Sauli Niinistö.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

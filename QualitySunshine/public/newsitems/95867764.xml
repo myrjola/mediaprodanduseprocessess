@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95867764" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T20:27:31</versionCreated>
+<firstCreated>2012-07-27T20:27:04</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:update"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T20:27:04</contentCreated>
+<contentModified>2012-07-27T20:27:31</contentModified>
+<located type="loctype:City">
+<name>Geneve</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:203">
+<name>stt 203</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74989">
+<name>Syyrian tarkkailuoperaation johtaja arvioi Assadin hallinnon kaatumisen olevan ajan kysymys</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97754786">
+<name>Syyrian tarkkailuoperaation johtaja arvioi Assadin hallinnon kaatumisen olevan ajan kysymys</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001019">
+<name>1019</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16002000">
+<name>Aseelliset konfliktit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16006000">
+<name>Joukkomurha</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16005000">
+<name>Sissitoiminta Kapinalliset</name>
+</subject>
+<slugline>///PÄIVITETTY LEHTIVERSIO MYÖS TYKISTÖ MUKANA ALEPPON MOUKAROINNISSA, KV KUVAA///</slugline>
+<dateline>Geneve</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Syyrian armeijan suurhyökkäys Aleppoon alkamassa</headline><creditline>STT&#8211;Reuters-AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Syyrian armeijan tykistö ja helikopterit tulittivat perjantai-iltana Aleppon kaupungin asuinalueita iskuissa, joita arveltiin alkusoitoksi suurhyökkäykselle kaupunkiin. Sekä armeija että osia kaupungista hallitsevat kapinalliset ovat viime päivät vahvistaneet rivejään.</p>
+  <p>&#8211;&#8201; Odotamme hyökkäystä minä hetkenä hyvänsä, sanoi kapinallissotilaiden Syyrian vapaan armeijan eversti Abdel Jabbar al-Okaidi.</p>
+  <p>YK:n ihmisoikeusvaltuutettu Navi Pillay sekä Ranska, Yhdysvallat ja Italia ovat varoittaneet, että yhteenotto Aleppossa voi johtaa verilöylyyn.</p>
+  <p>&#8211;&#8201; Keskittämällä raskaita aseita Aleppoon presidentti Bashar al-Assad valmistautuu omien kansalaistensa uuteen teurastukseen, sanoi Ranskan ulkoministeriön tiedottaja Bernard Valero.</p>
+  <p>YK:n Syyria-tarkkailijoiden väistyvä johtaja, norjalaiskenraali Robert Mood arvioi, että al-Assadin hallinnon kaatuminen on vain ajan kysymys. Mood poistui maasta runsas viikko sitten.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

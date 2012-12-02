@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120810:95821939" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-10T12:21:55</versionCreated>
+<firstCreated>2012-08-10T10:50:18</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:supplement"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-10T10:50:18</contentCreated>
+<contentModified>2012-08-10T12:21:55</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:098">
+<name>stt 098</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:73613">
+<name>Tero Saarinen tanssiin valaan äänien tahtiin</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97668265">
+<name>Tero Saarinen tanssiin valaan äänien tahtiin</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003859">
+<name>3859</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7670"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1006000">
+<name>Tanssitaide</name>
+</subject>
+<slugline>///TÄYDENNETTY LEHTIVERSIO ENNEN TOISTA VÄLIOTSIKKOA: VARHAINEN TYÖVERSIO NÄHTIIN JO HÄMEENLINNAN VERKATEHTAALLA MUUTAMA VIIKKO AIEMMIN, MUTTA ILMAN ELÄVÄÄ MUSIIKKIA. MUOKATTU TOISEN VÄLIOTSIKON JÄLKEEN. JUTTUUN LIITTYY KUVIA VEDESSÄ TANSSIVASTA SAARISESTA SEKÄ KAINALO JA FAKTALAATIKKO///</slugline>
+<dateline>Helsinki</dateline>
+<by>SANNA NIKULA</by>
+<description role="drol:summary"/>
+<headline>Tero Saarinen tuo uuden soolonsa Suomeen</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7670">
+<name>Helsinki</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.1712,+24.9326</definition>
+<geoAreaDetails>
+<position latitude="60.171162" longitude="24.93265"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Valaan äänet vievät tunnelman valtameren syvyyksiin</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suomalaisen nykytanssin vientitykki Tero Saarinen on luonut itselleen uuden sooloesityksen ensimmäistä kertaa sitten Hunt-teoksen, jonka ensi-illasta tuli juuri kuluneeksi kymmenen vuotta. Valtameren syvyyksiin ajatukset vievä Vox Balaenae &#8211; Valaan ääniä saa Suomen-ensi-iltansa Helsingin juhlaviikoilla elokuun lopussa.</p>
+  <p>&#8211;&#8201; Tuntui siltä, että nyt on taas jotain sanottavaa. Tämä on ihan erilainen kuin Hunt, ja olen ajatellut, että tätä tulevat myöhemmin tekemään muutkin tanssijat kuin vain minä. Mutta tällä hetkellä teos tuntuu henkilökohtaiselta, ja haluan haastaa itseäni vielä kun kroppa yhä kestää, Saarinen kertoo puhelimitse lomaltaan.</p>
+  <p>Saarinen täyttää syyskuussa 48 vuotta.</p>
+  <p>&#8211;&#8201; Oman instrumentin kunnon ylläpitäminen, tuunaus ja virittäminen vie sitä enemmän aikaa mitä enemmän ikää tulee, hän myöntää.</p>
+  <p></p>
+  <p>
+<h3>Viheltelevä huilisti</h3>
+</p>
+  <p></p>
+  <p>Vox Balaenae perustuu amerikkalaisen George Crumbin samannimiseen nykymusiikin klassikkoteokseen. Saarisen lisäksi lavalla on kolme muusikkoa: sellisti, huilisti ja pianisti.</p>
+  <p>&#8211;&#8201; Se on äärettömän kaunis ja nykymusiikiksi runsaasti emootioita herättävä sävellys. Se myös haastaa muusikot käyttämään instrumenttejaan aivan uusilla tavoilla. Esimerkiksi huilisti joutuu viheltelemään ja tuottamaan muitakin ääniä samalla kun soittaa.</p>
+  <p>Helsingissä elävästä musiikista vastaa kamariorkesteri Avanti.</p>
+  <p>Saarisen mukaan säveltäjä on kirjoittanut partituuriin ohjeita siitä, miten teos tulisi esittää.</p>
+  <p>&#8211;&#8201; Hän toivoo muun muassa, että konsertissa on sininen valaistus ja soittajilla maskit kasvoillaan.</p>
+  <p>Crumb sai innoituksen teokseen, kun kuuli nauhoitettuja ryhävalaiden ääniä 1960-luvun lopulla. Hän halusi käsitellä musiikissaan luonnon ylivoimaa. </p>
+  <p>Saarinen puhuu sen lisäksi ihmisen ja luonnon välisistä suhteista ja niistä menetetyistä mahdollisuuksista, jotka meille on annettu.</p>
+  <p>&#8211;&#8201; Koreografiani on metafora siitä, mitä me olemme luonnolle ja itsellemme tehneet.</p>
+  <p>Teos sai kantaesityksensä viime marraskuussa Ranskassa pariisilaisen Ensemble intercontemporainin kanssa. Varhainen työversio nähtiin jo Hämeenlinnan Verkatehtaalla muutama viikko aiemmin, mutta ilman elävää musiikkia.</p>
+  <p></p>
+  <p>
+<h3>Huippuryhmä haltuun</h3>
+</p>
+  <p></p>
+  <p>Samana iltana soolon kanssa nähdään myös Saarisen hollantilaiselle huippuryhmälle Nederlands Danse Theaterille vuonna 2009 luoma Scheme of Things. Kuudelle tanssijalle tehty teos peilaa muun muassa huonoa ajoitusta ihmissuhteiden kautta, humoristisestikin.</p>
+  <p>&#8211;&#8201; Kahden teoksen teemat sopivat hyvin yhteen. Mikä meissä oikein on vikana, ettemme pysty huomioimaan, ymmärtämään ja arvostamaan toista oli se sitten luonto tai ihminen? Joku ihmeellinen arroganssi ja välinpitämättömyys meidän sisällämme asuu.</p>
+  <p>Saarinen kertoo tekevänsä tilausteoksia harvakseltaan, vaikka pyyntöjä tulee paljon.</p>
+  <p>&#8211;&#8201; Suurimpaan osaan pitää sanoa ei. Oma ryhmä on ykkönen. Kerran kolmessa vuodessa voin tehdä kantaesityksen jollekin muulle ryhmälle, mutta siihen täytyy olla joku hyvä syy. Yleensä otan silloinkin valosuunnittelijan ja pukusuunnittelijan lisäksi jonkun omista luottotanssijoistani mukaan assistentikseni. Näin vierailuissa työllistyy aina monia suomalaisia tekijöitä.</p>
+  <p>NDT:hen Saarinen halusi mennä nähdäkseen, miten homma toimii maailmankuulun ryhmän kanssa.</p>
+  <p>&#8211;&#8201; Se oli hyvä testi työstää tiukoissa raameissa omia ohjauksellisia metodejani. Töitä sielläkin tehdään aamusta iltaan, että päämäärät saavutetaan.</p>
+  <p>Helsingissä teoksen esittävät Saarisen oman ryhmän tanssijat.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

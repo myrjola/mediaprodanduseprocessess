@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120805:95899763" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-05T19:40:25</versionCreated>
+<firstCreated>2012-08-03T20:46:45</firstCreated>
+<embargoed>2012-08-06T03:00:00</embargoed>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:replace"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-03T20:46:45</contentCreated>
+<contentModified>2012-08-05T19:40:25</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:168">
+<name>stt 168</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75758">
+<name>HUOM. EMBARGO MA 6.8 KLO 3.00. Valtiovarainministeri Jutta Urpilaisen haastattelu</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97814309">
+<name>HUOM. EMBARGO. Valtiovarainministeri Jutta Urpilaisen haastattelu</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003677">
+<name>3677</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7670"/>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4017000">
+<name>Talouselämä Talouspolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010000">
+<name>Puolueet Poliittiset liikkeet Järjestöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010996">
+<name>SDP</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008019">
+<name>Budjetointi Budjetit</name>
+</subject>
+<slugline>///KORJATTU LEHTIVERSIO HUOM!! MUOKATTU JUTUN KÄRKEÄ JA LISÄTTY 2. KPL, KORVAA PERJANTAINA LÄHETETYN VERSION, LISÄKSI KAINALO EUROOPAN TALOUSTILANTEESTA, EMBARGO 6.8. KLO 03///</slugline>
+<dateline>Helsinki</dateline>
+<by>TIINA TUOMINEN</by>
+<description role="drol:summary"/>
+<headline>Urpilainen: Nyt pitää varautua pahan päivän varalle</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7670">
+<name>Helsinki</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Ministerin mukaan budjettiriiheen mennään taantuman varjossa</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Budjettiriihessä ei ole valtiovarainministeri Jutta Urpilaisen (sd.) mukaan varaa suuriin linjantarkistuksiin. Hänen mukaansa riiheen mennään eurooppalaisen taantuman varjossa.</p>
+  <p>Valtiovarainministeriö aloittaa maanantaina sisäiset budjettineuvottelunsa. Koko hallituksen budjettiriihi on vuorossa kuun lopulla.</p>
+  <p>Pääministeri Jyrki Katainen (kok.) sanoi alkuviikosta Ylen uutisille, ettei Suomessa ole tarvetta uusiin veronkiristyksiin tai leikkauksiin Euroopan vaikeasta taloustilanteesta huolimatta.</p>
+  <p>Urpilainen on samoilla linjoilla. Hänen mukaansa emme voi olla varmoja, onko Suomessa nyt kyse pitkästä hitaan kasvun ajasta, vai onko kyse suuremmasta pudotuksesta ja kenties jopa vuoden 2008 veroisesta taantumasta. Siksi budjettiriihessä ei ole odotettavissa toisaalta myöskään uusia verohelpotuksia tai merkittäviä menolisäyksiä mihinkään suuntaan.</p>
+  <p>&#8211;&#8201; Nyt pitää varautua pahan päivän varalle. Jos taloustilanne heikkenee, meidän on pystyttävä tukemaan työllisyyttä ja talouskasvua lisätoimenpiteillä, Urpilainen sanoo.</p>
+  <p>&#8211;&#8201; Kansainvälisen talouden heilahtelut näkyvät meilläkin nopeasti.</p>
+  <p>Keväällä sovittuja leikkauksia ja verojen korotuksia on ensi vuoden budjettiin tulossa molempia suurin piirtein yhtä paljon. Mikään ministeriö ei säästy leikkauksilta. Keskeisimmät verojenkorotukset koskevat arvonlisäveroa, ansiotuloverotusta sekä suurten eläkkeiden ja perintöjen verotusta. Lisäksi yli 100&#8201; 000 euroa vuodessa tienaaville otetaan käyttöön niin sanottu solidaarisuusvero.</p>
+  <p>Suomen talousnäkymät eivät vaikuta tällä hetkellä kovin ruusuisilta. Talouskasvu on heikkenemässä, uusia yrityksiä ei synny ja esimerkiksi Nokia on ilmoittanut jätti-irtisanomisista. Valtiovarainministerin mielestä Suomen taloustilanne on kuitenkin vielä varsin vakaa verrattuna moniin muihin Euroopan maihin.</p>
+  <p>&#8211;&#8201; Voimme olla tyytyväisiä siihen, että ne toimenpiteet joita olemme tehneet oman taloutemme hyväksi, ovat olleet oikeita, Urpilainen sanoo viitaten luottoluokittaja Moody'sin arvioon siitä, että Suomen talousnäkymät ovat edelleen vakaat.</p>
+  <p></p>
+  <p>
+<h3>Hoitajakiintiöön ei ole luvattu rahoja</h3>
+</p>
+  <p></p>
+  <p>Kuntaliitosten vuoksi kuntien on lähivuosina pystyttävä täyttämään niin sanotut vahvan kunnan kriteerit. Jos yksikin kuntaliitostarvetta edellyttävä pääkriteeri täyttyy, kunnan pitää ryhtyä kuntaliitosselvityksiin. Urpilainen ei ota kantaa siihen, onko kunnille tiedossa lisäapuja palvelujen järjestämiseen tai tuleeko budjettiin keinoja, joilla kuntia avustetaan yhdistymään.</p>
+  <p>&#8211;&#8201; Kehysriihessä sovittiin lisäsäästöistä, joissa myös kunnat ovat osallisena. Nyt niitä päätöksiä on tarkoitus panna toimeen. Muut menoasiat päätetään budjettiriihessä, Urpilainen sanoo.</p>
+  <p>Peruspalveluministeri Maria Guzenina-Richardson (sd.) ilmoitti muutama viikko sitten haluavansa, että lakiin tehdään sittenkin kirjaus hoitajien minimimäärästä vanhusten ympärivuorokautisessa hoidossa. Urpilaisen mukaan ei ole tehty mitään päätöksiä siitä, löytyykö hoitajamitoituksiin peruspalveluministerin toivomia rahoja.</p>
+  <p>&#8211;&#8201; Ministeri on tehnyt oman esityksensä budjettiriiheen. Viime kädessä koko hallitus päättää, millaisia arvovalintoja halutaan tehdä.</p>
+  <p>Valtiovarainministeri sanoo kuitenkin, että kysymys vanhustenhoidosta on SDP:lle erittäin tärkeä.</p>
+  <p>&#8211;&#8201; Arvoasteikolla nostamme sen erittäin korkealle. Mitään menolisäyksiä ei ole silti tehty.</p>
+  <p>Valtiovarainministeriön budjetin pohjana ovat kehysriihen päätökset 2,4 miljardin euron sopeutustarpeesta vuoteen 2015 mennessä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95848592" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T10:00:09</versionCreated>
+<firstCreated>2012-07-28T10:00:05</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T10:00:05</contentCreated>
+<contentModified>2012-07-28T10:00:09</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:046">
+<name>stt 046</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74015">
+<name>Nuoret ja aikuisetkin harjoittelevat aseleikeissä taktista ajattelua ja erätaitoja. Kuvareportaasi airsoft-harrastuksesta.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97719534">
+<name>Aseleikeissä kehittyvät sosiaalisuus ja erätaidot. Kuvareportaasi airsoft-harrastuksesta.</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003332">
+<name>3332</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:10000000">
+<name>Vapaa-aika</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:10004000">
+<name>Harrastukset</name>
+</subject>
+<slugline>///LEHTIVERSIO KUULUU KAINALO, FAKTA JA TUORETTA KUVAA///</slugline>
+<dateline>Helsinki</dateline>
+<by>TUOMO POLO</by>
+<description role="drol:summary"/>
+<headline>Terveellinen räiskintäpeli vetää harrastajia luonnon helmaan</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Airsoftissa opetetaan erätaitoja ja sosiaalisia suhteita</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kapinallisilla on hallussaan ydinase. Valtion miehet ovat juuri tehneet maihinnousun kapinallisten hallitsemaan saareen ja onnistuneet nappaamaan osan ydinaseesta itselleen. Nyt se pitäisi kuljettaa mantereelle. Saaren keskeltä on rannalle kuitenkin pitkä matka ja välissä on kapinallisten ryhmittymä. Taistelu voi alkaa.</p>
+  <p>Käynnissä on airsoft-peli, johon osallistuu yli 40 teini-ikäistä nuorta. Mutta mitä se oikeastaan tarkoittaa?</p>
+  <p>&#8211;&#8201; Airsoft on toimintapeli, jossa toisiaan vastaan pelaavat joukkueet tekevät erilaisia tehtäviä, kertoo pitkän linjan airsoft-harrastaja Esa Toivonen.</p>
+  <p>Taistelun tiimellyksessä vastustajia ammutaan muovi- tai biokuulia käyttävillä airsoft-aseilla, jotka näyttävät aidoilta. Myös taustatarinan merkitys on suuri, jottei peli olisi pelkkää räiskimistä.</p>
+  <p>&#8211;&#8201; Monesti kyseessä on jonkinlainen rajariita, jossa vastakkain ovat punainen ja keltainen ryhmittymä. Osa peleistä on eläytymispainotteisia, jolloin taustatarinaa voi olla sivutolkulla.</p>
+  <p></p>
+  <p>
+<h3>Ensimmäiset laukaukset jännittävät</h3>
+</p>
+  <p></p>
+  <p>Saaressa kapinalliset ovat maastoutuneet erinomaisesti. Pieni supina vain kuuluu, kun sotilaat eivät malta pysyä hiljaa. Lopulta kaikki ovat paikoillaan, ja pelin alkamisesta ilmoitetaan.</p>
+  <p>Hiljaisuus laskeutuu. Kapinalliset odottavat vihollista. Adrenaliini hiipii elimistöön.</p>
+  <p>Sitten alkaa säälimätön räiskintä.</p>
+  <p>&#8211;&#8201; Jännitys on tässä hienoa. Ja se fiilis, kun vihollisen näkee. Pitää olla tarkkana eikä vain kävellä metsässä piippu pystyssä, tunnelmoi Joona Jurvanen, 14.</p>
+  <p>Airsoft kiehtoo lähinnä vain miespuolisia, sillä toista sukupuolta ei ainakaan saaressa näy.</p>
+  <p>&#8211;&#8201; Kyllä tämä lähinnä poikien laji taitaa olla, vaikka mielelläänhän tänne tyttöjäkin otettaisiin, sanoo leirin järjestäjä Tapio Rostedt.</p>
+  <p>Airsoft-leireillä ei harrasteta pelkkää sotimista, vaan pojille opetetaan myös erätaitoja ja yhdessä olemista. Osallistujien joukossa voi olla paljon videopelien kasvattamia miehenalkuja, jotka eivät ole sosiaalisesti erityisen aktiivisia.</p>
+  <p>&#8211;&#8201; On hienoa nähdä, kuinka he saavat täältä kavereita, joilla on yhteisiä kiinnostuksen aiheita. En tiedä yhtään lajia, jossa olisi yhtä paljon eri-ikäisiä kavereita, jotka tulevat keskenään näin hyvin toimeen, sanoo toinen järjestäjä Sami Suni.</p>
+  <p>Videopelisukupolvelle myös arkiset asiat voivat olla eksoottisia.</p>
+  <p>&#8211;&#8201; Kerran yksi osallistuja oli ihmeissään veden keittämisen kanssa. Hän pohti, mistä tietää, että vesi kiehuu.</p>
+  <p></p>
+  <p>
+<h3>Ilta kuluu saunoen ja nuotiolla</h3>
+</p>
+  <p></p>
+  <p>Metsässä on edelleen sota käynnissä. Kaksi havuilla maastoutumistaan tehostanutta nuorukaista rämpii mättäiden yli punaista lappua pään päällä pitäen. Osuma on tullut.</p>
+  <p>&#8211;&#8201; Niitä on sairaasti enemmän ja niillä on snaipperit ja kaikki, pojat harmittelevat.</p>
+  <p>Peli lähestyy ratkaisuaan.</p>
+  <p>Päivän mittaan pelataan kolme parin tunnin mittaista peliä. Illalla on aika rauhoittua nuotion ääressä ja lämmittää rantasauna. Jotkut menevät onkimaan. Innokkaimmille järjestetään vielä yöpelikin. Yö nukutaan teltoissa.</p>
+  <p>Ja se lopputulos. Kapinalliset voittivat, eivätkä valtion miehet onnistuneet kuljettamaan ydinasetta pois. Taistelu jatkuu.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

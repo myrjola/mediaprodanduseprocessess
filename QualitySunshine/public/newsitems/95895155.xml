@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95895155" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T15:14:17</versionCreated>
+<firstCreated>2012-08-02T15:11:22</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:replace"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T15:11:22</contentCreated>
+<contentModified>2012-08-02T15:14:17</contentModified>
+<located type="loctype:City">
+<name>Los Angeles</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:160">
+<name>stt 160</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75801">
+<name>Aerosmithin Tyler: American Idol ei minun kuppini teetä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97806186">
+<name>Aerosmithin Tyler: American Idol ei minun kuppini teetä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000986">
+<name>986</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:category" qcode="subj:8000000">
+<name>Human interest</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8003000">
+<name>Ihmiset human interest</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8003002">
+<name>Julkisuuden henkilöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1016000">
+<name>Televisio-ohjelmat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011006">
+<name>Rock</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011004">
+<name>Populaarimusiikki</name>
+</subject>
+<slugline>///KORJATTU LEHTIVERSIO OTSIKKO: LISÄTTY PUUTTUVA SANA "EI"///</slugline>
+<dateline>Los Angeles</dateline>
+<by/>
+<description role="drol:summary">Aerosmithin Tyler: American Idol ei minun kuppini teetä.</description>
+<headline>Aerosmithin Tyler: American Idol ei ollut minun heiniäni</headline><creditline>STT&#8211;Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Rocklaulaja Steven Tyler kertoo, että hän sekä rakasti että vihasi kahden vuoden pestiään American Idol -kisan tuomarina. Aerosmithin solisti kuitenkin päätti lopulta, että tv:n laulukilpailu ei ollut hänen heiniään.</p>
+  <p>Tyler ilmoitti heinäkuussa, että hän lopettaa American Idolin tuomaroinnin. Samalla vokalisti paljasti, että hän lähti pestille osittain odottaakseen Aerosmithin sisäisen vihanpidon laantumista.</p>
+  <p>&#8211;&#8201; Tv-työ antoi jotain tekemistä siksi aikaa kun myrsky puhalsi ohi.</p>
+  <p>Tyler toisaalta myöntää, että tv-show'ssa oli hyvätkin puolensa.</p>
+  <p>&#8211;&#8201; Sain istua J. Lon (Jennifer Lopez) vieressä ja tuhat kiloa rahaa.</p>
+  <p>Myös Jennifer Lopez päättää nyt American Idol -tuomaripestinsä.</p>
+  <p>Aerosmith viimeistelee ensimmäistä uusista lauluista koostuvaa albumiaan sitten vuoden 2001. Pitkäsoitto Music From Another Dimension julkaistaan marraskuussa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

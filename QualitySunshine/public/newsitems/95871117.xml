@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95871117" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T19:07:32</versionCreated>
+<firstCreated>2012-07-28T19:07:05</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0013">
+<name>Tulokset</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="go.palloliitto.com/ykkonen2012" residref="urn:newsml:stt.fi:wwwlink:0007983">
+<title>Jalkapallo/ Ykkönen</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T19:07:05</contentCreated>
+<contentModified>2012-07-28T19:07:32</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:167">
+<name>stt 167</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:50648">
+<name>Jalkapallo: Miesten Ykkösessä kolme ottelua</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97763568">
+<name>Jalkapallotuloksia Ykkönen</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000544">
+<name>544</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:6453"/>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15054000">
+<name>Jalkapallo</name>
+</subject>
+<slugline/>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Jalkapallotuloksia/ykkönen</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6453">
+<name>Brahen kenttä</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="60.186527" longitude="24.949851"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Helsinginkatu23</line>
+<postalCode>HELSINKI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Miesten ykkönen:</p>
+  <p>RoPS&#8211;SJK 2&#8211;0 (0&#8211;0)</p>
+  <p>PK-35&#8211;OPS 3&#8211;0 (2&#8211;0)</p>
+  <p>HIFK&#8211;Viikingit 1&#8211;1 (1&#8211;1)</p>
+  <p>RoPS&#9;17&#9;13&#9;4&#9;0&#9;36&#8211;&#9;6&#9;43</p>
+  <p>Viikingit&#9;17&#9;10&#9;2&#9;5&#9;28&#8211;&#9;20&#9;32</p>
+  <p>PK-35&#9;17&#9;9&#9;3&#9;5&#9;38&#8211;&#9;17&#9;30</p>
+  <p>SJK&#9;17&#9;8&#9;4&#9;5&#9;25&#8211;&#9;19&#9;28</p>
+  <p>AC Oulu&#9;16&#9;6&#9;6&#9;4&#9;25&#8211;&#9;22&#9;24</p>
+  <p>Jippo&#9;16&#9;5&#9;3&#9;8&#9;23&#8211;&#9;30&#9;18</p>
+  <p>OPS&#9;17&#9;4&#9;6&#9;7&#9;17&#8211;&#9;25&#9;18</p>
+  <p>KooTeePee&#9;16&#9;3&#9;4&#9;9&#9;14&#8211;&#9;23&#9;13</p>
+  <p>FC Hämeenlinna&#9;16&#9;3&#9;4&#9;9&#9;11&#8211;&#9;32&#9;13</p>
+  <p>HIFK&#9;17&#9;2&#9;4&#9;11&#9;17&#8211;&#9;40&#9;10</p>
+  <p>Seuraavat ottelut: 30.&#8201; 7. Jippo&#8211;KooTeePee, 31.&#8201; 7. AC Oulu&#8211;FC Hämeenlinna, 2.&#8201; 8. OPS&#8211;HIFK, 4.&#8201; 8. SJK&#8211;AC Oulu, Viikingit&#8211;RoPS, FC Hämeenlinna&#8211;Jippo, 6.&#8201; 8. KooTeePee&#8211;PK-35.</p>
+  <p></p>
+  <p></p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

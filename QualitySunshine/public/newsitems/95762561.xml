@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120805:95762561" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-05T09:30:24</versionCreated>
+<firstCreated>2012-08-05T09:30:21</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-05T09:30:21</contentCreated>
+<contentModified>2012-08-05T09:30:24</contentModified>
+<located type="loctype:City">
+<name>Harjavalta</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:037">
+<name>stt 037</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75307">
+<name>Harjavalta muistaa yhä Emil Cedercreutzin</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97549029">
+<name>Harjavaltalaiset tarinoivat yhä omasta Emilistään </name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002368">
+<name>2368</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:6712"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1015000">
+<name>Kuvanveisto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1022000">
+<name>Kulttuurihallinto Apurahat Säätiöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1022001">
+<name>Kulttuurihistoria</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1028000">
+<name>Historia</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1002000">
+<name>Arkkitehtuuri</name>
+</subject>
+<slugline>///LEHTIVERSIO KAINALO, FAKTA, LEHTIKUVAN KUVAA, HANDOUT-KUVA///</slugline>
+<dateline>Harjavalta</dateline>
+<by>SOILA OJANEN</by>
+<description role="drol:summary">&lt;kotimaa.deski@stt-lehtikuva.fi&gt;</description>
+<headline>Harjavaltalaiset tarinoivat yhä omasta Emilistään </headline>
+</contentMeta>
+<assert qcode="sttlocationalias:6712">
+<name>Harjavalta</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:29">
+<name>Harjavalta</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:32">
+<name>Satakunta</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Emil Cedercreutz oli erikoinen, tavallinen paroni</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  <p>Taiteilija Emil Cedercreutz oli monin tavoin kaksitahoinen mies. </p>
+  <p>Harjavaltalaiset muistelevat yhä erikoista persoonaa, joka paikallisten kanssa toimi hyvin mutkattomasti ja arkisesti. </p>
+  <p>Brysselissä, Roomassa ja Pariisissa asunut kosmopoliitti luovi luontevasti Helsingin seurapiireissä, mutta toisaalta vietti mieluusti kesänsä Satakunnan rauhassa lähellä luontoa ja peltoja.</p>
+  <p>Hän tuli tunnetuksi hevosen luonnollisen liikkeen vangitsevista jättipatsaistaan, mutta osasi myös taidokkaiden siluettien tekemisen siroilla saksilla ohuelle paperille.</p>
+  <p>Hän oli kerta kaikkiaan ääripäiden mies.</p>
+  <p> </p>
+  <p>
+<h3>Pitsiset taljat</h3>
+</p>
+  <p></p>
+  <p>Harjavallassa, ihan Kakkostien kupeessa, on Emil Cedercreutzin museo, joka on merkillisyyksien aarreaitta. Alueella on Harjulan taiteilijakoti, ateljee, sauna, lukuisia piharakennuksia, Maahengen temppeli ja museon uudisrakennuksia.</p>
+  <p>Kokonaisuus on kuin outo taideteos.</p>
+  <p>Vapaaherra, paroni Cedercreutz nautti keräilystä. Sen aistii taide- ja koriste-esineistä, joita on ihmetellä Harjulan taiteilijakodissa. Erikoisilla pitsireunoilla koristettuja taljojakin on monia: tiikerin, kamelin, jääkarhun ja hevosen taljoja löytyy. </p>
+  <p>Ryijyistä taiteilija piti erityisesti. </p>
+  <p>&#8211;&#8201; Tarinoiden mukaan paroni sai tai osti tarpeettomia ryijyjä seudun maataloista. Sitten hän kuljetti niitä rullalla kotiinsa silloin tällöin myös polkupyörän sarvien välissä, kertoo museoamanuenssi Satu Tenhonen.</p>
+  <p>Maahengen temppeliinsä mies keräsi huiman kokoelman työvälineitä.</p>
+  <p> </p>
+  <p>
+<h3>Pyörämiehen hyppy</h3>
+</p>
+  <p></p>
+  <p>Opaskierrosten yhteydessä paikalliset ovat kertoneet Tenhoselle eläviä tarinoita merkkimiehestään. Lähiympäristössä taiteilija liikkui usein jarruttomalla polkupyörällä.</p>
+  <p>&#8211;&#8201; Eemeli kuulemma hyppäsi pyörän päältä vauhdissa ja antoi sen valua taitavasti ilman kuljettajaa seinän viereen. Vauhtia riitti, Tenhonen naurahtaa.</p>
+  <p>Esteetikko Cedercreutz rakasti yllätyksiä. Eräänä talvena ohikulkijat saivat hätkähtää näkyä. Taiteilija oli pistellyt tien vierustan hangen täyteen kuivakukkia.</p>
+ 
+  
+  
+  
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

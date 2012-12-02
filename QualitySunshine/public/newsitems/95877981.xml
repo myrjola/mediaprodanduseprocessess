@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95877981" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T12:29:06</versionCreated>
+<firstCreated>2012-07-30T12:29:03</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T12:29:03</contentCreated>
+<contentModified>2012-07-30T12:29:06</contentModified>
+<located type="loctype:City">
+<name>Tampere</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:085">
+<name>stt 085</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74376">
+<name>Tampereen Teatterikesässä on vielä tilaa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97747952">
+<name>Tampereen Teatterikesässä on vielä tilaa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000963">
+<name>963</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7023"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1017000">
+<name>Teatteri</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Tampere</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Tampereen Teatterikesä alkaa ensi viikolla</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7023">
+<name>Tampere</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=61.4978,+23.7623</definition>
+<geoAreaDetails>
+<position latitude="61.49781" longitude="23.76226"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:295">
+<name>Tampere</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:27">
+<name>Pirkanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Tampereen Teatterikesä alkaa viikon kuluttua. Perinteikäs teatterifestivaali järjestetään jo 44. kerran.</p>
+  <p>Teatterikesään on koottu suomalaisen teatterivuoden parhaita paloja sekä tuoreita ulkomaisia näytelmiä muun muassa Virosta, Saksasta ja Liettuasta. Pääohjelmiston suosituimmat kotimaiset esitykset ovat jo loppuunvarattuja, mutta monissa esityksissä on vielä tilaa.</p>
+  <p>&#8211;&#8201; Tämä on hyvin tyypillistä, ensin ostetaan lippuja suomalaisiin esityksiin ja sitten herätään kiinnostumaan ulkomaisista vierailijoista, sanoo Teatterikesän tiedottaja Eevamaija Miettinen-Kopsa.</p>
+  <p>Pääohjelmiston lisäksi Teatterikesään kuuluu musiikkia, tanssia ja pienimuotoisia teatteriesityksiä Keskustorin ohjelmateltassa ja tamperelaisissa ravintoloissa. Lisäksi Off Tampere -oheistapahtuma tuo Tampereelle joukon muitakin ammattilais- ja harrastajaryhmiä kuin varsinaisiin ohjelmistoihin mahtuneet.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

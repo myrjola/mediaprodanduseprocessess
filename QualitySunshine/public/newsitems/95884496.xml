@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95884496" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T16:24:21</versionCreated>
+<firstCreated>2012-07-31T16:24:18</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0019">
+<name>Tästä on kyse</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T16:24:18</contentCreated>
+<contentModified>2012-07-31T16:24:21</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:162">
+<name>stt 162</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:73864">
+<name>maahanmuuttajien äänestämistä halutaan lisätä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97785618">
+<name>Maahanmuuttajalla mahdollisuus vaikuttaa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000625">
+<name>625</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:4278"/>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14003000">
+<name>Väestökysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14003002">
+<name>Maahanmuutto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11012000">
+<name>Aluehallinto Paikallishallinto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11012996">
+<name>Kuntapolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11003000">
+<name>Vaalit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11003006">
+<name>Kunnallisvaalit</name>
+</subject>
+<slugline>///TÄSTÄ ON KYSE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Monikulttuurijärjestöjen yhteistyöverkosto Moniheli järjestää tiedotustilaisuuden maahanmuuttajien osallistumisesta kuntavaaleihin. Tilaisuudessa kuullaan muiden muassa oikeusministeriön vaaliasiantuntijaa sekä Monihelin projektivastaavia.
+
+Moniheli pyrkii edistämään maahanmuuttajien tietoisuutta paikallishallinnon päätöksenteosta. Euroopan unionin kotouttamisrahaston rahoittaman Monihelin iCount-projektin päätavoite on nostaa maahanmuuttajien osallistumista lokakuun 2012 kuntavaaleissa.
+
+Suomessa asuvien maahanmuuttajien osallistuminen vaaleihin on ollut hyvin laimeaa. Esimerkiksi Ruotsissa ja Norjassa noin 60 prosenttia maahanmuuttajista äänestää kuntavaaleissa, kun vastaava luku Suomessa on vain 20 prosenttia.</description>
+<headline>Kuntavaaleissa ei tarvitse olla Suomen kansalainen</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:4278">
+<name>Helsingin kaupungin henkilöstökeskus</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="60.183768" longitude="24.93969"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Ensi linja1</line>
+<postalCode>HELSINKI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>&#8211;&#8201; Äänestysoikeus kuntavaaleissa on Suomessa asuvilla Norjan, Islannin ja EU:n kansalaisilla, kunhan he ovat muuttaneet maahan viimeistään 51 päivää ennen vaaleja.</p>
+  <p>&#8211;&#8201; EU:n ja Pohjoismaiden ulkopuolinen maahanmuuttaja saa äänestää kuntavaaleissa, jos hän on asunut Suomessa vähintään kaksi vuotta ja on vähintään 18-vuotias.</p>
+  <p>&#8211;&#8201; Maassa-asumisaika on lyhin koko Euroopassa.</p>
+  <p>&#8211;&#8201; Vaalikelpoisuus kuntavaaleissa määräytyy samojen periaatteiden mukaan kuin äänestyskelpoisuus.</p>
+  <p>&#8211;&#8201; Vaalit.fi-sivustolla on tietoa Suomen kuntavaaleista suomen, ruotsin, englannin, viron ja somalian kielillä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

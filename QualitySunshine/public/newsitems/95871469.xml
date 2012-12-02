@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95871469" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T21:23:42</versionCreated>
+<firstCreated>2012-07-28T21:23:15</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:update"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T21:23:15</contentCreated>
+<contentModified>2012-07-28T21:23:42</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:227">
+<name>stt 227</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75106">
+<name>Kesän lämpöennätys rikotaan todennäköisesti sunnuntaina</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97760741">
+<name>Kesän lämpöennätys rikotaan todennäköisesti sunnuntaina</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001109">
+<name>1109</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:11118"/>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17003000">
+<name>Säätiedotteet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17003001">
+<name>Sääuutiset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17001000">
+<name>Sääennusteet</name>
+</subject>
+<slugline>///PÄIVITETTY NETTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Hellettä monin paikoin &#8211; luvassa ukkosta ja raekuuroja</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:11118">
+<name>Oulu</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:205">
+<name>Oulu</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:23">
+<name>Pohjois-Pohjanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Helleraja 25 astetta on rikkoontunut tänään monin paikoin. Lämpimin lukema on mitattu Turun Artukaisissa, jossa lämpötila nousi 27,9 asteeseen. Myös esimerkiksi Lahdessa ja Porissa on ollut yli 27 astetta, kertoo Ilmatieteen laitos.</p>
+  <p>Tämän kesän helle-ennätyksen ennustetaan kuitenkin rikkoontuvan vasta huomenna, kun miltei koko maa kylpee helteessä pohjoista Lappia lukuun ottamatta. Helteestä on tulossa tukala kostean ilman vuoksi. Lämpöraja rikottaneen huomenna maan itä- tai keskiosassa, jossa päästään jopa 30 asteen lukemiin.</p>
+  <p>Kesän tähänastinen ennätys on 28,5 astetta. Se mitattiin Hämeenlinnan Evolla 8. heinäkuuta.</p>
+  <p>Ukkoset alkavat nousta yön aikana eteläiseen Suomeen. Iltayhdeksän aikaan Hangossa salamoi. Huomenna etelärannikolta Oulun tienoille tulee monin paikoin ukkoskuuroja, jotka ovat paikoin voimakkaita. Ilmatieteen laitos ennustaa salamoinnin lisäksi rankkasateita ja paikoin jopa suuria rakeita.</p>
+  <p>&#8211;&#8201; Olosuhteet raekuuroille ovat otolliset, sillä on voimakkaita nousuvirtauksia ja kosteutta, kertoo päivystävä meteorologi Jari Tuovinen.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

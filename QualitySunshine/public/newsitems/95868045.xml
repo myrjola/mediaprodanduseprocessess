@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95868045" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T21:31:46</versionCreated>
+<firstCreated>2012-07-27T21:31:41</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0013">
+<name>Tulokset</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T21:31:41</contentCreated>
+<contentModified>2012-07-27T21:31:46</contentModified>
+<located type="loctype:City">
+<name/>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:224">
+<name>stt 224</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97758410">
+<name/>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000000">
+<name>0</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<slugline/>
+<dateline/>
+<by/>
+<description role="drol:summary">tulokset.VI_27.07.2012.1-8</description>
+<headline>Ravituloksia/Vieremä</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+<p>Vieremä 27.07 Toto5</p>
+<p>1. lähtö, sh 2160 m: 1) Perhon Tyttö/Veikko Taskinen 30,2a (6,75), 2) Marjan Nopsa 30,3a x (2,69).3) Jelemo 30,3a (4,08).4) Vili Vilhelmi 30,8a (25,13). Toto (6-5-10): 6,75 2,39-1,30-1,37 13,26.</p>
+<p>2. lähtö, lv 2160 m: 1) Bonne Fiona/Arto Komulainen 16,9a (51,75), 2) Hillbilly Doris 16,9a (9,47).3) Duran's Best 17,3a x (4,18).4) Herman Jat 17,5a (27,87).poissa: 1. Toto (12-7-8): 51,75 5,80-2,55-1,88 75,33.</p>
+<p>3. lähtö, sh 2160 m: 1) Tuikun Poju/Markku Taskinen 28,0a (1,96), 2) Apassi Junior 28,1a (4,54).3) Viiru-Valtteri 28,5a (12,45).4) Tinos 28,9a (18,61).poissa: 2. Toto (5-7-9): 1,96 1,26-1,37-1,92 3,28.</p>
+<p>4. lähtö, Toto5-1, lv 2160 m Nuorten Sarja 2012: 1) Horsetail's Jack/Arto Komulainen 16,6 x (2,03), 2) Hit That 16,9 (24,03).3) Vie De Adonis 16,2 (13,65).4) Mr Dumbledore 16,5 (24,03).poissa: 9, 10. Toto (11-3-14): 2,03 1,50-4,97-3,69 38,35. Toto5 voitto-osuus: 2,90.</p>
+<p>5. lähtö, Toto5-2, lv 2160 m: 1) Robert Sam/Janne Karppinen 16,3a (6,13), 2) Dreamliner 16,6a (6,25).3) Lass Jolly 16,9a x (6,5).4) Markus Chief 16,9a x (11,03).poissa: 5, 12. Toto (4-7-9): 6,13 2,01-1,71-2,24 12,45. Toto5 voitto-osuus: 6,40.</p>
+<p>6. lähtö, Toto5-3, sh 2160 m Vieremän Kunta -lähtö: 1) Virijori/Tero E Mäenpää 23,4 (3,07), 2) Einomies 23,6 (2,86).3) Virin Väiski 24,8 (15,92).4) Suletti 25,6 (6,65). Toto (6-8-3): 3,07 1,16-1,20-1,47 2,32. Toto5 voitto-osuus: 10,40.</p>
+<p>7. lähtö, Toto5-4 DUO-1, lv 1660 m Iisalmen Sanomat -maili: 1) Garlands Dream/Pekka Korpi 12,7a (5,33), 2) Pay Back Runner 13,7a x (9,69).3) Mayday Photo* 13,9a (12,81).4) Roberto Luca 14,2a (18,36). Toto (3-8-4): 5,33 1,55-3,11-2,89 28,16. Toto5 voitto-osuus: 27,10.</p>
+<p>8. lähtö, Toto5-5 DUO-2, lv 2180 m Einari Vidgrénin Muistoajo: 1) Ride Elisa/Jukka-Pekka Kauhanen 15,5 (8,64), 2) Rocktown Bailiff 15,8 (6,69).3) E.V. Towine 15,8 (10,85).4) Classical Duo 16,4 (1,86).poissa: 1, 8. Toto (7-2-9): 8,64 1,97-2,08-2,64 21,57. Toto5 voitto-osuus: 114,20. Päivän Duo: 3-7, kerroin: 41,13.</p>
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

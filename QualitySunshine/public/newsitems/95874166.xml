@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95874166" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T16:14:04</versionCreated>
+<firstCreated>2012-07-29T16:14:01</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T16:14:01</contentCreated>
+<contentModified>2012-07-29T16:14:04</contentModified>
+<located type="loctype:City">
+<name>Sysmä</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:121">
+<name>stt 121</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75206">
+<name>Poliisi selvittää epäselvää kuolemaa Sysmässä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97768521">
+<name>Poliisi selvittää epäselvää kuolemaa Sysmässä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000511">
+<name>511</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:6888"/>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003000">
+<name>Poliisi</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003002">
+<name>Poliisitutkinta</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001006">
+<name>Väkivaltarikokset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Sysmä</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Mies kuoli epäselvissä olosuhteissa mökillä Sysmässä</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6888">
+<name>Sysmä</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:286">
+<name>Sysmä</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:24">
+<name>Päijät-Häme</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Poliisi selvittää miehen epäselvää kuolemaa Sysmässä Päijät-Hämeessä. Noin 50-vuotias mies löytyi kuolleena kesämökiltä. Poliisin mukaan hänessä oli ulkoisen väkivallan merkkejä.</p>
+  <p>Poliisi sai hälytyksen sunnuntaina aamuyöllä. Paikalla oli useita miehen lähipiiriin kuuluvia ihmisiä. Poliisin mukaan kuollut mies oli riidellyt hieman ennen kuolemaansa muiden kanssa.</p>
+  <p>Poliisi otti paikalta kiinni kaksi miestä. Poliisi selvittää tapahtumia ja miehen kuolinsyytä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

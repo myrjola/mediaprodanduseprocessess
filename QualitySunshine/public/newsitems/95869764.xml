@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95869764" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T15:01:13</versionCreated>
+<firstCreated>2012-07-28T15:01:10</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0019">
+<name>Tästä on kyse</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>5</urgency>
+<contentCreated>2012-07-28T15:01:10</contentCreated>
+<contentModified>2012-07-28T15:01:13</contentModified>
+<located type="loctype:City">
+<name>Helsinki/New York</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:099">
+<name>stt 099</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75095">
+<name>YK:ssa ei päästy sopimukseen asekaupasta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97761182">
+<name>YK:ssa ei päästy sopimukseen asekaupasta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000932">
+<name>932</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11027000">
+<name>Kansainväliset sopimukset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11001000">
+<name>Puolustus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11001006">
+<name>Ampuma-aseet</name>
+</subject>
+<slugline>///TÄSTÄ ON KYSE///</slugline>
+<dateline>Helsinki/New York</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Uusi yritys todennäköisesti lokakuussa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>&#8211;&#8201; Neuvottelut asekauppasopimuksesta alkoivat New Yorkissa heinäkuun alussa ja ne päättyivät lauantaina.</p>
+  <p>&#8211;&#8201; Luonnoksen allekirjoitti yli 90 valtiota. Sopimustekstin hyväksymistä vastustivat lopulta Kiina, Venäjä, Yhdysvallat, Algeria, Egypti, Iran, Pohjois-Korea ja Syyria.</p>
+  <p>&#8211;&#8201; Sopimus olisi syntyäkseen vaatinut konsensusta. Allekirjoittajamaat kuitenkin vakuuttivat viimeistelevänsä sopimuksen luonnoksen pohjalta piakkoin.</p>
+  <p>&#8211;&#8201; Sopimus voidaan hyväksyä esimerkiksi YK:n yleiskokouksessa lokakuussa, jolloin yksimielisyyttä ei tarvita. Suurimpien aseviejien jääminen ulkopuolelle tosin heikentäisi sopimusta.</p>
+  <p>&#8211;&#8201; Sopimuksella säädellään tavanomaisten aseiden kauppaa. Se velvoittaisi aseviejät muun muassa tarkistamaan, ettei aseita käytetä ihmisoikeusloukkauksiin tai terrorismiin.</p>
+  <p>&#8211;&#8201; Asekauppa on noin 50 miljardin euron vuotuinen bisnes. Suurin aseviejä on Yhdysvallat.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

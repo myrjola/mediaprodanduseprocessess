@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95874468" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T17:51:49</versionCreated>
+<firstCreated>2012-07-29T17:51:43</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T17:51:43</contentCreated>
+<contentModified>2012-07-29T17:51:49</contentModified>
+<located type="loctype:City">
+<name>Jämsä</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:152">
+<name>stt 152</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75213">
+<name>Poliisi on huolestunut huumausainerikoksista Pipefestissa Jämsässä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97769027">
+<name>Poliisi on huolestunut huumausainerikoksista Pipefestissa Jämsässä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000628">
+<name>628</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001004">
+<name>Huumausainerikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1019000">
+<name>Perinne Tapakulttuuri</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003000">
+<name>Poliisi</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003001">
+<name>Lainvalvonta</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011004">
+<name>Populaarimusiikki</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Jämsä</dateline>
+<by/>
+<description role="drol:summary">Poliisi kirjasi ylös 25 huumausainerikosta Jämsän Himoksella järjestetyiltä hiphop-festivaaleilta.</description>
+<headline>Huumeet jälleen poliisin huolena Pipefestissa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Poliisi on huolestunut huumeiden käytöstä Jämsän Himoksella järjestetyllä Pipefest-hiphopfestivaalilla Keski-Suomessa.</p>
+  <p>Poliisi kirjasi viikonlopun aikana 25 huumausainerikosta. Huumausaineen käyttörikoksia oli 23 kappaletta, ja näissä kymmenessä oli tekijänä 16&#8211;17-vuotias. </p>
+  <p>Lastensuojeluilmoituksia festivaaleilta tehtiin kaikkiaan 30 kappaletta.</p>
+  <p>Aiempien vuosien huumausainerikosten suuren määrän vuoksi Pipefestiin asetettiin tänä vuonna 16 vuoden ikäraja. Myös tapahtuman huumevalvontaa tehostettiin tänä vuonna. </p>
+  <p>Festivaalin pääesiintyjä oli yhdysvaltalainen rap-artisti B.o.B. </p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

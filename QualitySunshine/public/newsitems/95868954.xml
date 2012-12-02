@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95868954" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T04:35:03</versionCreated>
+<firstCreated>2012-07-28T04:34:29</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T04:34:29</contentCreated>
+<contentModified>2012-07-28T04:35:03</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:021">
+<name>stt 021</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75096">
+<name>HS: Ohjuskaupan sotku johtui Pentagonin virheestä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97759845">
+<name>HS: Ohjuskaupan sotku johtui Pentagonin virheestä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000666">
+<name>666</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16012000">
+<name>Aseet</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>HS: Ohjuskaupan sotku johtui Pentagonin virheestä</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suomen ohjuskauppaa viivästyttänyt lupasotku johtui Yhdysvaltojen puolustusministeriön virheestä, kertoo Helsingin Sanomat. Ministeriö oli hakenut USA:n kongressilta lupaa väärälle ohjukselle, jota ei enää edes valmisteta.</p>
+  <p>&#8211;&#8201; Se oli selvä kirjoitusvirhe, sanoo HS:lle Paul Ebner DSCA-virastosta.</p>
+  <p>Pentagonista kerrottiin lehdelle, että hakemuksen korjaamisen jälkeen asekaupan kaatuminen on epätodennäköistä. Lupa-asian on määrä ratketa 5. elokuuta mennessä.</p>
+  <p>Suomi on ostamassa Yhdysvalloista enintään 70 taktista ohjusta. Hinnaksi tulisi tällä määrällä yli sata miljoonaa euroa. Lopullinen ostopäätös tehdään syksyllä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

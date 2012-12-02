@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120808:95923824" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-08T16:15:35</versionCreated>
+<firstCreated>2012-08-08T16:15:31</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-08T16:15:31</contentCreated>
+<contentModified>2012-08-08T16:15:35</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:178">
+<name>stt 178</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76229">
+<name>Valtiovarainministeriö ja muut ministeriöt julkaisevat ehdotuksensa ensi vuoden budjetiksi</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97857517">
+<name>VM ei lämmennyt liikenne- ja viestintäministeriön pilvitoiveelle</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000712">
+<name>712</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<slugline>///KAINALO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Valtiovarainministerin budjettiehdotus julkistetaan kokonaisuudessaan VM:n nettisivuilla.
+Keskiviikkona tulevat julki myös muiden ministeriöiden toukokuussa valtiovarainministeriöön toimittamat budjettiehdotukset.</description>
+<headline>VM ei lämmennyt viestintäministeriön pilvihankkeelle</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Liikenne- ja viestintäministeriö (LVM) on jäämässä ilman toivomaansa pilvipalveluiden määrärahaa.</p>
+  <p>LVM haluaisi perustaa pilvipalveluiden testausympäristön, jossa pienet ja keskisuuret yritykset pääsisivät testaamaan tuotteitaan. Ministeriön ylijohtajan Juhapekka Ristolan mukaan palvelu edistäisi kasvua ja se edistäisi myös julkishallintoa.</p>
+  <p>Testausympäristön perustaminen ja digitaalisten palveluiden kehittäminen maksaisi 4,1 miljoonaa euroa.</p>
+  <p>Isoista kysymyksistä liikenne- ja viestintäministeriö ja valtiovarainministeriö olivat pitkälti samaa mieltä. Esimerkiksi haja-asutusalueiden laajakaistahankkeen ja Yleisradion rahoituksesta erimielisyyttä ei ollut.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120808:95923210" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-08T17:12:35</versionCreated>
+<firstCreated>2012-08-08T17:12:31</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0019">
+<name>Tästä on kyse</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>5</urgency>
+<contentCreated>2012-08-08T17:12:31</contentCreated>
+<contentModified>2012-08-08T17:12:35</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:201">
+<name>stt 201</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76238">
+<name>Julkisuudessa mm. näyttelijöitä moittinut Kirsikkapuiston ohjaaja Andriy Zholdak STT:n haastattelussa.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97856116">
+<name>Shakespearen ja Tsehovin ihailija</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000621">
+<name>621</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7053"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1017000">
+<name>Teatteri</name>
+</subject>
+<slugline>///TÄSTÄ ON KYSE LIITTYY ZHOLDAKIN HAASTATTELUUN///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">STT 2.6.
+
+Turun kaupunginteatterin johtaja Raija-Liisa Seilo ei ole huolissaan ensi syksyllä ohjelmistoon tulevan Kirsikkapuisto-näytelmän puolesta. Lauantaina keskustelua herätti Helsingin Sanomien verkkolehdessä julkaistu avoin kirje, jonka Kirsikkapuistoa ohjaava Andriy Zholdak oli kirjoittanut työryhmälleen.
+Seilon mukaan venäjästä suomeksi käännetty kirje luettiin teatterin päättäjäisissä viime viikon perjantaina.
+Kirjeessä ohjaaja sanoo muun muassa, että se, mitä näyttelijät saavat irti tekstistä, on jotain todella mitätöntä. Lisäksi hän moittii näyttelijöitä halusta toistaa kaikessa rauhassa sitä, mitä ovat ennenkin tehneet. Ohjaaja kirjoittaa melkein luhistuvansa näyttelijöiden velttouden ja pehmeyden alla.
+
+"Ohjaajaa kuvaa taidekäsitystään"
+
+Seilo kertoo tunteneensa Zholdakin kymmenen vuotta.
+–Hän läksyttää näyttelijöitä, vaatii heiltä paljon, mutta niin hän vaatii itseltäänkin.
+Kirsikkapuiston harjoitukset jatkuvat vasta elokuussa.
+–Täytyy muistaa, että hän on myös kouluttaja. Hän haluaa, että asiat pysyvät näyttelijöiden päässä kesän yli, Seilo pohtii.
+Teatterinjohtaja kertoo lukeneensa kirjeen ennen teatterin päättäjäisiä. Hän luonnehtii ohjaajan kuvailevan siinä omaa ehdotonta taidekäsitystään. Seilo pitää liian jyrkkänä ilmaisua, että näyttelijät olisivat päättäjäisissä olleet shokissa.
+–Olihan se rankkaa tekstiä. Kaikki hiljenivät. Osa näyttelijöistä oli kuitenkin mukana jo Anna Kareninassa, ja Kirsikkapuiston harjoitusten aikana Zholdakin työskentelytapa on kyllä tullut tutuksi.
+
+Kohinaa jo aiemminkin
+
+Harjoitusvaiheessa oleva näytelmä nousi otsikoihin jo toukokuussa, kun näytelmän päärooliin valmistautunut Tea Ista poistui harjoituksista ja ilmoitti lähtevänsä kotiin.
+Hänen piti esittää tilanomistajatar Ranevskajaa vuorotellen Krista Kososen kanssa. Ohjaajan tarkoitus oli tehdä kummallekin oma tulkinta roolista. </description>
+<headline>Shakespearen ja Tshehovin ihailija</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7053">
+<name>Turku</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.4528,+22.2516</definition>
+<geoAreaDetails>
+<position latitude="60.452801" longitude="22.251551"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:304">
+<name>Turku</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:26">
+<name>Varsinais-Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>&#8211;&#8201; Teatteriohjaaja Andriy Zholdak täyttää marraskuussa 50 vuotta.</p>
+  <p>&#8211;&#8201; Berliinissä asuvalla ohjaajalla on 11- ja 13-vuotiaat pojat.</p>
+  <p>&#8211;&#8201; Zholdak opiskeli Venäjän teatteriakatemiassa Anatoli Vasiljevin opissa.</p>
+  <p>&#8211;&#8201; Ohjaajan suosikkikirjailijat ovat Anton Tshehov ja William Shakespeare.</p>
+  <p>&#8211;&#8201; Zholdakin ohjaama Kirsikkapuisto saa ensi-iltansa Turun kaupunginteatterissa 14. syyskuuta. Ensi vuonna Kansallisteatterissa Helsingissä nähdään Zholdakin Kolme sisarta.</p>
+  <p>&#8211;&#8201;  Zholdakin Klockriketeaterniin ohjaama Mordbror Vanja vierailee tällä viikolla Tampereen teatterikesässä.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

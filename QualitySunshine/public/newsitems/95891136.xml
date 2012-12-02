@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120801:95891136" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-01T22:36:11</versionCreated>
+<firstCreated>2012-08-01T22:36:08</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.livenation.fi" residref="urn:newsml:stt.fi:wwwlink:0000276">
+<title>Live Nation</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-01T22:36:08</contentCreated>
+<contentModified>2012-08-01T22:36:11</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:288">
+<name>stt 288</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74548">
+<name>Red Hot Chili Peppers (USA) konsertoi Tampereella</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97798822">
+<name>Red Hot Chili Peppers (USA) konsertoi Tampereella</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000472">
+<name>472</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7320"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011004">
+<name>Populaarimusiikki</name>
+</subject>
+<slugline>///LEHTIVERSIO TEKSTI KUVAAN///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Rock-yhtye Red Hot Chili Peppers tunnetaan mm. seuraavista kappaleistaan: ”Give It Away”, ”Under The Bridge”, ”Californication”, ”Scar Tissue”, ”Otherside”, ”Warped”, ”Aeroplane”, ”By The Way” ja “Dani California”. Kesän Suomen-keikalla basisti Flea, laulaja Anthony Kiedis ja rumpali Chad Smith esittelevät uuden bändijäsenensa Josh Klinghofferin, joka oli bändin sanojen mukaan kaikkein luonnollisin valinta kitaristinpestiin. Kyseessä on Red Hot Chili Peppersin ensimmäinen stadionkokoinen konsertti Suomessa.
+
+Red Hot Chili Peppers on yksi rock-historian menestyneimmistä yhtyeistä. Bändin levyjä on myyty maailmanlaajuisesti yli 70 miljoonaa kappaletta ja se on voittanut seitsemän Grammy-palkintoa. Red Hot Chili Peppers julkaisi uusimman albuminsa ”I’m With You” elokuun lopulla ja se myi heti julkaisuviikollaan Suomessa kultaa. Kyseessä on yhtyeen ensimmäinen studiolevy viiden vuoden tauon jälkeen. Albumilta lohkaistu ”The Adventures Of Rain Dance Maggie” -single on soinut radioissa tiiviisti läpi syksyn. 
+
+RHCP:tä lämmittelee The Vaccines Iso-Britanniasta.</description>
+<headline>Red Hot Chili Peppers rokkasi Ratinassa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7320">
+<name>Ratinan stadion</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:295">
+<name>Tampere</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:27">
+<name>Pirkanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Maailman tunnetuimpiin rockbändeihin kuuluvan Red Hot Chili Peppersin laulaja Anthony Kiedis villitsi yleisöä Tampereella. Keskiviikkoillan esiintyminen Ratinan stadionilla oli yhtyeen ensimmäinen stadionkokoinen keikka Suomessa. Paikalle odotettiin noin 30&#8201; 000:ta ihmistä.</p>
+  <p>Erityisen jännittävän illasta teki yhtyeen faneille myös se, että yhtye esitteli suomalaisyleisölle uuden jäsenensä, kitaristi Josh Klinghofferin.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870452" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T16:25:57</versionCreated>
+<firstCreated>2012-07-28T16:25:52</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.noc.fi" residref="urn:newsml:stt.fi:wwwlink:0000312">
+<title>Suomen Olympiakomitea</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.olympic.org" residref="urn:newsml:stt.fi:wwwlink:0000319">
+<title>Official website of the Olympic Movement</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T16:25:52</contentCreated>
+<contentModified>2012-07-28T16:25:57</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:123">
+<name>stt 123</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74668">
+<name>Olympialaiset: Kuinka käy Valtteri Jokiselle judon olympiaturnauksen 60 kilon sarjassa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97761335">
+<name>Olympialaiset: Kuinka käy Valtteri Jokiselle judon olympiaturnauksen 60 kilon sarjassa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002151">
+<name>2151</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15033000">
+<name>Judo</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///LEHTIVERSIO KAINALO SUNDBERGISTA///</slugline>
+<dateline>Lontoo</dateline>
+<by>TAPIO NEVALAINEN</by>
+<description role="drol:summary">XXX Kesäolympialaiset 2012 (-12.8.)</description>
+<headline>Jokisen hyvä vire riitti yhteen voittoon olympiatatamilla</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Judoka Valtteri Jokinen jätti Lontoon olympiatatamin kaksijakoisissa tunnelmissa. Hyvät otteet riittivät voittoon ja tappioon ja sijoitukseen 60 kilon sarjan kuudentoista parhaan joukossa.</p>
+  <p> &#8211;&#8201; Ei se huono ole, mutta ei tyydytäkään, ja hyvä niin, koska muuten tänne olisi lähetetty väärä mies, Jokinen arvioi olympiasaavutustaan.</p>
+  <p>Jokinen väänsi itselleen paikan olympiaturnaukseen kaksi vuotta kestäneessä karsinnassa. Lontoon urakan hän avasi kukistamalla marokkolaisen Afrikan mestarin Yassine Moudatirin ipponin arvoisella sidonnalla jatkoajalla. </p>
+  <p>Toisessa ottelussaan Jokinen pisti tiukasti kampoihin eteläkorealaiselle Aasian mestarille ja MM-kisojen viitoselle Gwang-Hyeon Choille. Suomalaisen ote herpaantui vain kerran, mutta se riitti Choille, joka vei voiton käsivarsiheitolla.</p>
+  <p>&#8211;&#8201; En ollut tarpeeksi nopea. Plokkaus myöhästyi, kun olin itse aikeissa tehdä liikkeen samaan aikaan, Jokinen muisteli hetkeä, jolloin Choi pääsi käyttämään lempitekniikkaansa.</p>
+  <p>Hyvänä mattojudon taitajana Jokinen koetti viedä Choin mattoon aina kun mahdollista.</p>
+  <p>&#8211;&#8201; Toisena juttuna koetin saada oikealla kädellä kiinni hänen hihastaan. Aina kun sain siitä kiinni, sain myös eliminoitua hänen yrityksensä. Yhden paikan hän kuitenkin sai. Hyvä, ettei siitä kuitenkaan tullut ipponia, ja pääsin vielä takaa-ajoon, Jokinen kertasi.</p>
+  <p></p>
+  <p>
+<h3>Jokinen otti taktisen huilin</h3>
+</p>
+  <p></p>
+  <p>Jokinen ei jättänyt ottelussa yhtään korttia kääntämättä. Hän kutsui joukkueen lääkärin tatamille pienen sormivamman takia kovan mattotilanteen jälkeen, jotta sai hitusen hengähdysaikaa. </p>
+  <p>&#8211;&#8201; Kynsinauha aukesi. Olisin voinut jatkaa ilman teippaustakin, mutta kun matossa painostaa kovaa, siinä menee mehuja aika paljon. Keräsin siinä voimia seuraavaan aloitukseen ja pääsinkin heti hyvin painostamaan, Jokinen kertaili taktista huilihetkeään.</p>
+  <p>Jossiteltavaa Jokiselle ei paljon jäänyt. Judokan mukaan kunnonajoitus osui nappiin.</p>
+  <p>&#8211;&#8201; Kyllä parhaat matsit kahden viimeisen vuoden ajalta sattuivat tänne, Jokinen tuumi.</p>
+  <p>Jokisen voittoa ja tappiota oli kisakatsomossa todistamassa myös presidentti Sauli Niinistö seurueineen.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

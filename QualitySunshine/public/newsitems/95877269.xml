@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95877269" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T07:40:22</versionCreated>
+<firstCreated>2012-07-30T07:40:18</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T07:40:18</contentCreated>
+<contentModified>2012-07-30T07:40:22</contentModified>
+<located type="loctype:City">
+<name>Delhi</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:026">
+<name>stt 026</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75253">
+<name>Jopa kymmeniä kuollut junapalossa Intiassa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97773327">
+<name>Jopa kymmeniä kuollut junapalossa Intiassa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000362">
+<name>362</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3010000">
+<name>Liikenneonnettomuudet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3010002">
+<name>Raideliikenneonnettomuudet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3004000">
+<name>Tulipalot </name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Delhi</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Jopa kymmeniä kuollut junapalossa Intiassa</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Intiassa jopa kymmenien ihmisten pelätään kuolleen junan tulipalossa maan eteläosassa. Delhistä Chennaihin matkanneessa junassa syttyi tulipalo varhain aamulla.</p>
+  <p>Intian rautatieministeriön mukaan kuolonuhreja on noin 30. Paikallinen tv-kanava kertoi, että palon syynä on ilmeisesti oikosulku junan sähköjärjestelmässä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

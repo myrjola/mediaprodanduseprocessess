@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120810:95899458" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-10T10:53:16</versionCreated>
+<firstCreated>2012-08-10T10:53:09</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0019">
+<name>Tästä on kyse</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-10T10:53:09</contentCreated>
+<contentModified>2012-08-10T10:53:16</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:085">
+<name>stt 085</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:73613">
+<name>Tero Saarinen tanssiin valaan äänien tahtiin</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97813825">
+<name>Saarisen ensi-iltojen työryhmät</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000578">
+<name>578</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7670"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1006000">
+<name>Tanssitaide</name>
+</subject>
+<slugline>///TÄSTÄ ON KYSE JUTTUUN TERO SAARISESTA///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Tero Saarisen ensi-iltojen tekijät</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7670">
+<name>Helsinki</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.1712,+24.9326</definition>
+<geoAreaDetails>
+<position latitude="60.171162" longitude="24.93265"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Scheme of Things ja Vox Balaenae:</p>
+  <p></p>
+  <p>&#8211;&#8201; koreografia: Tero Saarinen</p>
+  <p>&#8211;&#8201; valosuunnittelu, (lavastus Vox Balaenae): Mikki Kunttu</p>
+  <p>&#8211;&#8201; pukusuunnittelu: Erika Turunen</p>
+  <p>&#8211;&#8201; Scheme of Things, tanssijat: Annika Hyvärinen, Mikko Lampinen, Jarkko Lehmus, Natasha Lommi, Pekka Louhio, Maria Nurmela</p>
+  <p>&#8211;&#8201; Scheme of Things, musiikki: Biosphere, Jeff Buckley, Trey Gunn, Higher Intelligence Agency, Jarmo Saari</p>
+  <p>&#8211;&#8201; Vox Balaenae, tanssi: Tero Saarinen</p>
+  <p>&#8211;&#8201; Vox Balaenae, musiikki: George Crumb: Vox Balaenae</p>
+  <p>&#8211;&#8201; Vox Balaenae, äänisuunnittelu: Marco Melchior</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

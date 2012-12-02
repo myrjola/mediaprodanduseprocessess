@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95884906" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T17:48:19</versionCreated>
+<firstCreated>2012-07-31T17:47:51</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T17:47:51</contentCreated>
+<contentModified>2012-07-31T17:48:19</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:189">
+<name>stt 189</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75519">
+<name>Katainen vie Montin saunaan</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97787797">
+<name>Katainen vie Montin saunaan</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000869">
+<name>869</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010000">
+<name>Puolueet Poliittiset liikkeet Järjestöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010992">
+<name>Kokoomus</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Katainen vie Montin saunaan, ei tarjoa saunamakkaraa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Huomenna Suomessa vieraileva Italian pääministeri Mario Monti pääsee matkallaan saunaan pääministeri Jyrki Kataisen (kok.) kanssa. Lounaaksi Montille tarjotaan suomalaisia sesonkiherkkuja ja riistaa, lähi- ja luomuteemaan painottuen, pääministeri Katainen kertoi alkuillasta toimittajatapaamisessa.</p>
+  <p>Saunominen tapahtuu pääministerin virka-asunnon Kesärannan saunassa. Makkaraa ei Kataisen mukaan ole tarjolla.</p>
+  <p>&#8211;&#8201; Toivottavasti aurinko paistaa, kun näkymät ovat niin kauniit, pääministeri sanoi.</p>
+  <p>Illallisen Montille tarjoaa huomisiltana presidentti Sauli Niinistö. Tämän illallisen ruokalistasta ei ole toistaiseksi tietoa.</p>
+  <p>Italialaispääministereillä ja suomalaisella ruualla on ollut karikkoinen suhde sen jälkeen, kun Italian entinen pääministeri Silvio Berlusconi vuosia sitten arvosteli suomalaisruokaa mauttomaksi.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

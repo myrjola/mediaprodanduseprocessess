@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95866876" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T13:33:17</versionCreated>
+<firstCreated>2012-07-29T13:33:13</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.noc.fi" residref="urn:newsml:stt.fi:wwwlink:0000312">
+<title>Suomen Olympiakomitea</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.olympic.org" residref="urn:newsml:stt.fi:wwwlink:0000319">
+<title>Official website of the Olympic Movement</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T13:33:13</contentCreated>
+<contentModified>2012-07-29T13:33:17</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:075">
+<name>stt 075</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74681">
+<name>Olympialaiset: Mikä teki Lontoon kisoihin valmistautumisesta niin vaikean Hanna-Maria Seppälälle?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97756242">
+<name>Olympialaiset: Hanna-Maria Seppälä otti realismin mukaan</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002964">
+<name>2964</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15062000">
+<name>Uinti</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///LEHTIVERSIO LEHTIKUVAA, JUTTUUN LIITTYY KAINALO///</slugline>
+<dateline>Lontoo</dateline>
+<by>JARKKO SORJONEN</by>
+<description role="drol:summary"/>
+<headline>Mitali ei ole Seppälälle realismia</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Realismin kevät vei Hanna-Maria Seppälän tavoitteen olympiamitalista Lontoossa. Seppälä kokee, ettei hänen nykytasonsa mahdollista yltämistä kolmen kärkeen sadan metrin vapaauinnissa, vaikka kuinka mieli tekisi.</p>
+  <p>&#8211;&#8201; Pitää olla realisti. Mitaliin pitäisi päästä alle 54 sekunnin, minä en ole päässyt alle 55 sekunnin, Seppälä kiteyttää.</p>
+  <p>Tilanteesta kertoo sekin, että suoraan olympiapaikkaan oikeuttava aikaraja oli liian kova. Hän pääsi mukaan heikomman ns. b-rajan myötä.</p>
+  <p>&#8211;&#8201; Tilanne oli uusi. Olin kokematon, en ollut aiemmin ollut tilanteessa, jossa olisi pitänyt rikkoa joku raja, Seppälä kertaa.</p>
+  <p>Olympiatasolla Seppälällä piisaa kokemusta. Hän on neljättä kertaa mukana.</p>
+  <p>&#8211;&#8201; Paljon helpompi lähteä olympialaisiin kuin alittamaan jotain rajaa. Koko kevään olisi voinut keskittyä ennemmin olennaiseen kuin johonkin rajaan, joka ei ole olennainen paitsi siinä, että pääsisi kisoihin mukaan, Seppälä pyörittelee.</p>
+  <p></p>
+  <p>
+<h3>Viimeksi neljäs</h3>
+</p>
+  <p></p>
+  <p>Edellisissä olympialaisissa Pekingissä Seppälä päätyi paraatilajissaan reilun puolen sekunnin päähän mitalista neljänneksi.</p>
+  <p>Finaalin jälkeen hän hahmotteli Vesikuution haastattelualueella porrastettua projektia kohti Lontoota. Ensimmäinen vuosi meni rennommin, ja siitä oli määrä kiristää tahtia pikkuhiljaa mitaliin asti. Pääpiirteittäin suunnitelma päti, mutta tavoite muuttui matkalla.</p>
+  <p>&#8211;&#8201; Tavoitteeni on päästä alle 55 sekunnin ja sitten katsotaan mihin se riittää. Tietenkin tavoite on päästä mahdollisimman pitkälle, mutta en halua ottaa paineita ja haluan pitää realismin mukana, hän toistaa.</p>
+  <p>Seppälä muistelee lähteneensä vielä viime syksyyn sillä mielellä, että mitalivauhti löytyy. </p>
+  <p>&#8211;&#8201; Sanotaan, että ylipäätään tämä neljä vuotta on ollut yllättävän raskas. Totta kai sitä suunnitteli, että kaikki menee optimaalisesti, mutta kun ne ei aina mene. Tiettyihin asioihin ei voi vaikuttaa, terveydestä asti. Pitää mennä niillä eväillä mitä on.</p>
+  
+  <p>
+<h3>Selkä, kylki ja astma</h3>
+</p>
+  <p></p>
+  <p>Osansa tavoitteen höllentämisessä on loukkaantumisilla ja sairastelulla. Seppälän selkä oireili vielä jouluna. Muistissa on myös kylkiluun murtuma, joka pakotti hänet vetäytymään EM-kilpailuista kesällä 2010. Tämän kevään EM-finaaliin puuttui astma.</p>
+  <p>Seppälä on yrittänyt rakentaa olympiakuntoa ns. minikauden muodossa eli normaalia kiivaammalla tahdilla. Hän vietti viimeistelyleirin Torremolinosissa sillä poikkeuksella muista suomalaisista olympiauimareista, että piipahti kotimaassa ennen Lontoota.</p>
+  <p>&#8211;&#8201; Halusin käydä vähän rauhoittumassa ennen kisoja, ettei tullut niin pitkää reissua putkeen, Seppälä kertoo.</p>
+  <p>Seppälän, 27, uintiuran on määrä jatkua, kävi Lontoossa miten kävi.</p>
+  <p>&#8211;&#8201; Marraskuun lopussa on lyhyen radan EM-kilpailut ja joulukuussa lyhyen radan MM-kilpailut, Seppälä mainitsee.</p>
+  <p>Seppälä aloittaa olympialaisensa maanantaina 200 metrin vapaauinnilla. Kyse on avaavasta sivulajista, jonka tarkoituksena on poistaa ylimääräistä painetta ennen keskiviikkona alkavaa leipälajia.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

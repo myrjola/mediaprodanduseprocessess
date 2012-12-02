@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120801:95890499" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-01T17:47:05</versionCreated>
+<firstCreated>2012-08-01T17:46:59</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-01T17:46:59</contentCreated>
+<contentModified>2012-08-01T17:47:05</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:179">
+<name>stt 179</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74826">
+<name>Italian pääministeri Monti ja pääministeri Katainen keskustelevat eurokriisistä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97797057">
+<name>Monti: Italia ei tarvitse apua</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001101">
+<name>1101</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4017000">
+<name>Talouselämä Talouspolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008021">
+<name>Lainat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008008">
+<name>Valtion velka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008012">
+<name>Rahamarkkinat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006000">
+<name>Julkinen hallinto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006006">
+<name>Valtionpäämiehet</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Kdeski &lt;Kdeski@stt-lehtikuva.fi&gt;</description>
+<headline>Monti: Italia ei tarvitse apua, markkinat tarvitsevat</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Suomessa vierailevan Italian pääministerin Mario Montin mukaan Italia ei tarvitse muun Euroopan talousapua. Sen sijaan valtioiden väliset lainamarkkinat tarvitsevat apua toimiakseen, mikä auttaisi myös Italiaa.</p>
+  <p>Monti korosti, että Italian valtiontalous on ylijäämäinen ilman korkokuluja, eli sen velka on vähenemässä.</p>
+  <p>Pääministeri Jyrki Kataisen (kok.) mukaan markkinatalous on saatava jälleen toimimaan niin, että kunkin maan velka hinnoitellaan oikein. Hänkään ei usko Italian tarvitsevan tukea, mutta jos sitä annetaan väliaikaisen vakausrahaston kautta, Suomi vaatisi vakuuksia. Pysyvässä vakausmekanismissa niitä ei tarvita, koska lainoilla on ensisijaisuus.</p>
+  <p>Euromaat ovat Kataisen mukaan valmistelemassa toimia, jotka olisivat yhdistelmä esillä olleista keinoista. Tavoitteena on hankkia aikaa eri maille toteuttaa päätettyjä toimia ja markkinavoimille tutustua niihin.</p>
+  <p>Pääministerit keskustelivat myös molempien maiden kansalaisten näkemyksistä. Kataisen mukaan Monti ymmärsi hyvin suomalaisten kannan, että sopimuksista on pidettävä kiinni.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

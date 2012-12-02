@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95868572" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T02:51:15</versionCreated>
+<firstCreated>2012-07-28T02:51:11</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T02:51:11</contentCreated>
+<contentModified>2012-07-28T02:51:15</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:014">
+<name>stt 014</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75063">
+<name>Olympialaiset: Avajaiset</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97759039">
+<name>Olympialaiset: Avajaiset</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002756">
+<name>2756</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Lontoo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Lontoo valitsi nuoret olympiatulen sytyttäjiksi</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Kisat haluavat jättää perinnön tuleville sukupolville</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Seitsemän nuorta urheilijaa sai lauantain varhaistunteina kunnian sytyttää olympiatulen Lontoon olympialaisten alkamisen merkiksi. Nuorten valinta vahvisti Lontoon kisojen aietta jättää olympialaisilla vahva perintö tuleville sukupolville.</p>
+  <p>Olympiatulen sytyttäjä oli avajaisten ahkerimmin varjeltuja salaisuuksia, ja myös tulimalja pysyi avajaisiin osallistuneilta katsojilta piilossa loppuun asti. Malja koostuu jokaisen osanottajamaan stadionille tuomista kupariputkista, jotka nousivat keskelle stadionia maljan seiniksi.</p>
+  <p>Olympiatulen toi stadionille soudun viisinkertainen olympiavoittaja Steve Redgrave. Hän sai tulen jalkapalloilija David Beckhamilta, joka toi sen stadionin viereen veneellä.</p>
+  <p>Kisat avasi kuningatar Elisabet II, joka pääsi kunniatehtävään toisen kerran. Hän avasi myös Montrealin kesäkisat vuonna 1976 Kanadassa.</p>
+  <p></p>
+  <p>
+<h3>Seppälä teki olympiahistoriaa</h3>
+</p>
+  <p></p>
+  <p>Olympiahistorian 30. kesäkisoihin osallistuu noin 10&#8201; 500 urheilijaa, jotka edustavat 205 kansallista olympiakomiteaa. Ensi kertaa olympiahistoriassa jokaisessa joukkueessa on myös naisurheilijoita.</p>
+  <p>Suomen joukkueen lipunkantaja Hanna-Maria Seppälä teki olympiahistoriaa, sillä hän oli ensimmäinen nainen Suomen lipunkantajana kesäkisoissa. Uimari Seppälä kilpailee neljänsissä olympialaisissaan.</p>
+  <p>Marssiin osallistunutta noin kolmenkymmenen suomalaisen joukkoa tervehtivät katsomosta muun muassa presidentti Sauli Niinistö ja hänen puolisonsa Jenni Haukio.</p>
+  <p></p>
+  <p>
+<h3>Bolt näki erilaisen stadionin</h3>
+</p>
+  <p></p>
+  <p>Lipunkantajista nimekkäimpiä olivat pikajuoksun ME-mies, Jamaikan Usain Bolt ja kotijoukkueen viimeisenä stadionille johdattanut Chris Hoy, joka on voittanut pyöräilyssä neljä olympiakultaa.</p>
+  <p>Bolt ja muut avajaisiin osallistuneet yleisurheilijat eivät tunnista uutta Olympiastadionia samaksi, kun yleisurheilu pääsee kisoissa vauhtiin viikon päästä. Stadionille oli rakennettu muun muassa kukkula, jolle maiden liput asetettiin marssin kuluessa.</p>
+  <p>Elokuvaohjaaja Danny Boylen luotsaama avajaisten show esitteli kisojen isäntämaan historiaa maaseutuyhteiskunnasta teollisen vallankumouksen ja 1960-luvun sosiaalisen vapautumisen kautta nykyaikaan.</p>
+  <p>Kekseliään kavalkadin kohokohtia oli tapa, jolla kuningatar Elisabet II:n väitettiin saapuneen stadionille. Näyttelijä Daniel Craigin esittämä salainen agentti 007 eli James Bond nouti kuningattaren Buckinghamin palatsista avajaisiin.</p>
+  <p>Filmi esitti 86-vuotiaan kuningattaren hyppäämässä helikopterilla stadionille juuri ennen kuin Elisabet II saapui prinssi Philipin ja Kansainvälisen olympiakomitean puheenjohtajan Jacques Roggen seurassa arvovieraiden aitioon. Tiettävästi kuningatar oli ensi kertaa mukana draamafilmissä, mutta ei toki hypännyt oikeasti.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

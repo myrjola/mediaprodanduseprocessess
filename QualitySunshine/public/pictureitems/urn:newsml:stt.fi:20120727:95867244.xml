@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120727:95867244" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T18:37:35</versionCreated>
+<firstCreated>2012-07-27T18:37:32</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T18:37:32</contentCreated>
+<contentModified>2012-07-27T18:37:35</contentModified>
+<located type="loctype:City">
+<name>Geneve</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:182" type="cpnat:runnumber">
+<name>stt 182</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:74989" type="cpnat:topic">
+<name>Syyrian tarkkailuoperaation johtaja arvioi Assadin hallinnon kaatumisen olevan ajan kysymys</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97754786" type="cpnat:textpackageid">
+<name>Syyrian tarkkailuoperaation johtaja arvioi Assadin hallinnon kaatumisen olevan ajan kysymys</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0001004" type="cpnat:length">
+<name>1004</name>
+</subject>
+      <subject qcode="sttdepartment:0014" type="cpnat:department">
+         <name>Ulkomaat</name>
+      </subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11002000" type="cpnat:category">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject qcode="subj:16000000" type="cpnat:category">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject qcode="subj:16002000" type="cpnat:category">
+<name>Aseelliset konfliktit</name>
+</subject>
+<subject qcode="subj:16000000" type="cpnat:category">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject qcode="subj:16006000" type="cpnat:category">
+<name>Joukkomurha</name>
+</subject>
+<subject qcode="subj:16000000" type="cpnat:category">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject qcode="subj:16005000" type="cpnat:category">
+<name>Sissitoiminta Kapinalliset</name>
+</subject>
+<slugline>///LEHTIVERSIO UUTISKAINALO TV-JUTTUUN, PÄIVITETÄÄN TARVITTAESSA///</slugline>
+<dateline>Geneve</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Syyrian armeijan suurhyökkäys Aleppoon häämöttää</headline>
+      <creditline>STT–Reuters-AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Syyrian armeijan helikopterit tulittivat perjantai-iltana Aleppon kaupungin asuinalueita iskuissa, joita arveltiin alkusoitoksi suurhyökkäykselle kaupunkiin. Sekä armeija että osia kaupungista hallitsevat kapinalliset ovat viime päivät vahvistaneet rivejään.</p>
+  <p>–  Odotamme hyökkäystä minä hetkenä hyvänsä, sanoi kapinallissotilaiden Syyrian vapaan armeijan eversti Abdel Jabbar al-Okaidi.</p>
+  <p>YK:n ihmisoikeusvaltuutettu Navi Pillay sekä Ranska, Yhdysvallat ja Italia ovat varoittaneet, että yhteenotto Aleppossa voi johtaa verilöylyyn.</p>
+  <p>–  Keskittämällä raskaita aseita Aleppoon presidentti Bashar al-Assad valmistautuu omien kansalaistensa uuteen teurastukseen, sanoi Ranskan ulkoministeriön tiedottaja Bernard Valero.</p>
+  <p>YK:n Syyria-tarkkailijoiden väistyvä johtaja, norjalaiskenraali Robert Mood arvioi, että al-Assadin hallinnon kaatuminen on vain ajan kysymys. Mood poistui maasta runsas viikko sitten.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="540" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/701d8ec0-a4e2-40bf-851d-f79d015c7eb0.jpg" rendition="rnd:web" size="12441600" version="1" width="960"/>
+   </contentSet>
+</newsItem>

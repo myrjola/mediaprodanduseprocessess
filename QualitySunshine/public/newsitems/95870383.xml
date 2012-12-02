@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870383" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T15:29:48</versionCreated>
+<firstCreated>2012-07-28T15:29:44</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.noc.fi" residref="urn:newsml:stt.fi:wwwlink:0000312">
+<title>Suomen Olympiakomitea</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.olympic.org" residref="urn:newsml:stt.fi:wwwlink:0000319">
+<title>Official website of the Olympic Movement</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T15:29:44</contentCreated>
+<contentModified>2012-07-28T15:29:48</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:104">
+<name>stt 104</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74670">
+<name>Olympialaiset: Matias Koski ja Emilia Pikkarainen ensimmäisinä suomalaisuimareina olympia-altaaseen</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97762322">
+<name>Olympialaiset: Matias Koski jäi tavoitteestaan</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000891">
+<name>891</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15062000">
+<name>Uinti</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///KAINALO///</slugline>
+<dateline>Lontoo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Matias Koski sai selvän merkin</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Matias Kosken ensiesiintyminen olympialaisissa uintikilpailuissa tuotti karsiutumisen 400 metrin vapaauinnissa.</p>
+  <p>Koski ui lauantaina alkuerissä sijalle 21 liki kahdeksan sekunnin päähän jatkopaikasta. Henkilökohtainen ennätyskin jäi parin sekunnin päähän.</p>
+  <p>&#8211;&#8201; Ei ollut kauhean hyvä, Koski luokitteli.</p>
+  <p>Hän arveli, että sivulajin sujumiseen alle odotusten löytyy syy valmistautumisesta.</p>
+  <p>&#8211;&#8201; Olin ennen herkistelyä ylirasituskunnossa, ja saattaa olla että herkistely meni siksi vähän pieleen, hän ruoti.</p>
+  <p>Olympiatunnelmasta Koski tykkäsi.</p>
+  <p>&#8211;&#8201; Tosi kiva kokemus ja tärkeää, että saan kokemusta Rio de Janeiroa (olympialaiset 2016) varten.</p>
+  <p>Avauslaji kertoi, että lepo on jäänyt liian vähälle.</p>
+  <p>&#8211;&#8201; Eka satanen tuntui aika hyvältä, mutta sitten iski hapot. Se on selvä merkki, Koski sanoi.</p>
+  <p>Ennen päämatkaansa 1&#8201; 500 metrin vapaauintia Koski kisaa vielä 200 metrillä sunnuntaina.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

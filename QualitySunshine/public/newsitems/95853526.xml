@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95853526" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T16:11:51</versionCreated>
+<firstCreated>2012-07-28T11:05:07</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0019">
+<name>Tästä on kyse</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:replace"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T11:05:07</contentCreated>
+<contentModified>2012-07-28T16:11:51</contentModified>
+<located type="loctype:City">
+<name>Saltvik</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:117">
+<name>stt 117</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75065">
+<name>Kaisloja niittämässä ollut mies hukkui Naantalissa Varsinais-Suomessa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97730133">
+<name>Fakta hylkeenpyynnistä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000988">
+<name>988</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:10000000">
+<name>Vapaa-aika</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:10012000">
+<name>Metsästys</name>
+</subject>
+<slugline>///KORJATTU TÄSTÄ ON KYSE OTSIKKO JA 6. KPL, PO. AHVENANMAALLA. LIITTYY JUTTUUN HYLKEENPYYNNISTÄ, LEHTIKUVAA.///</slugline>
+<dateline>Saltvik</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Hylkeenpyynti Ahvenanmaalla</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>&#8211;&#8201; Hylkeitä on Itämerellä pyydetty siitä saakka, kun rannikkoseutu asutettiin 9&#8201; 000&#8211;10&#8201; 000 vuotta sitten.</p>
+  <p>&#8211;&#8201; 70- ja 80-luvuilla harmaahylkeen eli hallin arvioitiin olevan sukupuuton partaalla kaikkialla Itämerellä. Kannat ovat vahvistuneet sen jälkeen.</p>
+  <p>&#8211;&#8201; Harmaahylkeen pyynti aloitettiin taas kymmenen vuotta sitten, koska niiden valtavan ruokahalun arveltiin uhkaavan kalastusta.</p>
+  <p>&#8211;&#8201; Vuonna 2005 Ahvenanmaan merialueella laskettiin 5&#8201; 584 harmaahyljettä.</p>
+  <p>&#8211;&#8201; Ahvenanmaan maakuntahallitus voi tarvittaessa kieltää hylkeiden pyynnin, mikäli hyljekannat laskevat liiaksi.</p>
+  <p>&#8211;&#8201; Vuosittain Ahvenanmaalla myönnetään lupa noin 450 hylkeen pyyntiin.</p>
+  <p>&#8211;&#8201; Kaadetusta hylkeestä pitää ilmoittaa maakuntahallitukselle pyyntipäivän aikana.</p>
+  <p>&#8211;&#8201; Hylkeenpyytäjän tulee erottaa toisistaan harmaahylje ja vaarantunut itämerennorppa.</p>
+  <p>&#8211;&#8201; Hylkeitä ei saa ampua suoraan veneestä.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

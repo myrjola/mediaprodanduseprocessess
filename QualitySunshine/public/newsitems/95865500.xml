@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95865500" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T08:55:28</versionCreated>
+<firstCreated>2012-07-30T08:55:01</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T08:55:01</contentCreated>
+<contentModified>2012-07-30T08:55:28</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:040">
+<name>stt 040</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74952">
+<name>Internetissä tapahtuvat lapsen seksuaaliset hyväksikäytöt näkyvät jo tilastoissa.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97753049">
+<name>Internetissä tapahtuvat lapsen seksuaaliset hyväksikäytöt näkyvät jo tilastoissa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002169">
+<name>2169</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001005">
+<name>Seksuaalirikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14022000">
+<name>Hyväksikäyttö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006000">
+<name>Perhe</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006998">
+<name>Lapset ja nuoret</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by>ANNA NEVALAINEN</by>
+<description role="drol:summary">Tilastokeskuksen mukaan vuoden alkupuoliskolla on kirjattu kaiken kaikkiaan 726 lapsen seksuaalista hyväksikäyttöä, mikä on 54 prosenttia enemmän kuin 2000-luvun aiempien vuosien keskiarvo. Netin kautta pedofiilit tavoittavat kerralla helposti useita uhreja.</description>
+<headline>Yhdestä hyväksikäytöstä voidaan kirjata satoja epäilyjä</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Nettiahdistelu kasvattaa ilmoitusten määrää, ja aiheen saama julkisuus rohkaisee lähestymään poliisia</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Lasten hyväksikäyttäjät tavoittavat netin kautta kerralla helposti useita uhreja. Tapauksista on myös uutisoitu ahkerasti. </p>
+  <p>&#8211;&#8201; Aiheen saama julkisuus saattaa rohkaista uhreja tekemään omalta osaltaan ilmoituksen poliisille, kertoo seksuaalirikoksiin erikoistunut syyttäjä Sakari Tiilikainen Helsingistä. </p>
+  <p>Poliisin tietoon tulleiden hyväksikäyttötapausten määrä on kasvussa pitkällä aikavälillä. Tilastokeskuksen mukaan vuoden alkupuoliskolla kirjattujen seksuaalisten hyväksikäyttöjen määrä on jopa 54 prosenttia korkeampi kuin keskiarvo 2000-luvulla.</p>
+  <p>Myös käräjäoikeudessa ratkaistujen hyväksikäyttötapausten määrä on ollut kasvussa kuluvalla vuosituhannella. Vuonna 2002 lapsen seksuaalisia hyväksikäyttöjä käsiteltiin 165. Viime vuonna vastaava luku oli jo 305.</p>
+  <p>&#8211;&#8201; Ennen ei tunnettu nettihyväksikäyttöä rikosmuotona. Nyt yhdellä tekijällä saattaa olla internetin välityksellä kymmeniäkin uhreja, sanoo Tiilikainen. </p>
+  <p>Helsingin poliisin mukaan yksittäinen ilmoitus voi sotkea tilastoinnin kokonaan, koska se voi sisältää useita tekoja ja tapahtumasarjoja.</p>
+  <p>&#8211;&#8201; Jos henkilö sanoo, että häntä on hyväksikäytetty kymmenen vuoden ajan kaksi kertaa kuukaudessa, tälle päivälle tilastoituu 240 lapsen seksuaalista hyväksikäyttöä, kertoo seksuaalirikosten tutkinnanjohtaja Jyri Hiltunen.</p>
+  <p></p>
+  <p>
+<h3>Lainmuutos lisäsi raiskausilmoituksia</h3>
+</p>
+  <p></p>
+  <p>Tilastokeskuksen mukaan raiskausilmoitusten määrä on niin ikään kasvanut. Raiskauksia ilmoitettiin vuoden ensimmäisellä puoliskolla 519, kun vastaava luku vuotta aiemmin oli 438.</p>
+  <p>Sekä Hiltunen että Tiilikainen uskovat, että ainakin osa ilmoituksista selittyy viime vuonna voimaan tulleen lainmuutoksen avulla.</p>
+  <p>&#8211;&#8201; Yhdyntä tajuttoman kanssa oli aikaisemmin seksuaalinen hyväksikäyttö. Viime vuoden puolestavälistä se on ollut raiskaus, kertoo tutkinnanjohtaja Hiltunen.</p>
+  <p>Hiltusen mukaan alkuvuoden ensimmäiset seksuaalirikoksia koskevat ilmoitukset ovat saattaneet jo päätyä syyttäjälle. Tämä on näkynyt myös kihlakunnansyyttäjä Sakari Tiilikaisen työssä.</p>
+  <p>&#8211;&#8201; Juttua pukkaa kaiken aikaa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

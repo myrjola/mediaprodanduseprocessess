@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95883738" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-01T00:02:45</versionCreated>
+<firstCreated>2012-07-31T20:16:12</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.livenation.fi" residref="urn:newsml:stt.fi:wwwlink:0000276">
+<title>Live Nation</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T20:16:12</contentCreated>
+<contentModified>2012-08-01T00:02:45</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:001">
+<name>stt 001</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74547">
+<name>Bruce Springsteen and The E Street Band konsertoi Helsingissä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97775390">
+<name>Bruce Springsteen &amp; The E Street Band konsertoi Helsingissä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002128">
+<name>2128</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:4078"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011006">
+<name>Rock</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY LEHTIKUVAA///</slugline>
+<dateline>Helsinki</dateline>
+<by>PERTTI MATTILA</by>
+<description role="drol:summary">AIKATAULU:
+
+Klo 16 uloimmat portit avataan, turvatarkastukset aloitetaan
+Klo 17 portit Olympiastadionille avataan
+Noin klo 19.00 Bruce Springsteen &amp; The E Street Band aloittaa
+Klo 23 konsertti päättyy viimeistään
+
+Sisääntulon nopeuttamiseksi turvatarkastukset pyritään aloittamaan uloimmilla porteilla jo noin klo 16. Tämän jälkeen on mahdollisuus ostaa kiertueen t-paitoja ja muita oheistuotteita. Lipuntarkastus alkaa sisemmillä porteilla noin klo 17, jolloin itse stadionille pääsee sisään.</description>
+<headline>Springsteen kuumensi Olympiastadionin</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:4078">
+<name>Olympiastadion</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="60.186213" longitude="24.925899"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Paavo Nurmen tie1</line>
+<postalCode>HELSINKI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Kesän kärkikonsertissa noin 43 000 katsojaa</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Rockin konkari Bruce Springsteen on jopa erityisesti suomalaisten suosiossa. Näin saattoi päätellä tiistaina, kun "Pomo" veti Olympiastadionin täyteen.</p>
+  <p>Noin 43&#8201; 000 silmäparia seurasi, miten Springsteen käynnisti Helsingin-konserttinsa John Fogertyn biisillä Rockin' All Over The World. Bakkanaalia potkivat käyntiin myös Pomon omat laulut Night ja Out On The Street.</p>
+  <p>Maestron E Street Band ei ole enää entisensä, kun saksofonisti Clarence Clemons kuoli hiljattain. Bruce näyttää ymmärtäneen, että ässäfonistia ei voi korvata. Springsteen on painottanut bändin soundia sen muihin vahvuuksiin, onnistuneesti.</p>
+  <p>Pomo on uusimmalla albumillaan koventanut äänenpainojaan kritisoidessaan amerikkalaisen unelman nykytilaa. Helsingin-konsertti tasapainotteli Pomon bailuvaihteen ja synkempien sävyjen välillä.</p>
+  <p>Springsteen tunnetaan jättipitkistä konserteistaan. Helsingin-keikasta odoteltiin etukäteen jopa ennätysmittaista, nelituntista. Aivan Pomon ennätystä ei tainnut syntyä, mutta kolmen ja puolen tunnin musamaraton koettiin.</p>
+  <p></p>
+  <p>
+<h3>Maukkaita soul-mausteita</h3>
+</p>
+  <p></p>
+  <p>Bruce Springsteen ammentaa laajasti amerikkalaisesta perinnelaulukirjasta ja -kirjosta. Musta ja valkoinen traditio kuuluvat hänen lauluissaan vahvasti läpi.</p>
+  <p>Helsingin-konsertissa tehosivat yleisöön varsinkin mustia soul-sävyjä sivunneet Brucen kappaleet. Kriittinen My City Of Ruins soi silkkaa deep-soulia, aina lauluyhtyeiden valiolta Impressionsilta napattuja lainoja myöten. Illan huippuihin lukeutui myös Shackled And Drawn, gospelpitoinen työlaulu.</p>
+  <p>Suomalaisyleisön sai ehkä parhaiten mukaan Waitin' On A Sunny Day, soulpitoinen makupala sekin. Kitaristin taitojaan Springsteen esitteli harvoin kuullussa biisissä Light Of Day.</p>
+  <p>Encoreiksi Pomo annosteli suurimpia hittejään kuten Dancing In The Dark, Born In The USA ja Born To Run.</p>
+  <p>Springsteen yllätti puhumalla laulujen välissä enemmän tai vähemmän ymmärrettäviä suomen kielen lauseita. Aikaisin stadionille saapuneita fanejaan Bruce ilahdutti jo ennen konserttia pitkällä akustisella soundcheckillä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

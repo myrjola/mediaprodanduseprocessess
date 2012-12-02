@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120803:95900458" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-03T15:21:08</versionCreated>
+<firstCreated>2012-08-03T15:21:05</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-03T15:21:05</contentCreated>
+<contentModified>2012-08-03T15:21:08</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:161">
+<name>stt 161</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75947">
+<name>Lamb of Godin vokalisti vapaaksi takuita vastaan</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97815709">
+<name>Lamb of Godin vokalisti vapautui vankilasta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000862">
+<name>862</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2014000">
+<name>Kuolemansyyntutkinta</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011006">
+<name>Rock</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Lamb of Godin vokalisti vapaaksi takuita vastaan.</description>
+<headline>Lamb of Godin solisti vapaaksi takuita vastaan</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Amerikkalaisen metallibändin Lamb of Godin solisti Randy Blythe on vapautettu vankilasta Tshekissä. Yhtye joutui peruuttamaan esiintymisensä muiden muassa Helsingin Tuska-festivaalilla, kun Blythe pidätettiin Tshekissä kesäkuun lopulla.</p>
+  <p>Usea amerikkalainen lehti julkaisi nettisivuillaan uutistoimisto AP:n uutisen, jonka mukaan Blythe pääsi nyt vapaaksi takuita vastaan.</p>
+  <p>Pidätys liittyi yhtyeen fanin kuolemaan Prahassa vuonna 2010. Tshekkimedian mukaan fani kiipesi Lamb of Godin konsertissa lavalle, minkä jälkeen Blythe työnsi hänet alas lavalta. Miehen epäillään lyöneen pudotessaan päänsä lattiaan. Hän kuoli myöhemmin vammoihinsa.</p>
+  <p>Blythe, 41, pidätettiin bändin palattua konsertoimaan Tshekkiin.</p>
+  <p>Solistin on määrä palata oikeudenkäyntiin Tshekkiin. Takuusummaksi määrättiin 400&#8201; 000 dollaria (324&#8201; 000 euroa).</p>
+  <p></p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

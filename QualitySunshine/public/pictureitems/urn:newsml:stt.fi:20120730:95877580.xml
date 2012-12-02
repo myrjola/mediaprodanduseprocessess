@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120730:95877580" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T10:04:03</versionCreated>
+<firstCreated>2012-07-30T10:04:00</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T10:04:00</contentCreated>
+<contentModified>2012-07-30T10:04:03</contentModified>
+<located type="loctype:City">
+<name>Oslo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:057" type="cpnat:runnumber">
+<name>stt 057</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75265" type="cpnat:topic">
+<name>Viinan salakuljetus on ok, sanovat norjalaiset</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97774093" type="cpnat:textpackageid">
+<name>Viinan salakuljetus on ok, sanovat norjalaiset</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000654" type="cpnat:length">
+<name>654</name>
+</subject>
+      <subject qcode="sttdepartment:0014" type="cpnat:department">
+         <name>Ulkomaat</name>
+      </subject>
+<subject qcode="subj:14000000" type="cpnat:category">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject qcode="subj:14001000" type="cpnat:category">
+<name>Riippuvuudet Päihteet</name>
+</subject>
+<subject qcode="subj:2000000" type="cpnat:category">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Oslo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Viinan salakuljettaminen on ihan ok, sanovat norjalaiset</headline>
+      <creditline>STT–TT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Enemmistö norjalaisista pitää alkoholin ja tupakan pienimuotoista salakuljetusta ulkomailta omaan käyttöön suotavana, kertoo VG-lehden tekemä mielipidemittaus.</p>
+  <p>Kaikista norjalaisista tätä mieltä on 57 prosenttia. Miehet suhtautuivat asiaan naisia myönteisemmin. Salakuljetuksen hyväksyi miehistä 64 prosenttia, naisista 49.</p>
+  <p>Viinaa tuodaan Norjaan pimeästi varsinkin Ruotsista, ja Ruotsin tullin tilastojen mukaan alkoholitakavarikot ovat moninkertaistuneet.</p>
+  <p>Todennäköisenä syynä salakuljetukselle on alkoholin kova hinta. Norjalaisessa kapakassa oluttuoppi voi helposti maksaa yli kymmenen euroa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="474" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/19e4b0d9-ed37-4b8a-b3e5-3e0984471c99.jpg" rendition="rnd:web" size="7394400" version="1" width="650"/>
+   </contentSet>
+</newsItem>

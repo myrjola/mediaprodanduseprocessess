@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95867134" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T09:28:44</versionCreated>
+<firstCreated>2012-07-28T06:01:19</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:replace"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T06:01:19</contentCreated>
+<contentModified>2012-07-28T09:28:44</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:041">
+<name>stt 041</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75037">
+<name>Kalevan gallup rahaliitosta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97756614">
+<name>Kalevan gallup rahaliitosta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001285">
+<name>1285</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:10985"/>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11028000">
+<name>Kansainväliset järjestöt EU YK</name>
+</subject>
+<slugline>///KORJATTU LEHTIVERSIO PO. KUUDEN MAAKUNTALEHDEN KYSELY, EI PELKÄSTÄÄN KALEVAN. LISÄTTY VIIM. KPL: LEHTIEN NIMET.///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Lehdet: Kaksi kolmesta suomalaisesta pitäisi euron</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:10985">
+<name>Oulu</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:205">
+<name>Oulu</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:23">
+<name>Pohjois-Pohjanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kaksi kolmasosaa suomalaisista kannattaa yhä Suomen pysymistä Euroopan rahaliitossa, ilmenee kuuden maakuntalehden teettämästä kyselystä. Vajaan neljänneksen mielestä Suomen pitäisi erota eurosta ja ottaa markka takaisin.</p>
+  <p>Taloustutkimuksen tekemän kyselyn mukaan keskustan kannattajien eurokriittisyys on vuoden aikana selvästi lisääntynyt. Vuosi sitten vain 17 prosenttia keskustan kannattajista oli valmis eroamaan rahaliitosta. Nyt keskustaa viime vaaleissa äänestäneistä lähes kolmannes kannattaa eroa eurosta ja markan ottamista käyttöön.</p>
+  <p>Perussuomalaisten kannattajista 48 prosenttia on valmis eroamaan eurosta. Euron kannattajia perussuomalaisissa on 41 prosenttia.</p>
+  <p>Euromyönteisimpiä ovat RKP:n kannattajat, joista 95 prosenttia kannattaa rahaliitossa pysymistä.</p>
+  <p>Kyselyyn haastateltiin heinäkuun lopussa satunnaisotannalla noin tuhatta yli 15-vuotiasta mannersuomalaista. Tutkimuksen virhemarginaali on kolme prosenttiyksikköä suuntaansa.</p>
+  <p>Tutkimuksen teettivät Kaleva, Turun Sanomat, Keskisuomalainen, Savon Sanomat, Etelä-Suomen Sanomat ja Karjalainen.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

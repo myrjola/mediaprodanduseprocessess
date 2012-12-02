@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95868445" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T00:09:56</versionCreated>
+<firstCreated>2012-07-28T00:09:53</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T00:09:53</contentCreated>
+<contentModified>2012-07-28T00:09:56</contentModified>
+<located type="loctype:City">
+<name>Aurora</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:003">
+<name>stt 003</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75064">
+<name>Auroran ampuja kävi säännöllisesti psykiatrilla</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97759055">
+<name>Auroran ampuja kävi säännöllisesti psykiatrilla</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000827">
+<name>827</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001001">
+<name>Henkirikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:7000000">
+<name>Terveys</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:7017000">
+<name>Muut sairaudet Vaivat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:7017001">
+<name>Mielenterveysongelmat</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Aurora</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Auroran ampuja kävi psykiatrilla</headline><creditline>STT&#8211;AFP-Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Auroran epäilty teatteriampuja kävi säännöllisesti psykiatrilla, käy ilmi oikeuden perjantaina julkaisemista pöytäkirjoista. </p>
+  <p>Psykiatri on töissä ampujan yliopiston terveydenhuollossa. Hän on erikoistunut skitsofreniaan. </p>
+  <p>Psykiatri on sama, jolle epäilty oli lähettänyt muistikirjan, jossa oli kuvia joukkomurhasta. Muistikirjan sisältävä paketti löytyi yliopiston postihuoneesta sen jälkeen, kun coloradolaiskaupungissa oli ammuttu kaksitoista ja haavoitettu lähes kuuttakymmentä Batman-elokuvan ensi-illassa heinäkuussa. Paketti on luultavasti lähetetty ennen ampumisia, mutta se ei ole koskaan saapunut perille.</p>
+  <p>Ampujan puolustusasianajajan mukaan muistivihon sisältöä ei voi käyttää todisteena oikeudessa, koska ampujan ja psykiatrin välillä on ollut luottamuksellinen hoitosuhde.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

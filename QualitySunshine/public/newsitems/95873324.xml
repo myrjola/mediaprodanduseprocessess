@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873324" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T09:25:08</versionCreated>
+<firstCreated>2012-07-29T09:25:04</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T09:25:04</contentCreated>
+<contentModified>2012-07-29T09:25:08</contentModified>
+<located type="loctype:City">
+<name>Soul</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:026">
+<name>stt 026</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75175">
+<name>Miljoonien eteläkorealaisten tiedot varastettiin matkapuhelinoperaattorilta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97766776">
+<name>Miljoonien eteläkorealaisten tiedot varastettiin matkapuhelinoperaattorilta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000734">
+<name>734</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001002">
+<name>IT- ja verkkorikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003000">
+<name>Tietotekniikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003006">
+<name>Matkapuhelimet Mobiililaitteet</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Soul</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Miljoonien eteläkorealaisten henkilötiedot vääriin käsiin</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Lähes yhdeksän miljoonan eteläkorealaisen henkilötiedot ovat päätyneet vääriin käsiin hakkerien iskettyä maan toiseksi suurinta matkapuhelinoperaattoria vastaan. Poliisi ilmoitti sunnuntaina pidättäneensä kaksi ihmistä tietomurrosta.</p>
+  <p>Kaksikko aloitti tietojen varastamisen jo alkuvuodesta, mutta operaattori KT havaitsi asian vasta heinäkuun puolivälissä. Epäillyt myivät keräämänsä tiedot telemarkkinointiyrityksille ja tienasivat satojatuhansia euroja. Uutistoimisto Yonhapin mukaan seitsemän muuta ihmistä on pidätetty varastettujen tietojen ostamisesta.</p>
+  <p>&#8211;&#8201; Asia koskee lähes puolta koko asiakaskunnastamme. Pyydämme syvästi anteeksi tapahtunutta, tiedotti operaattori KT.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120808:95923638" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-08T14:07:51</versionCreated>
+<firstCreated>2012-08-08T14:07:24</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-08T14:07:24</contentCreated>
+<contentModified>2012-08-08T14:07:51</contentModified>
+<located type="loctype:City">
+<name>Savonlinna</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:116">
+<name>stt 116</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:67413">
+<name>SDP:n eduskuntaryhmän kesäkokous Savonlinnassa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97837793">
+<name>Jutta Urpilaisen puhe</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001161">
+<name>1161</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:12762"/>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010000">
+<name>Puolueet Poliittiset liikkeet Järjestöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010996">
+<name>SDP</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Savonlinna</dateline>
+<by/>
+<description role="drol:summary">Sosialidemokraattisen eduskuntaryhmän kesäkokous pidetään Savonlinnassa 8.-9.elokuuta.
+Kokouspaikkana Wanhan Kasinon Savonlinna-sali.
+
+Kokous on avoin Savonlinnan kaupungin edustajan sekä Jutta Urpilaisen ja Jouni Backmanin puheenvuorojen ajan ja varsinaisten kokousasioiden alettua suljetaan toimittajilta.
+
+</description>
+<headline>SDP:n johto nosti vanhuspalvelulain budjetin ykköstavoitteeksi</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:12762">
+<name>Savonlinna-sali</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=61.8684,+28.8676</definition>
+<geoAreaDetails>
+<position latitude="61.868389" longitude="28.86763"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:265">
+<name>Savonlinna</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:29">
+<name>Etelä-Savo</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Kylpylaitoksentie4</line>
+<postalCode>SAVONLINNA</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>SDP:n johto on nostanut vanhuspalvelulain toteuttamisen hallituksen elokuun lopun budjettiriihen ykkösasiakseen.</p>
+  <p>SDP:n puheenjohtaja valtiovarainministeri Jutta Urpilainen sanoi puolueensa eduskuntaryhmän kesäkokouksessa Savonlinnassa, että vanhuspalvelut ovat myös yksi puolueen kärkitavoitteista lokakuun kuntavaaleissa.</p>
+  <p>&#8211;&#8201; Ne laitetaan kuntoon yhdessä valtakunnan tasolla ja kunnissa, Urpilainen lupasi.</p>
+  <p>Urpilainen sanoi, että valtion ensi vuoden budjetissa on vain vähän liikkumatilaa. Hänen mukaansa esitystä voidaan kuitenkin vielä täsmentää hallituspuolueiden yhteisten arvovalintojen pohjalta. SDP painottaa vanhuspalveluiden lisäksi nuorisotyöttömyyden torjumista.</p>
+  <p>Urpilainen vaati myös Suomea toteuttamaan rahoitusmarkkinaveron halukkaiden maiden kesken, koska EU-tasolla se ei etene.</p>
+  <p>SDP:n eduskuntaryhmän puheenjohtaja Jouni Backman arvosteli hallituskumppaniaan kokoomusta irtiotoista yhdessä sovitusta. Esimerkkinä hän piti sosiaali- ja terveysministeri Paula Risikon (kok.) lausuntoa Ylelle, jossa Risikko arvosteli Urpilaisen budjettiehdotusta lääkekorvauskustannusten leikkaamisesta.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

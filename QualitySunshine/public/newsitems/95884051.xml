@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95884051" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T15:42:08</versionCreated>
+<firstCreated>2012-07-31T15:14:14</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0007">
+<name>Miten niin?</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:supplement"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T15:14:14</contentCreated>
+<contentModified>2012-07-31T15:42:08</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:140">
+<name>stt 140</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75494">
+<name>Hirvisaari perustelee homouskirjoitustaan</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97786289">
+<name>Hirvisaari homokirjoituksestaan: Olen kanava ja äänitorvi</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001720">
+<name>1720</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010000">
+<name>Puolueet Poliittiset liikkeet Järjestöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010994">
+<name>Perussuomalaiset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14010000">
+<name>Vähemmistöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14010001">
+<name>Seksuaaliset vähemmistöt</name>
+</subject>
+<slugline>///TÄYDENNETTY MITEN NIIN? LISÄTTY VIIMEINEN KPL. HIRVISAARI VASTASI KYSYMYKSIIN SÄHKÖPOSTITSE///</slugline>
+<dateline>Helsinki</dateline>
+<by>OLLI KEMPPAINEN</by>
+<description role="drol:summary"/>
+<headline>Hirvisaari homokirjoituksestaan: Olen kanava ja äänitorvi</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kansanedustaja James Hirvisaari (ps.), olette kirjoittanut Hommafoorumilla, että homoseksuaalisuus ei ole "varsinainen sairaus vaan vamma". Mihin pyritte tällaisella kirjoittelulla?</p>
+  <p>&#8211;&#8201; Tarkemmin sanoen olen esittänyt kysymyksen, ”olisiko homoseksuaalisuudessa kyseessä jonkinlainen seksuaalinen kehitysvamma, jos henkilö ei kehity luonnonjärjestyksen mukaisesti”. Motiivini on ihmettely ja pyrkimys ilmiön ymmärtämiseen. Luonnonjärjestyksellä tarkoitan lisääntymistä.</p>
+  <p>Koetteko itsenne valtaväestön oikeuksien ja tuntojen tulkiksi, kun kirjoitatte, että niiden loukkaamista ei pidä jatkaa?</p>
+  <p>&#8211;&#8201; Lähtökohtani on henkilökohtainen, mutta toki olen myös kanava ja äänitorvi kansalaismielipiteelle eli niille, jotka ovat kanssani samaa mieltä asioista.</p>
+  <p>Minkälaiset puheet tai kirjoitukset homoseksuaalisuudesta loukkaavat teitä itseänne? Onko avioliitto-oikeuden vaatiminen sellaista?</p>
+  <p>&#8211;&#8201; Avioliittoinstituution laajentaminen toki loukkaa minua henkilökohtaisesti, mutta erityisen loukkaavaa on se, että yhteiskunnassamme poikkeavuuksia ylipäätään pyritään normittamaan ei-poikkeavuuksiksi. Se on mielestäni valheellista tosiasioiden kieltämistä.</p>
+  <p>Kirjoitatte, että "vähemmistöterrorismi on jo saavuttanut järjettömät mittasuhteet". Mitä kaikkia vähemmistöjä tarkoitatte?</p>
+  <p>&#8211;&#8201; Tarkoitan kaikenlaista propagandaa ja ”positiivista syrjintää”, joka tapahtuu esimerkiksi sukupuolisen suuntautumisen tai etnisen taustan perusteella. Moniarvoisessa yhteiskunnassa erilaisuus on hyväksyttävä, mutta vähemmistöjen ei pidä antaa sanella yhteiskunnan normistoa.</p>
+  <p>Hirvisaari vastasi kysymyksiin sähköpostitse.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

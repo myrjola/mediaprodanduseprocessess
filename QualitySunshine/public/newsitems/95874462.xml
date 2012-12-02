@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95874462" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T18:05:07</versionCreated>
+<firstCreated>2012-07-29T18:05:03</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T18:05:03</contentCreated>
+<contentModified>2012-07-29T18:05:07</contentModified>
+<located type="loctype:City">
+<name>Abu Dhabi</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:154">
+<name>stt 154</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75204">
+<name>Aleppoon saapuu kapinallistaistelijoita Syyrian maaseudulta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97769033">
+<name>Syyrian kapinalliset pyytävät raskaita aseita</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001002">
+<name>1002</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16009000">
+<name>Sodat</name>
+</subject>
+<slugline>///KAINALO KAINALO ALEPPON MAASEUTUTAISTELIJOISTA KERTOVAAN JUTTUUN///</slugline>
+<dateline>Abu Dhabi</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Syyrian kapinalliset pyytävät raskaita aseita</headline><creditline>STT&#8211;AFP-Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Syyrian oppositio on pyytänyt ulkomaisia tukijoitaan toimittamaan taistelijoilleen raskasta aseistusta.  </p>
+  <p>Syyrian kansallisneuvoston mukaan kapinallistaistelijat käyvät kamppailua presidentti Bashar al-Assadin joukkoja vastaan alkeellisin asein. Oppositioryhmän mukaan heidän taistelijansa tarvitsevat aseita, joilla voidaan pysäyttää panssarivaunuja ja ilmavoimien koneita.</p>
+  <p>Taistelut kapinallisten ja hallinnon joukkojen kesken jatkuivat kiivaina maan suurimmassa kaupungissa Aleppossa sunnuntaina. Molemmat osapuolet ovat kertoneet voitoista, mutta uutistoimisto AFP:n tietojen mukaan kapinalliset ovat suurelta osin torjuneet armeijan etenemisen. </p>
+  <p>Armeijalla on merkittävä ase- ja miesylivoima, mutta sen huollon kerrotaan olevan romahtamispisteessä. Turkkiin loikannut kenraali kertoi sunnuntaina sanomalehti Guardianille, että armeijalla on pulaa muun muassa polttoaineesta ja ruuasta.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

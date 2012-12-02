@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95918590" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T14:44:50</versionCreated>
+<firstCreated>2012-08-07T14:44:46</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>2</urgency>
+<contentCreated>2012-08-07T14:44:46</contentCreated>
+<contentModified>2012-08-07T14:44:50</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:126">
+<name>stt 126</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76309">
+<name>Miten Italian pääministerin Mario Montin arvostelua tulkitaan Suomessa?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97845750">
+<name>Miten Italian pääministerin Mario Montin arvostelua tulkitaan Suomessa?</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000566">
+<name>566</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4017000">
+<name>Talouselämä Talouspolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Katainen: Montin puheet syytä jättää omaan arvoonsa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Pääministeri Jyrki Kataisen (kok.) mukaan Suomi voi jättää Italian pääministeri Mario Montin puheet omaan arvoonsa. Monti sanoi Der Spiegel -lehdessä, että Suomen hallitus vaikeuttaa Euroopan velkakriisin ratkaisua kyseenalaistamalla toistuvasti EU:n huippukokouksissa saavutetun yhteisymmärryksen.</p>
+  <p>Katainen sanoo, että suomalaisten itsetunnon pitää kestää Montin kommentit eikä niillä saa olla vaikutuksia suuntaan tai toiseen. Kataisen mielestä nyt pitää keskittyä tärkeimpään, eli Euroopan talouskriisin hoitoon.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

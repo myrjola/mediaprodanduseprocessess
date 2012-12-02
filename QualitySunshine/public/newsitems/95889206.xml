@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120801:95889206" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-01T13:34:22</versionCreated>
+<firstCreated>2012-08-01T13:33:54</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-01T13:33:54</contentCreated>
+<contentModified>2012-08-01T13:34:22</contentModified>
+<located type="loctype:City">
+<name>Philadelphia</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:104">
+<name>stt 104</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75618">
+<name>Philadelphian orkesteri selviytyi vararikosta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97795182">
+<name>Philadelphian orkesteri selviytyi velkasaneerauksesta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001000">
+<name>1000</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011001">
+<name>Klassinen musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Philadelphia</dateline>
+<by/>
+<description role="drol:summary">Philadelphian orkesteri selviytyi velkasaneerauksesta.</description>
+<headline>Philadelphian orkesteri selviytyi velkasaneerauksesta</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Yhdysvaltain johtaviin orkestereihin lukeutuva Philadelphian orkesteri on selviytynyt velkasaneerauksesta. Orkesterilla on edessään odottamattoman valoisat näkymät, lupaa sen toimitusjohtaja.</p>
+  <p>&#8211;&#8201; Me olemme esimerkki kestokyvystä, jolla pidetään loistava instituutio elossa, kuvailee toimitusjohtaja Allison Vulgamore.</p>
+  <p>Philadelphian orkesteri järkytti taidemaailmaa, kun se ilmoitti hakeutuvansa velkajärjestelyyn huhtikuussa 2011. Orkesterin yleisömäärä ja saamat lahjoitukset olivat tuolloin laskeneet rajusti viisi vuotta.</p>
+  <p>Yhdysvaltain niin sanottuihin viiteen suureen orkesteriin lukeutuva Philadelphian orkesteri nousi kuiville osin Kiinaan tehtyjen sopimusten ansiosta. Vulgamoren mukaan ryhmällä on viisivuotinen residenssi Kiinaan.</p>
+  <p>Velkajärjestelyn aikana Philadelphian orkesteri onnistui vähentämään talousvastuitaan noin 100 miljoonalla dollarilla (81 miljoonaa euroa). Lisäksi se on saanut liki 30 miljoonan dollarin uudet lahjoitukset.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

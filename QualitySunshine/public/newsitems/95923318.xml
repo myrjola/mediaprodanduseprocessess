@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120809:95923318" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-09T13:33:34</versionCreated>
+<firstCreated>2012-08-09T13:33:31</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-08-09T13:33:31</contentCreated>
+<contentModified>2012-08-09T13:33:34</contentModified>
+<located type="loctype:City">
+<name>Savonlinna</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:113">
+<name>stt 113</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:70681">
+<name>SDP varautuisi taloustilanteen heikentymiseen</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97856293">
+<name>Mitä SDP teki kokouksessaan?</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001077">
+<name>1077</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:12762"/>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010000">
+<name>Puolueet Poliittiset liikkeet Järjestöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010996">
+<name>SDP</name>
+</subject>
+<slugline>///KAINALO SDP:N KESÄKOKOUSJUTTUUN///</slugline>
+<dateline>Savonlinna</dateline>
+<by>OLLI KEMPPAINEN</by>
+<description role="drol:summary">SDP:n eduskuntaryhmän kesäkokous pidetään Savonlinnassa 8.-9.elokuuta. Kokouspaikkana Wanhan Casinon Savonlinna-Sali. Kokous on avoin Savonlinnan kaupungin edustajan sekä Jutta Urpilaisen ja Jouni Backmanin puheenvuorojen ajan. Varsinainen lehdistötilaisuus pidetään 9.8.</description>
+<headline>Juokse demarin perässä Savonlinnassa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:12762">
+<name>Savonlinna-sali</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=61.8684,+28.8676</definition>
+<geoAreaDetails>
+<position latitude="61.868389" longitude="28.86763"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:265">
+<name>Savonlinna</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:29">
+<name>Etelä-Savo</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Kylpylaitoksentie4</line>
+<postalCode>SAVONLINNA</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>KUKA?</p>
+  <p>Sosiaalidemokraattinen eduskuntaryhmä kesäkokouksessaan.</p>
+  <p></p>
+  <p>MISSÄ?</p>
+  <p>Kokous Savonlinnassa Savonlinna-salissa, puhetilaisuuksia keskiviikkona illansuussa lisäksi Enonkoskella, Kerimäellä, Punkaharjulla, Rantasalmella ja Sulkavalla. Illanvietto 1,5 tunnin laivamatkan päässä Savonlinnan työväenyhdistyksen kesänviettopaikassa Taipaleenniemessä karaoketansseineen ryhmän puheenjohtajan Jouni Backmanin johdolla.</p>
+  <p></p>
+  <p>MITEN?</p>
+  <p>Kokoussali oli järjestetty perinteisen pulpettimallin sijaan kuuden hengen pöytäkunniksi. Kansanedustajia, valtiosihteereitä ja erilaisia avustajia oli läsnä liki sata henkeä ja tiedostusvälineiden edustajat vielä päälle. Puheenjohtaja Backman veti Juoksee demarin kanssa -hölkän.</p>
+  <p></p>
+  <p>MITÄ?</p>
+  <p>Sosiaalidemokraatit edellyttävät mm. toimia Syyrian sisällissodan pitkittymisen ja etenkin lasten inhimillisen kärsimyksen lopettamiseksi. Eduskuntaryhmä on pettynyt siihen, ettei kansainvälinen yhteisö ole kyennyt estämään katastrofia ja vaatii, että tilannetta arvioidaan pikaisesti uudelleen. </p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

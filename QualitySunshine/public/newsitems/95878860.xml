@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95878860" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T15:41:00</versionCreated>
+<firstCreated>2012-07-30T15:40:57</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T15:40:57</contentCreated>
+<contentModified>2012-07-30T15:41:00</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:142">
+<name>stt 142</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75354">
+<name>Euribor 30.7.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97776946">
+<name>Euribor 30.7.</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000769">
+<name>769</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Euribor</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Euribor-korot klo 12, Bryssel</p>
+  <p></p>
+  <p>1 vko (tod.pv/360)&#9;0,105</p>
+  <p>1 vko (tod.pv/365)&#9;0,106</p>
+  <p>2 vko (tod.pv/360)&#9;0,114</p>
+  <p>2 vko (tod.pv/365)&#9;0,116</p>
+  <p>3 vko (tod.pv/360)&#9;0,125</p>
+  <p>3 vko (tod.pv/365)&#9;0,127</p>
+  <p>1 kk (tod.pv/360)&#9;0,153</p>
+  <p>1 kk (tod.pv/365)&#9;0,155</p>
+  <p>2 kk (tod.pv/360)&#9;0,244</p>
+  <p>2 kk (tod.pv/365)&#9;0,247</p>
+  <p>3 kk (tod.pv/360)&#9;0,401</p>
+  <p>3 kk (tod.pv/365)&#9;0,407</p>
+  <p>4 kk (tod.pv/360)&#9;0,498</p>
+  <p>4 kk (tod.pv/365)&#9;0,505</p>
+  <p>5 kk (tod.pv/360)&#9;0,590</p>
+  <p>5 kk (tod.pv/365)&#9;0,598</p>
+  <p>6 kk (tod.pv/360)&#9;0,680</p>
+  <p>6 kk (tod.pv/365)&#9;0,689</p>
+  <p>7 kk (tod.pv/360)&#9;0,730</p>
+  <p>7 kk (tod.pv/365)&#9;0,740</p>
+  <p>8 kk (tod.pv/360)&#9;0,774</p>
+  <p>8 kk (tod.pv/365)&#9;0,785</p>
+  <p>9 kk (tod.pv/360)&#9;0,824</p>
+  <p>9 kk (tod.pv/365)&#9;0,835</p>
+  <p>10 kk (tod.pv/360)&#9;0,869</p>
+  <p>10 kk (tod.pv/365)&#9;0,881</p>
+  <p>11 kk (tod.pv/360)&#9;0,914</p>
+  <p>11 kk (tod.pv/365)&#9;0,927</p>
+  <p>12 kk (tod.pv/360)&#9;0,956</p>
+  <p>12 kk (tod.pv/365)&#9;0,969</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

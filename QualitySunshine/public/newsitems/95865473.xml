@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95865473" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T16:23:07</versionCreated>
+<firstCreated>2012-07-31T16:23:02</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T16:23:02</contentCreated>
+<contentModified>2012-07-31T16:23:07</contentModified>
+<located type="loctype:City">
+<name>Kabul</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:160">
+<name>stt 160</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74809">
+<name>Sosiaalinen media on rantautunut myös Afganistaniin.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97753293">
+<name>Naisten oma nettikahvila avautui Kabuliin</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000951">
+<name>951</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003000">
+<name>Tietotekniikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003001">
+<name>IT-teknologia Tietoliikenne</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16003000">
+<name>Levottomuudet</name>
+</subject>
+<slugline>///KAINALO KV.KUVAA, LIITTYY JUTTUUN TALEBANEISTA///</slugline>
+<dateline>Kabul</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Naisten oma nettikahvila avautui Kabuliin</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Afganistanissa sosiaalisen median käytöllä tavoitellaan myös sosiaalista muutosta. Syvän konservatiivisessa ja miesten hallitsemassa maassa naisen asema on vähäpätöinen. Siksi pienikin parannus naisten oloihin on juhlan arvoinen.</p>
+  <p>Pääkaupungissa Kabulissa avautui hiljattain Afganistanin ensimmäinen vain naisille suunnattu internetkahvila. Yleisiä nettikahviloita naiset eivät käytä, sillä niissä kohtaa helposti seksuaalista häirintää.</p>
+  <p>&#8211;&#8201; Internetyhteyden lisäksi tarjoamme säännöllisesti koulutustilaisuuksia, joissa kerromme tytöille, kuinka käyttää sosiaalista mediaa oikeuksiensa parantamiseen, kertoo Sahar Gul -kahvilan johtaja Tooba Ahmadyar. Hänen mukaansa kahvilan avaaminen on symbolinen ele afgaaninaisille.</p>
+  <p>Nuoret naiset muutoksen puolesta -ryhmän kahvila on nimetty 15-vuotiaan lapsimorsiamen mukaan. Tytön aviomies piti vaimoaan vankinaan ja kidutti tätä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

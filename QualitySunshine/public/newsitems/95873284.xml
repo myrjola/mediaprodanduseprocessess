@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873284" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T09:11:50</versionCreated>
+<firstCreated>2012-07-29T09:11:46</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T09:11:46</contentCreated>
+<contentModified>2012-07-29T09:11:50</contentModified>
+<located type="loctype:City">
+<name>Washington</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:025">
+<name>stt 025</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75174">
+<name>Musta pari ei päässyt vihille mississippiläiskirkossa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97766721">
+<name>Musta pari ei päässyt vihille mississippiläiskirkossa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000966">
+<name>966</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14025000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14025003">
+<name>Syrjintä</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006000">
+<name>Perhe</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006003">
+<name>Avioliitto</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Washington</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Musta pari ei päässyt vihille amerikkalaiskirkossa</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Yhdysvaltain Mississippissä sijaitsevan baptistikirkon pastori ei suostunut vihkimään paikallista pariskuntaa, koska he ovat mustia. Tapaus sattui hiljattain Crystal Springsin kaupungissa, kertoo televisiokanava ABC.</p>
+  <p>Pastori Stan Weatherfordin mukaan kyseisessä kirkossa ei ole koskaan vihitty mustaa pariskuntaa ja osa seurakunnan valkoisista jäsenistä vastusti seremoniaa niin kiivaasti, että he uhkasivat erotuttaa pastorin. Pariskunta meni lopulta naimisiin toisessa kirkossa. Sekä aviopari että monet paikalliset ovat häkeltyneet tapauksesta.</p>
+  <p>&#8211;&#8201; Yhdeksänvuotias tyttäremme oli tulossa kirkkoon kanssamme. Miten voin kertoa lapselleni, että emme voi mennä täällä naimisiin, kultaseni, koska olemme mustia, ihmetteli aviomies Charles Wilson.</p>
+  <p>&#8211;&#8201; Se kirkko oli heidän kotinsa. Mitä Jeesus olisi tehnyt? Hän olisi vihkinyt heidät hetkeäkään epäröimättä, koska se on oikein, sanoi paikallinen asukas Theresa Norwood.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

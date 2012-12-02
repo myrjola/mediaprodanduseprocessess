@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870403" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T15:34:27</versionCreated>
+<firstCreated>2012-07-28T15:34:24</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0013">
+<name>Tulokset</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.noc.fi" residref="urn:newsml:stt.fi:wwwlink:0000312">
+<title>Suomen Olympiakomitea</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.olympic.org" residref="urn:newsml:stt.fi:wwwlink:0000319">
+<title>Official website of the Olympic Movement</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T15:34:24</contentCreated>
+<contentModified>2012-07-28T15:34:27</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:107">
+<name>stt 107</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74396">
+<name>Olympialaiset: Lontoon olympiakisojen tulokset</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97761271">
+<name>Olympialaiset: Lontoon olympiakisojen tulokset</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002635">
+<name>2635</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline/>
+<dateline>Lontoo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Uintituloksia/olympia</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Lontoo:</p>
+  <p>Alkueriä (jatkoon selvinneet ja suomalaiset):</p>
+  <p>Miehet:</p>
+  <p>400 m sku, loppukilpailuun selvinneet: </p>
+  <p>Erä 3: 1) Kosuke Hagino Japani 4.10,01, 2) Thiago Pereira Brasilia 4.12,39.</p>
+  <p>Erä 4: 1) Michael Phelps USA 4.13,33.</p>
+  <p>Erä 5: 1) Chad Le Clos Etelä-Afrikka 4.12,24, 2) Ryan Lochte USA 4.12,35, 3) Thomas Fraser-Holmes Australia 4.12,66, 4) Luca Marin Italia 4.13,02, 5) Yuya Horihata Japani 4.13,09.</p>
+  <p>400 m vu, loppukipailuun selvinneet:</p>
+  <p>Erä 2: 1) Ryan Cochrane Kanada 3.47,26.</p>
+  <p>Erä 3: 1) Gergo Kis Unkari 3.46,77, 2) Ryan Napoleon Australia 3.47,01, 3) David Carry Britannia 3.47,25....6) Matias Koski Suomi 3.54,96. Koski karsiutui jatkosta.</p>
+  <p>Erä 4: 1) Sun Yang Kiina 3.45,07, 2) Peter Vanderkaay USA 3.45,80, 3) Conor Dwyer USA 3.46,24, 4) Hao Yun Kiina 3.46,88.</p>
+  <p>100 m ru, välieriin selvinneet:</p>
+  <p>Erä 4: 1) Daniel Gyurta Unkari 59,76, 2) Cameron Van Der Burgh Etelä-Afrikka 59,79, 3) Brendan Hansen USA 59,93, 4) Craig Benson Britannia 1.00,04, 5) Brenton Rickard Australia 1.00,07.</p>
+  <p>Erä 5: 1) Glenn Snyders Uusi-Seelanti 59,78, 2) Andrew Scott Dickens Kanada 59,85, 3) Michael Jamieson Britannia 59,89, 4) Eric Shanteau USA 59,96, 5) Fabio Scozzoli Italia 59,99, 6) Felipe Silva Brasilia 1.00,38.</p>
+  <p>Erä 6: 1) Christian Sprenger Australia 59,62, 2) Kosuke Kitajima Japani 59,63, 3) Giedrius Titenis Liettua 59,68, 4) Ryo Tateishi Japani 59,86, 5) Felipe Lima Brasilia 1.00,57.</p>
+  <p>Naiset:</p>
+  <p>100 m pu, välieriin selvinneet:</p>
+  <p>Erä 3: 4) Emilia Pikkarainen Suomi 59,55. Pikkarainen karsiutui jatkosta.</p>
+  <p>Erä 4: 1) Alicia Coutts Australia 57,36, 2) Francesca Halsall Britannia 58,23, 3) Li Tao Singapore 58,34, 4) Aliaksandra Herasimenia Valko-Venäjä 58,50, 5) Yuka Kato Japani 58,72, 6) Kristel Vourna Kreikka 58,74.</p>
+  <p>Erä 5: 1) Sarah Sjöström Ruotsi 57,45, 2) Ellen Gandy Britannia 58,25, 3) Inge Dekker Hollanti 58,30, 4) Ilaria Bianchi Italia 58,42, 5) Martina Granström Ruotsi 58,70.</p>
+  <p>Erä 6: 1) Dana Vollmer USA 56,25, 2) Lu Ying Kiina 57,17, 3) Jeanette Gray Tanska 57,64, 4) Jiao Liuyang Kiina 57,71, 5) Claire Donahue USA 58,06.</p>
+  <p>400 m sku, loppukilpailuun selvinneet:</p>
+  <p>Erä 1: 3) Noora Laukkanen Suomi 4.53,54. Laukkanen karsiutui jatkosta.</p>
+  <p>Erä 3: 1) Ye Shiwen Kiina 4.31,73, 2) Katinka Hosszu Unkari 4.33,77.</p>
+  <p>Erä 4: 1) Hannah Miley Britannia 4.34,98, 2) Stephanie Rice Australia 4.35,76, 3) Caitlin Leverenz USA 4.36,09.</p>
+  <p>Erä 5: 1) Elizabeth Beisel USA 4.31,68, 2) Li Xuanxu Kiina 4.34,28, 3) Mireia Belmonte Garcia Espanja 4.34,70.</p>
+  <p>4x100 m vuv, loppukilpailuun selvinneet:</p>
+  <p>Erä 1: 1) USA 3.36,53, 2) China 3.37,91, 3) Japani 3.38,06, 4) Ruotsi ja Britannia 3.38,21.</p>
+  <p>Erä 2: 1) Australia 3.36,34, 2) Hollanti 3.37,76, 3) Tanska 3.38,09.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

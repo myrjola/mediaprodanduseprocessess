@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95848491" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T10:05:24</versionCreated>
+<firstCreated>2012-07-28T10:05:21</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0019">
+<name>Tästä on kyse</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T10:05:21</contentCreated>
+<contentModified>2012-07-28T10:05:24</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:048">
+<name>stt 048</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74015">
+<name>Nuoret ja aikuisetkin harjoittelevat aseleikeissä taktista ajattelua ja erätaitoja. Kuvareportaasi airsoft-harrastuksesta.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97719536">
+<name>Airsoft on kansainvälistyvä laji</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000811">
+<name>811</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:10000000">
+<name>Vapaa-aika</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:10004000">
+<name>Harrastukset</name>
+</subject>
+<slugline>///TÄSTÄ ON KYSE LIITTYY JUTTUUN AIRSOFTISTA///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Harrastus yhdistää yli ikä- ja maarajojen</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>&#8211;&#8201; Airsoft tuli Suomeen 1990-luvun alkupuolella.</p>
+  <p>&#8211;&#8201; Lajin harrastajamäärää Suomessa on vaikea arvioida, koska lajilla ei ole kattojärjestöä. </p>
+  <p>&#8211;&#8201; Alueellisia yhdistyksiä on perustettu ympäri Suomea.</p>
+  <p>&#8211;&#8201; Airsoft-kauppiaat ja lajin pitkäaikaiset harrastajat arvioivat, että harrastajia on tuhansia.</p>
+  <p>&#8211;&#8201; Suomessa airsoftilla ei ole ikärajaa.</p>
+  <p>&#8211;&#8201; Asetta ei kuitenkaan saa myydä tai pysyvästi luovuttaa alaikäiselle.</p>
+  <p>&#8211;&#8201; Turvallisuuteen kiinnitetään erityistä huomiota ja kasvosuojukset ovat pakollisia.</p>
+  <p>&#8211;&#8201; Tyypillinen suomalainen airsoft-tapahtuma on viikonlopun aikana järjestetty noin kuuden tunnin pituinen tapahtuma, jonka aikana pidetään useita pieniä pelejä.</p>
+  <p>&#8211;&#8201; Lisäksi järjestetään isompia pelitapahtumia, joissa teemana voi olla vaikkapa Vietnamin sota.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

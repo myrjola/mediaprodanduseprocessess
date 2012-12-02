@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95868896" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T15:00:32</versionCreated>
+<firstCreated>2012-07-28T15:00:27</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T15:00:27</contentCreated>
+<contentModified>2012-07-28T15:00:32</contentModified>
+<located type="loctype:City">
+<name>New York</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:097">
+<name>stt 097</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75095">
+<name>YK:ssa ei päästy sopimukseen asekaupasta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97759707">
+<name>YK:ssa ei päästy sopimukseen asekaupasta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002363">
+<name>2363</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11027000">
+<name>Kansainväliset sopimukset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11001000">
+<name>Puolustus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11001006">
+<name>Ampuma-aseet</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY FAKTALAATIKKO///</slugline>
+<dateline>New York</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Asekauppasopimus kaatui suurten viivyttelyyn</headline><creditline>STT&#8211;Reuters-AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Jatkoneuvotteluja kuitenkin luvassa</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Tavanomaisten aseiden kauppa ei tule vieläkään kansainvälisen sääntelyn piiriin. Liki kuukauden kestäneet neuvottelut kansainvälisen asekauppasopimuksen luomiseksi kariutuivat lauantaina New Yorkissa.</p>
+  <p>Jäsenmaat eivät saavuttaneet tekstistä yksimielisyyttä, vaikka noin 90 valtiota allekirjoittikin luonnoksen. Mukana olivat kaikki EU-maat sekä useita Afrikan ja Etelä-Amerikan maita. Sopimus ei siis kaatunut täysin, ja useat maat vakuuttivat, että neuvotteluja jatketaan viimeistään syksyllä YK:n yleiskokouksessa, joka voi myös hyväksyä sopimuksen määräenemmistön turvin.</p>
+  <p>Lopputulos oli kuitenkin katkera pettymys YK:lle, monille maille ja kansalaisjärjestöille.</p>
+  <p>&#8211;&#8201; Asekauppasopimuksen tarve ei ole kadonnut. Jos suuret aseviejämaat Yhdysvallat, Venäjä ja Kiina olisivat halunneet edistää asekaupan hallintaa, sopimus olisi hyväksytty. Nyt tilanne on sietämätön, moitti Rauhanliiton puheenjohtaja, europarlamentaarikko Tarja Cronberg (vihr.).</p>
+  <p></p>
+  <p>
+<h3>Puurot ja vellit sekaisin</h3>
+</p>
+  <p></p>
+  <p>YK-maiden enemmistö kannatti vahvaa sopimusta, mutta pieni maajoukko &#8211; muun muassa Syyria ja Pohjois-Korea &#8211; vastusti kaikenlaista valvontaa. Neuvottelujen lässähtämisestä syytettiin enimmäkseen silti suuria aseviejiä, varsinkin Yhdysvaltoja ja Venäjää. Ne olisivat halunneet lisäaikaa käsittelyyn.</p>
+  <p>&#8211;&#8201; Suurvaltojen on osoitettava johtajuutta. Presidentti Obama pyysi lisäaikaa sopimuksen saavuttamiseksi, kuinka paljon aikaa hän haluaa? kysyi Amnesty Internationalin pääsihteeri Salil Shetty.</p>
+  <p>Jotkut valtuuskunnat moittivat Yhdysvaltoja siitä, että se taipui vaalivuotena vaikutusvaltaisten aselobbareiden edessä, jotka saavat näppylöitä kaikesta asevalvontaan viittaavastakin. Amerikkalaisessa keskustelussa asekauppasopimukseen kun on sotkettu mukaan debatti kansalaisten aseenkanto-oikeudesta, joka ei edes kuulu sopimuksen piiriin.</p>
+  <p>Neuvotteluja pidettiin etukäteen myös testinä koko YK-vetoisen systeemin toimivuudelle. Rypälease- ja miinasopimukset solmittiin jo YK:n ulkopuolella, joten asekauppasopimuksen kohtalo voi olla taas uusi isku YK:n uskottavuudelle.</p>
+  <p>&#8211;&#8201; Jos YK:n turvallisuusneuvoston pysyvät jäsenmaat käyttävät asemaansa kansainvälisten sopimusten hidastamiseen, on se ongelma koko kansainväliselle yhteisölle, sanoi Sadankomitean puheenjohtaja Outi Ojala.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

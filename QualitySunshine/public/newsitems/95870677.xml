@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870677" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T17:21:31</versionCreated>
+<firstCreated>2012-07-28T17:21:28</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T17:21:28</contentCreated>
+<contentModified>2012-07-28T17:21:31</contentModified>
+<located type="loctype:City">
+<name>Soul</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:133">
+<name>stt 133</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75127">
+<name>Kymmeniä kuollut P-Korean tulvissa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97762473">
+<name>Kymmeniä kuollut P-Korean tulvissa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000914">
+<name>914</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3005000">
+<name>Tulvat </name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Soul</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Lähes 90 kuollut Pohjois-Korean tulvissa</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Pohjois-Koreaa koettelevat jälleen tuhoisat tulvat. Liki 90 ihmistä on kuollut tulvissa eri puolilla maata, kymmenettuhannet ovat menettäneet kotinsa ja laajoja alueita viljelymaata on tuhoutunut, kertoivat viralliset viestimet lauantaina.</p>
+  <p>Uutistoimisto KCNA:n mukaan yli 130 ihmistä on loukkaantunut ja 60&#8201; 000 ihmistä on jäänyt kodittomaksi. Paikoitellen tulvat ovat vieneet sadon mennessään.</p>
+  <p>Erityisen ankarasti tulvat ovat kurittaneet eteläistä Pyonganin maakuntaa, jota rankkasateet piiskasivat alkuviikosta. </p>
+  <p>Ennen tulvia maassa kärsittiin ankarasta kuivuudesta.</p>
+  <p>Pohjois-Korealla on suuria vaikeuksia ruokkia 24-miljoonainen väestönsä normaaleinakin vuosina. 1990-luvun puolivälissä satojatuhansia pohjoiskorealaisia kuoli nälkään.</p>
+  <p>YK-järjestöt arvioivat viime vuoden lopulla, että 3 miljoonaa ihmistä tarvitsee tänä vuonna ulkopuolista ruoka-apua Pohjois-Koreassa.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95871143" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T19:06:27</versionCreated>
+<firstCreated>2012-07-28T19:06:24</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T19:06:24</contentCreated>
+<contentModified>2012-07-28T19:06:27</contentModified>
+<located type="loctype:City">
+<name>Sotshi</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:166">
+<name>stt 166</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75140">
+<name>Venäjä ja Japani eivät löytäneet sopua Kuriilien saarikiistaan</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97763548">
+<name>Venäjä ja Japani eivät löytäneet sopua Kuriilien saarikiistaan</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000989">
+<name>989</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16010000">
+<name>Muut konfliktit</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Sotshi</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Venäjä ja Japani eivät löytäneet sopua Kuriilien saarikiistaan</headline><creditline>STT&#8211;Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Venäjä ja Japani neuvottelivat lauantaina kiisteltyjen Kuriilien saarten hallinnasta Sotshissa, mutta ilman suurempaa tulosta. Kiista neljästä saaresta on kiristänyt maiden välejä toisesta maailmansodasta lähtien.</p>
+  <p>Japani vaatii Venäjää luovuttamaan sodan lopulla miehitetyt saaret takaisin. Venäjä pitää kiinni oikeudestaan saariin ja on suututtanut japanilaisia tekemällä korkean tason vierailuja saarille.</p>
+  <p>Venäjä kutsuu Kuriilien saariryhmän eteläpuolella olevia saaria Etelä-Kuriileiksi, kun taas Japani nimittää niitä Pohjoisiksi alueiksi.</p>
+  <p>Kireät tunnelmat välittyivät neuvottelijoiden kommenteista tiedotustilaisuudessa.</p>
+  <p>&#8211;&#8201; On surullista, että 67 vuotta sodan päättymisen jälkeen aluekysymys on yhä ratkaisematta, sanoi Japanin ulkoministeri Koichiro Gemba.</p>
+  <p>Venäjän ulkoministeri Sergei Lavrov taas toivoi, että vuoropuhelua voitaisiin käydä "rauhallisissa tunnelmissa ilman keinotekoisia historiallisia tulkintoja".</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120801:95891296" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-01T20:19:37</versionCreated>
+<firstCreated>2012-08-01T20:19:33</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:supplement"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-01T20:19:33</contentCreated>
+<contentModified>2012-08-01T20:19:37</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:225">
+<name>stt 225</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75677">
+<name>Arhinmäki: Kommentit korkeakulttuurin vastaisuudestani valitettavia</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97797962">
+<name>Arhinmäki: Kommentit korkeakulttuurin vastaisuudestani valitettavia</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001512">
+<name>1512</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7557"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006000">
+<name>Julkinen hallinto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006009">
+<name>Ministerit</name>
+</subject>
+<slugline>///TÄYDENNETTY LEHTIVERSIO 1. SITAATTI JA TOISEKSI VIIM. KPL///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Arhinmäki: Kommentit korkeakulttuurin vastaisuudestani valitettavia</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7557">
+<name>Helsinki</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode>HELSINKI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kulttuuri- ja urheiluministeri Paavo Arhinmäki (vas.) pitää valitettavana kommentteja hänen korkeakulttuurivastaisuudestaan. Säveltäjä ja kapellimestari Esa-Pekka Salonen sanoi Ylen haastattelussa tiistaina kokevansa, että ministerin linjauksissa on nähtävissä korkeakulttuurin vastaisuutta.</p>
+  <p>&#8211;&#8201; Pidin valitettavana tätä sen vuoksi, että populaarikulttuurin ja korkeakulttuurin välille luodaan turhaa vastakkainasettelua. Toisaalta jos kansan keskuudessa osan mielestä korkeakulttuurilla on elitistinen leima, tällaiset puheenvuorot voivat vain vahvistaa sitä, Arhinmäki sanoi.</p>
+  <p>Arhinmäki uskoo, että kyse on väärinkäsityksestä, joka lähti liikkeelle Musiikkitalon avajaisista. Ministeri jäi viime elokuussa niistä pois koripallo-ottelun takia. Arhinmäen mukaan hän kiertää paljon korkeakulttuuritapahtumissa. Hän muistutti, että korkeakulttuuri on paljon muutakin kuin klassista musiikkia.</p>
+  <p>&#8211;&#8201; Olen sanonut arvostavani niitä taidemuotoja kuin muitakin, Arhinmäki sanoi.</p>
+  <p>Ministeri kommentoi asiaa medialle keskiviikkona Helsingissä Gallery Kalhama &amp; Piipossa, jossa hän vieraili kuvataiteilija Rauha Mäkilän näyttelyn avajaisissa.</p>
+  <p>Kulttuuriväessä on viime aikoina herättänyt närkästystä myös se, ettei Arhinmäki vieraillut Savonlinnan oopperajuhlilla. Arhinmäki perustelee poissaoloaan valtioneuvoston istunnolla.</p>
+  <p>&#8211;&#8201; Se, että osallistun tai olen osallistumatta &#8211; sitä ei tarvitse tulkita kannanotoksi, Arhinmäki sanoi.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

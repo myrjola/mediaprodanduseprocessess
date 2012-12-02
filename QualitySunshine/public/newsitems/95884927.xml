@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95884927" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T17:44:54</versionCreated>
+<firstCreated>2012-07-31T17:44:49</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T17:44:49</contentCreated>
+<contentModified>2012-07-31T17:44:54</contentModified>
+<located type="loctype:City">
+<name>Ateena</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:186">
+<name>stt 186</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75518">
+<name>Kreikalta käteiset loppumassa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97787721">
+<name>Kreikalta käteiset loppumassa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000858">
+<name>858</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008008">
+<name>Valtion velka</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Ateena</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Kreikka varoittaa: Käteisvarat kohta lopussa</headline><creditline>STT&#8211;Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kreikalta uhkaavat loppua käteisvarat, maan apulaisvaltiovarainministeri varoitti tiistaina. Ministeri Christos Staikouras sanoi valtiollisen tv-yhtiön haastattelussa, että kassavarat ovat huvenneet lähes nollille.</p>
+  <p>Kreikka on täysin riippuvainen Kansainvälisen valuuttarahaston IMF:n ja muiden euromaiden sille myöntämästä tuesta. Seuraavan tukierän maksua on kuitenkin lykätty, kunnes Kreikka toteuttaa vaaditut säästötoimet. </p>
+  <p>Muut euromaat ovat toistuvasti vakuuttaneet, että tuki maksetaan ennen kuin Kreikan seuraava, 3,2 miljardin euron lainaerä erääntyy elokuussa. Rahoituksen yksityiskohdista ei kuitenkaan vielä ole sovittu.</p>
+  <p>Käteisvarojen loppuminen tarkoittaisi sitä, ettei Kreikka pystyisi maksamaan julkisen sektorin työntekijöiden palkkoja. Myös eläkkeet ja sosiaalietuudet jäisivät maksamatta.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

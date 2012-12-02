@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95865346" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T16:23:08</versionCreated>
+<firstCreated>2012-07-31T16:23:02</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T16:23:02</contentCreated>
+<contentModified>2012-07-31T16:23:08</contentModified>
+<located type="loctype:City">
+<name>Kabul</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:161">
+<name>stt 161</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74809">
+<name>Sosiaalinen media on rantautunut myös Afganistaniin.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97752981">
+<name>Sosiaalinen media on rantautunut myös Afganistaniin.</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003098">
+<name>3098</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003000">
+<name>Tietotekniikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003001">
+<name>IT-teknologia Tietoliikenne</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16003000">
+<name>Levottomuudet</name>
+</subject>
+<slugline>///LEHTIVERSIO TALEBANIN NETTISIVU: HTTP://WWW.SHAHAMAT-ENGLISH.COM////</slugline>
+<dateline>Kabul</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Digiaika mullisti Talebanin iskustrategian Afganistanissa</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Uuden sukupolven taistelija tuntee Facebookin ja Twitterin</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kuvia rynnäkkökivääriä kantavista taistelijoista, korkealaatuinen video liikkeen uusimmasta iskusta, Facebook- ja Twitter-viestejä, joissa lietsotaan pyhän sodan sanomaa. Nykypäivän talebantaistelija tuntee internetin salat.</p>
+  <p>Vielä reilut kymmenen vuotta sitten moderni teknologia oli Afganistanissa kirosana. Taleban-liikkeen valtakaudella vuosina 1996&#8211;2001 uusi teknologia nähtiin ei-islamilaisena ja lännen propagandavälineenä. Elävistä olennoista otetut valokuvat olivat kiellettyjä, ja videonauhurin omistamisesta saattoi joutua julkisesti ruoskituksi.</p>
+  <p>Tänään tilanne on toinen. Internetin, erityisesti sosiaalisen median, käyttö on kovassa kasvussa. Poliitikot, sotapäälliköt ja tavalliset kansalaiset luovat kilvan Facebook- ja Twitter-tilejä. Jopa kovan linjan islamisteina tunnetut talebanit lähettävät säännöllisesti Twitter-viestejä, joissa kerskutaan Nato-joukkoja vastaan tehdyillä iskuilla.</p>
+  <p>&#8211;&#8201; Tiedämme, että Twitter on länsimaissa hyvin suosittu. Me käytämme sitä viedäksemme viestiämme ja filosofiaamme uudelle yleisölle, myös länsimaalaisille, sanoo Taleban-liikkeen edustaja Zabihullah Mujahid.</p>
+  <p>Viesti on voimakas: internetsivuillaan Taleban riemuitsee "vihollisia" vastaan tehdyistä iskuista, joissa on saanut surmansa "sätkynukkeja" ja "tunkeutujia".</p>
+  <p></p>
+  <p>
+<h3>Vähemmän taistelijoita, enemmän tuhoa</h3>
+</p>
+  <p></p>
+  <p>Iskuissaan Taleban tukeutuu yhä enemmän uuteen teknologiaan, muun muassa GPS:ään ja karttapalvelu Google Mapsiin. Analyytikoiden mukaan liike hyötyy digiajasta: sanoma tavoittaa entistä useamman, ja hyvin suunniteltuihin iskuihin tarvitaan entistä vähemmän kapinallisia.</p>
+  <p>&#8211;&#8201; Viisi vuotta sitten Taleban hyökkäsi satojen miesten voimalla syrjäisiin kyliin, nyt kymmenen kapinallista voi saada aikaan enemmän isoihin kaupunkeihin kohdistetuissa iskuissa, arvioi analyytikko Waheed Wafa.</p>
+  <p>Kapinalliset ovat vastahakoisia keskustelemaan täyskäännöksensä syistä. Zabihullah Mujahidin mukaan niin internet kuin muukin media julistettaisiin pannaan, mikäli niitä käytettäisiin ei-islamilaiseen tarkoitukseen. Renkinä median käyttö sen sijaan on kannattavaa suhdetoimintaa.</p>
+  <p>Tutkijoiden mukaan internetvideoilla Taleban antaa itsestään todellisuutta vahvemman kuvan. Liikettä nujertamaan pyrkivät Nato-johtoiset Isaf-joukot menevät arvioissaan vielä pidemmälle.</p>
+  <p>&#8211;&#8201; Kyse on sensaatiohakuisuudesta. Kapinalliset pyrkivät rekrytoimaan lisää nuoria miehiä kuolemaan turhaan epäonnistuneen asian puolesta, lataa Isafin edustaja Günter Katz.</p>
+  <p></p>
+  <p>
+<h3>Arabikevät innoitti internetiin</h3>
+</p>
+  <p></p>
+  <p>Kimmokkeena sosiaalisen median kasvulle Afganistanissa olivat viimekeväiset kansannousut arabimaissa: yhteisöpalvelujen kautta joukkoliikkeen luominen oli mahdollista.</p>
+  <p> Afganistanilaisista noin 10 prosentilla, eli kahdella miljoonalla ihmisellä, on internetyhteys tietokoneelta. Lisäksi moni käyttää nettiä älypuhelimestaan.</p>
+  <p>Perinteisiä kanavia ei silti ole unohdettu. Köyhille ja lukutaidottomille afgaaneille viesti kulkee kylänvanhimpien ja mullahien kautta.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

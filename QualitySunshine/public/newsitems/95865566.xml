@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120810:95865566" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-10T10:52:22</versionCreated>
+<firstCreated>2012-08-10T10:52:19</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-08-10T10:52:19</contentCreated>
+<contentModified>2012-08-10T10:52:22</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:084">
+<name>stt 084</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:73613">
+<name>Tero Saarinen tanssiin valaan äänien tahtiin</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97753541">
+<name>Nykytanssiteokset elävät pitkään</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001708">
+<name>1708</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7670"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1006000">
+<name>Tanssitaide</name>
+</subject>
+<slugline>///KAINALO TERO SAARISEN HAASTATTELUUN///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Tanssiteos ei ole kertakäyttötuote</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7670">
+<name>Helsinki</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.1712,+24.9326</definition>
+<geoAreaDetails>
+<position latitude="60.171162" longitude="24.93265"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Tero Saarisen tanssiryhmässä on ainoastaan muutama kuukausipalkkalainen, mutta jatkuvat vierailijat ovat koreografin mukaan melkein vakituisia jo.</p>
+  <p>&#8211;&#8201; Ainakin mentaalisesti. Juhlaviikoille tulee hauska kokoonpano. Esittelen suomalaiselle yleisölle nuoremman polven tanssijoita, joita ei ole niin paljon täällä nähty, koska he ovat tanssineet enemmän ulkomailla.</p>
+  <p>Scheme of Things &amp; Vox Balaenae -iltaa ei tämän vuoden puolella nähdä muualla Suomessa kuin Helsingissä juhlaviikoilla. Marraskuussa se tulee ensi-iltaan Brüggessä, Belgiassa ja ensi vuonna Yhdysvalloissa.</p>
+  <p>&#8211;&#8201; Helsinkiin tulee ostajia katsomaan ja Brüggeen myös. Ehkä kahden vuoden päästä saadaan teospari kunnolla liikkeeseen. Siihen on tottunut, että aina pitää odottaa.</p>
+  <p>Saarisen mielestä tärkeintä on muistaa se, että tanssi ei ole mikään kertakäyttötuote.</p>
+  <p>&#8211;&#8201; Vanhempiakin teoksia voi pitää repertuaarissa ja tuoda niitä aina uusille sukupolville uudestaan esille. Sillä tavallahan me luomme sitä omaa historiaa. Samalla lailla kuin samaa kirjaa voi lukea yhä uudestaan, voi tanssiteoksestakin saada aina uutta irti. Tiedän, että esimerkiksi Huntin ovat jotkut käyneet katsomassa kuusikin kertaa.  </p>
+  <p>&#8211;&#8201; Vaikka tanssiteos peilaakin omaa aikaansa ja tekijänsä henkilökohtaisia tuntemuksia, mielestäni hienointa on huomata kun teos "resonoi", herättää keskustelua ja voimakkaita tunteita vielä kauan luomisajankohtansa jälkeen.</p>
+  <p>Kokenutkaan koreografi ei kuitenkaan koskaan tiedä, mistä teoksesta tulee sellainen, joka kestää aikaa.</p>
+  <p>&#8211;&#8201; Esimerkiksi Borrowed Lightilla on koko ajan kysyntää, vaikka se on vaikeimmin kuljetettavia teoksiamme, koska siinä on kahdeksan amerikkalaismuusikkoa mukana.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

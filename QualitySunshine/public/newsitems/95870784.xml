@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870784" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T17:58:07</versionCreated>
+<firstCreated>2012-07-28T17:58:04</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T17:58:04</contentCreated>
+<contentModified>2012-07-28T17:58:07</contentModified>
+<located type="loctype:City">
+<name>Kotka</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:139">
+<name>stt 139</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75111">
+<name>Kotkan poliisiaseman putkassa pahoinpideltiin mies kriittiseen tilaan</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97761127">
+<name>Kotkan poliisiaseman putkassa pahoinpideltiin mies kriittiseen tilaan</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002222">
+<name>2222</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7609"/>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003000">
+<name>Poliisi</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003002">
+<name>Poliisitutkinta</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001006">
+<name>Väkivaltarikokset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Kotka</dateline>
+<by>PIRKKA SILTARI</by>
+<description role="drol:summary"/>
+<headline>Kamera tallensi putkapahoinpitelyn, monitoria ei tarkkailtu</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7609">
+<name>Kotka</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:118">
+<name>Kotka</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:35">
+<name>Kymenlaakso</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Kotkassa mies pahoinpideltiin putkassa kriittiseen tilaan</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Putkassa oleva kamera tallensi, kun säilöön otettua miestä pahoinpideltiin hengenvaarallisesti Kotkassa perjantai-iltana.</p>
+  <p>Törkeästä pahoinpitelystä epäillään kahta miestä, jotka olivat samassa putkassa.</p>
+  <p>Tapaus paljastui normaalin tarkastuskäynnin yhteydessä. Kukaan henkilökunnasta ei katsonut monitoria silloin, kun pahoinpitely tapahtui.</p>
+  <p>&#8211;&#8201; Meillä on kymmenen putkaa. Kukaan ei pystynyt seuraamaan tapahtumaa, sanoi rikoskomisario Jari Riiali Kymenlaakson poliisista STT:lle.</p>
+  <p>Ylikuormituksen syy oli Kotkan meripäivät, joka tuotti runsaasti työtä poliisille. Samassa putkassa olleet miehet olivat kaikki päihtyneitä.</p>
+  <p></p>
+  <p>
+<h3>Uhri putkassa runsaan tunnin</h3>
+</p>
+  <p></p>
+  <p>Yli 50-vuotias uhri ehti olla putkassa runsaan tunnin verran. Kun hänet vietiin säilöön, siellä olivat ennestään noin kolmikymppinen mies ja noin viisikymppinen mies. Kaikki ovat kymenlaaksolaisia.</p>
+  <p>Henkilökunta löysi uhrin lattialta verta vuotavana ja rajusti pahoinpideltynä. Hänen tilansa oli kriittinen.</p>
+  <p>&#8211;&#8201; Kameran tallennetta on käyty läpi. Siitä ilmenee tapahtuma pääpiirteittäin, Riiali kertoi.</p>
+  <p>Hän ei kertonut yksityiskohtaisemmin vammoista. Tekijöiksi epäillään molempia miehiä.</p>
+  <p>Epäillyt ja uhri eivät todennäköisesti tunteneet toisiaan ennalta. Uhri kuljetettiin ambulanssilla Kymenlaakson keskussairaalaan. Epäillyt pidätettiin.</p>
+  <p></p>
+  <p>
+<h3>Harvinainen tapaus</h3>
+</p>
+  <p></p>
+  <p>Rikoskomisario Riiali ei muista näin vakavaa putkapahoinpitelyä.</p>
+  <p>&#8211;&#8201; Iäkkäämmät poliisit muistavat, että Meripäivien aikaan putkassa on ennenkin ollut nahinaa. Mutta näin vakavaa ei ole sattunut.</p>
+  <p>Hän ei halunnut vielä ottaa kantaa siihen, voidaanko henkilökuntaa epäillä jostain laiminlyönnistä. Jos niin käy, tutkinnasta vastaa toinen poliisilaitos.</p>
+  <p>Esimerkiksi Euroopan ihmisoikeustuomioistuin on usein linjannut, että valtiolla on erityinen vastuu vapaudenriiston kohteeksi joutuneen turvallisuudesta.</p>
+  <p>Suomessa kuolee vuosittain parikymmentä ihmistä putkaan, mutta tällöin kyse on yleensä sairauskohtauksesta, alkoholimyrkytyksestä tai aiemmista vammoista. Kaikki kuolemat tutkitaan, ja epäillyt laiminlyönnit selvitetään toisella poliisilaitoksella. Laiminlyöntejä todetaan harvoin.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95893796" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T13:04:23</versionCreated>
+<firstCreated>2012-08-02T13:04:20</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T13:04:20</contentCreated>
+<contentModified>2012-08-02T13:04:23</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:115">
+<name>stt 115</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74964">
+<name>Italian pääministeri Monti puhuu EK:n ja UPIn seminaarissa eurosta ja EU:sta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97803294">
+<name>Monti EK:ssa sähke</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002451">
+<name>2451</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<slugline>///LEHTIVERSIO TUORETTA KUVAA MONTISTA///</slugline>
+<dateline>Helsinki</dateline>
+<by>OLLI KEMPPAINEN</by>
+<description role="drol:summary">Kdeski &lt;Kdeski@stt-lehtikuva.fi&gt;</description>
+<headline>Monti arvioi EU:n tehneen hyvää pohjatyötä talouskasvun eteen</headline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Italian pääministeri varoitti syyllistämästä toisia maita</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  <p>Italian pääministeri Mario Monti valoi torstaina Helsingissä suomalaisiin yritysjohtajiin ja ulkopolitiikan tuntijoihin uskoa talouskasvun mahdollisuuksiin Euroopassa.</p>
+  <p>Monti arvioi Elinkeinoelämän keskusliiton EK:n ja Ulkopoliittisen instituutin seminaarissa, että kymmenen vuoden päästä havaitaan Euroopan keskittyneen vuosina 1995&#8211;2015 kasvun sijasta vielä tärkeämpään asiaan, Euroopan luomiseen.</p>
+  <p>Monti listasi neljä asiaa, joita Eurooppa on tavoitellut saavuttaakseen Yhdysvallat: yhteismarkkinat, yhteisvaluutta, laajentuminen ja perustuslaki. Kolme ensin mainittua on saavutettu, ja Lissabonin sopimus toteutti perustuslainkin puoliksi.</p>
+  <p>&#8211;&#8201; Laajentuminen on ollut kysyntävetoista eikä cowboy-työntöistä, Monti heitti viitaten Yhdysvaltojen laajentumiseen länteen 1800-luvulla.</p>
+  <p>Euroopassa tapahtunut kehitys ei ole Montin mielestä epäolennaista talouskasvun kannalta, vaikka aikaa onkin menetetty. Euroopan osuus maailman kansantuotteesta pienenee joka tapauksessa väestörakenteen vuoksi.</p>
+  <p>&#8211;&#8201; Eurooppa tulee auttamaan maailman muita taloudellisesti vahvempia alueita globalisaation hallinnoimisessa, koska siinä on onnistuttu 60 vuotta Euroopan maanosassa, Monti ennusti.</p>
+  <p></p>
+  <p>
+<h3>Italia on velkaa itselleen</h3>
+</p>
+  <p></p>
+  <p>Monti huomautti suomalaisille, että Italiaa ei pidä luokitella samaan kastiin Etelä-Euroopan velkamaiden kanssa. Hän sanoi, että Italia on velkaa vain itselleen. Lisäksi Italia on Saksan ja Ranskan jälkeen kolmanneksi suurin rahoittaja Irlannin, Portugalin ja Kreikan kriiseissä sekä Espanjan pankkien pelastamisessa.</p>
+  <p>Pääministerin mielestä Eurooppaa uhkaa velkakriisin vuoksi henkinen hajoaminen, mikä johtuu toisia kansoja koskevien ennakkoasenteiden ja stereotypioiden vahvistumisesta. Tätä hän kutsui vanhojen kummitusten nousuksi. Siksi hänen hallituksensa perustelee toimiaan italialaisten edulla, ei ulkoisella pakolla.</p>
+  <p>&#8211;&#8201; On erittäin vaarallista ottaa itselle kunnia onnistumisista ja ulkoistaa syyllisyys, Monti sanoi.</p>
+  <p>Vaikka Monti kannattaakin Euroopan integraation syventämistä, ajatus poliittisen unionin tiivistämisestä kasvattamalla parlamentin roolia ja muokkaamalla komissiota poliittiseksi hallitukseksi sai hänet hieman epäileväksi. Kansallisten demokraattisten elinten mallin kopioiminen ei hänen mielestään välttämättä toimi, jos kansallinenkaan demokratia ei toimi kunnolla.</p>
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

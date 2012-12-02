@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95865901" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T09:00:30</versionCreated>
+<firstCreated>2012-07-28T09:00:00</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T09:00:00</contentCreated>
+<contentModified>2012-07-28T09:00:30</contentModified>
+<located type="loctype:City">
+<name>Savonlinna</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:038">
+<name>stt 038</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74821">
+<name>Savonlinnan oopperajuhlien kv. laulukilpailun finaali käydään huomenna. Mitä mieltä tuomaristo on tasosta? </name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97754199">
+<name>Savonlinnan oopperajuhlien kv. laulukilpailun finaali käydään huomenna. Mitä mieltä tuomaristo on tasosta? </name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002382">
+<name>2382</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:8004"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011001">
+<name>Klassinen musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Savonlinna</dateline>
+<by>SANNA NIKULA</by>
+<description role="drol:summary"/>
+<headline>Savolinnan laulukilpailun finaalista povataan mielenkiintoista</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:8004">
+<name>Savonlinna</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:265">
+<name>Savonlinna</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:29">
+<name>Etelä-Savo</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Savonlinnan toinen kansainvälinen laulukilpailu huipentuu sunnuntai-iltana korkeatasoiseen ja mielenkiintoiseen finaaliin, lupaa tuomariston puheenjohtaja Jari Hämäläinen.</p>
+  <p>Olavinlinnan lavalle nousee kuusi nuorta laulajaa. Joukossa on suomalainen basso Matti Turunen, josta on kehkeytymässä kovaa vauhtia yksi pelastus Suomea uhkaavaan bassopulaan. Vuonna 1982 syntynyt Turunen on finalisteista vanhin.</p>
+  <p>&#8211;&#8201; Hän on kehittynyt hienosti ja lauloi hyvin alkukilpailussa, kehuu Hämäläinen.</p>
+  <p>Viisi muuta finalistia ovat venäläinen mezzosopraano Nadezha Karyazina, ukrainalainen tenori Oleksiy Palchykov, yhdysvaltalainen sopraano Heather Engerbretson, romanialainen tenori Cristian Mogosan ja romanialainen sopraano Iulia Elena Surdu.</p>
+  <p>&#8211;&#8201; Olisimme mielellämme kuulleet finaalissa useampiakin laulajia. Kuusi oli kuitenkin valittava, Hämäläinen muotoilee.</p>
+  <p>Hänen mukaansa tuomaristo oli sangen yksimielinen.</p>
+  <p>&#8211;&#8201; Viimeisistä nimistä tulee luonnollisesti aina pientä vääntöä, mutta vaikea päätös ei ollut.</p>
+  <p>Hämäläinen kertoo vaikuttuneensa muun muassa Surdun esityksestä.</p>
+  <p>&#8211;&#8201; Hän on jo kiinnitettynä Düsseldorfin oopperaan.</p>
+  <p>Myös esimerkiksi kilpailun kuopus, 22-vuotias Engerbretson on Hämäläisen mielestä kiinnostava laulaja. Hän opiskelee Juilliardissa New Yorkissa.</p>
+  <p>Loppukilpailussa kukin laulaja esittää kaksi vapaavalintaista ooppera-aariaa Savonlinnan oopperajuhlaorkesterin säestämänä.</p>
+  <p>Voittaja saa 20&#8201; 000 euroa, toiseksi sijoittuva 10&#8201; 000 ja kolmas 5&#8201; 000 euroa.</p>
+  
+  <p>
+<h3>Haussa tulevaisuuden kyky</h3>
+</p>
+  <p></p>
+  <p>Tuomaristo hakee voittajaksi tulevaisuuden kykyä, jolla on mahdollisuus päästä urallaan pitkälle.</p>
+  <p>Ensimmäisessä, vuonna 2010 järjestetyssä kilpailussa voitto jaettiin kahden laulajan, eteläafrikkalaisen sopraanon Pretty Yenden ja yhdysvaltalaisen tenorin Michele Angelinin kesken.</p>
+  <p>&#8211;&#8201; Yende on sittemmin laulanut muun muassa New Yorkin Metropolitanissa ja Milanon La Scalassa. Myös Angelini on jo lyönyt itsensä hyvin läpi, Hämäläinen tietää.</p>
+  <p>Savonlinnan kansainvälinen laulukilpailu on nuori tulokas, eikä sitä vielä tunneta kovin hyvin maailmalla.</p>
+  <p>&#8211;&#8201; Se ei tapahdu heti, mutta yritämme vahvistaa brändiämme.</p>
+  <p>Seuraavan kerran kansainvälinen kilpailu järjestetään kolmen vuoden kuluttua Olavinlinnassa.</p>
+  <p>&#8211;&#8201; Väli on kaksi tai kolme vuotta sen mukaan, milloin on Mirjam Helin -laulukilpailu. Sen kanssa ei saa tulla kolareita.</p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p>  </p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

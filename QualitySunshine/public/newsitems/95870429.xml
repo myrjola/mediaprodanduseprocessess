@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870429" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T16:53:41</versionCreated>
+<firstCreated>2012-07-28T15:54:32</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:supplement"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T15:54:32</contentCreated>
+<contentModified>2012-07-28T16:53:41</contentModified>
+<located type="loctype:City">
+<name>Lahti</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:129">
+<name>stt 129</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75124">
+<name>Poliisi pyytää vihjeitä lapseen törmänneestä autoilijasta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97762418">
+<name>Poliisi pyytää vihjeitä lapseen törmänneestä autoilijasta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001159">
+<name>1159</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003000">
+<name>Poliisi</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003002">
+<name>Poliisitutkinta</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3010000">
+<name>Liikenneonnettomuudet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3010001">
+<name>Tieliikenneonnettomuudet</name>
+</subject>
+<slugline>///TÄYDENNETTY LEHTIVERSIO POLIISIN KOMMENTEILLA KANTA-HÄMEESSÄ TUTKITUISTA TÖRMÄYKSISTÄ///</slugline>
+<dateline>Lahti</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Poliisi etsii 6-vuotiaaseen törmännyttä autoilijaa Lahdessa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Autoilija törmäsi poliisin mukaan torstaina Lahden Ahtialassa 6-vuotiaaseen pikkupoikaan. Pojan mukaan autoa ajanut nainen oli kysynyt pojalta, sattuiko häntä, ja poistunut tämän jälkeen paikalta.</p>
+  <p>Auto oli osunut polkupyörällä liikkuneeseen lapseen todennäköisesti Radanvarsikadun ja Peltokummunkadun risteyksessä. Onnettomuus sattui torstaina hieman kello kuuden jälkeen illalla.</p>
+  <p>Poliisi pyytää kuljettajaa ilmoittautumaan, jotta tapahtumat saadaan selvitettyä tarkemmin. Myös mahdollisia silminnäkijöitä pyydetään ottamaan yhteyttä.</p>
+  <p>Rikosylikonstaapeli Ari Löppönen Päijät-Hämeen poliisista kertoo, että poliisilla ei ole syytä epäillä, että tapaus liittyisi aiemmin tänä vuonna Kanta-Hämeessä tutkittuihin törmäyksiin. Poliisi tutki keväällä kolmea törmäystä Janakkalan Tervakoskella ja yhtä Hämeenlinnassa. Niissä naiskuljettajan epäiltiin törmänneen tai yrittäneen törmätä lapseen.</p>
+  <p>&#8211;&#8201; Kyllä havainto on, että tämä on ihan yksittäistapaus, Löppönen sanoi.</p>
+  <p>Poliisi pyytää yhteydenotot puhelinnumeroon 071 873 7543 mieluiten virka-aikana.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

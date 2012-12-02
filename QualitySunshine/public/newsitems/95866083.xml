@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95866083" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T12:26:24</versionCreated>
+<firstCreated>2012-07-29T12:26:21</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T12:26:21</contentCreated>
+<contentModified>2012-07-29T12:26:24</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:065">
+<name>stt 065</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74954">
+<name>Tutkimusalus Muikku aloittaa Helsingin merialueiden tilaa kartoittavan tutkimusmatkansa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97754639">
+<name>Tutkimusalus Muikku aloittaa Helsingin merialueiden tilaa kartoittavan tutkimusmatkansa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000735">
+<name>735</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:6000000">
+<name>Ympäristö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6005000">
+<name>Saastuminen</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6005002">
+<name>Vesien saastuminen </name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Tutkimusalus ruotii Helsingin edustan merenpohjaa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Tutkimusalus Muikku lähtee maanantaina kartoittamaan Helsingin merialueiden tilaa. </p>
+  <p>Helsingin kaupungin ympäristökeskus pyrkii selvittämään, toimiiko merenpohja kaupungin edustalla ravinteiden nieluna vai lähteenä. Tulosten perusteella voidaan muodostaa kokonaiskuva myös koko Suomen eteläisen rannikon tilanteesta.</p>
+  <p>Itämeren huono tila johtuu pohjaan kertyneistä liiallista ravinnemääristä eli fosforista ja typestä. Hapettomissa oloissa fosfori liukenee takaisin veteen ja kuormittaa jatkuvasti merta.</p>
+  <p>Yleisö pääsee tutustumaan Muikkuun ja tutkimustuloksiin torstaina 10. elokuuta Lyypekinlaiturilla Vanhan kauppahallin luona.</p>
+  <p>Matkaa voi seurata videoblogin ja Facebookin välityksellä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

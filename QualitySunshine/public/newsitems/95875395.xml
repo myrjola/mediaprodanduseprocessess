@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95875395" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T21:03:07</versionCreated>
+<firstCreated>2012-07-29T21:03:03</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T21:03:03</contentCreated>
+<contentModified>2012-07-29T21:03:07</contentModified>
+<located type="loctype:City">
+<name>Kiuruvesi</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:217">
+<name>stt 217</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75237">
+<name>Kiuruvedellä palaa suuri navettarakennus</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97770535">
+<name>Kiuruvedellä palaa suuri navettarakennus</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000469">
+<name>469</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7933"/>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3004000">
+<name>Tulipalot </name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Kiuruvesi</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Suuri navetta palaa Kiuruvedellä Pohjois-Savossa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7933">
+<name>Kiuruvesi</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:108">
+<name>Kiuruvesi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:38">
+<name>Pohjois-Savo</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Pohjois-Savossa Kiuruvedellä palaa suuri navetta, kertoo päivystävä palomestari. Pelastuslaitos tyhjentää paraikaa Lavapurontiellä sijaitsevaa rakennusta eläimistä. Noin tuhatneliöisen navetan sisällä on noin sata nautaa.</p>
+  <p>Palo on ilmeisesti saanut alkunsa ullakkorakenteista, mahdollisesti salamasta. Rakennus ei ole ilmiliekeissä, mutta kattorakenteista tupruaa savua.</p>
+  <p>Hälytys palosta tuli puoli yhdeksän aikaan illalla.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

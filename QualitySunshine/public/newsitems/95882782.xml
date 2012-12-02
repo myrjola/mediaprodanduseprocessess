@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95882782" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T10:39:15</versionCreated>
+<firstCreated>2012-07-31T10:39:12</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T10:39:12</contentCreated>
+<contentModified>2012-07-31T10:39:15</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:052">
+<name>stt 052</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75440">
+<name>Millaisia keinoja oikeusministeriössä pohditaan järjestäytyneen rikollisuuden ehkäisyyn?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97783666">
+<name>Poliisijohtaja Robin Lardot tarkensi Ylelle kommenttejaan järjestäytyneen rikollisuuden tuista</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000614">
+<name>614</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2010000">
+<name>Järjestäytynyt rikollisuus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11016000">
+<name>Sisäpolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14015000">
+<name>Hyvinvointi Sosiaaliturva</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Poliisijohtaja Ylelle: En ole poistamassa rikollisten tukia</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Poliisijohtaja Robin Lardot on tarkentanut Ylen uutisissa esittämiään kommentteja rikollisten yhteiskunnallisista tuista.</p>
+  <p>Yle kertoi viikonloppuna, että Lardotin mukaan rikosten tekijät voisivat tulevaisuudessa menettää yhteiskunnallisia tukiaan. Tänään Lardot sanoi Ylelle, ettei ole poistamassa tukia.</p>
+  <p>Hänen mukaansa viranomaisten yhteistyötä järjestäytyneen rikollisuuden torjunnassa pitäisi tiivistää. Lardot kysyy, pitäisikö esimerkiksi lupa-asioita käsittelevien viranomaisten saada tieto luvan hakijan kytköksistä järjestäytyneeseen rikollisuuteen.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

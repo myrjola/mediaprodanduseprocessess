@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95883328" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T09:01:10</versionCreated>
+<firstCreated>2012-08-02T09:01:06</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-08-02T09:01:06</contentCreated>
+<contentModified>2012-08-02T09:01:10</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:046">
+<name>stt 046</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:71959">
+<name>Jalkapallo-ooppera yhdistää urheilun ja taiteen - esiintyjinä taviksia</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97784708">
+<name>Fanilauman energiaa etsimässä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001191">
+<name>1191</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7314"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<slugline>///KAINALO LIITTYY JUTTUUN  JALKAPALLO-OOPPERASTA///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Jalkapallo-oopperan idea syntyi jalkapallo-stadionin fanikatsomosta ja sen tapahtumista. Esityksessä seurataan, millaista elämä on kentän laidalla: vapaaehtoisista esiintyjistä koostuva joukko käy läpi penkkiurheilun peruspilareita riemukkaasta yhteislaulusta intiimeihin faniromansseihin. Belgialainen hittiesitys nähdään nyt ensimmäistä kertaa kotikaupunkinsa Gentin ulkopuolella.
+</description>
+<headline>Fanilauman energiaa etsimässä</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7314">
+<name>Helsinki</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Jalkapallo-oopperan ohjauksesta vastaavat nuoret belgialaiset teatterintekijät Gilles De Schryver, Lien Maes, Oliver Roels ja Yahya Terryn. </p>
+  <p>Belgialaisohjaajien ja suomalaisesiintyjien yhteistyö on sujunut alkukankeuksien jälkeen hyvin, kertoo De Schryver.</p>
+  <p>&#8211;&#8201; Suomalaiset ovat hyvin pidättyväisiä ja tämä esitys tarvitsee ulospäin suuntautuneisuutta. Alussa meillä oli etsimistä sen kanssa, mutta onneksi ryhmä on osoittautunut hyvin energiseksi, De Schryver kiittelee.</p>
+  <p>Belgialaisnelikon tavoitteena on tuoda lavalle fanikatsomon ihmeellinen tunnelataus. Vapaaehtoisten esiintyjien avulla tavoitellaan aitoa tunnelmaa, De Schryver kertoo.</p>
+  <p>&#8211;&#8201; Meille on tärkeää saada mukaan oikeaa ryhmäenergiaa. Vapaaehtoisesiintyjillä ei ole tekniikkaa esittää sitä, vaan heidän täytyy löytää oikea energia. Siksi esitystä ei ole näytelty.</p>
+  <p>De Schryverin mielestä urheilun ja teatterin katsomisessa on paljon yhteistä.</p>
+  <p>&#8211;&#8201; Parhaassa tapauksessa teatterikokemus olisi yhtä intensiivinen kuin urheilukatsomon elämys. Urheilussa kaikki tapahtuu oikeasti, joten yleisö kokee jotain aitoa. Halusimme yhdistää esityksessä urheilun ja taiteen maailman.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

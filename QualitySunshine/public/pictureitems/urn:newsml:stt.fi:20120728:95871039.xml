@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120728:95871039" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T18:39:35</versionCreated>
+<firstCreated>2012-07-28T18:39:32</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T18:39:32</contentCreated>
+<contentModified>2012-07-28T18:39:35</contentModified>
+<located type="loctype:City">
+<name>Siilinjärvi</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:155" type="cpnat:runnumber">
+<name>stt 155</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75139" type="cpnat:topic">
+<name>Mies katosi Siilinjärvellä</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97763407" type="cpnat:textpackageid">
+<name>Mies katosi Siilinjärvellä</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000655" type="cpnat:length">
+<name>655</name>
+</subject>
+      <subject qcode="sttdepartment:0003" type="cpnat:department">
+         <name>Kotimaa</name>
+      </subject>
+<subject qcode="subj:14000000" type="cpnat:category">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject qcode="subj:14017000" type="cpnat:category">
+<name>Kadonneet </name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Siilinjärvi</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Mies katosi Siilinjärvellä, poliisi pyytää havaintoja</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Pohjois-Savon poliisi pyytää yleisöhavaintoja iäkkäästä miehestä, joka katosi Siilinjärvellä viime sunnuntaina.</p>
+  <p>Viimeinen havainto 75-vuotiaasta miehestä on sunnuntailta kello 15:n aikaan, jolloin hän oli lähellä kotipaikkaansa Väänälänrannantie 483:n kohdilla. Hän oli liikkeellä naisten polkupyörällä.</p>
+  <p>Kadonneella oli yllään tummat vaatteet ja lippalakki. Selässä oli reppu.</p>
+  <p>Poliisin mukaan mies on saattanut lähteä marjastamaan Väänälänrannan alueelle, joten havaintoja pyydetään myös teiden varrelle mahdollisesti jätetystä polkupyörästä. Tiedot voi soittaa numeroon 071  875  6732 tai 071  875  6880.</p>
+  <p/>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="252" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/c083c3f8-9226-40e2-951a-1845db882a99.jpg" rendition="rnd:web" size="2419200" version="1" width="400"/>
+   </contentSet>
+</newsItem>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120806:95913614" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-06T15:01:31</versionCreated>
+<firstCreated>2012-08-06T15:01:27</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-06T15:01:27</contentCreated>
+<contentModified>2012-08-06T15:01:31</contentModified>
+<located type="loctype:City">
+<name>Pori</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:128">
+<name>stt 128</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75921">
+<name>Lain§uojattomat-festivaalit syyskuussa Porissa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97838465">
+<name>Lainsuojattomat-festivaali syyskuussa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000872">
+<name>872</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7080"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1017000">
+<name>Teatteri</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Pori</dateline>
+<by/>
+<description role="drol:summary">&lt;kotimaa.deski@stt-lehtikuva.fi&gt;</description>
+<headline>Vapaa teatterikenttä esittäytyy festivaaleilla Porissa</headline>
+</contentMeta>
+<assert qcode="sttlocationalias:7080">
+<name>Rakastajat-teatteri</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="61.488676" longitude="21.789647"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:224">
+<name>Pori</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:32">
+<name>Satakunta</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Valtakatu22</line>
+<postalCode>PORI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  <p>Jos haluaa kokea tiiviissä paketissa ajankohtaista teatteria, kannattaa suunnistaa syyskuun alussa Poriin. </p>
+  <p>Kolmastoista Lainsuojattomat-festivaali esittelee silloin laajasti vapaiden ammattiryhmien draamaa. Yksittäisiä tapahtumia ja esityksiä festivaaleilla on 35. Esiintyviä ryhmiä on 20, joista yhdeksän on ensikertalaisia.</p>
+  <p>Lainsuojattomat-tapahtumasta on vuosien mittaan hioutunut katselmus, jossa tuodaan esille vuoden kuluessa puhuttaneita esityksiä. Tänä vuonna kulttuurikeskustelijoille on tarjolla myös neljä seminaaria.</p>
+  <p>Kiertuejärjestelmää kehittävän Tekijä-hankkeen kautta festivaaleille on valikoitunut neljä esitystä: Teatteri Nirvanan Veitset leikkaa ilman, Rospuutto-ryhmän Sarasvatin hiekkaa sekä Vapaan Teatterin Kenttä ja Vincent River.</p>
+  <p>Lainsuojattomat-teatterifestivaali on 6.&#8211;9. syyskuuta Porissa.</p>
+  <p></p>
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95919665" version="3" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T21:10:17</versionCreated>
+<firstCreated>2012-08-07T20:05:21</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:replace"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-07T20:05:21</contentCreated>
+<contentModified>2012-08-07T21:10:17</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:286">
+<name>stt 286</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76198">
+<name>Valtiovarainministeri Jutta Urpilainen esittelee ministeriönsä suunnitelmat ensi vuoden talousarvioesitykseksi.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97839757">
+<name>Urpilainen esittelee VM:n budjettiehdotuksen</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003557">
+<name>3557</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<slugline>///KORJATTU LEHTIVERSIO OTSIKKO MUUTETTU JA MUOKATTU 4. KPL: LISÄTTY VM:N ARVIO,JONKA MUKAAN VUOTTA 2014  KOSKEVIA PÄÄTÖKSIÄ OLE TEHTY///</slugline>
+<dateline>Helsinki</dateline>
+<by>OLLI KEMPPAINEN, ANNIINA LUOTONEN</by>
+<description role="drol:summary"/>
+<headline>Perusturvaa kohennetaan jo ensi vuoden alussa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Urpilaisen toisen budjettiehdotuksen päälinjat eivät tuoneet suuria yllätyksiä</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Valtiovarainministeri Jutta Urpilainen (sd.) rukkasi tiistaina valmistuneessa, uransa toisessa budjettiehdotuksessa kevään kehysriihen päätöksiä vain pieneltä osalta.</p>
+  <p>Perusturvan ylimääräinen indeksikorotus aikaistetaan heinäkuulta vuoden alkuun. Korotuksen tarkoituksena on turvata pienituloisten toimeentuloa, kun arvonlisäveroa nostetaan.</p>
+  <p>Aikaistaminen koskee eräitä kansaneläkeindeksiin sidottuja perusturvaetuuksia ja toimeentulotukea.</p>
+  <p>Aikaistus vuoden alkuun merkitsee sitä, että edun saajien pussiin tuleva korotus on pienempi kuin se olisi ollut heinäkuussa, mutta vuositasolla summa on sama.</p>
+  <p>Kevään kehyspäätöksessä todettiin, että ensi vuoden varsinainen indeksikorotus on 26 miljoonaa euroa. Sen päälle on tulossa nyt samanarvoinen korotus, joka voi olla syömävelkaa vuodelta 2014. VM:stä tähdennettiin kuitenkin tiistaina, että mitään vuotta 2014 koskevia päätöksiä ei ole tehty.</p>
+  <p></p>
+  <p>
+<h3>Nokialta potkituille ilmaista dataa</h3>
+</p>
+  <p></p>
+  <p>Valtiovarainministeriö esittää myös julkisten tietovarantojen maksuttoman käytön laajentamista. Maanmittauslaitoksen karttapalvelut on jo avattu.</p>
+  <p>Nyt seuraa Ilmatieteen laitoksen reaaliaikaisten sää- ja ilmastohavaintojen, tutka- ja salamadatan, kansallisen sääennustedatan sekä myöhemmin lentokenttähavaintojen datan vapauttaminen.</p>
+  <p>&#8211;&#8201; Meillä on hyvin vahva usko siihen, että avaamalla näitä tietovarantoja tilanteessa, jossa meillä on paljon tietotekniikka-alan asiantuntijoita ja ict-alan osaajia, luomme myös edellytyksiä sille, että meille syntyy uusia yrityksiä ja sitä kautta uusia työpaikkoja, Urpilainen sanoi.</p>
+  <p>Urpilainen haluaakin seuraavaan kehysriiheen mennessä kaikkien hallinnonalojen selvittävän, miten julkisten tietovarantojen hyödyntämistä voidaan edistää.</p>
+  <p></p>
+  <p>
+<h3>Painopiste veronkiristyksissä</h3>
+</p>
+  <p></p>
+  <p>Päälinjoiltaan VM:n budjettiehdotus on keväällä päätetyillä linjoilla, eli veroja kiristetään enemmän kuin menoja leikataan. Yrityksille tulee verohelpotuksia eli virkamieskielellä verokannustimia. Palkansaajien verotus kiristyy, kun inflaatio- ja ansiotasotarkistuksia ei tehdä ja kaikille yhteinen tasavero &#8211; arvonlisävero &#8211; nousee yhdellä prosenttiyksiköllä.</p>
+  <p>Suurituloisille tulee kaavailtu solidaarisuusvero, ja suurten miljoonaperintöjen verotusta kiristetään.</p>
+  <p>Verovapaiden kilometrikorvausten leikkaamisen tavan hallitus päättää erikseen.</p>
+  <p>&#8211;&#8201; Ajatus kilometrikorvausten ylikompensaation purkamisesta on tarkoitus toteuttaa. Eksaktia mallia ei ole vielä päätetty, mutta valtiontalouteen saatavat säästöt vaalikauden aikana on tarkoitus saavuttaa, Urpilainen sanoi.</p>
+  <p>Kaikkiaan veronkiristyksillä valtio kerää ensi vuonna lisää tuloja 1,3 miljardia euroa. Summassa ei ole tosin mukana puolen miljoonan euron Yle-veroa. Säästöjä tehdään nettomääräisesti 400 miljoonaa euroa.</p>
+  <p>Budjettiehdotuksen menojen loppusumma on 53,9 miljardia euroa, mutta sen katteeksi tarvitaan uutta velkaa 6,6 miljardia euroa eli noin 18 miljoonaa euroa päivässä.</p>
+  <p>Valtiovarainministeriön ehdotuksen yksityiskohdat julkistetaan keskiviikkona. Samalla tulevat julki eri ministeriöiden viime keväänä tekemät ehdotukset.</p>
+  <p>Hallitus ruotii ehdotuksia budjettiriihessään 29.&#8211;30. elokuuta ja eduskuntaa saa budjettiesityksen käsiteltäväkseen syyskuun puolivälissä.</p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

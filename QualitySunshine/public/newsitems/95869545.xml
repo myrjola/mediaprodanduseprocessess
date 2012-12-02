@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95869545" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T18:09:42</versionCreated>
+<firstCreated>2012-07-28T18:09:14</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0005">
+<name>Tausta</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-07-28T18:09:14</contentCreated>
+<contentModified>2012-07-28T18:09:42</contentModified>
+<located type="loctype:City">
+<name>Beirut</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:143">
+<name>stt 143</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75103">
+<name>Syyrian armeija aloitti hyökkäyksen Aleppoon</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97760679">
+<name>Aleppo on elintärkeä palanen sekä hallitukselle että kapinallisille</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001221">
+<name>1221</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16002000">
+<name>Aseelliset konfliktit</name>
+</subject>
+<slugline>///TAUSTA SYYRIA-JUTTUUN///</slugline>
+<dateline>Beirut</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Aleppo on elintärkeä molemmille osapuolille</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Taistelu Syyrian suurimman kaupungin Aleppon hallinnasta on ratkaiseva voimainkoetus hallinnon ja kapinallisten kesken. Tätä mieltä on Lähi-idän sotilasasioihin erikoistuneen Inegma-tutkimuslaitoksen johtaja Riad Kahwaji.</p>
+  <p>&#8211;&#8201; Se, joka hallitsee Aleppoa, hallitsee käytännössä Idlibin seutua. Siitä tulisi turva-alue kapinallisille, jossa he voivat kouluttaa joukkoja, järjestää toimintansa ja hankkia aseita, Kahwaji sanoo.</p>
+  <p>2,5 miljoonan asukkaan Aleppo säästyi pitkään kahakoilta, mutta kapinalliset päättivät iskeä sinne, kun hallitus siirsi joukkojaan Damaskoksen taisteluihin.</p>
+  <p>Kapinallisia arvellaan olevan kaupungissa muutamia tuhansia, armeija puolestaan on viikon aikana siirtänyt Aleppon liepeille runsaasti vahvistuksia. Lisäjoukkojen kimppuun on kuitenkin hyökkäilty pitkin matkaa, ja Riad Kahwaji kuvailee niiden taistelutahdon olevan matalalla.</p>
+  <p>Entinen diplomaatti Ignace Leverrier pitää yhtenä ratkaisijana Aleppon kurdiyhteisöä, joka muodostaa noin viidesosan sen koko väestöstä.</p>
+  <p>&#8211;&#8201; Kurdit ovat syvästi jakautuneet. Jos he asettuvat kapinallisten puolelle, hallinto on vaikeuksissa. Jos he tukevat hallitusta, kapinallisten on todella vaikea voittaa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

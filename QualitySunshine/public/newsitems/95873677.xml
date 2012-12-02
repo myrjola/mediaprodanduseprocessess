@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95873677" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T14:09:04</versionCreated>
+<firstCreated>2012-07-30T14:09:00</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T14:09:00</contentCreated>
+<contentModified>2012-07-30T14:09:04</contentModified>
+<located type="loctype:City">
+<name>Savonlinna</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:112">
+<name>stt 112</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74831">
+<name>Norjan oopperatalon vierailu Savonlinnassa alkaa Peter Grimesilla tiistaina</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97767610">
+<name>Norjan oopperatalon vierailu Savonlinnassa alkaa Peter Grimesilla tiistaina</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003474">
+<name>3474</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:8004"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011001">
+<name>Klassinen musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY TÄSTÄ ON KYSE -FAKTA SEKÄ KUVIA APULAISOHJAAJASTA JA OOPPERAN HARJOITUKSISTA///</slugline>
+<dateline>Savonlinna</dateline>
+<by>SANNA NIKULA</by>
+<description role="drol:summary">Ensi-ilta ti</description>
+<headline>Kyläyhteisö tuomitsee murhaajan vailla todisteita</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:8004">
+<name>Savonlinna</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:265">
+<name>Savonlinna</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:29">
+<name>Etelä-Savo</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Norjalaiset tuovat Olavinlinnaan perinteisen Peter Grimesin</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kalastaja Peter Grimesin apupoika on kuollut epäselvissä olosuhteissa. Juroa kalastajaa syytetään lapsen murhasta. Todisteita ei ole, mutta kyläyhteisö tuomitsee eristäytyneen miehen vailla niitäkin.</p>
+  <p>&#8211;&#8201; Peter Grimes on ooppera, jossa on paljon vihaa, luonnehtii modernin klassikon Savonlinnan oopperajuhlille ohjaava norjalainen Victoria Bomann-Larsen.</p>
+  <p>Norjalaisten tulkinnan brittisäveltäjän teoksesta on alun perin ohjannut skotti Paul Curran, mutta Olavinlinnaan sen sovittaa hänen apulaisohjaajansa Bomann-Larsen.</p>
+  <p>&#8211;&#8201; Benjamin Britten oli itse vihainen säveltäessään teosta toisen maailmansodan aikana. Hänet eristettiin brittiläisestä yhteiskunnasta, koska hän kieltäytyi aseista, Curran taustoittaa ajatuksiaan tekstiviestitse.</p>
+  <p>Säveltäjä joutui lähtemään Yhdysvaltoihin elämänkumppaninsa Peter Pearsin kanssa.</p>
+  <p>&#8211;&#8201; Hän oli raivoissaan siitä. Britten vastusti tietoisesti sotaa, mutta kotimaassaan häntä syytettiin epäreilusti pelkuruudesta, Curran viestittää.</p>
+  <p> Curranin mukaan sota-ajan vainoharhainen asetelma näkyy oopperassa esimerkiksi kuoron ajattelemattomassa ja tuomitsevassa olemuksessa. Kuoro on yksi teoksen päähenkilöistä.</p>
+  <p>&#8211;&#8201; Ihmiset, jotka elävät paineen alla, eivät mieti liikoja nostaessaan syyttävän sormensa jotakuta sopivaa kohdetta vastaan, vaikka todisteet puuttuisivat kokonaan &#8211; sota-aika vain lisää sellaista käytöstä.</p>
+  <p> </p>
+  <p>
+<h3>Murhaaja vai ei?</h3>
+</p>
+  <p></p>
+  <p>Ooppera ei kerro sitä, onko Peter Grimes murhaaja, eikä se ole edes relevantti kysymys. Ennemminkin psykologinen teos pohtii syitä väkijoukon käytökseen. Kuinka yhteisö on valmis tuomitsemaan yhden jäsenensä pelkkien huhujen ja juorujen perusteella.</p>
+  <p>&#8211;&#8201; Peter Grimes on sulkeutunut mies. Hän ei osaa osoittaa tunteitaan eikä puolustautua syytöksiä vastaan, luonnehtii Bomann-Larsen.</p>
+  <p>Kun toinenkin apupoika kuolee, Peter Grimes alkaa itsekin epäillä itseään ja ajautuu epätoivoiseen tekoon.</p>
+  <p>&#8211;&#8201; Aihe on äärimmäisen ajankohtainen. Yksi mies vastaan väkijoukko on tuttu asetelma kaikissa yhteisöissä, koska erilaisuutta ei hyväksytä. Sitä ei voi korostaa liikaa tässä ajassamme, sanoo apulaisohjaaja.</p>
+  <p> Hän uskoo miehen olevan syytön.</p>
+  <p>&#8211;&#8201; Hän ei osaa kontrolloida voimiaan ja on ehkä kovistellut poikaa liian lujaa. Tämä on saattanut kuolla vahingossa.</p>
+  <p>Peter Grimesilla on puolustajansa, opettajatar Ellen Orford.</p>
+  <p>&#8211;&#8201; Ellen on tarinan sankaritar, mutta hänellä ei ole helppoa Peterin kanssa. Tämä ei hevin anna koskettaa itseään. Ooppera ei kerro sitäkään, onko heillä rakkaussuhde vai ei. Yleisön pääteltäväksi jää paljon asioita, Bomann-Larsen tuumii.</p>
+  <p> </p>
+  <p>
+<h3>Nimirooli elämänkumppanille</h3>
+</p>
+  <p></p>
+  <p>Norjan kansallisooppera tuo Savonlinnaan perinteisen version Brittenin tunnetuimmasta teoksesta.</p>
+  <p>Lavasteet kuvastavat 1940-luvun kalastajakylän klaustrofobista tunnelmaa varsinkin oopperan alun oikeudenkäyntikohtauksessa.</p>
+  <p>Ooppera sai ensi-iltansa vuonna 1945. Säveltäjä kirjoitti nimiosan elämänkumppanilleen Pearsille kuten monissa muissakin teoksissaan.</p>
+  <p>Norjalaisten tuotanto sai ensi-iltansa Santa Fessä, jonka jälkeen se on nähty Washingtonissa ja viime vuonna Oslossa.</p>
+  <p>Pääosan esittäjä vaihtui Savonlinnassa lennossa, kun Henrik Engelsviken menetti yllättäen äänensä. Tilalle kaikissa esityksissä loikkaa upeaääninen tenori Nils Harald Södal.</p>
+  <p>Teos saa ensi-iltansa tiistaina.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

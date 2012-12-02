@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120725:95857959" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T15:01:14</versionCreated>
+<firstCreated>2012-07-28T15:01:10</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T15:01:10</contentCreated>
+<contentModified>2012-07-28T15:01:14</contentModified>
+<located type="loctype:City">
+<name>Washington</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:100">
+<name>stt 100</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74478">
+<name>Afrikassa vanhojen naimisissa olevien miesten nuoret rakastajattaret ovat vaarassa saada hiv-tartunnan.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97736299">
+<name>Aids-kamppailussa edistystä, mutta myös suuria uhkia</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001489">
+<name>1489</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:7000000">
+<name>Terveys</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:7001000">
+<name>Sairaudet Taudit</name>
+</subject>
+<slugline>///KAINALO LIITTYY JUTTUUN MALAWIN NUORISTA NAISISTA, KV. KUVAA BROWNISTA///</slugline>
+<dateline>Washington</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Hi-virus saattaa muuntua vaikeammin hoidettavaksi</headline><creditline>STT&#8211;AFP-Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Maailmanlaajuisessa kamppailussa aids-epidemiaa vastaan on saavutettu edistystä, asiantuntijat sanovat. Urakkaa varjostavat kuitenkin erinäiset uhat.</p>
+  <p>Hyviä uutisia on kuulunut muun muassa Afrikasta. Vuosittaiset aids-kuolemat ovat vähentyneet selvästi viruksen pahiten riivaamassa Saharan eteläpuolisessa Afrikassa, selviää YK:n aids-järjestön UNAIDSin raportista.</p>
+  <p>Syynä on se, että lääkitystä on saatavilla yhä useammalle. Maailmanlaajuisesti jo hieman yli puolet viruksen kantajista saa lääkitystä.</p>
+  <p>Tutkijoita huolettaa kuitenkin se, että Itä-Euroopassa ja Keski-Aasiassa tartuntojen määrä kasvaa yhä.</p>
+  <p>Vielä suurempi pelko on, että hi-virus kehittäisi vastustuskyvyn yleisimmin käytettäviä &#8211; ja edullisimpia &#8211; lääkkeitä vastaan. Tästä on jo viitteitä Afrikan itä- ja eteläosissa. Vastustuskykyistä virusta on löydetty yhä useammasta tartunnan saaneesta.</p>
+  <p>Toivoa aids-tutkijoille antaa amerikkalaisen Timothy Ray Brownin tapaus. Hän on ensimmäinen ihminen, jonka kehosta hiv on ilmeisesti pystytty kokonaan häätämään. Brown muuttui hiv-positiivisesta negatiiviseksi, kun hänelle tehtiin luuydinsiirto ihmiseltä, jolla on luontainen vastustuskyky virukselle.</p>
+  <p>Vaikka Brownin hoito on ollut hyvin riskialtista, eikä sitä voi käyttää laajalti, se osoittaa tutkijoiden mukaan, että aids on mahdollista voittaa pysyvästi.</p>
+  <p>Kaikkiaan 33 miljoonalla ihmisellä on hiv-tartunta.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

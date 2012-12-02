@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120804:95900334" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-04T08:30:05</versionCreated>
+<firstCreated>2012-08-04T08:30:02</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-04T08:30:02</contentCreated>
+<contentModified>2012-08-04T08:30:05</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:030">
+<name>stt 030</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75900">
+<name>"Talous nousemassa Suomen ulkopolitiikan keskiöön"</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97814022">
+<name>"Talous nousemassa Suomen ulkopolitiikan keskiöön"</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002382">
+<name>2382</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002001">
+<name>Kansainväliset kokoukset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010000">
+<name>Puolueet Poliittiset liikkeet Järjestöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010996">
+<name>SDP</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002002">
+<name>Kansainväliset suhteet</name>
+</subject>
+<slugline>///LEHTIVERSIO LISÄKSI GRAFIIKKAA///</slugline>
+<dateline>Helsinki</dateline>
+<by>JUSSI VALKAMA</by>
+<description role="drol:summary">Mihin ulkoministeri Erkki Tuomioja on matkustanut tällä hallituskaudella? Mitä kertoo Suomen ulkopolitiikan suunnasta ja muutoksesta.</description>
+<headline>Professori: Talous nousemassa Suomen ulkopolitiikan keskiöön</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Politiikan muutos ei ole näkynyt Tuomiojan matkavalinnoissa</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Talous on nousemassa Suomen ulkopoliittisen ajattelun keskiöön, arvioi Tampereen yliopiston kansainvälisen politiikan professori Hiski Haukkala.   </p>
+  <p>Yhdeksi esimerkiksi tästä kehityksestä hän nostaa presidentti Sauli Niinistön torstaina Haminassa esittämän ajatuksen, että ulkomaisia yrityksiä ja sijoituksia pitää houkutella Suomeen.</p>
+  <p>Niinistö ja elinkeinoministeri Jyri Häkämies (kok.) järjestävät Suomessa toimiville ulkomaisille yrityksille syksyllä keskustelutilaisuuden. Tavoitteena on saada yritykset sijoittamaan Suomeen tulevaisuudessakin ja löytää Suomen vahvuuksia kilpailussa kansainvälisistä yrityksistä.</p>
+  <p>Ulkopolitiikan muuttuminen talousvetoisemmaksi ei ole näkynyt ulkoministeri Erkki Tuomiojan (sd.) matkavalinnoissa. Hän on tehnyt tällä hallituskaudella 44 ulkomaanmatkaa, joista kymmenen on suuntautunut EU:n ulkoministerien kokouksiin. Muissakin matkavalinnoissa Eurooppa on korostunut. Ohjelmaan on kuulunut useita kansainvälisiä kokouksia ja konferensseja.</p>
+  <p>Sen sijaan esimerkiksi taloudellisesti ja poliittisesti vahvistuneessa Kaakkois-Aasiassa Tuomioja ei ole vieraillut. Se ei kuitenkaan kerro koko totuutta.</p>
+  <p>&#8211;&#8201; Ulkomaankauppaministeri Alexander Stubbin (kok.) matkat ovat olennaisempia. Niistä näkyy selvemmin Suomen uuden ulkopolitiikan agenda. Matkakohteisiin kuuluu Turkkia, Aasiaa, Etelä-Amerikkaa ja Yhdysvaltoja, Haukkala sanoo.</p>
+  <p>Ulkopoliittisen instituutin tutkija Charly Salonius-Pasternak arvioi Tuomiojan matkaohjelmaa järkeväksi.</p>
+  <p>&#8211;&#8201; On turha mennä johonkin vain matkustaakseen. Ohjelma kertoo, mitä maailmassa tapahtuu, Salonius-Pasternak sanoo ja viittaa Tuomiojan lukuisiin matkoihin Syyrian ystäväryhmän kokouksiin.</p>
+  <p></p>
+  <p>
+<h3>EU:n ulkopolitiikka kriisissä</h3>
+</p>
+  <p></p>
+  <p>Haukkalan mukaan Suomi on viime aikoina terävöittänyt omaa ulkopoliittista linjaansa.</p>
+  <p>&#8211;&#8201; Välillä EU:n yhteisestä ulko- ja turvallisuuspolitiikasta ehti tulla korvike Suomen omalle ulkopolitiikalle, Haukkala sanoo.</p>
+  <p>Hänen mukaansa EU:n yhteinen ulkopolitiikka on kriisiytynyt, koska unionin voimat ovat menneet talouskriisistä selviämiseen.</p>
+  <p>Itsenäisempi linja on näkynyt myös suhteessa Venäjään, Salonius-Pasternak sanoo.</p>
+  <p>&#8211;&#8201; Suomi halusi pitkään ajaa EU:n linjaa Venäjän-politiikassa. Se on onneksi haudattu, ja oman Venäjä-suhteen tärkeys on ymmärretty.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

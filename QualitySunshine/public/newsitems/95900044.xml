@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120803:95900044" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-03T14:23:51</versionCreated>
+<firstCreated>2012-08-03T14:23:47</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-03T14:23:47</contentCreated>
+<contentModified>2012-08-03T14:23:51</contentModified>
+<located type="loctype:City">
+<name>Urjala</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:130">
+<name>stt 130</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75282">
+<name>Esikoiskirjailija on nykyään usein keski-ikäinen perheenisä tai -äiti</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97813275">
+<name>Esikoiskirjailija on nykyään usein keski-ikäinen perheenisä tai -äiti</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001130">
+<name>1130</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:6903"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1010000">
+<name>Kirjallisuus</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Urjala</dateline>
+<by/>
+<description role="drol:summary">Pentinkulman päivät -kirjallisuustapahtumaan liittyy perinteisesti esikoiskirjailijoiden seminaari. Jututetaan paria kirjailijaa ja jotakuta seminaarin ohjaajaa siitä, mitä esikoiskirjan julkaiseminen tuo elämään.</description>
+<headline>Esikoiskirjailija on nykyään usein keski-ikäineN</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6903">
+<name>Urjala</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:311">
+<name>Urjala</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:27">
+<name>Pirkanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Esikoiskirjailija on yhä useammin keski-ikäinen perheenisä tai -äiti. Tämän vuoden esikoiskirjailijaseminaarissa Urjalassa Pirkanmaalla nuorimmat ovat hieman yli 20-vuotiaita, vanhimmat viidenkymmenen paikkeilla.</p>
+  <p>Vielä 1960-luvun alussa yli puolet kirjailijoista julkaisi esikoisensa alle 30-vuotiaana. 1980-luvulla esikoisen julkaisuikä oli keskimäärin 33 vuoden paikkeilla. </p>
+  <p>Uusimmista kirjailijapolvista ei ole vielä julkaistu tutkimuksia. Seminaarin ohjaajiin kuuluva Taija Tuominen arvioi kuitenkin, että suunta on sama: ensimmäinen kaunokirjallinen teos julkaistaan yhä vanhempana.</p>
+  <p>Kirjailijoiden koulutustaso on noussut, eli yhä useammalla on takanaan akateemisia opintoja. Kirjoittamista on myös määrätietoisesti opiskeltu esimerkiksi Oriveden Opistossa tai luovan kirjoittamisen kursseilla.</p>
+  <p>&#8211;&#8201; Myytti kouluttamattomasta metsäläiskirjailijasta on historiaa, sanoo Tuominen. </p>
+  <p>Esikoiskirjailijoiden tapaaminen liittyy Urjalan Pentinkulman päivät -kirjallisuustapahtumaan. Pentinkulman päivien pääjuhla on huomenna ja tapahtuma jatkuu vielä sunnuntaina.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

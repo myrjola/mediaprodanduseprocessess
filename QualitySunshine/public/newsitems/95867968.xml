@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95867968" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T21:21:54</versionCreated>
+<firstCreated>2012-07-27T21:21:51</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T21:21:51</contentCreated>
+<contentModified>2012-07-27T21:21:54</contentModified>
+<located type="loctype:City">
+<name>Geneve</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:221">
+<name>stt 221</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74989">
+<name>Syyrian tarkkailuoperaation johtaja arvioi Assadin hallinnon kaatumisen olevan ajan kysymys</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97754786">
+<name>Syyrian tarkkailuoperaation johtaja arvioi Assadin hallinnon kaatumisen olevan ajan kysymys</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000498">
+<name>498</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16002000">
+<name>Aseelliset konfliktit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16006000">
+<name>Joukkomurha</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16005000">
+<name>Sissitoiminta Kapinalliset</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Geneve</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Kapinalliset pidättivät hallituksen joukkoja Syyriassa</headline><creditline>STT&#8211;AFP-Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Syyrian kapinalliset ovat tänään ottaneet vangiksi 150 hallituksen sotilasta Aleppossa ja Idlibin maakunnassa, kertoo paikallinen ihmisoikeusjärjestö.</p>
+  <p>Järjestön mukaan sata sotilasta otettiin kiinni Aleppossa ja 50 Idlibissä, kapinallisten vankalla tukialueella.</p>
+  <p>Netissä julkaistulla videolla kapinalliset vartioivat pidätettyjä, jotka oli määrätty riviin koulun pihalle. Osalla pidätetyistä oli kasvoissaan merkkejä pahoinpitelystä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

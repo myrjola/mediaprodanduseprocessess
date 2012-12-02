@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95868286" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T22:50:30</versionCreated>
+<firstCreated>2012-07-27T22:50:27</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0013">
+<name>Tulokset</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-07-27T22:50:27</contentCreated>
+<contentModified>2012-07-27T22:50:30</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:243">
+<name>stt 243</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75039">
+<name>Muut tulokset</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97758787">
+<name>Nuorten koripallo</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000683">
+<name>683</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15008000">
+<name>Koripallo</name>
+</subject>
+<slugline/>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Koripallotuloksia/nuorten maaottelut</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Strumica, Makedonia:</p>
+  <p>18-v. tyttöjen B-divisioonan EM-kisat, alkusarja:</p>
+  <p>Tanska&#8211;Suomi 58&#8211;54 (31&#8211;28)</p>
+  <p>Suomi: Kaisa Kuisma 14/5, Anni Jämsä 8/3, Evianna Sipilä 8/1, Emmi Leino 7/1/3s, Noora Korhonen 6/6, Elisa Runsas 4/0/4 riistoa, Jasmine Dolivo 3/3, Anniina Äijänen 2/6, Moona Hämäläinen 2/0, Noora Järvikangas 0/5, Ulriikka Latvala 0/1.</p>
+  <p>Suomi kohtaa seuraavaksi sunnuntaina Bulgarian.</p>
+  <p>Druskininkai, Liettua:</p>
+  <p>18-v. poikien maaottelu:</p>
+  <p>Kroatia&#8211;Suomi 81&#8211;52 (37&#8211;21)</p>
+  <p>Suomi: Iikka Mäki 16/4, Julius Rajala 9/6, Niko Mattila 9/4, Joonas Lehtoranta 7/0/3s, Oskar Michelsen 4/3, Teemu Sulonen 3/2, Alexander Madsen 2/2, Severi Liljeberg 2/0, Joni Herrala 0/4.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

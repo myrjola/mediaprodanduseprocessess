@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95856828" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T15:50:44</versionCreated>
+<firstCreated>2012-07-29T15:50:41</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T15:50:41</contentCreated>
+<contentModified>2012-07-29T15:50:44</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:113">
+<name>stt 113</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74657">
+<name>Miksi suomalaiset menevät sairaana töihin? Lähes puolet SAK:laisista ollut sairaana töissä.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97736837">
+<name>Miksi suomalaiset menevät sairaana töihin? Lähes puolet SAK:laisista ollut sairaana töissä.</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003496">
+<name>3496</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:9000000">
+<name>Työelämä</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:9010000">
+<name>Työmarkkinajärjestöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:7000000">
+<name>Terveys</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:7001000">
+<name>Sairaudet Taudit</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY GRAFIIKKAA POISSAOLOSYISTÄ JA KAINALO HENKISESTÄ VÄKIVALLASTA TYÖPAIKOILLA///</slugline>
+<dateline>Helsinki</dateline>
+<by>TIINA TUOMINEN</by>
+<description role="drol:summary"/>
+<headline>Suomalainen menee työkavereiden takia sairaana töihin</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Määräaikaiset pelkäävät menettävänsä poissaolojen takia vakipaikan</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suomalaiset menevät sairaanakin töihin, jottei työkavereiden työtaakka kasvaisi. Lähes puolet SAK:laisista on paiskinut töitä sairaana viimeisen vuoden aikana. Tiedot selviävät SAK:n työolobarometristä, johon haastateltiin viime keväänä noin 1&#8201; 200 SAK:laisten liittojen työssäkäyvää jäsentä.</p>
+  <p>Muitakin motiiveja sairaana työskentelyyn oli: kolmannes kertoi syyksi sen, että töissä on vain yksinkertaisesti niin mukavaa.</p>
+  <p>SAK:laiset eivät ole ainoita, jotka raahautuvat työpaikalle kipeinä. STTK:n sosiaali- ja terveyspoliittinen asiantuntija Riitta Työläjärvi tietää, että myös STTK-laisilla on tapana mennä sairaina töihin. Hän kertoo työsuojeluvaltuutettujen tuovan ongelmaa esille yhä enemmän.</p>
+  <p>Työläjärvi arvelee syyksi sen, että STTK-laisilla työpaikoilla henkilöillä on usein sellaisia vastuualueita ja projekteja, joissa muut eivät voi tuurata. Jos joutuu olemaan poissa työt kasautuvat ja lisääntyvät. Jos työt taas olisivat siirrettävissä, ei toiselle haluta "tuplakuormaa", Työläjärvi tietää.</p>
+  <p>Kaikkein vaikeimmassa asemassa ovat hänen arvionsa mukaan määräaikaiset harjoittelijat, jotka pelkäävät sairauspoissaolojen vaikuttavan vakinaistamiseen.</p>
+  <p>&#8211;&#8201; Työhön tulo on niin sanottu vapaaehtoinen pakko. Nuoret haluavat antaa sellaisen kuvan, että ovat 110 lasissa joka päivä. Ei sekään pitemmän päälle ole mahdollista.</p>
+  
+  <p>
+<h3>"Suomessa totuttu liian hyvään"</h3>
+</p>
+  <p></p>
+  <p>Ylilääkäri Jan Schugk Elinkeinoelämän keskusliitosta tuntee ilmiön, jossa joku voi päinvastoin kokea olevansa niin korvaamaton, ettei voi olla pois töistä missään olosuhteissa.</p>
+  <p>&#8211;&#8201; Se on melkein yhtä epäterve ilmiö kuin se, että lintsataan töistä, sanoo Schugk, jonka mukaan sairaana töihin tulleiden ohella on myös niitä, jotka jättäytyvät kotiin pienenkin tekosyyn varjolla. Hänen mukaansa työt eivät välttämättä innosta, koska sairaana olevalle voidaan maksaa täyttä palkkaa jopa 2&#8211;3 kuukautta.</p>
+  <p>&#8211;&#8201; Aika moni käyttää sen kortin ennen kuin alkaa pohtia muita vaihtoehtoja.</p>
+  <p>Ylilääkäri uskoo, että ensimmäisen poissaolopäivän muuttaminen palkattomaksi voisi vähentää sairauspoissaoloja. Schugkin mielestä pitäisi ensin katsoa, mitä uudella niin sanotulla 30-60-90-käytännöllä saadaan aikaan. Siinä 30 päivän sairauspoissaolot ovat niin sanottu hälyraja, jonka jälkeen työnantajan on ilmoitettava työntekijästä työterveyshuoltoon. 60 päivän kohdalla alkaa oikeus kuntoutukseen ja 90 päivän jälkeen arvioidaan jäljellä olevaa työkykyä.</p>
+  <p>&#8211;&#8201; Suomessa on totuttu liiankin hyvään. Ajatellaan, ettei ihmisellä ole lainkaan vastuuta lyhyestä sairauspoissaolostaan.</p>
+  
+  <p>
+<h3>Isot poissaolomäärät ihmetyttävät</h3>
+</p>
+  <p></p>
+  <p>STTK:n Työläjärvi arvelee, että töistä pinnaaminen on toimihenkilöpuolella hyvin harvinaista. Hänen mukaansa Suomessa ei ole sellaisia ongelmia, jotka ratkeaisivat palkattomalla ensimmäisellä sairaspäivällä. Samaa mieltä on SAK:n asiantuntijalääkäri Kari Haring.</p>
+  <p>&#8211;&#8201; Ratkaisu sairauspoissaolojen vähentämiseen ei löydy palkattomasta ensimmäisestä päivästä tai muista karensseista.</p>
+  <p>EK:n Jan Schugkia ihmetyttävät Suomen suuret sairauspoissaolot muihin maihin verrattuna. Hänen mukaansa syy voi löytyä siitä, että töistä poissaolo on Suomessa hyväksyttävämpää kuin muualla.</p>
+  <p>&#8211;&#8201; Sairauspoissaolo on normi. Jos suomalaiset menevät SAK:n kyselyn mukaan sairaana töihin, mennään muissa maissa mitä ilmeisimmin sairaana töihin vielä useammin.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

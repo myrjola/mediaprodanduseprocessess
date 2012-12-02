@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120804:95904498" standard="NewsML-G2" standardversion="2.7" version="2" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-04T14:20:03</versionCreated>
+<firstCreated>2012-08-04T13:55:05</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:supplement"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-04T13:55:05</contentCreated>
+<contentModified>2012-08-04T14:20:03</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:097" type="cpnat:runnumber">
+<name>stt 097</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:76033" type="cpnat:topic">
+<name>Galluptulos: Perussuomalaiset nousussa</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97822677" type="cpnat:textpackageid">
+<name>Galluptulos: Perussuomalaiset nousussa</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0001255" type="cpnat:length">
+<name>1255</name>
+</subject>
+      <subject qcode="sttdepartment:0009" type="cpnat:department">
+         <name>Politiikka</name>
+      </subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11018000" type="cpnat:category">
+<name>Kansalaismielipide Gallupit</name>
+</subject>
+<slugline>///TÄYDENNETTY LEHTIVERSIO 1. KPL PERUSSUOMALAISTEN KANNATUSLUKU SEKÄ 2. KPL "PERNAA ARVIOI YLEN UUTISILLE". KUVITUSKUVAA.///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Ylen gallup: Perussuomalaiset uudessa nousussa</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Eurokriisin paheneminen näyttää nostavan perussuomalaisten kannatusta. Ylen heinäkuussa tehdyn gallupin mukaan perussuomalaiset on noussut keskustan ohi suosituimmaksi oppositiopuolueeksi. Perussuomalaisten kannatus nousi kesäkuusta 1,9 prosenttiyksikköä 17,5 prosenttiin.</p>
+  <p>Tutkija Ville Pernaa arvioi Ylen uutisille Soinin johtamilla perussuomalaisilla olleen se etu, että he ovat johdonmukaisesti suhtautuneet kriittisesti eurokriisiin, eikä heillä ole keskustan tavoin entisen hallituspuolueen taakkaa.</p>
+  <p>Heinäkuun kyselyssä kokoomus pysyi yhä suurimpana puolueena, mutta ero sosiaalidemokraatteihin supistui. Kokoomuksen kannatusprosentti oli nyt 20,8 ja SDP:n 20,3. Keskustan kannatus laski kesäkuusta prosenttiyksiköllä 15,5 prosenttiin.</p>
+  <p>Vihreiden suosio on myös laskusuuntainen. Heitä kannatti nyt 8,5 prosenttia vastaajista. Kristillisdemokraattien suosio pysyi ennallaan.</p>
+  <p>Hienoisessa nousussa olivat vasemmistoliitto ja RKP. Vasemmistoliiton kannatus oli nyt 8 prosenttia ja RKP:n 4,4.</p>
+  <p>Tutkimusta varten haastateltiin 2  448:aa ihmistä. Virhemarginaali on 1,8 prosenttiyksikköä suurimpien puolueiden kohdalla.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="351" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/0c8187aa-f37d-4413-938c-393a4dd5e8a4.jpg" rendition="rnd:web" size="3942432" version="1" width="468"/>
+   </contentSet>
+</newsItem>

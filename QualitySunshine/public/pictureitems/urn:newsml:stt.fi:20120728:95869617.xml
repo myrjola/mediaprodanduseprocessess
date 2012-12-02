@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120728:95869617" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T10:09:21</versionCreated>
+<firstCreated>2012-07-28T10:09:17</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T10:09:17</contentCreated>
+<contentModified>2012-07-28T10:09:21</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:049" type="cpnat:runnumber">
+<name>stt 049</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75107" type="cpnat:topic">
+<name>Moottoripyöräilijä loukkaantui vakavasti ulosajossa Helsingissä</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97760753" type="cpnat:textpackageid">
+<name>Moottoripyöräilijä loukkaantui vakavasti ulosajossa Helsingissä</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000694" type="cpnat:length">
+<name>694</name>
+</subject>
+      <subject qcode="sttdepartment:0003" type="cpnat:department">
+         <name>Kotimaa</name>
+      </subject>
+<subject qcode="subj:3000000" type="cpnat:category">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject qcode="subj:3010000" type="cpnat:category">
+<name>Liikenneonnettomuudet</name>
+</subject>
+<subject qcode="subj:3010001" type="cpnat:category">
+<name>Tieliikenneonnettomuudet</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Tieltä suistunut motoristi loukkaantui vakavasti Helsingissä</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Moottoripyöräilijä loukkaantui vakavasti ajettuaan ulos tieltä myöhään perjantaina illalla Vuosaaressa Helsingissä. 1980-luvun lopulla syntynyt mies kuljetettiin tajuttomana sairaalaan.</p>
+  <p>Mies löydettiin noin kello 23:n aikaan kevyen liikenteen väylältä Niinisaarentieltä. Moottoripyörä oli pysähtynyt viherkaistalle ennen kevyen liikenteen väylää.</p>
+  <p>Mies oli liikkeellä omalla moottoripyörällään.</p>
+  <p>Tapaukselle ei ollut lauantaiaamuun mennessä ilmoittautunut silminnäkijöitä. Poliisi kaipaa tietoja ja havaintoja onnettomuudesta ja moottoripyörän ajosta ennen sitä. Yhteydenotot pyydetään puhelimeen 050  4561  983 tai lähimmälle poliisille.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="550" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/613cbfad-14e5-4b1e-8159-9984ac21e210.jpg" rendition="rnd:web" size="12909600" version="1" width="978"/>
+   </contentSet>
+</newsItem>

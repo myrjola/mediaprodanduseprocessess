@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95917973" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T19:30:06</versionCreated>
+<firstCreated>2012-08-07T19:29:39</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0019">
+<name>Tästä on kyse</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-07T19:29:39</contentCreated>
+<contentModified>2012-08-07T19:30:06</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:234">
+<name>stt 234</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76309">
+<name>Miten Italian pääministerin Mario Montin arvostelua tulkitaan Suomessa?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97845867">
+<name>Näin Monti on kritisoinut Suomea</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001095">
+<name>1095</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4017000">
+<name>Talouselämä Talouspolitiikka</name>
+</subject>
+<slugline>///TÄSTÄ ON KYSE KAINALO PÄÄJUTTUUN///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Näin Mario Monti on kritisoinut Suomea</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>&#8211;&#8201; Italian pääministeri Mario Monti syytti heinäkuun alussa "pohjoisia maita" epäluottamuksen lisäämisestä euroaluetta kohtaan. Hänen mielestään "pohjoisten maiden" linjaukset ovat osaltaan vaikuttaneet siihen, että Italian ja Espanjan lainakorot ovat lähteneet jälleen nousuun. Monti ei maininnut nimeltä Suomea tai Hollantia.</p>
+  <p>&#8211;&#8201; Viime viikolla Monti vieraili Suomessa. Pääministeri Jyrki Katainen kehui vieraansa olevan kuin suomalaiset eli korostavan unionin sääntöjen noudattamista. Monti ei enää ottanut esille kommenttiaan pohjoisten maiden linjauksista. Sen sijaan Monti ylisti Suomea esimerkkinä hyvästä taloudenpidosta.</p>
+  <p>&#8211;&#8201; Maanantaina saksalainen Der Spiegel -lehti julkaisi haastattelun, jossa Monti sanoi Suomen hallituksen vaikeuttavan Euroopan velkakriisin ratkaisua. Hänen mielestään Suomi kyseenalaistaa toistuvasti EU:n huippukokouksissa saavutetun yhteisymmärryksen. Lehden mukaan Monti antoi kommenttinsa ennen Suomen vierailua, mutta tarkisti ne torstaina ja perjantaina. Monti vieraili Suomessa keskiviikkona ja torstaina.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

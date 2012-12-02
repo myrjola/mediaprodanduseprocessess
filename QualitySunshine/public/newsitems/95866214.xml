@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120803:95866214" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-03T09:09:31</versionCreated>
+<firstCreated>2012-08-03T09:09:00</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-03T09:09:00</contentCreated>
+<contentModified>2012-08-03T09:09:31</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:042">
+<name>stt 042</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74993">
+<name>Helsingin Lastenklinikka on surkeassa kunnossa.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97754930">
+<name>Lastenklinikan tehohoitovauvat ovat ahtaasti evakossa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003216">
+<name>3216</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7670"/>
+<subject type="cpnat:category" qcode="subj:7000000">
+<name>Terveys</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:7010000">
+<name>Sairaalat Terveyskeskukset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006000">
+<name>Perhe</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006998">
+<name>Lapset ja nuoret</name>
+</subject>
+<slugline>///LEHTIVERSIO LISÄKSI KAINALO JA LEHTIKUVAA///</slugline>
+<dateline>Helsinki</dateline>
+<by>SALLA SALMELA</by>
+<description role="drol:summary"/>
+<headline>Lastenklinikan tehohoitovauvat ahtaissa tilapäistiloissa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7670">
+<name>Helsinki</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Koulut alkavat, mutta lasten tapaturmahoito ei käy täydellä teholla</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Helsingin Lastenklinikan vastasyntyneiden teho-osastolla vilkkuu punainen valo. Se tarkoittaa, että huoneen melutaso on ylittänyt sallitun 65 desibelin rajan. Osaston ylilääkäri Sture Andersson toteaa, että näinä päivinä valo palaa punaisena lähes tauotta.</p>
+  <p>&#8211;&#8201; Ahtaus aiheuttaa melua, joka voi stressata kroonikkovauvoja. Ja haittaahan se vanhempia ja henkilökuntaa.</p>
+  <p>Vastasyntyneiden teho-osasto, lyhyemmin K7, on ollut heinäkuun alusta evakossa Lastenklinikan heräämössä. Siellä pysytään näillä näkymin lokakuun alkuun.</p>
+  <p>Vanhoista tiloista oli pakko lähteä, sillä henkilökunta sai oireita huonosta sisäilmasta. Vauvoille ei Andersonin mukaan koitunut vaaraa, sillä infektioriskin takia hoitokaappeihin johdetaan hengitysilma erikseen.</p>
+  <p>Nyt ongelmia aiheuttaa ahtaus. Aiemmin osastolla oli kolme hoitohuonetta, nyt vain yksi.</p>
+  <p>Henkilökuntaa ja tilaa on 11 vauvan hoitamiseen, hätätilanteessa osastolla voidaan hoitaa 14 vastasyntynyttä. Sen jälkeen synnyttäjiä joudutaan ohjaamaan muihin kaupunkeihin. Toistaiseksi näin ei ole tarvinnut tehdä.</p>
+  <p>Osastopaikkojen lisäksi on jouduttu tinkimään vanhempien vierailuajoista ja yksityisyydestä. Omaa tilaa perheillä on sen verran kuin hoitolaitteistojen väliin mahtuvilla matalilla seinäkkeillä pystytään rajaamaan.</p>
+  <p>Helsingin Lastenklinikalle ja Lastenlinnaan on keskitetty kaikkien vakavasti sairaiden suomalaislasten hoito.</p>
+  <p></p>
+  <p>
+<h3>Päivystysvalmius ei mairittele</h3>
+</p>
+  <p></p>
+  <p>Koska yksi Lastenklinikan heräämöistä tarvitaan vauvojen tehohoitoon, heräämöpaikkoja ja leikkaussaleja on käytössä normaalia vähemmän. Tämä voi loppukesän ja syksyn aikana johtaa suunniteltujen leikkauksien ja toimenpiteiden perumisiin.</p>
+  <p>Remontti- ja evakkorumban tähden myös ortopedian ja traumatologian osasto K8 toimii väliaikaisissa tiloissa ripoteltuna kolmeen toimipisteeseen. Toistaiseksi traumatologian osasto on voinut toimia normaalisti, sillä kesäkaudella ennalta suunniteltuja leikkauksia on vähän ja yllättäviä tapauksiakin harvakseltaan. Koulujen alku voi kuitenkin muuttaa tilannetta, sillä silloin tapaturmat ja infektiot lisääntyvät. </p>
+  <p>Vastasyntyneiden teho-osaston ylilääkäri Andersson toteaa, että päivystysvalmiuden pitäisi olla koulujen alkaessa selvästi paremmalla tasolla kuin se on nyt.</p>
+  <p>&#8211;&#8201; Elokuun loppupuolella pitäisi olla toimiva traumatologinen valmius, muuten joudutaan lykkäämään tarpeellisia leikkauksia, pelataan vain aikaa ja toimenpiteet pitää sitten perata pois myöhemmin.</p>
+  <p></p>
+  <p>
+<h3>"Dominopeli jatkuu"</h3>
+</p>
+  <p></p>
+  <p>Andersson kuvailee Lastenklinikan tilarumbaa dominoksi, jota pelataan vielä pari vuotta. </p>
+  <p>Sisäilmaongelmaisen vanhan K7-osaston remontintarvetta ja tulevaa käyttöä vasta selvitellään. Myös traumatologian tilanne on vielä auki.</p>
+  <p>&#8211;&#8201; Ideaalista olisi, että saadaan K8 sinne, missä se voi olla, kunnes saadaan kokonaan uusi lastensairaala, Andersson sanoo. </p>
+  <p>Vuonna 2015 vastasyntyneiden teho muuttaa taas uusiin tiloihin Naistenklinikan yhteyteen. Samalla lokakuussa valmistuva remontoitu osasto vapautuu taas uuteen käyttöön Lastenklinikan sisällä.</p>
+  <p>Tilalle olisi ottajia, esimerkiksi elinsiirto-osasto K3:ssa on ilmastointiongelmia.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

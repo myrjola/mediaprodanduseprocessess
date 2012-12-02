@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95867990" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T21:16:17</versionCreated>
+<firstCreated>2012-07-27T21:16:13</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0013">
+<name>Tulokset</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-07-27T21:16:13</contentCreated>
+<contentModified>2012-07-27T21:16:17</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:217">
+<name>stt 217</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75039">
+<name>Muut tulokset</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97758307">
+<name>Poikien superpesis</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000596">
+<name>596</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15007000">
+<name>Pesäpallo Baseball</name>
+</subject>
+<slugline/>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Pesäpallotuloksia/poikien superpesis</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Poikien Superpesis:</p>
+  <p>Vimpeli&#8211;Seinäjoki 2&#8211;0 (8&#8211;1, 3&#8211;0), Hyvinkää&#8211;Siilinjärvi 0&#8211;1 (1&#8211;6, 0&#8211;0), Ulvila&#8211;Vaasa 2&#8211;1 (3&#8211;2, 4&#8211;5, 3&#8211;2).</p>
+  <p>Lohko A:</p>
+  <p>Vimpeli&#9;11&#9;7&#9;3&#9;0&#9;1&#9;145&#8211;&#9;47&#9;27</p>
+  <p>Koskenkorva&#9;10&#9;4&#9;2&#9;3&#9;1&#9;82&#8211;&#9;44&#9;19</p>
+  <p>Ulvila&#9;11&#9;3&#9;4&#9;1&#9;3&#9;86&#8211;&#9;76&#9;18</p>
+  <p>Kempele&#9;11&#9;3&#9;2&#9;1&#9;5&#9;68&#8211;&#9;75&#9;14</p>
+  <p>Oulujoki&#9;10&#9;2&#9;1&#9;4&#9;3&#9;61&#8211;&#9;71&#9;12</p>
+  <p>Vaasa&#9;10&#9;1&#9;3&#9;3&#9;3&#9;61&#8211;&#9;109&#9;12</p>
+  <p>Seinäjoki&#9;11&#9;0&#9;2&#9;0&#9;9&#9;38&#8211;&#9;119&#9;4</p>
+  <p>Lohko B:</p>
+  <p>Sotkamo&#9;9&#9;7&#9;2&#9;0&#9;0&#9;132&#8211;&#9;34&#9;25</p>
+  <p>Siilinjärvi&#9;10&#9;6&#9;2&#9;2&#9;0&#9;120&#8211;&#9;32&#9;24</p>
+  <p>Hyvinkää&#9;11&#9;6&#9;1&#9;1&#9;3&#9;114&#8211;&#9;51&#9;21</p>
+  <p>Kitee&#9;10&#9;4&#9;0&#9;2&#9;4&#9;77&#8211;&#9;73&#9;14</p>
+  <p>Imatra&#9;9&#9;3&#9;2&#9;1&#9;3&#9;71&#8211;&#9;53&#9;14</p>
+  <p>Kajaani&#9;9&#9;1&#9;0&#9;0&#9;8&#9;28&#8211;&#9;117&#9;3</p>
+  <p>Jyväskylä&#9;10&#9;0&#9;0&#9;0&#9;10&#9;21&#8211;&#9;203&#9;0</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

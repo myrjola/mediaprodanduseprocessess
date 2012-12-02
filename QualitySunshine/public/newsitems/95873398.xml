@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873398" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T10:45:48</versionCreated>
+<firstCreated>2012-07-29T10:45:45</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T10:45:45</contentCreated>
+<contentModified>2012-07-29T10:45:48</contentModified>
+<located type="loctype:City">
+<name>Ottawa</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:037">
+<name>stt 037</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75181">
+<name>Kanadalaisjoessa lepää ehkä natsien sukellusvene</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97766996">
+<name>Kanadalaisjoessa lepää ehkä natsien sukellusvene</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001043">
+<name>1043</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16009000">
+<name>Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1028000">
+<name>Historia</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4015000">
+<name>Liikenne</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4015004">
+<name>Vesiliikenne</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Ottawa</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Kanadalaisjoessa saattaa levätä natsien sukellusvene</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kanadan pohjoiskolkassa Labradorin niemimaalla on tehty poikkeuksellinen hylkylöytö. Churchilljoen pohjassa kaukana Atlantilta lepää ilmeisesti natsi-Saksan sukellusvene.</p>
+  <p>Ensimmäiset vihjeet hylystä saatiin pari vuotta sitten, kun joesta etsittiin kaikuluotaimen avulla kolmea hukkunutta. Kuvista kävi ilmi, että 18 metrin syvyydessä on sukellusveneeltä näyttävä esine.</p>
+  <p>&#8211;&#8201; Olemme aika varmoja siitä, että se on sukellusvene, kertoo etsintätöihin osallistunut Brian Corbin.</p>
+  <p>Kuvien uusissa tutkimuksissa on havaittu sukellusveneille tyypillisiä kansirakenteita. Corbin aikoo palata löytöpaikalle robottisukellusveneen kanssa saadakseen tarkempaa tietoa.</p>
+  <p>Saksalaisveneet partioivat toisen maailmansodan aikana Kanadan rannikolla, ja 1980-luvulla Labradorilta löydettiin myös saksalaisten sääaseman jäänteet. Saksan mukaan 12 natsien sukellusvenettä on yhä kadoksissa.</p>
+  <p>Viranomaiset pitävät kuitenkin hämmästyttävänä, että vene olisi päätynyt joenpohjaan yli sadan kilometrin päähän avomerestä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

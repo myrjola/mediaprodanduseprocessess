@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95874460" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T17:32:20</versionCreated>
+<firstCreated>2012-07-29T17:32:16</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:update"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T17:32:16</contentCreated>
+<contentModified>2012-07-29T17:32:20</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:143">
+<name>stt 143</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75169">
+<name>Kesän pahimmat ukkosmyrskyt riepottelevat Suomea</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97766100">
+<name>Kesän pahimmat ukkosmyrskyt riepottelevat Suomea</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000895">
+<name>895</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17003000">
+<name>Säätiedotteet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17004000">
+<name>Säätilastot Sääilmiöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17001000">
+<name>Sääennusteet</name>
+</subject>
+<slugline>///PÄIVITETTY NETTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Porvoossa mitattiin kesän helteisimmät lukemat</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Tämän kesän helle-ennätys on mitattu Porvoon Harabackassa Itä-Uudellamaalla, kertoo Ilmatieteen laitos. Lämpötilaksi mitattiin 28,9 astetta.</p>
+  <p>Myös kesän salamaennätys on varmistunut. Ilmatieteen laitoksen laskujen mukaan tänään on iskenyt yli 6&#8201; 000 maasalamaa. Laskennallinen salamavuorokausi alkaa Lontoon Greenwichin ajan mukaan yöllä kello kolmelta. Sitä ennen yöllä laskettiin lisäksi yli 2&#8201; 000 salamaa.</p>
+  <p>&#8211;&#8201; Salamapäivä on ollut runsas, mutta ei vielä tilastollisesti erikoinen. Esimerkiksi Sylvi-myrskyn aikana vuonna 2008 oli vuorokaudessa 24&#8201; 000 salamaa, kertoo päivystävä meteorologi Hannu Valta.</p>
+  <p>Ukkosmyräkät painottuvat tällä hetkellä Oulun tienoille ja itärajalle. Myös Lapissa on yksittäisiä kuuroja.</p>
+  <p>Lämpötilat ovat yhä kaukana kaikkien aikojen ennätyshelteistä. Tasan kaksi vuotta sitten Joensuun Liperissä mitattiin peräti 37,2 astetta.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

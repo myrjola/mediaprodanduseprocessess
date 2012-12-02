@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95867720" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T20:04:00</versionCreated>
+<firstCreated>2012-07-27T20:03:56</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T20:03:56</contentCreated>
+<contentModified>2012-07-27T20:04:00</contentModified>
+<located type="loctype:City">
+<name>Peking</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:198">
+<name>stt 198</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75051">
+<name>Jalkapallo: Arsenal jäi Manchester Cityn jalkoihin</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97757712">
+<name>Arsenal ja Jenkinson jäivät Manchester Cityn jalkoihin</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001076">
+<name>1076</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15054000">
+<name>Jalkapallo</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Peking</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Jenkinson Arsenalin avauksessa City-treenipelissä</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Puolustaja Carl Jenkinson ja Arsenal saivat harmitella virheitään, kun kaatosateessa pelattu ottelu Manchester Cityä vastaan päättyi Pekingin olympiastadionilla perjantaina. City rankaisi harjoituspelissä Arsenalia avausjakson lopun erheistä ja otti 2&#8211;0-voiton.</p>
+  <p>Sekä Suomea että Englantia nuorten maajoukkueissa edustanut Jenkinson, 20, oli Arsenalin avausmiehistössä. Avauspuoliajan 40. minuutilla hän oli väärässä paikassa väärään aikaan, ja Valioliigan hallitseva mestari City iski Yaya Touren johdolla heikkoon hetkeen heti. Vapaana ollut Toure pisti pallon Pablo Zabaletalle, joka viimeisteli 1&#8211;0.</p>
+  <p>Vain kolme minuuttia myöhemmin City hyödynsi uudelleen Arsenal-puolustuksen heikkoutta. Arsenal-vahti Lukasz Fabianski sai kaivaa pallon verkostaan, kun Toure tuikkasi läheltä 2&#8211;0-osuman.</p>
+  <p>Jenkinson teki debyyttinsä Arsenalin ykkösjoukkueessa viime kaudella pelaten kaikkiaan yhdeksässä ottelussa. Nyt mies jahtaa avauspaikkaa tulevalle kaudelle, ja perjantaina hän sai antaa näyttöjä 65 minuuttia ennen vaihtokomennusta.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

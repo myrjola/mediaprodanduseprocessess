@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95871043" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T18:46:08</versionCreated>
+<firstCreated>2012-07-28T18:45:41</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T18:45:41</contentCreated>
+<contentModified>2012-07-28T18:46:08</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:159">
+<name>stt 159</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75130">
+<name>Olympialaiset: Painija Kettusen kisat uhattuna jalkavamman takia</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97762807">
+<name>Olympialaiset: Painija Kettusen kisat uhattuna jalkavamman takia</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002264">
+<name>2264</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15072000">
+<name>Paini</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15072002">
+<name>Kreikkalais-roomalainen paini</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Lontoo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Jalkansa telonut Kettunen ei ole valmis luovuttamaan</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>"Annetaan sen rauhoittua ja katsotaan maanantaina"</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kykeneekö Matti Kettunen osallistumaan Lontoossa kreikkalais-roomalaisen painin olympiaturnauksen 60-kilon sarjaan ratkeaa maanantaina.</p>
+  <p>Harjoituksissa Lontoossa tullut jalkavamma pakotti Kettusen keskeyttämään kisakunnon viimeistelyn. </p>
+  <p>&#8211;&#8201; Harjoituksissa kolahti. Ihan normaalissa painitreenissä tuli tälli jalkaan, Kettunen kertasi torstaina tullutta vammaa.</p>
+  <p>Suomen joukkueen lääkärin Tommi Vasankarin mukaan jalassa on lihasrepeämä. Repeämissä toipumisaika on vamman laadusta ja koosta riippuen usein viikkoja.</p>
+  <p>&#8211;&#8201; Magneettikuvaukset osoittivat, että kyseessä on alaraajassa sijaitseva osittainen lihasrepeämä. Vamma on sen verran paha, että kuntoutuminen näin lyhyessä ajassa on erittäin haasteellista, Vasankari arvio.</p>
+  <p>Jalan kunto testataan maanantaina. Jos sillä ei pysty painimaan, Kettusen tilalle Lontoon joukkueeseen tulee Jarkko Ala-Huikku. </p>
+  <p>Kettunen itse ei ole vielä valmis luopumaan toiveesta osallistua olympiaturnaukseen.</p>
+  <p>&#8211;&#8201; Annetaan jalan rauhoittua viikonlopun yli ja katsotaan maanantaina, Kettunen sanoo.</p>
+  <p>Kettusen mukaan jalan palautumista yritetään edesauttaa varsin perinteisin keinon.</p>
+  <p>&#8211;&#8201; Käytetään normaaleja urheilijan hoitotoimia, eli lepoa ja kylmää.</p>
+  <p></p>
+  <p>
+<h3>Ala-Huikku valmiudessa</h3>
+</p>
+  <p></p>
+  <p>Imatra Power Twistersiä edustava Kettunen hankki maapaikan Lontoon olympiakisoihin onnistumalla huhtikuisessa olympiakarsintaturnauksessa Bulgariassa. Valinta joukkueeseen varmistui kuitenkin vasta, kun samasta olympiapaikasta taistellut Ala-Huikku ei kyennyt antamaan riittävää näyttöä Saksan gp:ssä, ja Painiliitto päätyi esittämään Kettusta Lontoon kisajoukkueeseen.</p>
+  <p>Kettunen, 29, on paininut urallaan kolme aikuisten Suomen mestaruutta. Hänellä on myös junioreiden MM-pronssia vuodelta 1999.</p>
+  <p>Ala-Huikku on sittemmin ollut Kettusen apuna harjoituksissa. Ilmajoen Kisailijoita edustava Ala-Huikku on neljän vuoden takainen Euroopan mestari. Pekingin olympiakisoissa neljä vuotta sitten hän oli 60-kiloisissa 18:s</p>
+  <p>&#8211;&#8201; Matti on ollut itse Jarkkoon yhteydessä ja kertonut tilanteen. Jarkko on pitänyt kuntoa yllä ja painon sellaisena, että kisapainoon pudottaminen onnistuu tarvittaessa vielä tässäkin ajassa, kertoo Suomen olympiajoukkueen johtaja Kari Niemi-Nikkola.</p>
+  <p></p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

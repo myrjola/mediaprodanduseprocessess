@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95867854" version="3" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T22:28:28</versionCreated>
+<firstCreated>2012-07-27T20:40:27</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0013">
+<name>Tulokset</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:supplement"/>
+<link rel="irel:seeAlso" href="http://www.tampereopen.fi" residref="urn:newsml:stt.fi:wwwlink:0010505">
+<title>Tampere Open</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-07-27T20:40:27</contentCreated>
+<contentModified>2012-07-27T22:28:28</contentModified>
+<located type="loctype:City">
+<name>Tampere</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:238">
+<name>stt 238</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75055">
+<name>Tennis: Haastajaturnaus Tampere Open, naisten ja miesten kaksinpelien puolivälierät ja nelinpelien välierät</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97758040">
+<name>Tennisturnaus Tampere Openin tulokset</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001228">
+<name>1228</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:5856"/>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15065000">
+<name>Tennis</name>
+</subject>
+<slugline>///TÄYDENNETTY   NAISTEN TOINEN VÄLIERÄ///</slugline>
+<dateline>Tampere</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Tennistuloksia/Tampere</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:5856">
+<name>Tampereen tenniskeskus</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=61.5093,+23.8435</definition>
+<geoAreaDetails>
+<position latitude="61.5093" longitude="23.84355"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:295">
+<name>Tampere</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:27">
+<name>Pirkanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Toimelankatu8</line>
+<postalCode>TAMPERE</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Tampere:</p>
+  <p>Haastajaturnaus Tampere Open, palkintoarvoltaan 42&#8201; 500 euroa:</p>
+  <p>Kaksinpelin puolivälierät: Joao Sousa Portugali (1)&#8211;Boy Westerhof Hollanti (8) 6&#8211;3, 6&#8211;3, Henri Laaksonen Sveitsi&#8211;Jonathan Dasnieres de Veigy Ranska (4) 7&#8211;6 (7&#8211;4), 5&#8211;7, 6&#8211;4, Eric Prodon Ranska (3)&#8211;Patrik Rosenholm Ruotsi 6&#8211;2, 6&#8211;1, Gastao Elias Portugali (2)&#8211;Niels Desein Belgia 6&#8211;4, 6&#8211;2.</p>
+  <p>Välierät lauantaina: Sousa&#8211;Laaksonen, Prodon&#8211;Elias.</p>
+  <p>Nelinpelin välierät: Michael Linzer/Gerard Melzer Itävalta&#8211;Timo Nieminen Suomi/Stephane Robert Ranska (3) 6&#8211;1, 4&#8211;6, 10&#8211;6, Niels Desein Belgia/Andre Ghem Brasilia&#8211;Gastao Elias/Joao Sousa Portugali (2) 7&#8211;6 (7&#8211;4), 6&#8211;4.</p>
+  <p>Naisten ITF-turnaus, palkintoarvoltaan 10&#8201; 000 dollaria:</p>
+  <p>Kaksinpelin puolivälierät: Aleksandra Romanova Venäjä (1)&#8211;Amandine Cazeaux Ranska 7&#8211;6 (7&#8211;4), 7&#8211;5, Alena Tasrasova Venäjä&#8211;Ljubov Vasileva Venäjä 6&#8211;2, 7&#8211;6 (7&#8211;5), Sandra Roma Ruotsi (4)&#8211;Carmen Lopez-Rueda Espanja 7&#8211;5, 6&#8211;2, Bianca Koch Saksa&#8211;Anouk Tigu Hollanti 7&#8211;6 (7&#8211;2), 4&#8211;6, 6&#8211;1.</p>
+  <p>Nelinpelin välierä: Nikola Horakova Tshekki/Julia Valetova Venäjä (2)&#8211;Janina Darishina/Ljubov Vasileva Venäjä 3&#8211;6, 7&#8211;5 (10&#8211;6), Olga Brozda Puola/Anouk Tigu Hollanti (4)&#8211;Sandra Roma/Eveliina Virtanen Ruotsi 6&#8211;1, 4&#8211;6, 10&#8211;5.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

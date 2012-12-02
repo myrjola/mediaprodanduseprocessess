@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95869863" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T11:20:30</versionCreated>
+<firstCreated>2012-07-29T11:20:27</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T11:20:27</contentCreated>
+<contentModified>2012-07-29T11:20:30</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:044">
+<name>stt 044</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74529">
+<name>Kaasusumuttimen käyttö rikoksissa ei poliisin mukaan yleistynyt</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97737857">
+<name>Kaasusumuttimien takavarikoinnit ovat vähentyneet itärajalla. Kaasusumuttimen käyttö rikoksissa ei poliisin mukaan yleistynyt</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002281">
+<name>2281</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001006">
+<name>Väkivaltarikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11016000">
+<name>Sisäpolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11016004">
+<name>Aseenkantoluvat</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY MINIFAKTA. KUVITUSKUVAA.///</slugline>
+<dateline>Helsinki</dateline>
+<by>KIIRA KOSKELA, JOHANNES PALMGREN</by>
+<description role="drol:summary">Keskiviikkona 25.7. soitettu rikostorjuntayksikön Heikki Lausmaalle ja kysytty rikosten lisääntymisestä. Välitti kysymyksen edelleen Vesa Tikkalalle, joka tutkii asiaa. Soitettava Tikkalalle to 26.7. iltapäivällä. P.071 878 1813</description>
+<headline>Kaasusumuttimen käyttö rikoksissa ei ole yleistynyt</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Sumutinten takavarikoinnit ovat vähentyneet itärajalla</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kaasusumuttimen käyttö rikoksissa ei näytä poliisin mukaan lisääntyneen viime vuosina. Sumuttaminen rikoksen tekotapana on itse asiassa jopa laskenut viime vuodesta.</p>
+  <p>&#8211;&#8201; Luvut ovat suuntaa-antavia. Tekotavaksi on tilastoissa kirjattu sumuttaminen, jolloin käytössä on saattanut olla jopa jauhesammutin, sanoo poliisitarkastaja Vesa Tikkala.</p>
+  <p>Sumuttaminen rikoksen tekotapana liittyy lähes poikkeuksetta pahoinpitelyyn. Toissa vuoden heinäkuussa Helsinki Pride -kulkuetta vastaan tehty kaasuisku on herättänyt keskustelua laittomista kaasuaseista ja niiden hankkimisen helppoudesta.</p>
+  <p>&#8211;&#8201; Koko aika otetaan haltuun idästä tuotuja laittomia sumuttimia, eli ilmeisesti niiden hankkiminen on helppoa, sanoo poliisijohtaja Seppo Kolehmainen.</p>
+  <p></p>
+  <p>
+<h3>Omaan käyttöön, ei myyntiin</h3>
+</p>
+  <p></p>
+  <p>Tullin mukaan sumuttimia takavarikoidaan Venäjältä saapuvista ajoneuvoista aika ajoin, mikä johtuu maan erilaisesta lainsäädännöstä. Autoista löytyneet kaasuaseet on Tullin arvion mukaan tarkoitettu yleensä henkilökohtaiseen käyttöön, ei myyntiin.</p>
+  <p>Takavarikointien määrä kaakon raja-asemilla näyttää kuitenkin vähentyneen viime vuosina, mikä on ehkä tiedottamisen ansiota.</p>
+  <p>&#8211;&#8201; Tänne matkaavat tietävät paremmin, mikä on sallittua ja mikä kiellettyä, kertoo tutkinnanjohtaja Tommi Tiittanen Rajavartiolaitokselta.</p>
+  <p>Vuodesta 2007 lähtien Vaalimaan, Nuijamaan ja Imatran rajanylityspaikoilla kaasusumuttimia on karkean arvion mukaan takavarikoitu vuodessa 50&#8211;100. Piikki oli vuonna 2009, jolloin haaviin jäi noin 190 sumutinta.</p>
+  <p>Ajoneuvossa tuotujen kaasusumuttimien tutkinta siirtyi Rajavartiolaitokselta Tullille toissa keväänä.</p>
+  <p></p>
+  <p>
+<h3>Laiton sumutin voi vammauttaa pysyvästi</h3>
+</p>
+  <p></p>
+  <p>Poliisijohtaja Seppo Kolehmaisen mukaan kaasusumuttimella ei periaatteessa saa aikaan pysyvää vammaa. Voimankäyttö on silti aina riski, joka kasvaa, jos sumutin on hankittu pimeiltä markkinoilta.</p>
+  <p>&#8211;&#8201; Poliisi on ottanut haltuun sumutteita, jotka ovat vahvuudeltaan moninkertaisia verrattuna laillisilla markkinoilla myytäviin. Tällöin on riski, että kohdehenkilö vammautuu pysyvästi.</p>
+  <p>Poliisin käytössä sumuttimet ovat vähentäneet tarvetta käyttää ampuma-asetta, Kolehmainen kertoo.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

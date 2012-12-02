@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120805:95762522" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-05T10:11:27</versionCreated>
+<firstCreated>2012-08-05T10:11:24</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0019">
+<name>Tästä on kyse</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>5</urgency>
+<contentCreated>2012-08-05T10:11:24</contentCreated>
+<contentModified>2012-08-05T10:11:27</contentModified>
+<located type="loctype:City">
+<name>Luvia</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:045">
+<name>stt 045</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75371">
+<name>Perinnepurjelaivoja vaalitaan Luvialla talkootyönä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97548966">
+<name>Perinteisesti rakennettu Ihana</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000665">
+<name>665</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:8999"/>
+<subject type="cpnat:category" qcode="subj:10000000">
+<name>Vapaa-aika</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1018000">
+<name>Kulttuuriperintö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1022000">
+<name>Kulttuurihallinto Apurahat Säätiöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1022001">
+<name>Kulttuurihistoria</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1019000">
+<name>Perinne Tapakulttuuri</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15050000">
+<name>Purjehdus</name>
+</subject>
+<slugline>///TÄSTÄ ON KYSE JUTTUUN PERINNEPURJELAIVOISTA///</slugline>
+<dateline>Luvia</dateline>
+<by/>
+<description role="drol:summary">&lt;kotimaa.deski@stt-lehtikuva.fi&gt;</description>
+<headline>Perinteisesti rakennettu Ihana</headline>
+</contentMeta>
+<assert qcode="sttlocationalias:8999">
+<name>Luvia</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:167">
+<name>Luvia</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:32">
+<name>Satakunta</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  <p>&#8211;&#8201; Luvian Laitakari oli erityisesti 1800-luvulla yksi Suomen vilkkaimmista purjelaivojen telakka-alueista. Parhaimmillaan siellä laskettiin vesille 5&#8211;6 purjelaivaa vuodessa. </p>
+  <p>&#8211;&#8201; Perinnelaivayhdistys Ihana perustettiin 2005. Se elvyttää purjelaivaperinnettä yhteistyössä muun muassa Luvian, Merikarvian ja Eurajoen kuntien, Porin ja Rauman kaupunkien sekä lukuisten tukijoidensa kanssa.</p>
+  <p>&#8211;&#8201; Kaljaasi Ihana on tehty puusta talkootyönä perinteisin rakennustavoin.</p>
+  <p>&#8211;&#8201; Ihanan kokonaispituus on 27,9 metriä, leveys 6,2 metriä, mastojen korkeus 23,4 / 25,8 metriä ja purjepinta-ala 280 neliötä, ja makuupaikkoja on 20.</p>
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

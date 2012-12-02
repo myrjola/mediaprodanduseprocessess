@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120806:95914821" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-06T19:12:50</versionCreated>
+<firstCreated>2012-08-06T19:12:46</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-06T19:12:46</contentCreated>
+<contentModified>2012-08-06T19:12:50</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:208">
+<name>stt 208</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75884">
+<name>Langaton nettiyhteys varuskuntiin ensi vuonna</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97839404">
+<name>Varusmiehet langattomasti nettiin ensi vuonna</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002239">
+<name>2239</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:11926"/>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11001000">
+<name>Puolustus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11001004">
+<name>Puolustusvoimat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006000">
+<name>Julkinen hallinto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006009">
+<name>Ministerit</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by>JUSSI VALKAMA</by>
+<description role="drol:summary">Puolustusministeri Carl Haglund vierailee Kaartin Jääkärirykmentissä Santahaminassa. Hän tutustuu rykmentin toimintaan sekä varusmieskoulutukseen. Varusmieskoulutukseen tutustumisen jälkeen tiedotusvälineet voivat keskustella puolustusministerin kanssa.</description>
+<headline>Kaikkiin varuskuntiin luvassa langaton netti ensi vuonna</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:11926">
+<name>Kaartin jääkärirykmentti, Santahamina</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.1712,+24.9326</definition>
+<geoAreaDetails>
+<position latitude="60.171162" longitude="24.932581"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Puolustusministeri Carl Haglund perehtyi Santahaminan toimintaan</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Langaton nettiyhteys on tarkoitus saada kaikille Suomen kasarmeille ensi vuoden loppuun mennessä, sanoi puolustusministeri Carl Haglund (r.) maanantaina Helsingissä. Hänelle esiteltiin  Kaartin jääkärirykmentin toimintaa Santahaminassa.</p>
+  <p>&#8211;&#8201; Varusmiehillä pitää olla mahdollisuus hoitaa pankkiasioita ja pitää yhteyttä ystäviin ja sukulaisiin sekä käyttää viihdettä, kuitenkin asiallisesti. Internet-yhteys on nuorille aikuisille luonteva osa arkea, Haglund sanoi.</p>
+  <p>Haglundin mukaan langattomat nettiyhteydet on mahdollista toteuttaa nykyisellä budjetilla, lisärahaa ei tarvita. </p>
+  <p>Vierailu Santahaminassa oli Haglundille ensimmäinen ministerinä, ja se liittyi hänen perehdytysohjelmaansa puolustusministeriksi. Ensi viikolla Haglund tutustuu merivoimien toimintaan.</p>
+  <p>Santahaminassa hän seurasi taisteluammuntojen, taisteluharjoitusten ja kouluammuntojen sujumista. Lisäksi hän tutustui kasarmirakennuksiin ja tapasi uusia alokkaita.</p>
+  <p>Haglund on huolissaan varusmiesten heikosta kunnosta, mikä tulee veronmaksajille kalliiksi.</p>
+  <p>&#8211;&#8201; Se on iso yhteiskunnallinen ongelma, johon Puolustusvoimat tai puolustusministeriö eivät pysty yksin vastaamaan. Toimenpiteet pitää suunnata jo lapsiin, ja pyrkiä nostamaan nuorten kuntoa pidemmällä tähtäimellä, Haglund sanoi.</p>
+  
+  <p>
+<h3>"Islannin ilmavalvonta ainutlaatuinen tilaisuus"</h3>
+</p>
+  <p></p>
+  <p>Carl Haglund matkustaa keskiviikkona Ruotsiin, missä hän tapaa puolustusministeri Karin Engströmin. Ministerit keskustelevat muun muassa pohjoismaisesta puolustusalan yhteistyöstä. Myös Islannin ilmavalvonta noussee Haglundin mukaan keskustelussa esiin. Ruotsi ei ole vielä kertonut, lähteekö se mukaan Islannin ilmavalvontaan.</p>
+  <p>&#8211;&#8201; Pitäisin hyvänä, jos Ruotsi ja Suomi osallistuisivat molemmat Islannin ilmavalvontaan. Se olisi luontevaa. Suomenkin osallistuminen on ainakin osittain riippuvainen siitä, mihin johtopäätökseen Ruotsi asiassa tulee. Virallista neuvottelua asiasta ei käydä, Haglund sanoi.</p>
+  <p>Islannin ilmavalvontaa Haglund pitäisi Suomen ilmavoimien kehittämisen kannalta hienona mahdollisuutena.</p>
+  <p>&#8211;&#8201; Se on aika ainutlaatuinen tilaisuus niihin kustannuksiin nähden, mitä siitä syntyy, Haglund sanoi.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

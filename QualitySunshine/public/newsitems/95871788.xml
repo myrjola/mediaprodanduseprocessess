@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95871788" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T02:05:20</versionCreated>
+<firstCreated>2012-07-29T02:05:16</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T02:05:16</contentCreated>
+<contentModified>2012-07-29T02:05:20</contentModified>
+<located type="loctype:City">
+<name>Bukarest</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:011">
+<name>stt 011</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74631">
+<name>Romaniassa kansanäänestys presidentti Traian Basescun viraltapanosta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97764598">
+<name>Romaniassa kansanäänestys presidentti Traian Basescun viraltapanosta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000481">
+<name>481</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11019000">
+<name>Kansanäänestykset</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Bukarest</dateline>
+<by/>
+<description role="drol:summary">Basescua syytetään toimivaltuuksiensa ylittämisestä.</description>
+<headline>Romaniassa äänestetään presidentin kohtalosta</headline><creditline>STT&#8211;AFP-Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Romaniassa järjestetään tänään poikkeuksellinen kansanäänestys, jossa ratkeaa maan presidentin kohtalo. Kansalaiset saavat päättää, pannaanko presidentti Traian Basescu viralta.</p>
+  <p>Presidentti pitää äänestystä laittomana ja kehottaa ihmisiä jäämään kotiin. Äänestys on pätevä vain, jos yli puolet äänioikeutetuista käy äänestämässä.</p>
+  <p>Presidentin eroa vaatii pääministeri Victor Ponta, jota epäillään väitöskirjansa plagioinnista.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

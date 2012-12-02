@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95867702" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T20:14:01</versionCreated>
+<firstCreated>2012-07-27T20:13:57</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.noc.fi" residref="urn:newsml:stt.fi:wwwlink:0000312">
+<title>Suomen Olympiakomitea</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.olympic.org" residref="urn:newsml:stt.fi:wwwlink:0000319">
+<title>Official website of the Olympic Movement</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T20:13:57</contentCreated>
+<contentModified>2012-07-27T20:14:01</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:200">
+<name>stt 200</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74359">
+<name>Olympialaiset: Judon olympiaturnauksessa ei ole varaa virheisiin</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97757783">
+<name>Jokinen avaa suomalaisten judokien olympiaurakan </name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002353">
+<name>2353</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Lontoo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Arvonta piti judon suomalaistoiveet elossa </headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Jokinen sai marokkolaisvastuksen lauantain avausotteluun</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kaikilla kolmella judon suomalaisedustajalla on Lontoon olympiatatamilla hyvät mahdollisuudet useampaan kuin yhteen otteluun. Suomalaisten turnauksen avaa 60-kiloisissa lauantaina kamppaileva Valtteri Jokinen.</p>
+  <p>Kestävä ja erityisesti hyvillä mattotekniikoilla jylläävä Jokinen saa ensimmäisessä ottelussa vastaansa Yassine Moudatirin. Fyysiseen ottelutapaan luottava marokkolainen on suomalaiselle tuttu vain kansainvälisten turnausten harjoitusotteluista. Kilpatatamilla Jokinen ei ole hallitsevaa Afrikan mestaria kohdannut.</p>
+  <p>&#8211;&#8201; Hänellä on pari kolme spesiaaliliikettä, joiden eliminoiminen on tärkeää. Yksi niistä on hyvä käsivarsiheitto oikealle puolelle, Suomen judoliiton päävalmentaja Mika Mukkula arvioi marokkolaista.</p>
+  <p>&#8211;&#8201; Moudatir on myös vahva lähelle päästessään, joten aloituksissa pitää olla tarkkana</p>
+  <p>Jos Jokinen voittaa ensimmäisen ottelunsa, kakkosvastus on voittaja Etelä-Korean Gwang Hyeon Choin ja Sveitsin Ludovic Chammartinin välisestä kamppailusta.</p>
+  <p>Choi on MM-viitonen viime vuodelta ja hallitseva Aasian mestari. Tällä kaudella hän on myös voittanut yhden maailmancupin turnauksen.</p>
+  <p>&#8211;&#8201; Choi, kuten kaikki korealaiset, on vahva, kestävä ja fyysinen ottelija. Hänellä on hyvä käsivarsiheitto, jolla hän on jyllännyt, Mukkula tietää.</p>
+  <p>Suomen joukkueessa toivotaan Chammartinin voittoa, sillä hänet Jokinen on nujertanut ennenkin.</p>
+  <p>&#8211;&#8201; Sveitsiläinen on vahva jalkatekniikoissa, mutta lähtee ensimmäiseen otteluunsa altavastaajana. Hän pystyy yllätykseen korealaista vastaan ja toivottavasti tekee sen, Mukkula sanoo.</p>
+  <p></p>
+  <p>
+<h3>Tyly systeemi olympiatatamilla</h3>
+</p>
+  <p></p>
+  <p>Judon olympiaturnauksessa on tyly systeemi. Tappio ensimmäisessä tai toisessa ottelussa päättää turnauksen saman tien.</p>
+  <p>Muista suomalaisista Jaana Sundberg kohtaa sunnuntaina 52-kiloisten avausottelussaan parin vuoden takaisen junioreiden maailmanmestarin, Albanian Majlinda Kelmendin. Luvassa on tasainen taisto, jossa Sundbergilla on mahdollisuudet voittoon. </p>
+  <p>Johanna Ylinen puolestaan pääsi 63-kiloisten sarjassa suoraan toiselle kierrokselle. Hänen ensimmäinen vastuksensa tiistaina on voittaja Mongolian Munhzaja Tsedevsuren ja Palaun Jennifer Ansonin välisestä ottelusta, eli suurella todennäköisyydellä hyvät jalkatekniikat omaava Tsedevsure. Häntä vastaan Ylisellä on kaikki eväät voittoon.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

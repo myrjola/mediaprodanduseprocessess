@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95918005" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T19:23:03</versionCreated>
+<firstCreated>2012-08-07T19:23:00</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0019">
+<name>Tästä on kyse</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-07T19:23:00</contentCreated>
+<contentModified>2012-08-07T19:23:03</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:231">
+<name>stt 231</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76309">
+<name>Miten Italian pääministerin Mario Montin arvostelua tulkitaan Suomessa?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97845881">
+<name>Näissä asioissa Suomen on tulkittu haraavan vastaan</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001263">
+<name>1263</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4017000">
+<name>Talouselämä Talouspolitiikka</name>
+</subject>
+<slugline>///TÄSTÄ ON KYSE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Näissä asioissa Suomen on tulkittu haraavan vastaan</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>&#8211;&#8201; Kesäkuun lopulla Brysselin EU-huippukokouksessa EU-johtajat sopivat, että euroalueen yhteiset hätärahastot voivat tietyin ehdoin ostaa kriisimaiden valtionlainoja ja että pysyvä vakausrahasto voi rahoittaa kriisipankkeja suoraan. Suomessa oppositio arvosteli tuloksia. Pääministeri Jyrki Katainen (kok.) katsoi Suomen saaneen läpi tärkeimmät tavoitteensa.</p>
+  <p>&#8211;&#8201; Suomi vastusti EU-huippukokouksessa kriisimaiden velkakirjojen ostamista jälkimarkkinoilta. Tämä ärsytti erityisesti Italiaa. Heinäkuun alussa talouskomissaari Olli Rehn sanoi euromaiden torailun nostavan lainakorkoja.</p>
+  <p>&#8211;&#8201; Heinäkuun lopulla Suomi ja EU-komissio joutuivat törmäyskurssille siitä, ovatko euromaat etuoikeutettuja velkojia Euroopan pysyvän kriisirahaston EVM:n tukipaketeissa. Talouskomissaari Olli Rehnin mukaan euromaat päättävät ensisijaisen velkojan asemasta tapauskohtaisesti. VM:n mukaan tapauskohtaisuudesta ei ole sovittu.</p>
+  <p>&#8211;&#8201; Heinäkuussa AFP uutisoi virheellisesti valtiovarainministeri Jutta Urpilaisen (sd.) varoittaneen Kauppalehdessä Suomen mahdollisesta euroerosta. Asia aiheutti kansainvälisen mediakohun.</p>
+  <p>&#8211;&#8201; Hätäavun myöntäminen Euroopan pysyvästä kriisirahastosta (EVM) suoraan pankeille herätti Suomessa kiivasta arvostelua.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

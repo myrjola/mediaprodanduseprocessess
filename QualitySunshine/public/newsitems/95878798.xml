@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95878798" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T04:00:29</versionCreated>
+<firstCreated>2012-07-31T04:00:02</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.livenation.fi" residref="urn:newsml:stt.fi:wwwlink:0000276">
+<title>Live Nation</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T04:00:02</contentCreated>
+<contentModified>2012-07-31T04:00:29</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:016">
+<name>stt 016</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74547">
+<name>Bruce Springsteen and The E Street Band konsertoi Helsingissä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97775390">
+<name>Bruce Springsteen &amp; The E Street Band konsertoi Helsingissä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000432">
+<name>432</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:4078"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011006">
+<name>Rock</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">AIKATAULU:
+
+Klo 16 uloimmat portit avataan, turvatarkastukset aloitetaan
+Klo 17 portit Olympiastadionille avataan
+Noin klo 19.00 Bruce Springsteen &amp; The E Street Band aloittaa
+Klo 23 konsertti päättyy viimeistään
+
+Sisääntulon nopeuttamiseksi turvatarkastukset pyritään aloittamaan uloimmilla porteilla jo noin klo 16. Tämän jälkeen on mahdollisuus ostaa kiertueen t-paitoja ja muita oheistuotteita. Lipuntarkastus alkaa sisemmillä porteilla noin klo 17, jolloin itse stadionille pääsee sisään.</description>
+<headline>Pomo konsertoi Helsingissä</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:4078">
+<name>Olympiastadion</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="60.186213" longitude="24.925899"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Paavo Nurmen tie1</line>
+<postalCode>HELSINKI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Amerikkalaisen rockin legenda Bruce Springsteen konsertoi The E Street Bandinsä kanssa Helsingissä tänään.</p>
+  <p>Olympiastadionin lavalle nousevan Pomon tunnetuimpia kappaleita ovat muun muassa rock-klassikot Born In The U.S.A., Born To Run ja Hungry Heart. </p>
+  <p>Edellisen kerran Springsteen nähtiin Suomessa kesällä 2009, jolloin hän esiintyi Tampereella.</p>
+  <p>Olympiastadionin keikalle odotetaan yli 40&#8201; 000:ta kuulijaa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

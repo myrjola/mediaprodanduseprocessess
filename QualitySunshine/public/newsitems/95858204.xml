@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120725:95858204" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T15:00:33</versionCreated>
+<firstCreated>2012-07-28T15:00:27</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T15:00:27</contentCreated>
+<contentModified>2012-07-28T15:00:33</contentModified>
+<located type="loctype:City">
+<name>Blantyre</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:098">
+<name>stt 098</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74478">
+<name>Afrikassa vanhojen naimisissa olevien miesten nuoret rakastajattaret ovat vaarassa saada hiv-tartunnan.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97736296">
+<name>Afrikassa nuoret naiset ovat vaarassa saada hivin vanhoilta rakastajiltaan</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003244">
+<name>3244</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:7000000">
+<name>Terveys</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:7001000">
+<name>Sairaudet Taudit</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY KAINALO JA KV. KUVAA///</slugline>
+<dateline>Blantyre</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Hiv leviää nuoriin afrikkalaisnaisiin vanhemmilta miehiltä</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Köyhät naiset turvautuvat usein "sponsoriin"</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Köyhyys ajoi malawilaisen teiniäidin Kate Mzungun vanhemman miehen syliin. Mies elättää häntä ja saa vastineeksi seksiä.</p>
+  <p>Samalla Mzungu ottaa monien muiden nuorten afrikkalaisnaisten tapaan hengenvaarallisen riskin. Suojaamattomassa yhdynnässä hiv-tartunnan riski on suuri, koska Malawissa lähes joka kuudennella asukkaalla on hi-virus.</p>
+  <p>&#8211;&#8201; Pelkään saavani hivin rakastajaltani, koska hän voi maata kenen tahansa naisen kanssa, 17-vuotias Mzungu sanoo.</p>
+  <p>Hän kutsuu itseään salaiseksi kakkosvaimoksi, koska hänen 55-vuotias rakastajansa on aviossa. Mzungu joutui aiemmin turvautumaan prostituutioon hankkiakseen elannon itselleen ja lapselleen. Nyt elämä on parempaa.</p>
+  <p>&#8211;&#8201; En kadu päätöstäni, koska hän on ostanut minulle pienen talon ja auton.</p>
+  <p></p>
+  <p>
+<h3>Hiv-positiivisista lähes kolmasosa naisia</h3>
+</p>
+  <p></p>
+  <p>Aids-asiantuntijoiden mukaan nuorten naisten ja vanhempien miesten väliset seksisuhteet ovat yksi syistä siihen, että Afrikassa on enemmän hiv-positiivisia naisia kuin virusta kantavia miehiä. Mantereen eteläosassa jopa 60 prosenttia hiv-positiivisista on naisia.</p>
+  <p>Maailmanlaajuisestikin hiv on johtava kuolinsyy 15&#8211;24-vuotiaille naisille. Nuorten naisten tartuntamäärät ovat kaksi kertaa suurempia kuin nuorilla miehillä. Afrikka kantaa surullisella tavalla kortensa kekoon näissä luvuissa. Valtaosa aids-kuolemista ja uusista hiv-tartunnoista tapahtuu Afrikassa.</p>
+  <p>Malawin aids-ohjelman koordinaattorin Stuart Chukan mukaan monet nuoret naiset päätyvät sänkyyn vanhempien miesten kanssa, vaikka he tietäisivätkin hiv-riskistä. Syynä on köyhyys. Suhteet ovat naisille hyvin vaarallisia.</p>
+  <p>&#8211;&#8201; On vaikea vaatia turvaseksiä, jos olet jo valmiiksi heikommassa asemassa. Koska raha määrää, rikkaampi henkilö määrittelee noudatettavat säännöt, kertoo mosambikilainen aids-neuvoja Linda Chongo.</p>
+  <p></p>
+  <p>
+<h3>Eri maissa valistuskampanjoita</h3>
+</p>
+  <p></p>
+  <p>Zimbabwessa on ryhdytty valistamaan nuoria naisia tällaisten suhteiden vaaroista. Maassa on pystytetty valistustauluja, joissa yliopistosta valmistuneet nuoret naiset kertovat, kuinka he ovat saavuttaneet unelmansa ilman vanhempaa "sponsoria".</p>
+  <p>Myös Etelä-Afrikan itäosassa KwaZulu-Natalissa valtaisat tienvarsikyltit varoittavat nuoria naisia ryhtymästä seksisuhteisiin vanhempien miesten kanssa. Nuorille naisille on myös perustettu tukiryhmiä.</p>
+  <p>Tällaiset kampanjat näyttävät tehonneen eteläisen Afrikan alueella, sanoo Unicefin hiv-asiantuntija Rick Olson.</p>
+  <p>&#8211;&#8201; Edistystä on ollut paljon, koska uusien tartuntojen määrä on laskussa alueella. Hallitukset myös ostavat enemmän kondomeja kuin aiemmin.</p>
+  <p>Kondomeista on vähän hyötyä, jos niitä ei käytetä. Myös Olson painottaa, että vanhemman miehen ja nuoren naisen suhteessa kumin käyttö on harvinaista valtasuhteen takia.</p>
+  <p>Etelä-Afrikassa tehdäänkin parhaillaan kliinisiä kokeita ehkäisyrenkailla, jotka vapauttavat naisen kehoon lääkeainetta. Näin ne voisivat paitsi ehkäistä epätoivotun raskauden myös nitistää hi-viruksen hyvissä ajoin ennen tartuntaa.</p>
+  <p>Eteläafrikkalainen Sibongile Molefe, 41, pitää valistuskampanjoita tärkeinä. Hän on itse hiv-positiivinen.</p>
+  <p>&#8211;&#8201; Loppujen lopuksi me naiset kärsimme enemmän. Meidän tulee pysyä lujina, tämä on meidän elämämme.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

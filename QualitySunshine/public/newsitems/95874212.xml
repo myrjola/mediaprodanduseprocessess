@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95874212" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T16:16:12</versionCreated>
+<firstCreated>2012-07-29T16:16:09</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T16:16:09</contentCreated>
+<contentModified>2012-07-29T16:16:12</contentModified>
+<located type="loctype:City">
+<name>Vantaa</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:122">
+<name>stt 122</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75207">
+<name>Taksikuski pahoinpideltiin Vantaalla</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97768624">
+<name>Taksikuski pahoinpideltiin Vantaalla</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000588">
+<name>588</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:6909"/>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4015000">
+<name>Liikenne</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001006">
+<name>Väkivaltarikokset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Vantaa</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Taksikuski pahoinpideltiin Vantaalla</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6909">
+<name>Vantaa</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:36">
+<name>Vantaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Taksikuski pahoinpideltiin Vantaalla sunnuntain vastaisena yönä. Taksin kyytiin oli noussut pariskunta, jolle oli tullut matkan aikana sanaharkkaa.</p>
+  <p>Poliisin mukaan kuljettaja oli pysähtynyt bussipysäkille ja pyytänyt heitä poistumaan taksista. Matkustajana ollut mies kuitenkin hermostui ja löi kuljettajaa nyrkillä. Osuma osui kuljettajaa takaraivoon.</p>
+  <p>Pariskunta poistui paikalta eikä maksanut taksimatkaa. Poliisi löysi heidät myöhemmin lähistöltä. Mies otettiin kiinni ja häntä epäillään pahoinpitelystä.</p>
+  <p>Kuljettajan vammat tarkastettiin lääkärissä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

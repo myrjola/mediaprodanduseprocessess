@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95877265" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T07:45:34</versionCreated>
+<firstCreated>2012-07-30T07:45:31</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T07:45:31</contentCreated>
+<contentModified>2012-07-30T07:45:34</contentModified>
+<located type="loctype:City">
+<name>Tegucigalpa</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:028">
+<name>stt 028</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75252">
+<name>Naisten murhat lisääntyvät räjähdysmäisesti Hondurasissa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97773282">
+<name>Naisten murhat lisääntyvät räjähdysmäisesti Hondurasissa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000923">
+<name>923</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001006">
+<name>Väkivaltarikokset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Tegucigalpa</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Naisten murhat lisääntyvät hurjaa vauhtia Hondurasissa</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Naisiin kohdistuvat henkirikokset ovat räjähdysmäisessä kasvussa Hondurasissa. Maan kansallisen ihmisoikeuskomission raportin mukaan kuluneen vuosikymmenen aikana maassa tapettiin yli 3&#8201; 000 naista &#8211; mutta peräti 40 prosenttia tapauksista sattui kahden viime vuoden aikana.</p>
+  <p>Vuonna 2010 maassa surmattiin kuukausittain keskimäärin 36 naista. Kuluvana vuonna tahti on ollut jo 46 naista kuukaudessa. Komission puheenjohtaja Ramon Custodio pitää asiaa yhtenä maan vakavimmista ihmisoikeuskysymyksistä.</p>
+  <p>Custodion mukaan rikokset eivät keskity selvästi mihinkään tiettyyn sosiaaliluokkaan, vaan kuolleiden joukossa on niin kotiäitejä, opiskelijoita, työläisiä kuin pikkutyttöjäkin.</p>
+  <p>Honduras on muutenkin maailman väkivaltaisimpia maita. YK:n murhatilastoissa se on maailman ykkösenä. Maassa tehdään keskimäärin 82,1 murhaa 100&#8201; 000 ihmistä kohti. Suomessa suhdeluku on 2,2.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95875845" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T22:32:56</versionCreated>
+<firstCreated>2012-07-29T22:32:52</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T22:32:52</contentCreated>
+<contentModified>2012-07-29T22:32:56</contentModified>
+<located type="loctype:City">
+<name>Savonlinna</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:269">
+<name>stt 269</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74827">
+<name>Savonlinnan oopperajuhlien kv. laulukilpailun finaali käydään illalla Olavinlinnassa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97756194">
+<name>Savonlinnan oopperajuhlien kv. laulukilpailun finaali käydään illalla Olavinlinnassa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001198">
+<name>1198</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7918"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011001">
+<name>Klassinen musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Savonlinna</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Yhdysvaltalainen Engebretson vei Savonlinnan laulukilpailun voiton</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7918">
+<name>Savonlinna</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:265">
+<name>Savonlinna</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:29">
+<name>Etelä-Savo</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Savonlinnan kansainvälisen laulukilpailun on voittanut yhdysvaltalainen sopraano Heather Engebretson. Hän saa palkinnoksi 20&#8201; 000 euroa. Toiseksi sijoittui venäläinen mezzosopraano Nadezha Karyazina ja kolmanneksi romanialainen sopraano Iulia Elena Surdu.</p>
+  <p>Toiseksi sijoittunut sai 10&#8201; 000 ja kolmas 5&#8201; 000 euron palkinnon.</p>
+  <p>Vuonna 1990 syntynyt Engebretson oli kilpailun kuopus. Hän opiskelee New Yorkissa arvostetussa Juilliardin taidekoulussa, ja hänellä on opintoja jäljellä vielä vuosi. Juuriltaan norjalais-kiinalainen Engebretson kuvailee voittoa ja rahapalkintoa unelmien täyttymykseksi senkin takia, että New York on eritoten opiskelijalle hintava kaupunki.</p>
+  <p>Kilpailun alku viivästyi teknisten häiriöiden takia, koska salama iski Olavinlinnan sähköjärjestelmään. Voittajan julkistamista odotettiin tuomariston puheenjohtajan Jari Hämäläisen mukaan myös siksi, että päätös oli vaikea.</p>
+  <p>Olavinlinnassa käydyssä loppukilpailussa esiintyi kuusi nuorta laulajaa, jotka esittivät finaalissa kaksi vapaavalintaista ooppera-aariaa Savonlinnan oopperajuhlaorkesterin säestäminä. Heidän joukossaan oli yksi suomalainen, basso Matti Turunen.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

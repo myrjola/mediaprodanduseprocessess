@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870889" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T18:02:23</versionCreated>
+<firstCreated>2012-07-28T18:02:20</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0013">
+<name>Tulokset</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T18:02:20</contentCreated>
+<contentModified>2012-07-28T18:02:23</contentModified>
+<located type="loctype:City">
+<name/>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:140">
+<name>stt 140</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97763202">
+<name/>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000000">
+<name>0</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<slugline/>
+<dateline/>
+<by/>
+<description role="drol:summary">tulokset.T_28.07.2012.1-8</description>
+<headline>Ravituloksia/Tampere</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+<p>Tampere 28.07 Toto75</p>
+<p>1. ponilähtö, ponilähtö 1100 m Tintti Poni-Meeting -finaali: 1) Toffo Lady/Iina Vuori 2,38,5 x, 2) Kaskad 2,40,1 x.3) Elba Aria 2,47,1 x.4) Linnestofta Lovetouch 2,31,1 x.</p>
+<p>2. ponilähtö, ponilähtö 1600 m Shetlanninponien Monté SM: 1) Ekslätts Sacrifice/Jenny Suomela m2,34,2a, 2) Colette II m2,34,3a x.3) Exas SWE m2,35,1a.4) Weston Goliath m2,47,9a.poissa: 4, 7.</p>
+<p>1. lähtö, Toto4-1, lv 2100 m: 1) J.A. Monster/Esa Holopainen 15,8a (3,01), 2) Nevermind Me 16,0a (7,15).3) Benefice 16,0a (2,46).4) Blue Night Angel 16,0a (77,46). Toto (1-7-4): 3,01 1,38-1,52-1,24 11,26. Toto4 voitto-osuus: 4,80.</p>
+<p>2. lähtö, Toto4-2, lv 1600 m: 1) Southwind Tequila/Risto Airaksinen 14,1a (2,66), 2) Broadway Soprano 14,1a (6,06).3) Seaside Savoy 14,2a (7,06).4) Puerto Cumaribo 14,7a (15,59).poissa: 1, 7, 10. Toto (4-12-6): 2,66 1,40-1,69-1,62 7,98. Toto4 voitto-osuus: 5,70.</p>
+<p>3. lähtö, Toto4-3, lv 2100 m: 1) Finish Fast*/Harri Kotilainen 15,9a (3,96), 2) Dammit 16,0a (1,65).3) Shining Sofie 16,1a (91,08).4) Zabata Zet 16,1a (16,74).poissa: 4, 10. Toto (9-2-5): 3,96 1,29-1,19-4,35 2,88. Toto4 voitto-osuus: 19,60.</p>
+<p>4. lähtö, Toto4-4, lv 2100 m: 1) Charlie Bear*/Hannu Hietanen 14,2a (1,95), 2) Greenhill's Bobby 14,7a (12,01).3) Baby Baker 14,8a (66,61).4) Exphoto 14,9a (11,31).poissa: 8, 9. Toto (2-4-7): 1,95 1,37-2,79-8,01 10,66. Toto4 voitto-osuus: 21,20.</p>
+<p>5. lähtö, Toto75-1, lv 2100 m Haastajadivisioonakarsinta: 1) Masahiro/Ari Moilanen 14,9a (1,73), 2) Sign Of Victory 15,0a (14,71).3) Vamos Kemp 15,2a (20,21).4) An-Crater 15,3a (47,42).poissa: 4, 12. Toto (3-7-1): 1,73 1,22-2,16-2,22 7,44.</p>
+<p>6. lähtö, Toto75-2, sh 2100 m Haastajadivisioonakarsinta: 1) Aatteli/Harri Kotilainen 24,9a (3,77), 2) Saaga S 25,0a (5,75).3) M.V. Vinteli 25,3a (31,09).4) Turbo-Usko 25,6a (3,42). Toto (8-4-9): 3,77 2,36-2,01-4,14 11,92.</p>
+<p>7. lähtö, Toto75-3, lv 2100 m All-out Cup -finaali: 1) Rim Bay Gabriel/Risto Airaksinen 15,2a (1,92), 2) Funny Farm 15,6a (4,95).3) Will Amirall 15,6a (15,61).4) Sing For Ever 15,8a (31,76). Toto (10-9-3): 1,92 1,38-1,56-2,64 4,48.</p>
+<p>8. lähtö, Toto75-4, sh 2100 m Huippu- vs. Tähtidivisioonakarsinta: 1) Irwin/Ari Moilanen 25,8 (2,56), 2) Metkutus 25,0 (7,88).3) Ponnen Onni 25,0 (4,62).4) Sakustian 26,0 (8,43).poissa: 7. Toto (8-11-10): 2,56 1,41-1,87-1,80 10,92.</p>
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

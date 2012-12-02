@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95883948" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T16:40:01</versionCreated>
+<firstCreated>2012-07-31T16:39:57</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T16:39:57</contentCreated>
+<contentModified>2012-07-31T16:40:01</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:168">
+<name>stt 168</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:73864">
+<name>maahanmuuttajien äänestämistä halutaan lisätä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97785553">
+<name>Aleksej ja Seida luottavaisina kunnallisvaaleihin</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003454">
+<name>3454</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:4278"/>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14003000">
+<name>Väestökysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14003002">
+<name>Maahanmuutto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11012000">
+<name>Aluehallinto Paikallishallinto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11012996">
+<name>Kuntapolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11003000">
+<name>Vaalit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11003006">
+<name>Kunnallisvaalit</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY TÄSTÄ ON KYSE -FAKTA STT 164///</slugline>
+<dateline>Helsinki</dateline>
+<by>JUSSI VALKAMA</by>
+<description role="drol:summary">Monikulttuurijärjestöjen yhteistyöverkosto Moniheli järjestää tiedotustilaisuuden maahanmuuttajien osallistumisesta kuntavaaleihin. Tilaisuudessa kuullaan muiden muassa oikeusministeriön vaaliasiantuntijaa sekä Monihelin projektivastaavia.
+
+Moniheli pyrkii edistämään maahanmuuttajien tietoisuutta paikallishallinnon päätöksenteosta. Euroopan unionin kotouttamisrahaston rahoittaman Monihelin iCount-projektin päätavoite on nostaa maahanmuuttajien osallistumista lokakuun 2012 kuntavaaleissa.
+
+Suomessa asuvien maahanmuuttajien osallistuminen vaaleihin on ollut hyvin laimeaa. Esimerkiksi Ruotsissa ja Norjassa noin 60 prosenttia maahanmuuttajista äänestää kuntavaaleissa, kun vastaava luku Suomessa on vain 20 prosenttia.</description>
+<headline>Aleksej ja Seida uskovat läpimenoon kuntavaaleissa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:4278">
+<name>Helsingin kaupungin henkilöstökeskus</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="60.183768" longitude="24.93969"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Ensi linja1</line>
+<postalCode>HELSINKI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>"Maahanmuuttaja äänestää helpoiten maahanmuuttajaa"</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Vaasalainen Seida Sohrabi, 21, ja helsinkiläinen Aleksej Fedotov, 19, uskovat läpimenoonsa lokakuun kuntavaaleissa. Sohrabi on taustaltaan kurdi ja Fedotov valkovenäläinen. He ovat asuneet Suomessa lapsesta asti.</p>
+  <p>&#8211;&#8201; Maahanmuuttajat on profiloitu Suomessa tiettyyn laatikkoon. Haluan kannustaa myös muita maahanmuuttajataustaisia nuoria. Minulla on pitkä kokemus suomalaisessa järjestö- ja yhteiskuntaskenessä, Fedotov sanoo.</p>
+  <p>Puolueet ovat viime vaaleissa kiinnostuneet kasvavasta joukosta maahanmuuttajataustaisia äänestäjiä. Muita kuin Suomen kansalliskieliä puhuvien määrä on kasvanut Suomessa 25 000:stä  lähes 250 000:een 20 viime vuoden aikana.</p>
+  <p>&#8211;&#8201; Maahanmuuttaja äänestää helpoiten maahanmuuttajaa. Puolueet haluavat ehdolle enemmän maahanmuuttajia niin, että yleinen äänestysprosentti saataisiin ylös, pääkaupunkiseudun monikulttuurijärjestöjen yhteistyöverkosto Moniheli ry:n toiminnanjohtaja Riitta Salin sanoo.</p>
+  <p>Sohrabi on ehdolla kuntavaaleissa kokoomuksen listoilta. Hän haluaisi olla valtuutettuna turvaamassa ilmaista koulutusta. Myös ilmastonmuutos huolestuttaa. Maahanmuuttoon Sohrabilla on selkeä kanta.</p>
+  <p>&#8211;&#8201; On tärkeää, miten maahanmuuttajat sijoitetaan eri puolille. Jos samalle alueelle otetaan samaa etnistä taustaa olevia, niin sopeutuminen on vaikeampaa. Haluan tuoda kampanjassani maahanmuuttajia hyvällä tavalla esille. Meistä on moneksi, mutta usein meitä katsotaan väärällä silmällä.</p>
+  <p></p>
+  <p>
+<h3>Maahanmuuttajien äänestysprosentti vain 20</h3>
+</p>
+  <p></p>
+  <p>Äänestysprosentti maahanmuuttajien keskuudessa on vain 20. Sohrabin mukaan maahanmuuttajat eivät äänestä, koska he eivät usein ole tietoisia äänioikeudestaan. Myöskään kiinnostus suomalaiseen yhteiskuntaan ei ole suurta.</p>
+  <p>Aleksej Fedotov huomauttaa, että maahantulijoiden ajasta suuri osa menee perustoimeentulon hankkimiseen, minkä vuoksi aikaa ei jää yhteiskunnalliseen osallistumiseen.</p>
+  <p>&#8211;&#8201; Integroituminen yhteiskuntaan on vaikeaa. Vanhempani työskentelivät kymmenen vuotta varastolla ennen kuin saivat hyväksytettyä omat tutkintonsa. Nyt he ovat saman yrityksen Venäjän-kaupan johdossa, sosiaalidemokraattien listoilla oleva Fedotov kertoo.</p>
+  <p>Oikeusministeriön erikoissuunnittelija Niklas Wilhelmsson on Fedotovin ja Sohrabin kanssa samaa mieltä.</p>
+  <p>&#8211;&#8201; Monen maahanmuuttajan osalta heikko työnsaanti ja sosiaalinen asema heijastuvat yhteiskunnalliseen osallistumiseen. Silloin on tärkeämpää, mistä saa ruoan pöytään. Tämä ei koske vain maahanmuuttajia vaan myös suomalaisia.</p>
+  <p>Wilhelmssonin mukaan Suomeen muutetaan usein maista, joissa ei ole demokratiaa ja poliittinen osallistuminen voi olla sanktioitua. Se heijastuu toimimiseen uudessa kotimaassa.</p>
+  
+  <p>
+<h3>Puolueet avainasemassa</h3>
+</p>
+  
+  <p>&#8211;&#8201; Puolueet ovat Suomessa avainasemassa. Ne ovat vasta vähän aikaa tehneet mitään maahanmuuttajaehdokkaiden hyväksi. Usein ehdokkaat ovat kokeneet, etteivät he ole saaneet riittävästi näkyvyyttä. Tämä vaatii puolueilta panostuksia, Wilhelmsson sanoo.</p>
+  <p>Vantaan kokoomuksen kuntavaalien projektipäällikön Hilu Kangas-Rannan mukaan heidän tavoitteensa on saada maahanmuuttajaehdokkaita niin paljon, että ehdokaslista vastaisi mahdollisimman hyvin kaupungin väestörakennetta.</p>
+  <p>&#8211;&#8201; Maahanmuuttajien vaaliteemoihin vaikuttaa se, kuinka kauan he ovat asuneet Suomessa. Suurimmat haasteet ovat kielitaidon heikkous ja se, että heidän yleinen tunnettuutensa on heikko, Kangas-Ranta sanoo.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

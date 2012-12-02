@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95868225" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T22:32:10</versionCreated>
+<firstCreated>2012-07-27T22:32:07</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T22:32:07</contentCreated>
+<contentModified>2012-07-27T22:32:10</contentModified>
+<located type="loctype:City">
+<name>Santiago</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:239">
+<name>stt 239</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75060">
+<name>Kymmenissä Chilen kouluissa epäillään lasten hyväksikäyttöä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97758670">
+<name>Kymmenissä Chilen kouluissa epäillään lasten hyväksikäyttöä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000727">
+<name>727</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001005">
+<name>Seksuaalirikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:5000000">
+<name>Koulutus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:5005000">
+<name>Koulut Oppilaitokset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Santiago</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Kymmenissä Chilen kouluissa epäillään lasten hyväksikäyttöä</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Epäilyt lasten seksuaalisesta hyväksikäytöstä Chilen kouluissa laajenevat entisestään. Viranomaiset kertoivat perjantaina, että epäilyt kohdistuvat jo lähes 130 kouluun pääkaupungissa Santiagossa.</p>
+  <p>Viime viikolla tutkimuksia tehtiin liki 60 koulussa.</p>
+  <p>Tuorein syytös kohdistuu katolilaiseen irlantilaispappiin, joka erotettiin hienostoalueen koulusta, kun uhrin perhe teki ilmoituksen hyväksikäytöstä. Pappi on torjunut syytökset ja sanonut kyseessä olevan "valitettavan erehdyksen".</p>
+  <p>Toisessa koulussa useista hyväksikäyttötapauksista ja raiskauksista epäillään rehtorin poikaa.</p>
+  <p>Chilen katolinen kirkko pyysi viime vuonna anteeksi pappiensa tekemiä seksuaalirikoksia.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

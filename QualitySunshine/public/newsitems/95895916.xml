@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120801:95895916" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T18:35:05</versionCreated>
+<firstCreated>2012-08-02T18:35:02</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T18:35:02</contentCreated>
+<contentModified>2012-08-02T18:35:05</contentModified>
+<located type="loctype:City">
+<name>Rovaniemi</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:232">
+<name>stt 232</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75340">
+<name>Vasemmistoliiton hallitusryhmän lehdistölounalla Arhinmäki ja Kyllönen</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97797890">
+<name>Arhinmäen mukaan yksityiset yritykset imevät varoja julkisllta palveluilta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002558">
+<name>2558</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7458"/>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010000">
+<name>Puolueet Poliittiset liikkeet Järjestöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010997">
+<name>Vasemmistoliitto</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY KAINALO JA LEHTIKUVAA///</slugline>
+<dateline>Rovaniemi</dateline>
+<by>JOUNI KELA</by>
+<description role="drol:summary">Vasemmistoliiton hallitusryhmä vierailee Lapissa 1.–3.8. Hallitusryhmän lehdistölounas ajankohtaisista asioista pidetään 2.8., paikalla mm. ministerit Arhinmäki ja Kyllönen sekä eduskuntaryhmän puheenjohtaja Lapintie.</description>
+<headline>Vasemmistoliitto kiivaili peruspalvelujen puolesta</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7458">
+<name>Hotelli Rantasipi Pohjanhovi</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="66.502567" longitude="25.737218"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:253">
+<name>Rovaniemi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:30">
+<name>Lappi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Pohjanpuistikko2</line>
+<postalCode>ROVANIEMI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Peruspalvelujen turvaaminen osoittautui aiheeksi, joka herkisti vasemmistoliiton puheenjohtajan Paavo Arhinmäen hetkeksi lähes kiihdyksiin. Julkisista hyvinvointipalveluista ei saa tehdä bisnestä, jossa alehinnoilla saadaan julkiset toimijat ulos ja sitten nostetaan hintoja, Arhinmäki korosti Rovaniemellä torstaina pidetyssä vasemmistoliiton hallitusryhmän tiedotustilaisuudessa.</p>
+  <p>Arhinmäen herkisti kysymys, jossa ihmeteltiin, voiko näin kategorisesti rajata yksityiset yritykset pois.</p>
+  <p>&#8211;&#8201; Kerrotko, miten meillä on selvitty vuosikymmenet siihen asti, kunnes markkinoille alettiin tuoda yksityisiä alan firmoja? Yksityisiä palveluja saa olla, mutta niitä ei saa tukea julkisilla rahoilla. Rahat on käytettävä julkiseen terveydenhoitoon, Arhinmäki vastasi ääni kohoten ja oikean käden heiluessa kuin bussia pysäytettäessä.</p>
+  <p>Muu osio sujuikin sitten perinteisen maltillisesti. Rovaniemelle ja lähikuntiin loppuviikoksi jalkautunut puoluejohto käy lähestyvien kunnallisvaalien alla selvittämässä ihmisille kohteita, joihin vasemmistoliitto haluaa tarttua. Arhinmäen mukaan listalla on paljon ihmisten arkea lähellä olevia asioita &#8211; ei niinkään eurokriisiä, jota monet alkavat jo olla kurkkua myöten täynnä.</p>
+  <p></p>
+  <p>
+<h3>Lähes ratalupaus</h3>
+</p>
+  
+  <p>Kaivokset, ympäristö ja liikenne ovat lappilaisille tämän päivän kuumia kysymyksiä. Rovaniemeltä pohjoiseen kaavailtu rata sai liikenneministeri Merja Kyllöseltä tuen, jonka joku voisi tulkita lähes lupaukseksi. Ei ehkä Jäämerelle asti, mutta jonkin matkaa pohjoiseen kuitenkin.</p>
+  <p>Ratapaineen ovat nostaneet Sodankylän ja Itä-Lapin kaivoshankkeet, jotka toteutuessaan toisivat valtavasti liikennettä. Kyllösen mukaan järkevää vaihtoehtoa haetaan parhaillaan asiantuntijatyöryhmässä. Radan kustannuksiin olisi saatava rahaa siitä hyötyviltä yrityksiltä.</p>
+  <p>Kyllönen muistutti myös kaivosten ympäristövastuista.</p>
+  <p>&#8211;&#8201; Samaan aikaan kun mökin mummon pissa-asiat olivat esillä, jäivät kaivosten valumavedet hoitamatta, hän sanoi.</p>
+  <p>Arhinmäki on samoilla linjoilla.</p>
+  <p>&#8211;&#8201; Kaivoksia tarvitaan, mutta niiden on täytettävä ympäristökriteerit. Liian herkille alueille ne eivät saa mennä. Niin ei voi olla, että rikkaudet viedään ulos ja sotkut jätetään, Arhinmäki linjasi.</p>
+ 
+  
+  
+  
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

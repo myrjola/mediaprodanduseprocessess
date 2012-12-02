@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120806:95913699" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-06T15:28:15</versionCreated>
+<firstCreated>2012-08-06T15:28:07</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-06T15:28:07</contentCreated>
+<contentModified>2012-08-06T15:28:15</contentModified>
+<located type="loctype:City">
+<name>Edinburgh</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:137">
+<name>stt 137</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76233">
+<name>Edinburghin Fringe-festivaali linkittyy olympiakisojen kanssa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97838520">
+<name>Edinburghin Fringe-festivaali linkittyy olympiakisojen kanssa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000896">
+<name>896</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1017000">
+<name>Teatteri</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Edinburgh</dateline>
+<by/>
+<description role="drol:summary">Edinburghin Fringe-festivaali linkittyy olympiakisojen kanssa.</description>
+<headline>Taidefestivaali Fringe linkittyy olympialaisiin</headline><creditline>STT&#8211;Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Maailman suurin vuotuinen taidefestivaali, Edinburghin Fringe, tekee tiivistä yhteistyötä Lontoon kesäolympialaisten kanssa. Perjantaina avatun Fringen järjestäjät odottavat, että olympiayleisö ehtii tehdä visiittejä Skotlannin tapahtumaan.</p>
+  <p>Vuodesta 1947 järjestetty Fringe tarjoaa tällä kertaa ennätysmäärän esiintyjiä ja esityksiä. Virallisen ohjelman mukaan katsoja voi valita mieleisensä 2&#8201; 695 esityksestä, joita Free Fringe täydentää ilmaisesityksillä. Festivaalilla esittelee osaamistaan kuukauden aikana kaikkiaan noin 23&#8201; 000 taiteilijaa.</p>
+  <p>Fringen anti ulottuu anarkistisesta komediasta ja satiirista vakavaan ja kokeelliseen draamaan, lauluun, tanssiin ja sirkukseen. Suomea Edinburghissa tekevät tunnetuksi brittiversio Ryhmäteatterin näytelmästä Jatkuvaa kasvua, Svenska Teaternin tuottama monologi Hissvägraren sekä lauluyhtye Fork.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

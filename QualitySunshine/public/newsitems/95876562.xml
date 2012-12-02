@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95876562" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T05:00:21</versionCreated>
+<firstCreated>2012-07-30T05:00:17</firstCreated>
+<embargoed>2012-07-30T06:00:00</embargoed>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T05:00:17</contentCreated>
+<contentModified>2012-07-30T05:00:21</contentModified>
+<located type="loctype:City">
+<name>Oulu</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:020">
+<name>stt 020</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75248">
+<name>Kaleva: Kakkostyypin diabetes levisi lapsiin</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97772217">
+<name>Kaleva: Kakkostyypin diabetes levisi lapsiin</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000955">
+<name>955</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:7000000">
+<name>Terveys</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:7001000">
+<name>Sairaudet Taudit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:7001997">
+<name>Diabetes</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006000">
+<name>Perhe</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006998">
+<name>Lapset ja nuoret</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:7000000">
+<name>Terveys</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:7003000">
+<name>Terveydenhoito</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Oulu</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Kaleva: Kakkostyypin diabetestä tavattu jo lapsilla</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kakkostyypin diabetes on levinnyt Suomessa viime vuosina myös lapsiin, kertoo sanomalehti Kaleva.</p>
+  <p>Lehden haastatteleman Diabetesliiton ylilääkärin Pirjo Ilanne-Parikan mukaan Suomessa on muutamia kymmeniä kakkostyypin diabeetikkolapsia. Tapauksia saattaa kuitenkin olla enemmän, koska tautia ei aina huomata heti.</p>
+  <p>Lisäksi lapsilla ja nuorilla on tavattu myös metabolista oireyhtymää, joka tarkoittaa, että ihmisellä on keskivartalolihavuuden vuoksi useita terveyttä uhkaavia häiriöitä, kuten esimerkiksi kohonnut verenpaine.</p>
+  <p>Yksi syy diagnoosien määrän kasvuun johtuu myös siitä, että asiaan kiinnitetään aiempaa enemmän huomiota. Ykköstyypin diabetes puhkeaa yleensä nuorille, kun taas kakkostyyppiin sairastutaan yleisimmin ylipainon vuoksi aikuisena.</p>
+  <p>Lääkärit pitävät huolestuttavana tapausten lisääntymistä, sillä se on ääriesimerkki lasten ja nuorten lihavuuden ja liikkumattomuuden lisääntymisestä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

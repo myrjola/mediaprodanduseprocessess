@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95871898" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T22:08:29</versionCreated>
+<firstCreated>2012-07-28T22:08:26</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:supplement"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T22:08:26</contentCreated>
+<contentModified>2012-07-28T22:08:29</contentModified>
+<located type="loctype:City">
+<name>Leppävirta</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:241">
+<name>stt 241</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75153">
+<name>Leppävirralla k-kauppa tulessa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97764667">
+<name>Leppävirralla k-kauppa tulessa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000520">
+<name>520</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7995"/>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3004000">
+<name>Tulipalot </name>
+</subject>
+<slugline>///TÄYDENNETTY SÄHKE///</slugline>
+<dateline>Leppävirta</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>K-kauppa palaa Leppävirralla Pohjois-Savossa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7995">
+<name>Leppävirta</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=62.4916,+27.7873</definition>
+<geoAreaDetails>
+<position latitude="62.491589" longitude="27.78727"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:153">
+<name>Leppävirta</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:38">
+<name>Pohjois-Savo</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Pohjois-Savossa Leppävirralla palaa K-kauppa. Lähellä asuvia ihmisiä pyydetään pitämään ikkunat suljettuina, koska savu on voimakasta. Leppävirrantiellä sijaitsevassa K-market Super Monnissa havaittiin palo iltakahdeksan aikaan.</p>
+  <p>Paikalla on useita pelastuslaitoksen yksiköitä, ja poliisi eristää aluetta. Poliisin mukaan liekit ovat edelleen korkeat.</p>
+  <p>Leppävirrantie on katkaistu palon takia liikenteeltä. Paikalla on kiertotie.</p>
+  <p>Palon syttymissyystä ei ole toistaiseksi tietoa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

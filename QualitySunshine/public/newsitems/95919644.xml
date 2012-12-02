@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95919644" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T18:47:07</versionCreated>
+<firstCreated>2012-08-07T18:47:02</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-07T18:47:02</contentCreated>
+<contentModified>2012-08-07T18:47:07</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:214">
+<name>stt 214</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76309">
+<name>Miten Italian pääministerin Mario Montin arvostelua tulkitaan Suomessa?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97849558">
+<name>Miten Italian pääministerin Mario Montin arvostelua tulkitaan Suomessa?</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001198">
+<name>1198</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4017000">
+<name>Talouselämä Talouspolitiikka</name>
+</subject>
+<slugline>///KAINALO MYÖHEMMIN TULEVAAN PÄÄJUTTUUN///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Der Spiegelin toimittaja: Monti tarkasti haastattelun viime viikolla</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Italian pääministeri Mario Monti antoi Suomea kritisoivan lausuntonsa Der Spiegel -lehdelle heinäkuussa ennen vierailuaan Suomessa, kertoi toinen haastattelua tehneistä toimittajista STT:lle.</p>
+  <p>Toimittaja Hans Hoyng kertoi, että Spiegel tapasi Montin heinäkuussa, mutta haastattelua tuoreutettiin lisäkysymyksillä sen jälkeen.</p>
+  <p>&#8211;&#8201; Viime viikkojen aikana esitimme Montille uusia kysymyksiä ja näistä molemmista koottiin yksi haastattelu. Yleisesti voi sanoa, että haastattelun alkuosa on uusista kysymyksistä ja loppuosa heinäkuun tapaamisesta Roomasta, Hoyng kertoi puhelimitse.</p>
+  <p>Hoyngin mukaan Monti sai kuitenkin haastattelutekstin kokonaisuudessaan tarkistettavakseen viime viikolla ja hyväksyi sen. Hoyng kertoi saaneensa Montin hyväksynnän kahdessa osassa. Vanhemmalle osalle Montin hyväksyntä tuli viime viikon torstaina iltapäivällä ja uudemmalle osalle perjantaina.</p>
+  <p>Entä haastattelun Suomea koskeva osa, joka alkaa Montin puhuessa yhtäpitämättömän informaation aiheuttamista mokista? </p>
+  <p>&#8211;&#8201; Se oli heinäkuulta. Ja myös se oli viime viikolla Montilla (tarkastettavana) ja hän hyväksyi sen, Hoyng sanoi.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

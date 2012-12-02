@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95867375" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T18:45:59</versionCreated>
+<firstCreated>2012-07-27T18:45:55</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T18:45:55</contentCreated>
+<contentModified>2012-07-27T18:45:59</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:185">
+<name>stt 185</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74862">
+<name>Perjantain pörssijutut</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97752433">
+<name>Perjantain pörssijutut</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000529">
+<name>529</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008026">
+<name>Osakkeet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4009000">
+<name>Markkinat Pörssit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4009003">
+<name>Arvopaperipörssit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016000">
+<name>Yritysinformaatio</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016047">
+<name>Osakkeenomistajat</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Helsingin pörssi taas plussalle muun Euroopan mukana</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Helsingin pörssi on sulkeutunut muun Euroopan mukana plussalle. Pörssin OMXH-yleisindeksi nousi melkein kaksi prosenttia 5&#8201; 206 pisteeseen.</p>
+  <p>Kurssit nousivat myös muualla Euroopassa, kun Euroopan keskuspankista sekä Saksasta ja Ranskasta vannottiin tänään vankkaa tukea euroalueen suojelemiselle.</p>
+  <p>Wall Streetillä kurssit nousivat, koska Yhdysvaltojen talouskasvu oli odotuksia parempaa. </p>
+  <p>Matkapuhelinyhtiö Nokia päätyi vahvaan 8,7 prosentin nousuun. Sitä vaihdettiin 1,7 eurolla.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

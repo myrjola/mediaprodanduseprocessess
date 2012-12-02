@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120729:95874212" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T16:16:12</versionCreated>
+<firstCreated>2012-07-29T16:16:09</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T16:16:09</contentCreated>
+<contentModified>2012-07-29T16:16:12</contentModified>
+<located type="loctype:City">
+<name>Vantaa</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:122" type="cpnat:runnumber">
+<name>stt 122</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75207" type="cpnat:topic">
+<name>Taksikuski pahoinpideltiin Vantaalla</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97768624" type="cpnat:textpackageid">
+<name>Taksikuski pahoinpideltiin Vantaalla</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000588" type="cpnat:length">
+<name>588</name>
+</subject>
+      <subject qcode="sttdepartment:0003" type="cpnat:department">
+         <name>Kotimaa</name>
+      </subject>
+<subject qcode="sttlocationalias:6909" type="cpnat:geoArea"/>
+<subject qcode="subj:4000000" type="cpnat:category">
+<name>Talous</name>
+</subject>
+<subject qcode="subj:4015000" type="cpnat:category">
+<name>Liikenne</name>
+</subject>
+<subject qcode="subj:2000000" type="cpnat:category">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject qcode="subj:2001000" type="cpnat:category">
+<name>Rikokset</name>
+</subject>
+<subject qcode="subj:2001006" type="cpnat:category">
+<name>Väkivaltarikokset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Vantaa</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Taksikuski pahoinpideltiin Vantaalla</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6909">
+<name>Vantaa</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader qcode="city:36" type="cpnat:geoArea">
+<name>Vantaa</name>
+</broader>
+<broader qcode="stat:31" type="cpnat:geoArea">
+<name>Uusimaa</name>
+</broader>
+<broader qcode="country:1" type="cpnat:geoArea">
+<name>Suomi</name>
+</broader>
+<broader qcode="continet:4" type="cpnat:geoArea">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Taksikuski pahoinpideltiin Vantaalla sunnuntain vastaisena yönä. Taksin kyytiin oli noussut pariskunta, jolle oli tullut matkan aikana sanaharkkaa.</p>
+  <p>Poliisin mukaan kuljettaja oli pysähtynyt bussipysäkille ja pyytänyt heitä poistumaan taksista. Matkustajana ollut mies kuitenkin hermostui ja löi kuljettajaa nyrkillä. Osuma osui kuljettajaa takaraivoon.</p>
+  <p>Pariskunta poistui paikalta eikä maksanut taksimatkaa. Poliisi löysi heidät myöhemmin lähistöltä. Mies otettiin kiinni ja häntä epäillään pahoinpitelystä.</p>
+  <p>Kuljettajan vammat tarkastettiin lääkärissä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="198" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/f3810ea3-eb62-40d1-901c-0dc657353339.jpg" rendition="rnd:web" size="1948320" version="1" width="410"/>
+   </contentSet>
+</newsItem>

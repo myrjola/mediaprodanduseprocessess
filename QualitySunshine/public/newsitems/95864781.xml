@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95864781" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T20:23:06</versionCreated>
+<firstCreated>2012-07-27T04:39:55</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:update"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T04:39:55</contentCreated>
+<contentModified>2012-07-27T20:23:06</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:202">
+<name>stt 202</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74937">
+<name>HS: Nuorisojärjestöjen jäsenmäärät tarkistettu</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97751809">
+<name>HS: Nuorisojärjestöjen jäsenmäärät tarkistettu</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000897">
+<name>897</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010000">
+<name>Puolueet Poliittiset liikkeet Järjestöt</name>
+</subject>
+<slugline>///PÄIVITETTY LEHTIVERSIO MM. JULKITULOAJANKOHTA///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Nuorisojärjestöjen jäsenmäärien tarkastus loppusuoralla </headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Poliittisten nuorisojärjestöjen jäsenmäärien tarkastus on loppusuoralla, kerrotaan opetus- ja kulttuuriministeriöstä.</p>
+  <p>Johtaja Georg Henrik Wreden mukaan tarkastuskertomukset lähtevät elokuussa järjestöjen kommentoitaviksi. Tarkastusten tuloksia hän ei vielä kerro, koska ministeriö haluaa ensin varmistua, ettei työssä ole tapahtunut väärinkäsityksiä.</p>
+  <p>Wrede arvioi perjantaina STT:lle, että tarkastuskertomukset tulisivat julkisiksi elokuun lopulla. </p>
+  <p>Tarkastusten etenemisestä kertoi ensin Helsingin Sanomat. Järjestöjen tiloissa tehdyissä tarkastuksissa on käyty läpi muun muassa jäsenluettelot ja niissä 2008&#8211;2011 tapahtuneet muutokset. Jäsenmäärät vaikuttavat järjestöjen saamaan valtionapuun.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95868297" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T22:52:05</versionCreated>
+<firstCreated>2012-07-27T22:51:39</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T22:51:39</contentCreated>
+<contentModified>2012-07-27T22:52:05</contentModified>
+<located type="loctype:City">
+<name>Turku</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:244">
+<name>stt 244</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75062">
+<name>Ravintolalaiva on täyttynyt vedellä Turussa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97758767">
+<name>Ravintolalaiva on täyttynyt vedellä Turussa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000363">
+<name>363</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7053"/>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3010000">
+<name>Liikenneonnettomuudet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3010004">
+<name>Vesiliikenneonnettomuudet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4015000">
+<name>Liikenne</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4015004">
+<name>Vesiliikenne</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Turku</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Ravintolalaiva on täyttynyt vedellä Turussa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7053">
+<name>Turku</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.4528,+22.2516</definition>
+<geoAreaDetails>
+<position latitude="60.452801" longitude="22.251551"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:304">
+<name>Turku</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:26">
+<name>Varsinais-Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Ravintolalaiva Katarina on täyttynyt vedellä Turussa Varsinais-Suomessa. Pelastuslaitos pumppaa vinoon kallistunutta alusta tyhjäksi. Katarinan henkilökunta on tyhjentänyt alukselta pois 150 asiakasta.</p>
+  <p>Katarina sijaitsee Aurajoessa Turun kaupunginteatterin edustalla. Pelastuslaitoksen mukaan alus ei ole vaarassa upota.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

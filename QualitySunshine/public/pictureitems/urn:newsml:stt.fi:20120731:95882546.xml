@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120731:95882546" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T10:01:21</versionCreated>
+<firstCreated>2012-07-31T10:01:13</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T10:01:13</contentCreated>
+<contentModified>2012-07-31T10:01:21</contentModified>
+<located type="loctype:City">
+<name>New York</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:048" type="cpnat:runnumber">
+<name>stt 048</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75422" type="cpnat:topic">
+<name>Manchester United tavoittelee listautumisellaan yli 300 miljoonaa dollaria</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97782943" type="cpnat:textpackageid">
+<name>Manchester United tavoittelee listautumisellaan yli 300 miljoonaa dollaria</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000970" type="cpnat:length">
+<name>970</name>
+</subject>
+      <subject qcode="sttdepartment:0011" type="cpnat:department">
+         <name>Talous</name>
+      </subject>
+<subject qcode="subj:4000000" type="cpnat:category">
+<name>Talous</name>
+</subject>
+<subject qcode="subj:4008000" type="cpnat:category">
+<name>Makrotalous</name>
+</subject>
+<subject qcode="subj:4008026" type="cpnat:category">
+<name>Osakkeet</name>
+</subject>
+<subject qcode="subj:15000000" type="cpnat:category">
+<name>Urheilu</name>
+</subject>
+<subject qcode="subj:15054000" type="cpnat:category">
+<name>Jalkapallo</name>
+</subject>
+<subject qcode="subj:15054987" type="cpnat:category">
+<name>Englanti</name>
+</subject>
+<subject qcode="subj:4000000" type="cpnat:category">
+<name>Talous</name>
+</subject>
+<subject qcode="subj:4009000" type="cpnat:category">
+<name>Markkinat Pörssit</name>
+</subject>
+<subject qcode="subj:4009003" type="cpnat:category">
+<name>Arvopaperipörssit</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>New York</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>ManU tavoittelee listautumisellaan 300 miljoonaa dollaria</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Englantilaisen jalkapalloseuran Manchester Unitedin listautuminen New Yorkin pörssiin lähestyy. Seuran on tarkoitus myydä markkinoilla 10 prosenttia osakkeistaan 16 ja 20 dollarin osakekohtaisella hinnalla. Sillä se keräisi 267–334 miljoonaa dollaria.</p>
+  <p>Osakeannilla seura pyrkii kaventamaan satojen miljoonien dollarien velkaansa. Merkintähinnalla koko seuran pörssiarvo saattaa nousta jopa 3,3 miljardiin dollariin. Seuran viime vuoden liikevaihto oli 519 miljoonaa dollaria. </p>
+  <p>Valta pysyy seuran omistajalla Malcolm Glazerilla, joka omistaisi jatkossakin suurimman osan osakkeista.</p>
+  <p>Listautumisesta odotetaan hankalaa, sillä Yhdysvalloissa jalkapalloa ei pidetä kiinnostavana. Toisaalta seuran ja General Motorsin välillä julkistettiin juuri seitsemän vuoden sponsorisopimus, jonka arvo on 600 miljoonaa dollaria.</p>
+  <p>Seuran johto lähtee esittelykiertueelle keskiviikkona. Osake on tarkoitus hinnoitella lähiviikkoina.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="300" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/bc3fe042-0358-43f3-a111-c02764400f77.jpg" rendition="rnd:web" size="3528000" version="1" width="490"/>
+   </contentSet>
+</newsItem>

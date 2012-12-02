@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873668" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T23:16:34</versionCreated>
+<firstCreated>2012-07-29T23:16:31</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:supplement"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T23:16:31</contentCreated>
+<contentModified>2012-07-29T23:16:34</contentModified>
+<located type="loctype:City">
+<name>Savonlinna</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:274">
+<name>stt 274</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74827">
+<name>Savonlinnan oopperajuhlien kv. laulukilpailun finaali käydään illalla Olavinlinnassa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97756194">
+<name>Savonlinnan oopperajuhlien kv. laulukilpailun finaali käydään illalla Olavinlinnassa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002319">
+<name>2319</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7918"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011001">
+<name>Klassinen musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<slugline>///TÄYDENNETTY LEHTIVERSIO KUVIA VOITTAJASTA.///</slugline>
+<dateline>Savonlinna</dateline>
+<by>SANNA NIKULA</by>
+<description role="drol:summary"/>
+<headline>Nälkäinen kuopus voitti Savonlinnan laulukilpailun</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7918">
+<name>Savonlinna</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:265">
+<name>Savonlinna</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:29">
+<name>Etelä-Savo</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Yhdysvaltalainen Heather Engebretson haaveilee työllistymisestä</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Savonlinnan kansainvälisen laulukilpailun voittajaksi lauloi sunnuntaina finaalin kuopus, yhdysvaltalainen sopraano Heather Engebretson. </p>
+  <p>Kilpailu alkoi dramaattisesti salamoiden lyödessä Olavinlinnaan, mutta aikataulun viivästymistä suurempaa ongelmaa ukonilmasta ei aiheutunut.</p>
+  <p>Vasta 22-vuotias Engebretson oli valinnut loppukilpailuun Violettan aarian Sempre libera Verdin La traviatasta ja Julian myrkkyaarian Dieu! quel frisson... Amour, ranime mon courage Charles Gounodin oopperasta Romeo ja Julia.</p>
+  <p>&#8211;&#8201; Valitsin ne siksi, koska ne ovat minulle niin rakkaat kappaleet. Ajattelin myös, että Gounodin Romeo ja Julia ei ole kovin tunnettu ooppera ja, että ehkä yleisöstä olisi mukava kuulla harvinaisempiakin aarioita.</p>
+  <p>Juuriltaan norjalais-kiinalainen sopraano näytti voittonsa jälkeen niin yllättyneeltä, että vaikutti olevan lähes pyörtymäisillään.</p>
+  <p>&#8211;&#8201; Se johtui siitä, että minulla on niin kauhea nälkä! En syönyt mitään ennen kilpailua ja ajattelin jo, että vatsani kurninta kuuluu yleisöön asti. Ei minua jännittänyt erityisesti, en vain ajatellut loppuun asti asioita päivällä, nuori voittaja nauroi samalla, kun jakoi nimikirjoituksia yleisölle.</p>
+  
+  <p>
+<h3>Rahat tarpeen New Yorkissa</h3>
+</p>
+  <p></p>
+  <p>Engebretson sai palkinnoksi 20&#8201; 000 euroa. Hän kuvailee voittoa ja rahapalkintoa unelmien täyttymykseksi senkin takia, että New York on opiskelijalle hintava kaupunki.</p>
+  <p>Engebretsonilla on vielä vuosi opintoja jäljellä maineikkaassa Juilliardissa, jonne hän valmistelee parhaillaan lopputyötään.</p>
+  <p>&#8211;&#8201; Sen jälkeen toivon vain, että työllistyn oopperalaulajana. Jonain päivänä haluaisin laulaa Metropolitanissa, koska se on kotikaupungissani. Haaveilen myös pääseväni jo ensi kesänä Savonlinnaan, sillä Olavinlinna on kaunein näkemäni näyttämö.</p>
+  <p>Unelmien rooli riippuu siitä, miten nuoren laulajan ääni kehittyy, mutta tällä hetkellä hän nimeää sellaiseksi Salomen.</p>
+  <p>Toiseksi kilpailussa sijoittui venäläinen mezzosopraano Nadezha Karyazina ja kolmanneksi romanialainen sopraano Iulia Elena Surdu.</p>
+  <p>Miesfinalistit eivät tällä kertaa miellyttäneet tuomaristoa palkintojen arvoisesti.</p>
+  <p>Kilpailu järjestettiin nyt toista kertaa. Seuraava Savonlinnan kansainvälinen laulukilpailu käydään kolmen vuoden kuluttua.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

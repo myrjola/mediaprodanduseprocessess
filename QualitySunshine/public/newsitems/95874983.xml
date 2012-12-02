@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95874983" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T19:32:43</versionCreated>
+<firstCreated>2012-07-29T19:25:25</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:replace"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T19:25:25</contentCreated>
+<contentModified>2012-07-29T19:32:43</contentModified>
+<located type="loctype:City">
+<name>Tampere</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:178">
+<name>stt 178</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75169">
+<name>Kesän pahimmat ukkosmyrskyt riepottelevat Suomea</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97766934">
+<name>Mitä vahinkoja sunnuntaiyön ukkonen aiheutti?</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000485">
+<name>485</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3007000">
+<name>Säätuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3007001">
+<name>Myrskyt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4015000">
+<name>Liikenne</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4015002">
+<name>Rautatieliikenne</name>
+</subject>
+<slugline>///KORJATTU SÄHKE PO. ASIAKASTA, EI IHMISTÄ///</slugline>
+<dateline>Tampere</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Pohjois-Pohjanmaalla pahimmillaan yli 4&#8201; 000 asiakasta ilman sähköä</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Pohjois-Pohjanmaalla on ollut illalla ukkosmyrskyn vuoksi jopa yli 4&#8201; 000 asiakasta ilman sähköä. Suurimmat sähkökatkot tapahtuivat kello kuuden jälkeen. Kello seitsemän jälkeen sähköttä oli Pohjois-Pohjanmaalla vielä vajaat tuhat asiakasta.</p>
+  <p>Myös Hämeessä, Keski-Suomessa ja Pirkanmaalla on ollut häiriöitä sähköverkossa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

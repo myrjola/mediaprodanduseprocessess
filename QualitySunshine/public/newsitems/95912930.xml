@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120806:95912930" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-06T11:54:30</versionCreated>
+<firstCreated>2012-08-06T11:54:27</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-06T11:54:27</contentCreated>
+<contentModified>2012-08-06T11:54:30</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:082">
+<name>stt 082</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76202">
+<name>Samuli Vauramon tähdittämä nettisarja alkaa Youtubessa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97836620">
+<name>Samuli Vauramon tähdittämä nettisarja alkaa Youtubessa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000809">
+<name>809</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:category" qcode="subj:8000000">
+<name>Human interest</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8003000">
+<name>Ihmiset human interest</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8003002">
+<name>Julkisuuden henkilöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1016000">
+<name>Televisio-ohjelmat</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Samuli Vauramon tähdittämä nettisarja alkaa Youtubessa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Samuli Vauramo tähdittää maailmanlaajuisesti nähtävää nettisarjaa. Bryan Singerin tuottama H+ alkaa keskiviikkona. Sarjaa voi seurata ilmaiseksi Youtubessa. </p>
+  <p>Tuottaja Singer on kunnostautunut muun muassa X-Men: First Class - ja Superman Returns -elokuvien sekä tv-sarja Housen tuottajana.</p>
+  <p>H+ sijoittuu tulevaisuuteen, jossa teknologia on alkanut riistäytyä ihmiskunnan kontrollista. Vauramo nähdään yhdessä sarjan päärooleista. Hän esittää Torsti ”Topi” Kuuselaa, joka on Suomen Supon internetjaoston tutkija.</p>
+  <p>Sarjan jaksot kestävät 3&#8211;7 minuuttia, ja niitä julkaistaan kolme kerrallaan. Uusia jaksoja julkaistaan kerran viikossa. Mukana on myös Suomeen sijoittuvia kohtauksia, vaikka yhdysvaltalaistuotanto H+ kuvattiinkin kokonaan Chilessä keväällä 2011.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

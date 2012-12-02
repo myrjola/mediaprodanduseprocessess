@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95874380" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T19:49:40</versionCreated>
+<firstCreated>2012-07-29T19:49:37</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T19:49:37</contentCreated>
+<contentModified>2012-07-29T19:49:40</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:183">
+<name>stt 183</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75169">
+<name>Kesän pahimmat ukkosmyrskyt riepottelevat Suomea</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97766100">
+<name>Kesän pahimmat ukkosmyrskyt riepottelevat Suomea</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003226">
+<name>3226</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17003000">
+<name>Säätiedotteet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17004000">
+<name>Säätilastot Sääilmiöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17001000">
+<name>Sääennusteet</name>
+</subject>
+<slugline>///LEHTIVERSIO PÄIVITETÄÄN MYÖHEMMIN, LIITTYY KAINALO MYRSKYN AIHEUTTAMISTA PERUUTUKSISTA FESTAREILLA, GRAFIIKKAA LÄMPÖTILOISTA JA TUORETTA KUVAA///</slugline>
+<dateline>Helsinki</dateline>
+<by>JAANA VAAHTIO, HEIKKI METSÄMÄKI, TARJA REPO, PÄIVI PIHLAJARINNE</by>
+<description role="drol:summary"/>
+<headline>Ukkoset jyrisevät vielä maanantaina monin paikoin</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Rajuilma katkoi sunnuntaina sähköjä ja sytytti rakennuspaloja</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Ukkoset jatkavat jyrisemistään vielä alkavalla viikolla. Maanantain vastaisena yönä lännestä alkaneet sade- ja ukkoskuurot leviävät aamupäivän aikana myös muualle maahan.</p>
+  <p>&#8211;&#8201; Kostea hellemassa on edelleen Suomen päällä, ja ukkosherkkä tilanne jatkuu.&#8201; Sade- ja ukkoskuuroja voi tulla ympäri maata lukuun ottamatta Keski- ja Pohjois-Lappia, arvioi päivystävä meteorologi Hannu Valta Ilmatieteen laitokselta.</p>
+  <p>Maanantai on vielä lämmin suuressa osassa maata, mutta lännestä on virtaamassa jo viileämpää ilmaa.</p>
+  <p>Sunnuntaina mitattiin kuluvan kesän salamaennätys, kun tummat pilvet kulkivat maan poikki. Ilmatieteen laitoksen laskujen mukaan ennen iltakuutta maahan oli iskenyt yli 6&#8201; 000 salamaa. Laskennallinen salamavuorokausi alkaa yöllä kello kolmelta Lontoon Greenwichin ajan mukaan. Sitä ennen yöllä laskettiin lisäksi yli 2&#8201; 000 salamaa.</p>
+  <p>Valta kuvasi salamapäivää runsaaksi, mutta historiallisten tilastojen valossa se ei ollut vielä erityinen. Esimerkiksi Sylvi-myrskyn aikana vuonna 2008 vuorokauden aikana löi noin 24&#8201; 000 salamaa. Eniten salamoita on havaittu kesäkuun lopussa vuonna 1988, jolloin niitä välähti jopa 40&#8201; 000.</p>
+  <p></p>
+  <p>
+<h3>Myrsky vei sähköjä</h3>
+</p>
+  <p></p>
+  <p>Ukonilma aiheutti sunnuntaina useita rakennuspaloja eri puolilla Suomea. Esimerkiksi Etelä-Karjalassa Lappeenrannassa puurakenteisen omakotitalon yläkerta syttyi tuleen todennäköisesti salaman takia. Salaman aiheuttamat tulipalot eivät tiettävästi aiheuttaneet henkilövahinkoja.</p>
+  <p>Sunnuntain vastaisena yönä edennyt ukkosrintama riepotteli eniten Pohjanmaata, jossa salamat sytyttivät useita maasto- ja rakennuspaloja. Pohjanmaan pelastuslaitoksen päivystävä päällikkö Thomas Nyqvist kuvaili ukkosrintamaa rajuksi, mutta se meni nopeasti ohi.</p>
+  <p>Vahingot rajoittuivat maastoon ja omaisuuteen. Esimerkiksi Mustasaaressa rakennus kärsi pahoja vahinkoja, kun pohjalaistalon yläkerta syttyi salamasta. Keski-Pohjanmaalla pelastuslaitokset joutuivat tarkistamaan useita automaattihälytyksiä.</p>
+  <p>Ukkosrintama lähti liikkeelle Varsinais-Suomesta, jossa myrsky aiheutti pelättyä vähemmän vahinkoja.</p>
+  <p>Salamat katkoivat myös sähköjä tuhansilta. Pidempiä katkoja seurasi siitä, kun salamat iskivät rikki muuntamoita.</p>
+  <p></p>
+  <p>
+<h3>Kesän lämpöennätys rikkoontui</h3>
+</p>
+  <p></p>
+  <p>Sunnuntain sää oli eri puolilla maata kostea ja lämmin. Liki trooppinen ilmamassa synnytti myös kuluvan kesän ennätyslämmöt, jotka mitattiin Itä-Uudellamaalla Porvoossa ja Lappeenrannassa. Elohopea kipusi 28,9 asteeseen, kertoivat alkuillan mittaustiedot. Useilla paikkakunnilla meni rikki 28 astetta.</p>
+  <p>Kesän aiempi lämpöennätys oli 28,5 astetta, joka mitattiin heinäkuun alkupuolella Hämeenlinnassa. Kahden edellisen erittäin lämpimän kesän jälkeen kuluva kesä on Ilmatieteen laitoksen mukaan ollut varsin tyypillinen.</p>
+  <p>&#8211;&#8201; Kesäkuu oli hieman keskimääräistä viileämpi, mutta heinäkuu on ollut hyvin lähellä tavanomaisia lukemia, Valta kertoi.</p>
+  <p>Tasan kaksi vuotta aiemmin heinäkuun lopussa Joensuun lentoasemalla Liperissä mitattiin peräti 37,2 astetta.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

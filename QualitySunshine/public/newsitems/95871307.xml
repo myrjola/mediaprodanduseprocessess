@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95871307" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T20:03:09</versionCreated>
+<firstCreated>2012-07-28T20:03:06</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T20:03:06</contentCreated>
+<contentModified>2012-07-28T20:03:09</contentModified>
+<located type="loctype:City">
+<name>Jakarta</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:187">
+<name>stt 187</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75143">
+<name>Indonesiassa pelastettiin kaskelotti rantavesistä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97763853">
+<name>Indonesiassa pelastettiin kaskelotti rantavesistä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000817">
+<name>817</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:8000000">
+<name>Human interest</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8001000">
+<name>Eläimet</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY KV-KUVAA///</slugline>
+<dateline>Jakarta</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Rantavesiin eksynyt kaskelotti pelastettiin Indonesiassa</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Indonesiassa pelastustyöntekijät ja laivaston sukeltajat onnistuivat lauantaina ohjaamaan matalikolle eksyneen kaskelotin väljemmille vesille.</p>
+  <p>Yksitoistametrinen kaskelotti oli ajautunut rannikon tuntumaan neljä päivää sitten Länsi-Jaavan maakunnassa.</p>
+  <p>Pelastajat kiinnittivät kaskelotin köysillä hinaajaan ja vetivät eläintä pois rannikolta. 20 metriä syvässä vedessä eläin päästettiin vapauteen.</p>
+  <p>&#8211;&#8201; Kun katkaisimme köydet, kaskelotti näytti hyvin uupuneelta. Se kellui hetken, puhalsi vettä ja alkoi sitten uida pohjoiseen, kertoi yksi pelastajista.</p>
+  <p>Kaskelotti sai kärsiä uteliaiden ihmisten ajattelemattomuudesta ennen pelastamistaan. Valtavan eläimen luo kuljetettiin ihmisiä veneillä, ja jotkut jopa hyppäsivät kaskelotin selkään.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

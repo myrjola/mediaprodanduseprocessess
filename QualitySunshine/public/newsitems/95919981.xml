@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95919981" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T20:09:43</versionCreated>
+<firstCreated>2012-08-07T20:09:12</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0018">
+<name>Sitaattifakta</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-08-07T20:09:12</contentCreated>
+<contentModified>2012-08-07T20:09:43</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:256">
+<name>stt 256</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76309">
+<name>Miten Italian pääministerin Mario Montin arvostelua tulkitaan Suomessa?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97849561">
+<name>Näin Monti sanoi</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000989">
+<name>989</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4017000">
+<name>Talouselämä Talouspolitiikka</name>
+</subject>
+<slugline>///SITAATTIFAKTA MONTI-PÄÄJUTTUUN///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Näin Monti puhui Der Spiegelille</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Italian pääministeri Mario Monti saksalaisen Der Spiegel -lehden haastattelussa:</p>
+  <p>&#8211;&#8201; Mutta on näitä mokia, kun informaatio ei ole täysin yhdenpitävää, jotka johtavat rauhattomuuteen markkinoilla. Paljon vakavampaa on, että on muutama maa &#8211; ja ne sijaitsevat pohjoiseen Saksasta &#8211; jotka aina, kun olemme saavuttaneet neuvostossa yhteisymmärryksen, sanovat päivää tai kahta myöhemmin asioita, jotka jälleen asettavat tämän yhteisymmärryksen kyseenalaiseksi.</p>
+  <p>&#8211;&#8201; Ymmärrän, että heidän on huomioitava parlamenttinsa. --- Mutta jokaisella hallituksella on myös velvollisuus kasvattaa parlamenttia. Jos minä olisin täysin mekaanisesti pitäytynyt parlamenttini ehtoihin, en olisi voinut hyväksyä Brysselin viimeisimmän huippukokouksen päätöksiä.  </p>
+  <p>&#8211;&#8201;  --- Jos hallitukset antavat parlamenttiensa päätösten sitoa itsensä täysin ilman että jättävät itselleen omaa neuvottelupelivaraa, olisi Euroopan hajoaminen todennäköisempää kuin tiiviimpi integraatio.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

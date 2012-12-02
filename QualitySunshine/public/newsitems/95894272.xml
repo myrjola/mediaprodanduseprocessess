@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95894272" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T11:52:06</versionCreated>
+<firstCreated>2012-08-02T11:52:03</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T11:52:03</contentCreated>
+<contentModified>2012-08-02T11:52:06</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:086">
+<name>stt 086</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74964">
+<name>Italian pääministeri Monti puhuu EK:n ja UPIn seminaarissa eurosta ja EU:sta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97803294">
+<name>Monti EK:ssa sähke</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001116">
+<name>1116</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Kdeski &lt;Kdeski@stt-lehtikuva.fi&gt;</description>
+<headline>Monti suomalaisille: Italia velkaa itselleen</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Italian pääministeri Mario Monti toivoo suomalaisten ymmärtävän, että Italia ei kuulu Etelä-Euroopan velkamaiden joukkoon. Hän korosti Elinkeinoelämän keskusliiton EK:n ja Ulkopoliittisen instituutin seminaarissa, että Italia on velkaa itselleen.</p>
+  <p>Monti huomautti, että Italia on Saksan ja Ranskan jälkeen kolmanneksi suurin rahoittaja Irlannin, Portugalin ja Kreikan kriiseissä sekä Espanjan pankkien pelastamisessa.</p>
+  <p>Pääministerin mielestä Eurooppaa uhkaa velkakriisin vuoksi vanhojen kummitusten nousu. Siksi hänen hallituksensa perustelee toimiaan italialaisten edulla, ei ulkoisella pakolla.</p>
+  <p>&#8211;&#8201; On erittäin vaarallista ottaa itselle kunnia onnistumisista ja ulkoistaa syyllisyys, Monti sanoi.</p>
+  <p>Eurooppa tarvitsee Montin mukaan kasvua, joka syntyy sisämarkkinoita syventämällä, ja siihen tarvitaan luottamusta euroon.</p>
+  <p>&#8211;&#8201; Kun kymmenen vuoden päästä katsotaan vuosia 1995&#8211;2015, havaitaan, että niiden aikana Euroopassa kasvu ei ollut niin keskeisellä sijalla kuin Yhdysvalloissa tai Kiinassa, koska keskityttiin huomattavasti tärkeämpään, Euroopan rakentamiseen, Monti sanoi.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

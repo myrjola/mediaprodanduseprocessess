@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870238" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T14:34:01</versionCreated>
+<firstCreated>2012-07-28T14:33:58</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T14:33:58</contentCreated>
+<contentModified>2012-07-28T14:34:01</contentModified>
+<located type="loctype:City">
+<name>Jyväskylä</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:093">
+<name>stt 093</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75120">
+<name>Viisi nuorta loukkaantui kolarissa Jyväskylässä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97761993">
+<name>Viisi nuorta loukkaantui kolarissa Jyväskylässä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000728">
+<name>728</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7977"/>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3010000">
+<name>Liikenneonnettomuudet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3010001">
+<name>Tieliikenneonnettomuudet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Jyväskylä</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Viisi loukkaantui ulosajossa, kuski puhalsi törkeät lukemat</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7977">
+<name>Jyväskylä</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:69">
+<name>Jyväskylä</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:36">
+<name>Keski-Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Viisi nuorta aikuista loukkaantui ulosajossa Jyväskylässä varhain lauantaina. Auton 18-vuotias kuljettaja puhalsi alkometriin 1,39 promillen lukemat.</p>
+  <p>Ulosajo sattui Ronsuntaipaleentiellä Myllyjärven kaupunginosassa puoli neljän aikaan yöllä.</p>
+  <p>Paikkakuntalaisen miehen ohjaama auto suistui tieltä, eteni alas rinnettä ja pysähtyi rinteeseen nokka ylöspäin.</p>
+  <p>Kuljettaja sekä kyydissä olleet kaksi naista ja kaksi miestä vietiin sairaalaan tarkkailuun. Poliisin mukaan kukaan ei loukkaantunut vakavasti.</p>
+  <p>Kuljettajaa epäillään törkeän liikenneturvallisuuden vaarantamisen lisäksi törkeästä rattijuopumuksesta ja neljästä vammantuottamuksesta. Auto romuttui pahoin ulosajossa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

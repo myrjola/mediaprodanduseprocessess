@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95883710" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T20:28:39</versionCreated>
+<firstCreated>2012-07-31T17:01:14</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:update"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T17:01:14</contentCreated>
+<contentModified>2012-07-31T20:28:39</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:242">
+<name>stt 242</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:68645">
+<name>Sanoman hallitus koolla. Kokouksessa saatetaan päättää Helsingin Sanomien tabloidihankkeesta.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97785206">
+<name>Sanoman hallitus koolla. Kokouksessa saatetaan päättää Helsingin Sanomien tabloidihankkeesta.</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002381">
+<name>2381</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1026000">
+<name>Joukkoviestintä Journalismi</name>
+</subject>
+<slugline>///PÄIVITETTY LEHTIVERSIO TIETO KOKOMUUTOKSEN VARMISTUMISESTA JA AIKATAULUSTA. LIITTYY LEHTIKUVA///</slugline>
+<dateline>Helsinki</dateline>
+<by>ANNIINA LUOTONEN, SALLA SALMELA</by>
+<description role="drol:summary">Sanoman hallitus koolla. Esillä Helsingin Sanomien tabloidihanke.</description>
+<headline>Helsingin Sanomat muuttuu tabloidiksi ensi vuonna</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Helsingin Sanomat siirtyy ensi vuonna tabloidikokoon. Mediakonserni Sanoman hallitus päätti asiasta tiistai-iltana. Ensimmäinen tabloidikokoinen Helsingin Sanomat ilmestyy tiistaina 8. tammikuuta.</p>
+  <p>Tabloidin uskotaan olevan broadsheet-lehteä mukavampi käyttää, sanoo Helsingin Sanomien vastaava päätoimittaja Mikael Pentikäinen.</p>
+  <p>&#8211;&#8201; Tabloidi taipuu myös paremmin näköislehdeksi verkkoon. Kyse on monikanavaisesta kehitysohjelmasta, johon liittyvät keskeisesti myös kaikki sähköiset kanavat, Pentikäinen toteaa.</p>
+  <p>Vastaavan päätoimittajan mukaan tabloidilehteä on jo käynyt läpi 1&#8201; 500 hengen koeraati.</p>
+  <p>&#8211;&#8201; Tutkimusten ja lukijapalautteen perusteella uskomme, että palaute sekä lukijoilta ja mainostajilta tulee olemaan positiivista.</p>
+  <p>Tuotantoteknisistä syistä muutosta edeltävänä päivänä, 7. tammikuuta, lehti ei poikkeuksellisesti ilmesty laisinkaan.</p>
+  <p></p>
+  <p>
+<h3>Vaikutukset arveluttavat</h3>
+</p>
+  <p></p>
+  <p>Yhtiö vahvisti huhut suunnitelmistaan helmikuussa, ja kertoi, että pienempään sivukokoon voitaisiin siirtyä jo ensi vuoden alusta lukien.</p>
+  <p>Kesäkuun alussa asiassa otettiin kuitenkin aikalisä, kun Sanoman hallitus vaati vielä lisäselvityksiä sivukoon muuttamisesta. Tavoiteaikataulu pidettiin yhä ennallaan, ja asiaan sovittiin palattavan hallituksen kokouksessa heinäkuussa.</p>
+  <p>Lehti on kertonut jo joistakin suuntaviivoistaan: Journalistisen sisällön määrästä ei tingitä, sivujen määrä kasvaa selvästi nykyisestä, eikä fonttikokoa ole tarkoitus pienentää. Sivukoon pienentäminen iltapäivälehtien kokoon ei myöskään tarkoita sisällön viihteellistymistä.</p>
+  <p>Tabloidipäätöstä tehtäessä harkittiin sen vaikutuksia ilmoitusmyynnin ja lukijamäärien kannalta. </p>
+  <p>Sanomalehtien mediamyynti on jo nyt ollut kovassa laskussa. TNS Gallupin mukaan mainonta väheni sanomalehdissä kesäkuussa yli seitsemän prosenttia vuodentakaisesta. Samaan aikaan mainonta verkossa kasvoi reilu kahdeksan prosenttia.</p>
+  <p>Perinteistä sanomalehtikokoa eli broadsheetia noin puolet pienempi tabloidi on otettu käyttöön jo useissa Alma Median maakuntalehdissä. Aamulehdessä asiaa pohditaan parhaillaan. Ensi vuoden alussa tabloidiin on tarkoitus siirtyä myös Suomen Lehtiyhtymän lehdissä.</p>
+  <p>Sanoma julkistaa toisen vuosineljänneksen tuloksensa keskiviikkoaamuna.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

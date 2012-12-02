@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870339" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T15:16:02</versionCreated>
+<firstCreated>2012-07-28T15:15:58</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.noc.fi" residref="urn:newsml:stt.fi:wwwlink:0000312">
+<title>Suomen Olympiakomitea</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.olympic.org" residref="urn:newsml:stt.fi:wwwlink:0000319">
+<title>Official website of the Olympic Movement</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T15:15:58</contentCreated>
+<contentModified>2012-07-28T15:16:02</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:103">
+<name>stt 103</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74670">
+<name>Olympialaiset: Matias Koski ja Emilia Pikkarainen ensimmäisinä suomalaisuimareina olympia-altaaseen</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97761901">
+<name>Olympialaiset: Pikkaraista heikotti uinneissa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003142">
+<name>3142</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15062000">
+<name>Uinti</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN TULEE KAINALO MATIAS KOSKESTA///</slugline>
+<dateline>Lontoo</dateline>
+<by>JARKKO SORJONEN</by>
+<description role="drol:summary"/>
+<headline>Pikkaraiselle etsittiin kokista olympia-altaalla</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Noora Laukkanen vaihtaa katsomon puolelle</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Ensimmäisen suomalaisuimarin ensimmäinen esiintyminen Lontoon olympia-altaassa tuotti lauantaina draamaa. Emilia Pikkarainen huhki päämatkallaan sadan metrin perhosuinnissa reilun puolen sekunnin päähän ennätyksestään ja karsiutui jatkosta.</p>
+  <p>Lehdistön edessä Pikkarainen vastasi muutamaan kysymykseen ennen kuin häntä alkoi heikottaa.</p>
+  <p>&#8211;&#8201; Mua vähän pyörryttää. Mulla on matala verenpaine... pakko nostaa jalat ylös, Pikkarainen sanoi, laskeutui lattialle ja nosti jalkansa turva-aidan päälle.</p>
+  <p>Hän pyysi Coca-Colaa tai muuta sokeripitoista saattomiehenä toimineelta Suomen olympiajoukkueen tiedottajalta Jari Elolta. Ei löytynyt.</p>
+  <p>Pikkaraisen olo helpottui nopeasti ilmankin, ja hän nousi ylös.</p>
+  <p>&#8211;&#8201; Sori. Ottakaa kiinni, jos kaadun. Tällaista on usein suorituksen jälkeen, Pikkarainen naurahti.</p>
+  <p>Hän vastasi vielä muutamaan kysymykseen ja jatkoi urheilijoiden alueelle.</p>
+  <p></p>
+  <p>
+<h3>Kokista löytyi</h3>
+</p>
+  <p></p>
+  <p>Tiedottaja Elo toi noin tuntia myöhemmin viestin, että Pikkarainen on kunnossa ja verryttelee.</p>
+  <p>&#8211;&#8201; Leposyke 44 ja matala verenpaine. Hänellä on joskus aiemminkin treeneissä tuntunut heikolta oikein kovan vedon jälkeen, Elo tiesi kertoa.</p>
+  <p>Lattialla makaava urheilija herätti haastattelualueen tungoksessa huomiota ja huolta. Olympiavirkailijat kävivät parin minuutin aikana pari kertaa kysymässä Pikkaraisen vointia. Kaivattua Coca-Colaakin lähti noutamaan järjestelyistä huolehtiva olympiatyöläinen.</p>
+  <p>&#8211;&#8201; Sitä rupesi tulemaan joka puolelta, Elo kertoi.</p>
+  <p>Ennen heikkoa oloa Pikkarainen ehti luonnehtia uintiaan ihan hyväksi ja kertoi olevansa tyytyväinen.</p>
+  <p>&#8211;&#8201; Parhaiden aamu-uintien joukossa. Viimeksi meni näin hyvin aamulla, kun yritin (olympia)rajaa tänne tehdä. Ennätysuinnit on ollut aina illalla.</p>
+  <p>Pikkarainen perhosteli satasen aikaan 59,55. Hänen ja Suomen ennätys on 59,02. Välieräpaikkaan vaadittiin 58,74.</p>
+  <p>Pikkarainen jatkaa olympialaisissa jo maanantaina 200 metrin sekauinnissa. Hänen kolmas lajinsa 200 metrin perhosuinti on ohjelmassa tiistaina.</p>
+  <p>&#8211;&#8201; Tämä nollataan ja pistetään niissä kaikki peliin, Pikkarainen sanoi.</p>
+  <p></p>
+  <p>
+<h3>Laukkasen kisat uitu</h3>
+</p>
+  <p></p>
+  <p>Noora Laukkanen aloitti ja lopetti olympiauintinsa 400 metrin sekauinnin alkueriin. Pikahälytyksen Lontooseen saanut Laukkanen jäi ennätyksestään yli kolme sekuntia ja jatkopaikasta reilut 17 sekuntia.</p>
+  <p>&#8211;&#8201; En ole aikaan tyytyväinen, mutta on tämä tilannekin aika vaikea ollut, Laukkanen tuumi.</p>
+  <p>Hän herkisteli kuntonsa SM-kilpailuihin, kun sai yllätyksekseen kuulla, että pääsee olympialaisiin.</p>
+  <p>&#8211;&#8201; Tosi vaikea tilanne. Kukaan ei ollut missään vaiheessa sanonut, että tällaisia peruutuspaikkoja voi tulla. En jaksa selitelläkään. Tämä oli tilanne.</p>
+  <p>Laukkanen oli sekarin ensimmäisessä eli heikkotasoisimmassa erässä kolmen muun uimarin seurana. Muissa erissä oli täydet kahdeksan kilpailijaa.</p>
+  <p>&#8211;&#8201; Ei kai se nyt niin kovin erilaista ole. Yleensä sitä keskittyy siihen omaan uintiin ja tekemiseen, Laukkanen kuittasi.</p>
+  <p>Laukkasen olympiareissu jatkuu torstaihin.</p>
+  <p>&#8211;&#8201; Varmaan käyn hallilla aamuisin seuraamassa suomalaisten uinteja. Toivottavasti tulee semifinaaleja ja finaalejakin illoiksi.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

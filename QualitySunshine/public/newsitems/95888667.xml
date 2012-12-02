@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120801:95888667" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-01T11:12:04</versionCreated>
+<firstCreated>2012-08-01T11:12:00</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-01T11:12:00</contentCreated>
+<contentModified>2012-08-01T11:12:04</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:070">
+<name>stt 070</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75600">
+<name>Sparks juhlakiertueellaan Suomeen</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97794001">
+<name>Sparks juhlakiertueellaan Suomeen</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000502">
+<name>502</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011004">
+<name>Populaarimusiikki</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Sparks 40-vuotisjuhlakiertueellaan Suomeen</description>
+<headline>Sparks 40-vuotiskiertueellaan Suomeen</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Sparks-yhtye pistäytyy levyuransa 40-vuotisjuhlakiertueella Suomessa. Sparks musisoi Helsingin Tavastialla 7. lokakuuta.</p>
+  <p>Two Hands, One Mouth -kiertueella Sparksin ydin, veljekset Russell ja Ron Mael, esiintyy ensi kertaa kahdestaan ilman taustayhtyettä.</p>
+  <p>Sparks nousi listamenestykseen 70-luvulla eksentrisellä popillaan. Amerikkalaisbändin tunnetuin albumi on Kimono My House, jonka hitiksi nousi Queen-parodiana pidetty This Town Ain't Big Enough For Both Of Us.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

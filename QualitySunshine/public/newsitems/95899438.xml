@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120803:95899438" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-03T11:06:01</versionCreated>
+<firstCreated>2012-08-03T11:05:34</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-03T11:05:34</contentCreated>
+<contentModified>2012-08-03T11:06:01</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:069">
+<name>stt 069</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74861">
+<name>Perjantain pörssijutut</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97813708">
+<name>Perjantain aamupörssi</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000374">
+<name>374</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4009000">
+<name>Markkinat Pörssit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4009003">
+<name>Arvopaperipörssit</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Pörssi avasi nousuun, Nokia ja Neste Oil laskevat</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Helsingin pörssi lähti aamulla melko selvään nousuun. Kello 11:n maissa OMXH-yleisindeksi oli 1,1 prosenttia plussalla 5&#8201; 165 pisteessä.</p>
+  <p>Eniten vaihdetuista osakkeista Nokian ja Neste Oilin kurssit jatkoivat yhä eilistä laskuaan. Nokia halpeni aamulla noin prosentin 1,88 euroon ja Neste Oil noin neljä prosenttia 7,62 euroon.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

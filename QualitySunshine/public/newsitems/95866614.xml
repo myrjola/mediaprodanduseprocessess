@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95866614" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T04:51:29</versionCreated>
+<firstCreated>2012-07-29T04:51:26</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T04:51:26</contentCreated>
+<contentModified>2012-07-29T04:51:29</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:013">
+<name>stt 013</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74529">
+<name>Kaasusumuttimen käyttö rikoksissa ei poliisin mukaan yleistynyt</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97737857">
+<name>Kaasusumuttimien takavarikoinnit ovat vähentyneet itärajalla. Kaasusumuttimen käyttö rikoksissa ei poliisin mukaan yleistynyt</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001133">
+<name>1133</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001006">
+<name>Väkivaltarikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11016000">
+<name>Sisäpolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11016004">
+<name>Aseenkantoluvat</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Keskiviikkona 25.7. soitettu rikostorjuntayksikön Heikki Lausmaalle ja kysytty rikosten lisääntymisestä. Välitti kysymyksen edelleen Vesa Tikkalalle, joka tutkii asiaa. Soitettava Tikkalalle to 26.7. iltapäivällä. P.071 878 1813</description>
+<headline>Kaasusumutinlupien hakeminen vähentynyt</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Kaasusumutinlupien hakeminen on vähentynyt. Poliisin mukaan lupamäärät ovat laskeneet läpi 2000-luvun, ja lasku näyttäisi jatkuvan tänäkin vuonna. </p>
+  <p>Muille kuin viranomaisille lupa myönnetään käytännössä vain, jos hakijalla on työnsä puolesta oikeus tai perusteltu tarve sumuttimeen.</p>
+  <p>Lupia haettiin viime vuonna vajaat 1&#8201; 600 koko maassa, mikä on noin 200 vähemmän kuin vuotta aiemmin.</p>
+  <p>Kaasusumuttimen käyttö rikoksissa ei näytä poliisin mukaan lisääntyneen viime vuosina.</p>
+  <p>&#8211;&#8201; Luvut ovat suuntaa-antavia. Tekotavaksi on tilastoissa kirjattu sumuttaminen, jolloin käytössä on saattanut olla jopa jauhesammutin, sanoo poliisitarkastaja Vesa Tikkala.</p>
+  <p>Toissa vuoden heinäkuussa Helsinki Pride -kulkuetta vastaan tehty kaasuisku on herättänyt keskustelua laittomista kaasuaseista ja niiden hankkimisen helppoudesta.</p>
+  <p>Poliisijohtaja Seppo Kolehmaisen mukaan kaasusumuttimella ei periaatteessa saa aikaan pysyvää vammaa. </p>
+  <p>&#8211;&#8201; Poliisi on ottanut haltuun sumutteita, jotka ovat vahvuudeltaan moninkertaisia verrattuna laillisilla markkinoilla myytäviin. Tällöin on riski, että kohdehenkilö vammautuu pysyvästi.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95885998" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T21:18:48</versionCreated>
+<firstCreated>2012-07-31T21:18:45</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T21:18:45</contentCreated>
+<contentModified>2012-07-31T21:18:48</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:267">
+<name>stt 267</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75537">
+<name>Yle: Esa-Pekka Salonen soimaa kulttuuriministeri Arhinmäkeä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97789657">
+<name>Yle: Esa-Pekka Salonen soimaa kulttuuriministeri Arhinmäkeä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000928">
+<name>928</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Esa-Pekka Salonen soimaa Ylelle kulttuuriministeri Arhinmäkeä</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Säveltäjä ja kapellimestari Esa-Pekka Salonen kokee, että suomalainen politiikka on muuttunut korkeakulttuurin vastaiseksi. Salonen kertoi näkemyksistään Ylen haastattelussa tiistaina.</p>
+  <p>Salonen sanoi haastattelussa, että vasemmistoliiton ja kulttuuri- ja urheiluministeri Paavo Arhinmäen (vas.) linjauksissa on nähtävissä korkeakulttuurin vastaisuutta. Salonen syytti vasemmistoliittoa myös siitä, että se on unohtanut suomalaisen työväenliikkeen historian ja sen, kuinka työväenliikkeen perusoletuksena oli, että työläisillä on oikeus samaan korkeakulttuuriin kuin yläluokallakin.</p>
+  <p>&#8211;&#8201; Nyt meillä on sekä vasemmalla että oikealla korkeakulttuurin vastaisia ryhmiä, mikä on Suomen poliittisessa historiassa ainutlaatuinen tilanne. Se on sääli, se on pelottavaa ja murheellista, Salonen totesi Ylelle.</p>
+  <p>STT ei tiistaina tavoittanut ministeri Arhinmäkeä kommentoimaan asiaa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

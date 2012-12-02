@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120801:95889508" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-01T15:35:39</versionCreated>
+<firstCreated>2012-08-01T15:35:10</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-01T15:35:10</contentCreated>
+<contentModified>2012-08-01T15:35:39</contentModified>
+<located type="loctype:City">
+<name>Rauma</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:134">
+<name>stt 134</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75315">
+<name>Amerikkalaisen juurimusiikin trion North Mississippi Allstarsin haastattelu</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97794215">
+<name>North Mississippi Allstars ylläpitää ja uudistaa juurimusiikkia</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002453">
+<name>2453</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011002">
+<name>Kansanmusiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011004">
+<name>Populaarimusiikki</name>
+</subject>
+<slugline>///LEHTIVERSIO LEHTIKUVA. JUTTUUN LIITTYY TÄSTÄ ON KYSE -FAKTALAATIKKO///</slugline>
+<dateline>Rauma</dateline>
+<by>PERTTI MATTILA</by>
+<description role="drol:summary">Amerikkalaisen juurimusiikin trion North Mississippi Allstarsin haastattelu. </description>
+<headline>"Juurimusiikki voi nyt mainiosti USA:ssa"</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>North Mississippi Allstars ylläpitää ja uudistaa perinnesointia</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Juurimusiikilla menee Yhdysvalloissa nyt todella hyvin, vakuuttaa USA:n syvästä etelästä saapuva Luther Dickinson. North Mississippi Allstars -yhtyeen keulakuva ja kitaraässä on toki asiassa hieman jäävi, sillä häntä voi luonnehtia roots- eli juurimusiikin suurlähettilääksi.</p>
+  <p>Dickinsonilla on kuitenkin perusteita väitteelleen. Roots-väki on esimerkiksi saanut luotua suhteet kantripuolen sisarlajinsa, americanan, harrastajiin ja soittajiin.</p>
+  <p>&#8211;&#8201; Meidät kutsuttiin soittamaan viime vuonna americanan vuotuisen palkintogaalan housebändiin. Lavalle nousivat muiden muassa Greg Allman ja (Led Zeppelinin ex-solisti) Robert Plant. Roots ja americana tuottavat nyt paljon hyvää, rehellistä musiikkia.</p>
+  <p>Americana syntyi 1990-luvulla vastaliikkeenä tuon ajan kovin silotellulle listakantrille. Samassa hengessä roots-soundi pistää kampoihin esimerkiksi pinnalliselle nyky-R&amp;B:lle, josta sekä rytmi että varsinkin blues ovat hyvin vähissä.</p>
+  <p>Dickinsonin ja hänen veljensä, rumpali Jodyn yhtye vaikuttaa paljon Memphisissä. Siellä jos missä populaarimusiikin eri perinteet kohtaavat.</p>
+  <p>&#8211;&#8201; Memphisissä on perimmiltään kyse juuri mustan ja valkoisen musiikin fuusioista.</p>
+  <p>Kantrin mekka Nashville on sekin saanut 2000-luvulla yllättäviä asukkeja. Kun Katrina-myrsky murjoi New Orleansin, sen mustan rhythm &amp; bluesin arkkiyhtyeen Neville Brothersin kultakurkku Aaron Neville asettui asumaan kaikista paikoista Nashvilleen, Dolly Partonin naapuriksi.</p>
+  <p></p>
+  <p>
+<h3>Rauman festarin täkynä</h3>
+</p>
+  <p></p>
+  <p>North Mississippi Allstars pistäytyi tänä kesänä Rauma-bluesiin, jota voi pitää Suomen roots-väen kokoontumisajoina. Dickinsonin bändi putsasi pöydän Rauman festarilla jo 2007, joten nyt se oli kekkerien ilmiselvä vetonaula.</p>
+  <p>&#8211;&#8201; Euroopassa meillä on parhaat markkinat Espanjassa ja Britanniassa. Mutta Suomikin näyttää olevan bändille hyvä maa.</p>
+  <p>Mississippin mäkimaiden yhtye on tallentanut keikkasoundinsa tehon usealle livelevylle. Jody Dickinson kiittää lisäksi fanien aktiivisuutta asiassa.</p>
+  <p>&#8211;&#8201; Faneillamme on hieno konserttiemme äänittämisen kulttuuri. He pistävät ne nettiin, siinä mielessä yhtyeen livesoundi on hyvin dokumentoitu.</p>
+  <p>&#8211;&#8201; Mutta uusia ideoita kehitämme studiossa. Tarvitsemme siten myös studiotyötä.</p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

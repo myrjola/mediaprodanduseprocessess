@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120801:95889249" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-01T13:49:28</versionCreated>
+<firstCreated>2012-08-01T13:49:25</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-01T13:49:25</contentCreated>
+<contentModified>2012-08-01T13:49:28</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:109">
+<name>stt 109</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74858">
+<name>Keskiviikon pörssijutut</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97794029">
+<name>Keskiviikon aamupörssi</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000645">
+<name>645</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4009000">
+<name>Markkinat Pörssit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4009003">
+<name>Arvopaperipörssit</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Huhu kiinalaisten ostotarjouksesta nosti Nokiaa</headline><creditline>STT&#8211;Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Nokian osakekurssi on ollut Helsingin pörssissä reippaassa, yli kymmenen prosentin nousussa. Uutistoimisto Reutersin mukaan taustalla on markkinahuhu, jonka mukaan kiinalainen tietokonevalmistaja Lenovo saattaa olla kiinnostunut tekemään Nokiasta ostotarjouksen.</p>
+  <p>Nokia kieltäytyi kommentoimasta asiaa Reutersille. Myöhemmin tavoitettu Lenovon edustaja kiisti väitteet ja leimasi ne vitsiksi.</p>
+  <p>Puoli kahden maissa iltapäivällä Nokiasta maksettiin Helsingissä 2,12 euroa, mikä oli edelleen melkein yhdeksän prosenttia eilistä parempi hinta. Ylimmillään Nokian kurssi kävi päivällä 2,28 eurossa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

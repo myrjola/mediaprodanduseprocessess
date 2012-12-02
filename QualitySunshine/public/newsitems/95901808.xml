@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120805:95901808" version="3" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-05T19:41:03</versionCreated>
+<firstCreated>2012-08-03T20:48:00</firstCreated>
+<embargoed>2012-08-06T03:00:00</embargoed>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:replace"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-03T20:48:00</contentCreated>
+<contentModified>2012-08-05T19:41:03</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:169">
+<name>stt 169</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75758">
+<name>HUOM. EMBARGO MA 6.8 KLO 3.00. Valtiovarainministeri Jutta Urpilaisen haastattelu</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97814309">
+<name>HUOM. EMBARGO. Valtiovarainministeri Jutta Urpilaisen haastattelu</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000768">
+<name>768</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7670"/>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4017000">
+<name>Talouselämä Talouspolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010000">
+<name>Puolueet Poliittiset liikkeet Järjestöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010996">
+<name>SDP</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008019">
+<name>Budjetointi Budjetit</name>
+</subject>
+<slugline>///KORJATTU SÄHKE HUOM!! MUOKATTU JUTUN KÄRKEÄ JA LISÄTTY 2. KPL, KORVAA PERJANTAINA LÄHETETYN VERSION, EMBARGO 6.8. KLO 03///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Ministerin mukaan budjettiriiheen mennään taantuman varjossa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7670">
+<name>Helsinki</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Budjettiriihessä ei ole valtiovarainministeri Jutta Urpilaisen (sd.) mukaan varaa suuriin linjantarkistuksiin, kuten veronkorotuksiin ja menojen leikkauksiin. Toisaalta odotettavissa ei ole myöskään uusia verohelpotuksia tai merkittäviä menolisäyksiä.</p>
+  <p>Valtiovarainministeriö aloittaa tänään sisäiset budjettineuvottelunsa. Koko hallituksen budjettiriihi on vuorossa kuun lopulla.</p>
+  <p>Urpilaisen mukaan budjettiriiheen mennään eurooppalaisen taantuman varjossa. Hänen mukaansa emme voi olla varmoja, kuinka pitkään epävakaus kestää. Suomen pitääkin varautua pahan päivän varalle, valtiovarainministeri sanoo.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

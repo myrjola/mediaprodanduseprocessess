@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95874075" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T16:42:06</versionCreated>
+<firstCreated>2012-07-29T16:42:01</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T16:42:01</contentCreated>
+<contentModified>2012-07-29T16:42:06</contentModified>
+<located type="loctype:City">
+<name>Aleppo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:128">
+<name>stt 128</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75204">
+<name>Aleppoon saapuu kapinallistaistelijoita Syyrian maaseudulta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97768395">
+<name>Aleppoon saapuu kapinallistaistelijoita Syyrian maaseudulta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002316">
+<name>2316</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16009000">
+<name>Sodat</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN ON TULOSSA UUTISKAINALO///</slugline>
+<dateline>Aleppo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Aleppoon saapuu kapinallistaistelijoita Syyrian maaseudulta</headline><creditline>STT&#8211;Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>"Toimme vallankumouksen heidän luokseen"</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Syyriassa taistelua Aleppon kaupungista eivät aloittaneet sen omat asukkaat vaan ympäröivältä maaseudulta saapuneet kapinallistaistelijat.</p>
+  <p>&#8211;&#8201; Vapautimme tämän provinssin maaseudun. Odotimme ja odotimme, että Aleppo nousisi, mutta niin ei käynyt. Emme voineet luottaa siihen, että he ryhtyisivät siihen itse, joten toimme vallankumouksen heidän luokseen, Abu Hashishiksi itseään kutsuva kapinalliskomentaja kertoi uutistoimisto Reutersille.</p>
+  <p>Hänen mukaansa noin kahdeksankymmentä prosenttia Aleppossa taistelevista kapinallisista on maaseudulta. Heitä saapuu koko ajan lisää. Kapinallisten mukaan aleppolaiset itse ovat pyrkineet pysyttelemään puolueettomina.</p>
+  <p>&#8211;&#8201; Osa perheistä on lahjoittanut meille salaa rahaa, mutta he eivät halua tehdä muuta. Ja täällä on vielä ihmisiä, jotka tukevat hallitusta, eräs kaupunkiin saapuneista kapinallistaistelijoista kertoo.</p>
+  <p>Aleppossa vierailleen Reutersin toimittajan mukaan kapinallisten valtaamat kaupunginosat ovat autioituneet lukuun ottamatta taistelijoita, jotka käyttävät hylättyjä rakennuksia päämajoinaan.</p>
+  <p></p>
+  <p>
+<h3>"Tuhotkoon meidät"</h3>
+</p>
+  <p></p>
+  <p>Syyrian 16 kuukautta kestäneen kansannousun levitessä ympäri maata noin 2,5 miljoonan asukkaan Aleppo säilyi pitkään rauhallisena. Kun itsemurhapommittaja tappoi heinäkuun puolivälissä Damaskoksessa Syyrian puolustusministerin ja kolme muuta hallinnon korkeaa virkamiestä, kapinalliset päättivät ulottaa taistelut Aleppoon.</p>
+  <p>Kaupungin hallinta saattaisi ratkaista koko sisällissodan.</p>
+  <p>&#8211;&#8201; Aleppo on talouden keskus, hallinnon voiman todellinen lähde. Jos voimme iskeä sinne lujaa ja pitää kiinni, voimme kaataa presidentti Bashar al-Assadin, maaseudulta saapunut taistelija kertoi Reutersille.</p>
+  <p>Vain 20 kilometrin päässä Alepposta kapinalliset ovat julistaneet ottaneensa haltuunsa suurimman osan maaseudusta. Moni oppositiota kannattava maaseudun asukas tuntee, että kaupunkilaisten on aika jakaa "vallankumouksen vaatimat uhraukset".</p>
+  <p>&#8211;&#8201; Me maaseudulla tiedämme, että meidän on luovuttava nykyisestä. Uhraan oman ja lasteni elämän. Tuhotkoot kotimme. Tämä taistelu käydään, jotta tulevat sukupolvet voisivat elää ihmisarvoista elämää. Olen valmis uhraamaan sen eteen kaiken, toteaa kapinalliskomentaja Abu Hashish.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

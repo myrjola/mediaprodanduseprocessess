@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95869784" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T12:02:07</versionCreated>
+<firstCreated>2012-07-28T12:02:03</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-07-28T12:02:03</contentCreated>
+<contentModified>2012-07-28T12:02:07</contentModified>
+<located type="loctype:City">
+<name>Riika</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:068">
+<name>stt 068</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75113">
+<name>Riian eläintarha etsii koteja hylätyille muotilemmikeille</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97761267">
+<name>Riian eläintarha etsii koteja hylätyille muotilemmikeille</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000716">
+<name>716</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:8000000">
+<name>Human interest</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8001000">
+<name>Eläimet</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Riika</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Riian eläintarhasta tuli hylättyjen muotilemmikkien koti</headline><creditline>STT&#8211;BNS</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Latvian pääkaupungin Riian eläintarha on ottanut viime vuosina vastaan kymmeniä ihmisten hylkäämiä eksoottisia lemmikkejä. Viime vuoden aikana tarhasta sai uuden kodin muun muassa kuusi chinchillaa, kaksi hilleriä ja albiinopyton.</p>
+  <p>Eläintarha on lisäksi perustanut erillisen vastaanottopisteen vesikilpikonnille, jotta niitä ei hylättäisi luontoon aiheuttamaan hallaa alkuperäislajeille. Viime vuonna kilpikonnia otettiin suojiin 18 kappaletta.</p>
+  <p>Tarhan mukaan kulloisetkin lemmikkieläintrendit näkyvät selvästi siinä, millaisia eläimiä hylätään.</p>
+  <p>&#8211;&#8201; Kun tulee uusi muoti, jotkut ihmiset tajuavatkin, millainen rasite eläin heille on, tarha kertoo raportissaan. </p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

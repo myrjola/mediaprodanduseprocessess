@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873469" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T11:33:38</versionCreated>
+<firstCreated>2012-07-29T11:33:34</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T11:33:34</contentCreated>
+<contentModified>2012-07-29T11:33:38</contentModified>
+<located type="loctype:City">
+<name>Jerusalem</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:049">
+<name>stt 049</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75185">
+<name>Romney antaisi tukensa Israelin iskulle Iraniin</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97767194">
+<name>Romney antaisi tukensa Israelin iskulle Iraniin</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000894">
+<name>894</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11001000">
+<name>Puolustus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11001009">
+<name>Ydinaseet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16009000">
+<name>Sodat</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Jerusalem</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Romney antaisi tukensa Israelin iskulle Iraniin</headline><creditline>STT&#8211;Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Yhdysvaltain republikaanien presidenttiehdokas Mitt Romney on eri linjoilla maan nykyhallinnon kanssa Iranin ydinohjelmakriisissä. Israelissa vierailevan Romneyn avustaja sanoi sunnuntaina, että Romney antaisi tukensa Israelille, jos se päättäisi käyttää sotilasvoimaa Iranin ydinasekehittelyn pysäyttämiseksi.</p>
+  <p>&#8211;&#8201; Jos Israelin on ryhdyttävä itse toimiin estääkseen Irania hankkimasta ydinasevalmiutta, kuvernööri Romney kunnioittaisi maan päätöstä, neuvonantaja Dan Senor sanoi toimittajille Jerusalemissa.</p>
+  <p>Presidentti Barack Obaman hallinnon linjana on ollut taivutella Israelia luopumaan omin päin tehtävistä ennaltaehkäisevistä iskuista Iraniin.</p>
+  <p>Romney vieraili viikonvaihteessa Israelissa tapaamassa maan johtoa. Sekä Obama että Romney ovat viime päivinä kisanneet kiivaasti amerikkalaisen juutalaisyhteisön äänistä marraskuun vaaleissa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

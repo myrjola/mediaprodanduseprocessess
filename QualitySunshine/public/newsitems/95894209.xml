@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95894209" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T11:41:57</versionCreated>
+<firstCreated>2012-08-02T11:41:53</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T11:41:53</contentCreated>
+<contentModified>2012-08-02T11:41:57</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:082">
+<name>stt 082</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74854">
+<name>Mikä on teknologiateollisuuden tilanne nyt? </name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97803003">
+<name>Mikä on teknologiateollisuuden tilanne nyt? </name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001191">
+<name>1191</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4011000">
+<name>Metalliteollisuus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003000">
+<name>Tietotekniikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003001">
+<name>IT-teknologia Tietoliikenne</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Teknologiateollisuuden suhdannetilanteesta ja lähikuukausien näkymistä pidetään tiedotustilaisuus 2.8. klo 10. Lisäksi tilaisuudessa käsitellään Suomen kilpailukyvyn kehitystä tuoreimpien tietojen valossa. Tilaisuutta isännöi toimitusjohtaja Jorma Turunen.</description>
+<headline>Teknologiateollisuus varoittaa synkentyvistä näkymistä</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Teknologiateollisuuden näkymät ovat synkentyneet. Tänään julkistetun suhdannekatsauksen mukaan teknologiateollisuuden yritysten uudet tilaukset ja tilauskanta Suomessa ovat viime kuukausina kääntyneet laskuun.</p>
+  <p>Vielä tammi-huhtikuussa teknologiateollisuuden yritysten liikevaihto Suomessa oli prosentin suurempi kuin vuotta aiemmin. Nyt hidas kasvu on pysähtynyt ja loppuvuonna liikevaihdon odotetaan jo pienentyvän vuotta aiemmasta.</p>
+  <p>&#8211;&#8201; Kun katsotaan tilauskannan kehitystä, me ennakoimme, että loppusyksy summalukuina tulee olemaan jonkin verran heikompi kuin tähän asti. Haluamme taas herättää vakavaa keskustelua Suomen ja Suomen teollisuuden kilpailukyvystä, Teknologiateollisuuden toimitusjohtaja Jorma Turunen sanoi katsauksen julkistustilaisuudessa.</p>
+  <p>Turusen mukaan yhtiöiden parasta aikaa julkaisemat osavuosikatsaukset eivät anna koko kuvaa alan tilanteesta. Käynnissä on voimakas rakennemuutos, minkä takia yhtiöiden Suomen vientilukujen tarkastelu ei riitä.</p>
+  <p>Teknologiateollisuuden osuus Suomen viennistä on 60 prosenttia. Ala pitää sisällään muun muassa elektroniikka- ja sähköteollisuuden sekä kone- ja metallituoteteollisuuden.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

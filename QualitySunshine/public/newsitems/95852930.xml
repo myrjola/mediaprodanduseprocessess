@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95852930" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T11:15:10</versionCreated>
+<firstCreated>2012-07-29T11:15:06</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T11:15:06</contentCreated>
+<contentModified>2012-07-29T11:15:10</contentModified>
+<located type="loctype:City">
+<name>Uusikaupunki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:042">
+<name>stt 042</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:73968">
+<name>Historiallisesti arvokasta Lyökin tunnusmajakkaa kunnostetaan Uudenkaupungin lähellä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97729032">
+<name>Historiallisesti arvokasta Lyökin tunnusmajakkaa kunnostetaan Uudenkaupungin lähellä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003594">
+<name>3594</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:5798"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1018000">
+<name>Kulttuuriperintö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6000000">
+<name>Ympäristö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6006000">
+<name>Luonnonvarat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6006007">
+<name>Valtameret Meret </name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4015000">
+<name>Liikenne</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4015004">
+<name>Vesiliikenne</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY TÄSTÄ ON KYSE -FAKTA JA STT- SEKÄ HANDOUT-KUVAA///</slugline>
+<dateline>Uusikaupunki</dateline>
+<by>TUOMAS TIRKKONEN</by>
+<description role="drol:summary">Uudenkaupungin Pyhämaalla kunnostetaan parhaillaan vanhaa merimerkkiä, Lyökin pookia eli tunnusmajakkaa. Tiedotusvälineillä on mahdollisuus päästä katsomaan kunnostustöitä keskiviikkona. Matkalle osallistuvat mm. Suomen majakkaseuran puheenjohtaja Pekka Väisänen, Ulkosaariyhdistyksen johtaja Sakari Lindström ja kunnostustyöstä vastaavan yrityksen toimitusjohtaja.</description>
+<headline>Pookille uusi pinta vuosikymmeniksi eteenpäin</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:5798">
+<name>Uudenkaupungin vierassatama</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:316">
+<name>Uusikaupunki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:26">
+<name>Varsinais-Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Suomen vanhinta tunnusmajakkaa kunnostetaan Lyökin saarella</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Matalalla, karun kauniilla Selkämeren saarella Uudenkaupungin luoteispuolella kohoaa yksinäinen, rakennustelineiden ympäröimä kivitorni. Se on Lyökin pooki, Suomen vanhin tunnusmajakka, jonka ulkopintaa kunnostetaan parhaillaan.</p>
+  <p> Telineillä ahertaa puolenkymmentä työntekijää. Urakka kestää pari kuukautta, ja se tehdään Museoviraston antamien tarkkojen ohjeiden mukaan. Työn aikana pookin ulkopinnasta poistetaan ensin irtonainen laasti, sen jälkeen pinta pestään ja koloja paikkaillaan. Sitten koko pookin ulkopintaan laitetaan uusi rappaus. Lopuksi pinta maalataan kalkkisementtimaalilla.</p>
+  <p>&#8211;&#8201; Maalipinta kestää seuraavat 30 vuotta, arvioi työtä urakoivan Vakka-Suomen Rappauspalvelun toimitusjohtaja Kai Vuori.</p>
+  <p>Vuoren mukaan työ valmistuu syyskuun puoleenväliin mennessä.</p>
+  <p></p>
+  <p>
+<h3>Tervareittien varrella</h3>
+</p>
+  <p></p>
+  <p>1700-luvun puolivälissä rakennettu Lyökin pooki on merkittävä kappale suomalaisen merenkulun historiaa. Tunnusmajakka toimi aikoinaan merimerkkinä laivoille, jotka purjehtivat Turun ja Pohjanmaan rannikkokaupunkien välillä. Lyökin kohdalta kääntyi myös laivaväylä Tukholmaan. Lyökin pookin avulla suunnistivat esimerkiksi laivurit, jotka kuljettivat tervaa Pohjanmaalta Turun tai Tukholman kautta maailmalle vietäväksi.</p>
+  <p>Suomen Majakkaseuran puheenjohtajan Pekka Väisäsen mukaan pookeja eli tunnusmajakoita on ollut Suomen rannikolla kaikkiaan noin kolmekymmentä, Oulun korkeuksilta Kotkan rannikolle saakka. Toisin kuin Lyökin pooki, tunnusmajakat rakennettiin yleensä puusta. Aikojen saatossa useita pookeja on tuhoutunut muun muassa salaman sytyttämissä tulipaloissa.</p>
+  <p>&#8211;&#8201; Puiset pookit olivat tyypillisiä Suomelle ja Ruotsille. Sellaisia ei oikein ole ollut muualla, Väisänen kertoo.</p>
+  <p>Tunnusmajakat olivat useimmiten yksityisten toimijoiden, kuten kauppahuoneiden, rakennuttamia. Lyökin pookin rakennutti kuitenkin Ruotsin valtio. </p>
+  <p></p>
+  <p>
+<h3>Arvokas lenkki historiassa</h3>
+</p>
+  <p></p>
+  <p>Merimerkki pysyi kulloisenkin valtiovallan hallussa, kunnes vuonna 2000 Suomen valtion kiinteistöyhtiö Kapiteeli pani Lyökin pookin myyntiin. Juuri perustettu Ulkosaariyhdistys osti sen. Tämän jälkeen yhdistyksen puheenjohtaja Sakari Lindström on tehnyt pitkän työn sen eteen, että vanha tunnusmajakka saadaan kunnostetuksi. </p>
+  <p>&#8211;&#8201; Jos pookit pääsisivät kokonaan häviämään, niin merimerkkien historiasta katoaisi yksi lenkki, Lindström huomauttaa.</p>
+  <p>Lyökin pookin lyijykatto uusittiin Museoviraston tuella muutama vuosi sitten. Majakan ulkopinnan uusiminen tuli vihdoin mahdolliseksi tänä vuonna, kun virasto päätti myöntää kunnostukseen 40&#8201; 000 euron avustuksen. Myös Majakkaseura, muutamat säätiöt sekä monet muut lahjoittajat ovat osallistuneet yhteensä 90&#8201; 000 euroa maksavaan kunnostukseen.</p>
+  <p>Itse pookin lisäksi myös saaren luontoa halutaan varjella. Yksityisomistuksessa oleva luoto on annettu luonnonsuojelualueeksi, ja sillä oli vielä alkukesästä voimassa maihinnousukielto. Lindström arvelee, että paikasta kiinnostuneiden on vastedeskin parasta vierailla saarella vain opastettuina, pieninä ryhminä kerrallaan.</p>
+  <p>&#8211;&#8201; Ei tällaiseen paikkaan massaturismi sovi, tuumii myös Väisänen.</p>
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

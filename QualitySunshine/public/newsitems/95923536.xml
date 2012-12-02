@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120808:95923536" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-08T15:29:15</versionCreated>
+<firstCreated>2012-08-08T15:29:12</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-08T15:29:12</contentCreated>
+<contentModified>2012-08-08T15:29:15</contentModified>
+<located type="loctype:City">
+<name>Tampere</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:154">
+<name>stt 154</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76322">
+<name>Tampereen Teatterikesässä Saksan johtaviin teattereihin kuuluva Schaubühne Berlin</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97856011">
+<name>Schaubühne Berlin -teatterin Mr. Ripley on kaukana Matt Damonista</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001998">
+<name>1998</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:8948"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1017000">
+<name>Teatteri</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<slugline>///LEHTIVERSIO LISÄKSI PROMOKUVIA, KAKSI KAINALOA.///</slugline>
+<dateline>Tampere</dateline>
+<by>PÄIVI PIHLAJARINNE</by>
+<description role="drol:summary">Tampereen Teatterikesässä Saksan johtaviin teattereihin kuuluva Schaubühne Berlinin esittämänä jännitysnäytelmä The Talented Mr. Ripley. Näytelmän 30-vuotias ohjaaja Jan-Cristoph Gockel on kiinnostunut ihmisenä kasvamisen teemoista.</description>
+<headline>Mr. Ripley tuhoaa sen, mitä haluaa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:8948">
+<name>Berliini</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:373">
+<name>Berliini</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:59">
+<name>N/A</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:3">
+<name>Saksa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Tampereen Teatterikesän kaukaisimpiin vieraisiin kuuluva saksalainen Schaubühne Berlin -teatteri tuo lavalle loppuviikosta oman versionsa  Patricia Highsmithin The Talented Mr. Ripleystä. </p>
+  <p>&#8211;&#8201; Sukupolveni tuntee The Talented Mr. Ripleyn Matt Damonin tähdittämä elokuvana. Mielestäni Mr. Ripley on enemmän kuin Matt Damon, sanoi näytelmän ohjaaja Jan-Christoph Gockel keskiviikkona Tampereella.</p>
+  <p>The Talented Mr. Ripley on psykologinen trilleri. Tarina alkaa, kun Mr. Ripley (David Ruland) lähtee Yhdysvalloista Italiaan tehtävänään hakea laivanvarustajan poika (Sebastian Schwarz) kotiin. Mr. Ripley ihailee yläluokkaista elämäntyyliä. Tarina saa yllättävän käänteen, kun Ripley murhaa pojan. </p>
+  <p>&#8211;&#8201; Hän tuhoaa saadakseen sen, mitä hän haluaa, Gockel kuvailee.</p>
+  <p>Gockelin mukaan The Talented Mr. Ripley on tarina kasvamisesta. Mr. Ripley etenee menestyksekkäästi elämässään, omilla keinoillaan. </p>
+  <p>&#8211;&#8201; Mr. Ripley on omalla tavallaan hyvin moderni ihminen. Hän vain menee eteenpäin, vaikka on tehnyt murhan, Gockel kuvailee.</p>
+  <p>Mr. Ripley haluaisi tulla näyttelijäksi, mutta epäonnistuu.</p>
+  <p>&#8211; Mielestäni hänestä kuitenkin tulee eräänlainen näyttelijä, onhan hän näyttelijä omassa elämässään, Gockel pohtii.</p>
+  <p>Ohjaajan mukaan Schaubühnen Mr. Ripley eroaa Matt Damonin versiosta ja on jopa anti-Ripley. Ruland on pikemmin rujo verrattuna kauniskasvoiseen Damoniin. </p>
+  <p></p>
+  <p>
+<h3>Tutustui Smedsiin Tampereella</h3>
+</p>
+  <p></p>
+  <p>Saksan johtaviin teattereihin kuuluva Schaubühne Berlin täyttää tänä vuonna 50 vuotta. Jan-Christoph Gockel on syntynyt vuonna 1982. </p>
+  <p>&#8211;&#8201; Olen kolmekymmentävuotias, ja olen edelleen kiinnostunut kasvamisen teemoista, Gockel sanoo.</p>
+  <p>Suomi on nuorelle ohjaajalle tuttu maa. Gockel on ehtinyt urallaan ohjata oman versionsa Kristian Smedsin käsikirjoittamasta, Paavo Rintalan romaaniin perustuvasta näytelmästä Jumala on kauneus. </p>
+  <p>&#8211;&#8201; Itse asiassa tapasin Kristian Smedsin ensimmäisen kerran Tampereen Teatterikesän illanvietossa, Gockel kertoo.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

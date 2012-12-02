@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870834" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T17:57:31</versionCreated>
+<firstCreated>2012-07-28T17:57:28</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.noc.fi" residref="urn:newsml:stt.fi:wwwlink:0000312">
+<title>Suomen Olympiakomitea</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.olympic.org" residref="urn:newsml:stt.fi:wwwlink:0000319">
+<title>Official website of the Olympic Movement</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>2</urgency>
+<contentCreated>2012-07-28T17:57:28</contentCreated>
+<contentModified>2012-07-28T17:57:31</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:138">
+<name>stt 138</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74666">
+<name>Olympialaiset: Marjo Yli-Kiikka ja Kai Jahnsson aloittavat urakkansa olympia-ammunnoissa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97761019">
+<name>Olympialaiset: Jahnsson tähtäsi finaaliin</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000507">
+<name>507</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15051000">
+<name>Ammunta</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15051001">
+<name>Kivääri- ja haulikkoammunta</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Lontoo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Jahnsson putosi kahdeksanneksi olympiafinaalissa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Suomen Kai Jahnsson on sijoittunut kahdeksanneksi miesten 10 metrin ilmapistoolin olympiafinaalissa Lontoossa.</p>
+  <p>Jahnsson ampui 60 laukauksen alkukilpailussa ja 10 laukauksen finaalissa yhteistuloksen 679,1 (583+96,1). Jahnsson putosi finaalissa yhden pykälän alkukilpailun seitsemänneltä sijalta.</p>
+  <p>Olympiakultaa voitti Etelä-Korean Jin Jong-oh (688,2), joka sijoittui neljä vuotta sitten Pekingissä hopealle.</p>
+  <p>Hopealle ylsi Italian Luca Tesconi tuloksella 685,8.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873425" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T11:04:55</versionCreated>
+<firstCreated>2012-07-29T11:04:27</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T11:04:27</contentCreated>
+<contentModified>2012-07-29T11:04:55</contentModified>
+<located type="loctype:City">
+<name>Berliini</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:040">
+<name>stt 040</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75182">
+<name>Saksalaisten niukka enemmistö haluaisi eroon eurosta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97767079">
+<name>Saksalaisten niukka enemmistö haluaisi eroon eurosta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000825">
+<name>825</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008006">
+<name>Valuuttamarkkinat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11028000">
+<name>Kansainväliset järjestöt EU YK</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Berliini</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Kysely: Saksalaisten mielestä maalla menisi paremmin ilman euroa</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Saksalaisten niukka enemmistö katsoo, että maalla menisi paremmin ilman yhteisvaluutta euroa, ilmenee Bild am Sonntag -lehden teettämästä mielipidemittauksesta. Tätä mieltä oli kyselyssä 51 prosenttia vastaajista.</p>
+  <p>29 prosenttia sanoi, että Saksan tilanne olisi huonompi euron ulkopuolella.</p>
+  <p>Kyselyn mukaan saksalaiset suhtautuvat epäluuloisesti Kreikkaan. Peräti 71 prosenttia on sitä mieltä, että Kreikan on lähdettävä eurosta, jos se ei pysty toteuttamaan säästövaatimuksiaan. Lehden haastatteleman talousministeri Philipp Röslerin mukaan on suuria epäilyksiä siitä, pystyykö Kreikka pitämään lupauksensa.</p>
+  <p>&#8211;&#8201; Uudistusten toimeenpano horjuu. Jos Kreikka ei pidä lupauksiaan, sille ei voida antaa lisärahoitusta. Silloin siitä tulee maksukyvytön, Rösler sanoi.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

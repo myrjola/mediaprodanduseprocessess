@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95919732" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T20:30:54</versionCreated>
+<firstCreated>2012-08-07T20:30:51</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-08-07T20:30:51</contentCreated>
+<contentModified>2012-08-07T20:30:54</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:264">
+<name>stt 264</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76198">
+<name>Valtiovarainministeri Jutta Urpilainen esittelee ministeriönsä suunnitelmat ensi vuoden talousarvioesitykseksi.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97845142">
+<name>Näin oppositio kommentoi Urpilaisen budjettiesitystä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001576">
+<name>1576</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<slugline>///KAINALO VALTIOVARAINMINISTERIÖN BUDJETTIEHDOTUS-JUTTUUN///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Oppositio: Yllätyksetöntä ja innotonta</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Perussuomalaisten puheenjohtaja Timo Soini luonnehtii valtiovarainministeriön budjettiehdotusta innottomaksi ja yllätyksettömäksi. Samoilla linjoilla on keskustan puheenjohtaja Juha Sipilä.</p>
+  <p>Soini moittii varsinkin arvonlisäveron korotuksen kohdistamista myös ruokaan juuri, kun ruoan hintaan on odotettavissa korotuksia maailmanmarkkinahintojen nousun vuoksi.</p>
+  <p>Soinin mukaan valtion ei kannattaisi nyt leikata menoja ja kiristää veroja, koska ne syövät työllisyyttä ja ostovoimaa taantuman uhatessa.</p>
+  <p>Soinin mielestä teollisuudesta ja tuotannon kilpailukyvystä tulisi pitää budjetissa parempaa huolta.</p>
+  <p>Myös Sipilä olisi toivonut rotakampia toimia, joilla olisi tehostettu valtion toimintaa ja samalla tehty säästöjä.</p>
+  <p>&#8211;&#8201; Esimerkiksi terveydenhoidon tietojärjestelmien uusiminen olisi kannattanut laittaa nyt kerralla kuntoon. Uusimisella saavutettavat edut olisivat olleet mittavia ja investointi olisi maksanut itsensä nopeasti takaisin, Sipilä sanoi.</p>
+  <p>Sipilä ei osaa arvioida, paljonko uusiminen maksaisi.</p>
+  <p>Kiitosta budjettiehdotus saa oppositiojohtajilta siitä, että nuorten yhteiskuntatakuuseen yritetään tarttua jo ensi vuoden alusta.</p>
+  <p>&#8211;&#8201; Budjettiehdotus on virkamiesmäinen, mutta pääosin kokoomuksen linjan mukainen, Soini arvioi.</p>
+  <p>Kokoomuspainotteisuus näkyy Soinin mukaan siinä, ettei ehdotus sisällä elvytystoimia.  </p>
+  <p>&#8211;&#8201;  Demarit on jäänyt jyrätyksi ja vasemmistoliitto on kuivunut rusinaksi, samoin kuin vihreät. Sosiaalidemokraattien kädenjälki näkyy vain yhteiskuntatakuussa, Soini sanoo.</p>
+  <p></p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

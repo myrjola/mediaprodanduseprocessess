@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870067" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T14:00:01</versionCreated>
+<firstCreated>2012-07-28T13:40:21</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-07-28T13:40:21</contentCreated>
+<contentModified>2012-07-28T14:00:01</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:085">
+<name>stt 085</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74669">
+<name>Olympialaiset: Täyttääkö Bradley Wiggins brittien odotukset maantiepyöräilyssä ja kuinka käy Jussi Veikkaselle</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97761736">
+<name>Olympialaiset: Prinssi Charles tervehti pyöräilijöit</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000972">
+<name>972</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///KAINALO MUUTETTU KAINALOJUTUKSI///</slugline>
+<dateline>Lontoo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Prinssi Charles tervehti pyöräilijöitä</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Britannian kruununprinssi Charles ja hänen vaimonsa Camilla tervehtivät miesten maantiepyöräilyn ajajia ennen kisan alkua lauantaina Mallilla Buckinghamin palatsin lähellä. Charles kätteli ja jutteli eturivin lähtijöiden eli suosikkien brittien, espanjalaisten ja italialaisten kanssa.</p>
+  <p>Brittien viiden ajajan joukkueessa matkan aloittivat suusrsuosikki Mark Cavendish tukijoinaan David Millar, Bradley Wiggins, Chris Froome ja Ian Stannard. Wiggins on tuore Ranskan ympäriajon voittaja.</p>
+  <p>Suomen Jussi Veikkanen starttasi 249,5 km:n kilpailuun numerolla 144 eli viimeisenä.</p>
+  <p>Ennakkoon Cavendishin pahimmiksi haastajiksi arvioitiin slovakialainen Peter Sagan, saksalainen Andre Greipel, australialainen Matt Goss, sveitsiläinen Fabian Cancellara, saksalainen Andre Greipel sekä belgialainen Tom Boonen.</p>
+  <p>Pekingin maantieajon voittaja espanjalainen Samuel Sanchez ei ole mukana. Hän loukkaantui Ranskan ympäriajossa.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

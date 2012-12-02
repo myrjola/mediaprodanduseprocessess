@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95883370" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T09:00:28</versionCreated>
+<firstCreated>2012-08-02T09:00:23</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T09:00:23</contentCreated>
+<contentModified>2012-08-02T09:00:28</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:045">
+<name>stt 045</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:71959">
+<name>Jalkapallo-ooppera yhdistää urheilun ja taiteen - esiintyjinä taviksia</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97784380">
+<name>Jalkapallo-ooppera yhdistää urheilun ja taiteen</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002589">
+<name>2589</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7314"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<slugline>///LEHTIVERSIO LISÄKSI KAINALO///</slugline>
+<dateline>Helsinki</dateline>
+<by>MAIJA LIELAHTI</by>
+<description role="drol:summary">Jalkapallo-oopperan idea syntyi jalkapallo-stadionin fanikatsomosta ja sen tapahtumista. Esityksessä seurataan, millaista elämä on kentän laidalla: vapaaehtoisista esiintyjistä koostuva joukko käy läpi penkkiurheilun peruspilareita riemukkaasta yhteislaulusta intiimeihin faniromansseihin. Belgialainen hittiesitys nähdään nyt ensimmäistä kertaa kotikaupunkinsa Gentin ulkopuolella.
+</description>
+<headline>Futiskatsomosta raikaa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7314">
+<name>Helsinki</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Jalkapallo-ooppera tuo tavikset parrasvaloihin</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Korvia huumaavat kannatusrallit, ilmaa puivat nyrkit ja suruun vääntyneet kasvot. Jalkapallokatsomon tunnemyrsky vetää vertoja monille teatteriesityksille. Urheiluhurmos tarjoaakin oivan aiheen Jalkapallo-oopperalle, joka nähdään viikonloppuna URB-festivaalilla Helsingissä. </p>
+  <p>Belgialaistekijöiden Jalkapallo-ooppera oli hitti kotimaassaan. Nyt esityksestä on tehty suomalaisversio, jonka esiintyjiksi haettiin ketä tahansa jalkapallosta tai esiintymisestä kiinnostunutta. Mukaan uskaltautui 30 vapaaehtoista: muun muassa futisfaneja, eläkeläisiä, tanssijoita, harrastajateatteritaustaisia sekä näyttelijäopiskelijoita.</p>
+  <p>Jalkapalloa ikänsä harrastaneelle Silja Saariselle osallistuminen oli päivänselvää.</p>
+  <p>&#8211;&#8201; Tämä kuulosti ainutlaatuiselta tilaisuudelta tehdä jotain, mitä ei yleensä tee. On ollut tosi hauskaa ja olen tavannut paljon uusia ihmisiä. Futistermein sanottuna meillä on ollut hyvä joukkuehenki, hän naurahtaa esityksen harjoituksissa.</p>
+  <p>Palloliiton Helsingin piirissä nuorisopäällikkönä työskentelevä Saarinen käy teatterissa pari kolme kertaa vuodessa, mutta esiintymiskokemusta hänellä ei ollut ennestään.</p>
+  <p>&#8211;&#8201; Kaikki on ihan uutta, jo sekin miten kuuma teatterivaloissa on!</p>
+  <p></p>
+  <p>
+<h3>Amatöörit lavalla</h3>
+</p>
+  <p></p>
+  <p>Nimestään huolimatta Jalkapallo-oopperassa on kyse enemmän teatterista kuin oopperasta. Mukana on kuitenkin vahva kuoron ajatus, sillä se kuvaa fanikatsomoa kannatuslauluineen.</p>
+  <p>Saarisen mielestä parasta esityksessä on päästä olemaan se fani, mikä hän on muutenkin. </p>
+  <p>&#8211;&#8201; Olen pikkutyttönä laulanut yksin stadionilla, ja silloin ei kukaan käynyt matseissa. Nyt laulamme yhdessä HJK:n biisejä ja Liverpoolin You Never Walk Alonea, vaikka osa esiintyjistä ei ole koskaan käynyt matsissa. On nastaa, että he pääsevät kokemaan futiksen tätä puolta. </p>
+  <p>Jalkapallo-oopperan lisäksi myös Helsingin juhlaviikoilla nähdään teos, joka marssittaa lavalle tavallisia mattimeikäläisiä. Portugalilaistaiteilijat luovat Atlas Helsinki -esityksen yhdessä sadan helsinkiläisen kanssa. Ideana on tuoda näyttämölle ihmisiä eri taustoista ja ammattiryhmistä.</p>
+  <p>Saarinen iloitsee tavisten esiintymismahdollisuuksista, mutta muistuttaa, että toisille näytteleminen on ammatti ja heillä on siihen koulutus.</p>
+  <p>&#8211;&#8201;  Me ollaan vähän niin kuin amatöörifutaajia ja sitten on erikseen ammattilaisfutaajat, Saarinen kiteyttää.</p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+ 
+  
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

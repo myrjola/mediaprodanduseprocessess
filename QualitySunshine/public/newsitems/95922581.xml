@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120808:95922581" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-08T14:51:39</versionCreated>
+<firstCreated>2012-08-08T14:51:35</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.festivals.fi" residref="urn:newsml:stt.fi:wwwlink:0000128">
+<title>Finland Festivals</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.tmj.fi" residref="urn:newsml:stt.fi:wwwlink:0002928">
+<title>Turun musiikkijuhlat</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-08T14:51:35</contentCreated>
+<contentModified>2012-08-08T14:51:39</contentModified>
+<located type="loctype:City">
+<name>Turku</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:133">
+<name>stt 133</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74627">
+<name>Turun Musiikkijuhlilla pohditaan vallan tematiikkaa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97854418">
+<name>Turun Musiikkijuhlilla pohditaan vallan tematiikkaa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002585">
+<name>2585</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7053"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011001">
+<name>Klassinen musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11025000">
+<name>Sananvapaus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16003000">
+<name>Levottomuudet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16003004">
+<name>Uskonnolliset ristiriidat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<slugline>///LEHTIVERSIO HANDOUT-KUVAA///</slugline>
+<dateline>Turku</dateline>
+<by>TUOMAS TIRKKONEN</by>
+<description role="drol:summary">Turun Musiikkijuhlat pidetään tänä vuonna 9.-18.8. Ohjelmistoa esitellään tiedotustilaisuudessa Turussa ke 8.8. Musiikkijuhlien teemana tänä vuonna valta. Ohjelmassa on yli 30 konserttia.
+
+Eräs esiintyjistä on turkkilainen maailmankuulu pianisti ja säveltäjä Fazil Say esiintyy 14.8.2012 Turun musiikkijuhlilla kotimaassaan odottavasta oikeudenkäynnistä huolimatta. Say on syytettynä turkkilaisessa oikeudessa islamin arvojen julkisesta loukkaamisesta Twitter-viesteissään. Syyte voi tuoda arvostetulle pianistille jopa 18 kuukauden vankilarangaistuksen, jos Say todetaan lokakuussa käytävässä oikeudenkäynnissä syylliseksi.
+
+Syytökset ovat saaneet aikaan laajan vastakampanjan internetissä sanan- ja ilmaisunvapauden puolesta. 
+
+Fazil Say (s. 1970, Ankara) on esiintynyt maailman arvostetuimpien orkestereiden solistina (mm. New York Philharmonic, Berliinin, Detroitin ja Tokion sinfoniaorkesterit) ja työskennellyt tunnettujen kapellimestareiden kanssa. Vuonna 2008 Say nimitettiin Euroopan Unionin kulttuurilähettilääksi.
+
+Turun musiikkijuhlilla Fazil Say esiintyy 14.8.2012 konsertissa Idän porteilla, jossa kuullaan Modest Musorgskin ja W.A. Mozartin musiikin lisäksi Sayn omia teoksia. 
+
+Turun Musiikkijuhlat -kaupunkifestivaali tarjoaa Turun tiloissa ja saaristossa taiteellisen johtajansa Topi Lehtipuun ohjaamana musiikkia moneen makuun: suuria orkesterikonsertteja, kamarimusiikkia, oopperaa, resitaaleja, jazzia ja konsertteja koko perheelle.</description>
+<headline>Musiikki vallasta käy ajan hermolle</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7053">
+<name>Turku</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.4528,+22.2516</definition>
+<geoAreaDetails>
+<position latitude="60.452801" longitude="22.251551"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:304">
+<name>Turku</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:26">
+<name>Varsinais-Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Turun musiikkijuhlilla pohditaan eurokriisiä ja sananvapautta</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Turun musiikkijuhlilla käsitellään tänä vuonna valtaa. Torstaina käynnistyvä perinteikäs musiikkifestivaali lähestyy teemaa muun muassa ajankohtaisoopperan kautta.</p>
+  <p>Musiikkijuhlien nimekkäimpiä esiintyjiä on turkkilainen pianisti-säveltäjä Fazil Say. Tiistaina 14. elokuuta Turussa konsertoiva Say soittaa Idän porteilla -konsertissaan omien teostensa lisäksi Mozartin ja Musorgskin musiikkia.</p>
+  <p>Festivaalin teeman kannalta ajankohtaista on se, että Say joutuu syksyllä vastaamaan turkkilaisessa oikeudessa syytteeseen islamilaisten arvojen julkisesta loukkaamisesta Twitter-viesteissään. Tapaus on virittänyt vilkasta verkkokeskustelua sananvapaudesta.</p>
+  <p>&#8211; Tämä ei voisi paremmin sopia meidän teemaamme: muusikko joutuu uskonnollisen vallankäytön kohteeksi, sanoo musiikkijuhlien taiteellinen johtaja Topi Lehtipuu.</p>
+  <p></p>
+  <p>
+<h3>Oopperakone tarttuu päivän aiheisiin</h3>
+</p>
+  
+  <p>Poliittista ja taloudellista valtaa käsitellään myös Uutisoopperat-esityksessä, joka nähdään Åbo Svenska Teaterissa 17. elokuuta. Esitykseen kuuluvat lyhytoopperat Shitstorm ja Kenraali, joista edellinen käsittelee eurokriisiä ja jälkimmäinen Venäjän poliittista tilannetta.</p>
+  <p>Teokset on kirjoitettu ja sävelletty tämän kesän aikana. Muodoltaan esitys muistuttaa uutislähetystä.</p>
+  <p>&#8211; Esityksen maailmassa raha on ainoa arvo ja median tehtävänä on alustan tarjoaminen mainoksille, ei suinkaan vapaa tiedonvälitys, kuvailee Shitstorm-oopperan ohjaaja Aino Kivi.</p>
+  <p>Lehtipuun mukaan lyhytoopperat ovat esimerkki siitä, ettei oopperan tekemiseen aina tarvita raskasta koneistoa ja pitkää aikaa. Kuten vaikkapa musikaali, myös ooppera voi taipua ottamaan kantaa ajankohtaisiin aiheisiin.</p>
+  <p>Kaikkiaan lähes 40 konserttia käsittävä musiikkifestivaali jatkuu lauantaihin 18. elokuuta saakka. Etukäteen suurta yleisön mielenkiintoa on herättänyt 15. elokuuta kuultava Il Combattimento di Tancredi e Clorinda, jossa Monteverdin musiikkidraaman nimekkäimpänä tulkitsijana laulaa meksikolais-ranskalainen tenori Rolando Villazón.</p>
+  <p>Loppuunmyydystä konsertista on päätetty järjestää lisäesitys edellisenä iltana.</p>
+ 
+  
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

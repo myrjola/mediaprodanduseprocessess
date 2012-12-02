@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95918089" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T12:46:07</versionCreated>
+<firstCreated>2012-08-07T12:46:04</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-07T12:46:04</contentCreated>
+<contentModified>2012-08-07T12:46:07</contentModified>
+<located type="loctype:City">
+<name>Tampere</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:086">
+<name>stt 086</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76330">
+<name>Muumilaakson tarinoiden animaatiopäällikkö Yasuhiro Nakura saapuu syyskuussa Suomeen</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97846352">
+<name>Muumilaakson tarinoiden animaatiopäällikkö Yasuhiro Nakura saapuu syyskuussa Suomeen</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000860">
+<name>860</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7023"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1025000">
+<name>Animaatio</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Tampere</dateline>
+<by/>
+<description role="drol:summary">Muumilaakson tarinoita -animaatiosarjan animaatiopäällikkö Yasuhiro Nakura vierailee syyskuussa 2012 Tampereella Tracon 7 -tapahtuman kunniavieraana.</description>
+<headline>Muumilaakson tarinoiden animaatiopäällikkö vierailee Suomessa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7023">
+<name>Tampere</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=61.4978,+23.7623</definition>
+<geoAreaDetails>
+<position latitude="61.49781" longitude="23.76226"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:295">
+<name>Tampere</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:27">
+<name>Pirkanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Muumilaakson tarinoita -animaatiosarjan animaatiopäällikkö Yasuhiro Nakura vierailee ensi kuussa Suomessa.</p>
+  <p>Japanilainen Nakura saapuu Suomeen Tampereella järjestettävän roolipeli- ja animetapahtuma Tracon 7:n kunniavieraaksi 8.&#8211;9. syyskuuta.</p>
+  <p>Nakura on toiminut urallaan muun muassa hahmosuunnittelijana sekä animaattorina. Hänen tunnetuimpia tuotantojaan ovat Ghibli-suosikki Laputa: Linna taivaalla, ihmisen ja koneen eroa pohtiva synkkä kyberpunk-visio Ghost in the Shell 2: Innocence, Katalonian kansainvälisillä elokuvafestivaaleilla palkittu Girl Who Leapt Through Time, viime vuonna Suomenkin elokuvateattereissa nähty Summer Wars sekä 1920-luvun samannimistä mykkäfilmiä ja vuonna 1949 julkaistua mangaa mukaileva Metropolis.</p>
+  <p>Traconissa Nakura kertoo urastaan animaation parissa ja signeeraa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95895370" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T15:39:34</versionCreated>
+<firstCreated>2012-08-02T15:39:31</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0001">
+<name>Viiva</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>2</urgency>
+<contentCreated>2012-08-02T15:39:31</contentCreated>
+<contentModified>2012-08-02T15:39:34</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:173">
+<name>stt 173</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:44617">
+<name>EKP piti ohjauskoron odotetusti ennallaan. Tarjoaako pankki uusia lääkkeitä eurokriisin hoitoon?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97804046">
+<name>Keskuspankit pitivät korott ennalaa, lisätoimia odotetaan syksyllä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000129">
+<name>129</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:9026"/>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4019000">
+<name>Rahoitus Finanssipolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008003">
+<name>Velkamarkkinat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008009">
+<name>Korko</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008001">
+<name>Keskuspankit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008027">
+<name>Joukkovelkakirjat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008004">
+<name>Talouden indikaattorit Talousennusteet</name>
+</subject>
+<slugline/>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline/>
+</contentMeta>
+<assert qcode="sttlocationalias:9026">
+<name>Frankfurt</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:595">
+<name>Frankfurt</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:59">
+<name>N/A</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:3">
+<name>Saksa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  <p>Draghi: EKP:n neuvosto harkitsee uusia avomarkkinaoperaatioita ja epätavanomaisia toimia rahoitusmarkkinoiden tervehdyttämiseksi.</p>
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

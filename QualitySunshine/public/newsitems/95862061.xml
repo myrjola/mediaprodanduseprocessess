@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120726:95862061" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T15:00:08</versionCreated>
+<firstCreated>2012-07-29T15:00:05</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T15:00:05</contentCreated>
+<contentModified>2012-07-29T15:00:08</contentModified>
+<located type="loctype:City">
+<name>Peking</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:097">
+<name>stt 097</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74816">
+<name>Kolmeakymppiä lähestyvillä Kiinan sinkkunaisilla on kovat paineet niskassaan.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97745067">
+<name>Kolmeakymppiä lähestyvillä Kiinan sinkkunaisilla on kovat paineet niskassaan</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003238">
+<name>3238</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY KAINALO JA KV.KUVAA///</slugline>
+<dateline>Peking</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Kiinassa 27-vuotias sinkku on ei-toivottu</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Kolmeakymmentä lähestyviä naisia painostetaan avioon</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kiinassa käytettävässä virallisessa sanakirjassa on ilmaisu "Sheng Nu". Se tarkoittaa ei-toivottua. Termillä ei kuitenkaan viitata vahinkolapsiin, vaan yli 27-vuotiaisiin naimattomiin naisiin. Tämän iän ylittäneet sinkkunaiset, ja heitä on satojatuhansia, ovat ankarassa yhteiskunnallisessa paineessa pariutua.</p>
+  <p>Se vain on kovin vaikeaa. Laajaa julkisuutta saaneessa vuoden 2010 kyselytutkimuksessa 92 prosenttia miehistä oli sitä mieltä, että naisten tulisi avioitua ennen 27 vuoden rajapyykkiä.</p>
+  <p>Monet "yli-ikäiset" etsivät itselleen puolisoa suositusta pekingiläisestä sinkkuklubista nimeltään Ilon Puutarha. Klubilla sokkotreffipartneriaan odottaa muiden joukossa kolmekymppinen viehättävä Xu.</p>
+  <p>Hän ei ollut käynyt klubilla yli vuoteen, mutta viimein yhteiskunnan ja perheen painostus ylitti sietokyvyn rajat.</p>
+  <p>&#8211;&#8201; Haluan löytää ihmisen, jonka kanssa voin jakaa yhteiset asiat. Mutta haluan myös sellaisen miehen, jonka taloudellinen tilanne on parempi kuin itselläni.</p>
+  <p>Samassa baarissa, tosin ensi kertaa, on 26-vuotias Summer, joka haluaa epätoivoisesti löytää miehen ennen kuin on liian myöhäistä.</p>
+  <p>&#8211;&#8201; Miehet eivät halua yli 30-vuotiasta vaimoksi. Heille on tärkeää, että nainen on yhä kaunis, nainen arvioi.</p>
+  <p>Asia on niin arka, etteivät aviomiestä etsivät halua kertoa oikeaa nimeään.</p>
+  <p></p>
+  <p>
+<h3>Avioliitolta odotetaan nyt onnea</h3>
+</p>
+  <p></p>
+  <p>Pitkittynyt yksin eläminen koskettaa erityisesti hyvin koulutettuja, taloudellisesti riippumattomia ja kaupungeissa asuvia naisia. Naistenlehdissä ja kirjoissa on jo pitkään pohdittu, miksi sinkkuus on pesiytynyt kiinalaiseen yhteiskuntaan.</p>
+  <p>&#8211;&#8201; Toisaalta nuoret tekevät nykyään hirveästi töitä ja työpaikan ulkopuolella heillä on niukalti paikkoja tavata toisiaan. Näin ei ollut aiemmin, kertoo aiheesta kirjan kirjoittanut sosiologi Wu Di.</p>
+  <p>&#8211;&#8201; Toisaalta taas perinteisesti kiinalaiset pitävät avioliittoa asiana, josta tulee "selviytyä". Avioliitto ja onni eivät ole olleet synonyymeja. Uuden sukupolven naiset eivät halua vain "selviytyä", Wu selittää.</p>
+  <p>Kriittistä ikää lähestyviin naisiin kohdistuva paine on kovaa. Syynä on osittain Kiinan yhden lapsen politiikka. Vanhemmat odottavat ainoalta lapseltaan jälkeläisiä.</p>
+  <p>&#8211;&#8201; Oikeastaan tulin klubille, koska en halua aiheuttaa pettymystä vanhemmilleni. Haluan tehdä heidät onnellisiksi, tunnusti Ilon Puutarhassa Xu.</p>
+  <p></p>
+  <p>
+<h3>Painostamista ja syyllistämistä</h3>
+</p>
+  <p></p>
+  <p>Jopa sinkkuklubin ovella syyllistetään. </p>
+  <p>&#8211;&#8201; Oletko sinkku? Ajattele isäsi/äitisi tunteita. Älä aiheuta heille huolia, lukee kyltissä klubin ovella.</p>
+  <p>Kyltin ohi klubille on livahtanut myös 34-vuotias Shelly. Hyvin koulutettu nainen on hiljattain palannut Yhdysvalloista. Kiinaan palaamisen jälkeen sukulaiset ja muutamat ystävät ovat käyneet päälle yleisen syyttäjän lailla. Kaikki haluavat järjestää hänelle treffit sopivaksi katsomansa miehen kanssa.</p>
+  <p>&#8211;&#8201; Tunnen painetta joka suunnasta. Tunnen äitini olevan pettynyt, kun hän näkee ystäviensä lapsenlapsia, Shelly kertoo.</p>
+  <p>Koska ylkää ei ole näköpiirissä, Shelly harkitsee palaavansa rapakon taakse. Hän aikoo jatkaa opintojaan.</p>
+  <p>&#8211;&#8201; Luulen palaavani Kiinaan vasta kun olen 40. Haluaisin olla niin vanha ja rikkinäinen, että he jättävät minut rauhaan.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

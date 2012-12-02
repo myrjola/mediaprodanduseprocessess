@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95882546" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T10:01:21</versionCreated>
+<firstCreated>2012-07-31T10:01:13</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T10:01:13</contentCreated>
+<contentModified>2012-07-31T10:01:21</contentModified>
+<located type="loctype:City">
+<name>New York</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:048">
+<name>stt 048</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75422">
+<name>Manchester United tavoittelee listautumisellaan yli 300 miljoonaa dollaria</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97782943">
+<name>Manchester United tavoittelee listautumisellaan yli 300 miljoonaa dollaria</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000970">
+<name>970</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008026">
+<name>Osakkeet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15054000">
+<name>Jalkapallo</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15054987">
+<name>Englanti</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4009000">
+<name>Markkinat Pörssit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4009003">
+<name>Arvopaperipörssit</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>New York</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>ManU tavoittelee listautumisellaan 300 miljoonaa dollaria</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Englantilaisen jalkapalloseuran Manchester Unitedin listautuminen New Yorkin pörssiin lähestyy. Seuran on tarkoitus myydä markkinoilla 10 prosenttia osakkeistaan 16 ja 20 dollarin osakekohtaisella hinnalla. Sillä se keräisi 267&#8211;334 miljoonaa dollaria.</p>
+  <p>Osakeannilla seura pyrkii kaventamaan satojen miljoonien dollarien velkaansa. Merkintähinnalla koko seuran pörssiarvo saattaa nousta jopa 3,3 miljardiin dollariin. Seuran viime vuoden liikevaihto oli 519 miljoonaa dollaria. </p>
+  <p>Valta pysyy seuran omistajalla Malcolm Glazerilla, joka omistaisi jatkossakin suurimman osan osakkeista.</p>
+  <p>Listautumisesta odotetaan hankalaa, sillä Yhdysvalloissa jalkapalloa ei pidetä kiinnostavana. Toisaalta seuran ja General Motorsin välillä julkistettiin juuri seitsemän vuoden sponsorisopimus, jonka arvo on 600 miljoonaa dollaria.</p>
+  <p>Seuran johto lähtee esittelykiertueelle keskiviikkona. Osake on tarkoitus hinnoitella lähiviikkoina.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

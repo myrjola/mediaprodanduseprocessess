@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95917992" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T12:48:12</versionCreated>
+<firstCreated>2012-08-07T12:48:09</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-07T12:48:09</contentCreated>
+<contentModified>2012-08-07T12:48:12</contentModified>
+<located type="loctype:City">
+<name>Vaasa</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:088">
+<name>stt 088</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76331">
+<name>Pianisti Henri Sigfridsson on Korsholman musiikkijuhlien uusi taiteellinen johtaja   </name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97846370">
+<name>Pianisti Henri Sigfridsson on Korsholman musiikkijuhlien uusi taiteellinen johtaja   </name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000618">
+<name>618</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:8591"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Vaasa</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Korsholman Musiikkijuhlien johtoon Henri Sigfridsson</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:8591">
+<name>Vaasa</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=63.0984,+21.6262</definition>
+<geoAreaDetails>
+<position latitude="63.098381" longitude="21.62624"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:317">
+<name>Vaasa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:40">
+<name>Pohjanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Korsholman Musiikkijuhlien uudeksi taiteelliseksi johtajaksi on valittu pianisti Henri Sigfridsson.  Hän ryhtyy luotsaamaan ensi kesän juhlia.</p>
+  <p>Suomalaissyntyisellä, nykyisin Saksassa asuvalla Sigfridssonilla, 38, on näkyvä asema muun muassa Keski-Euroopan ja Japanin lavoilla. Hän seuraa tehtävässä sellisti Marko Ylöstä, joka johti musiikkijuhlia yhteensä viisi vuotta.</p>
+  <p>Tänä kesänä 30-vuotisjuhliaan viettäneen Korsholman Musiikkijuhlien päätöskonsertti kuullaan Vaasan kirkossa keskiviikkoiltana. Sekä Ylönen että Sigfridsson esiintyvät päätöskonsertin solisteina.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120809:95923465" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-09T10:00:16</versionCreated>
+<firstCreated>2012-08-09T10:00:13</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-09T10:00:13</contentCreated>
+<contentModified>2012-08-09T10:00:16</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:066">
+<name>stt 066</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76332">
+<name>Rosa Meriläisen esikoisromaani Nainen punainen kuvaa kansalaissodan Tampereen punaisen naiskomppanian johtajan vaiheita</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97856264">
+<name>Rosa Meriläisen esikoisromaani Nainen punainen kuvaa kansalaissodan Tampereen punaisen naiskomppanian johtajan vaiheita</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002468">
+<name>2468</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1010000">
+<name>Kirjallisuus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16009000">
+<name>Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16009001">
+<name>Sisällissota</name>
+</subject>
+<slugline>///LEHTIVERSIO LEHTIKUVA///</slugline>
+<dateline>Helsinki</dateline>
+<by>PERTTI MATTILA</by>
+<description role="drol:summary">Rosa Meriläisen esikoisromaani Nainen punainen kuvaa kansalaissodan Tampereen punaisen naiskomppanian johtajan vaiheita. Meriläisen haastattelu.</description>
+<headline>Rosa Meriläinen kirjailijaksi tarinalla naispunakaartista</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>"Sukupolvelleni kansalaissota ei ole enää avoin haava"</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kansanedustajan uralta vetäytynyt Rosa Meriläinen debytoi nyt romaanikirjailijana. Hän uskaltaa tarttua teemaan, joka oli ainakin vielä jokin aika sitten hyvin arka: Meriläinen kirjoitti tarinan punakaartin naiskomppanian päälliköstä.</p>
+  <p>&#8211;&#8201; Koen edustavani sukupolvea, jolla ei ole kansalaissotaan enää mitään katkeraa, omaa avointa haavaa. Kirjani ei olekaan pamfletti minkään tahon puolesta. Romaani on onneksi sellainen muoto, jossa ei tarvitse esittää väitteitä, vihreiden poliitikko linjaa.</p>
+  <p>Tampereelta kotoisin oleva Meriläinen löysi aiheen aivan kotinurkiltaan.</p>
+  <p>&#8211;&#8201; Miten on ollut mahdollista, että niinkin hetken aikaa sitten kotikulmillani ihmiset ovat voineet kuvitella, että aseisiin tarttuminen muuttaisi maailman hyväksi ja poistaisi vääryydet?</p>
+  <p>Meriläisellä ei ole sukutaustassaan punaisia naissotilaita. Kirjan päähenkilö, naiskomppanian johtajaksi kohoava Helmi Johansson, on sikälikin täysin fiktiivinen hahmo.</p>
+  <p>&#8211;&#8201; Yritin kirjoittaa sillä logiikalla, että tällainen henkilö tai tapahtumaketju olisi voinut olla totta.</p>
+  <p>Miljöön, paikannimet ja taistelujen yleisen kulun esikoiskirjailija on kuitenkin dokumentoinut mahdollisimman todenmukaisesti. Oikeita historian henkilöitä ovat myös useat tarinan sivuhahmot kuten poliitikko Oskari Tokoi ja punapäällikkö Verner Lehtimäki.</p>
+  <p></p>
+  <p>
+<h3>Myytti urheista naisista?</h3>
+</p>
+  <p></p>
+  <p>Meriläinen korostaa, että Tampereen naiskaartille ei käynyt kansalaissodassa läheskään yhtä huonosti kuin esimerkiksi Valkeakosken punaiselle naiskaartille. Hänen mukaansa Tampereen noin 300 naissotilaasta kuoli taisteluissa kymmenisen, ja vankileirillä kuolleet voi laskea yhden käden sormilla.</p>
+  <p>&#8211;&#8201; On kerrottu, miten naiskaartilaiset puolustivat Tampereen kaupungintaloa vielä miesten jo luovutettua, mutta tosi asiassa naiset osallistuivat varsin vähän mihinkään merkittäviin taisteluihin.</p>
+  <p>&#8211;&#8201; Kuten miehistäkin, siitä joukosta löytyi sekä hullunrohkeita että pelkureita. Minulla on tällainen radikaalifeministinen väite, että naiset ovat ihmisiä, eivät huonompia tai parempia kuin miehet.</p>
+  <p>Entä mitä mieltä Rosa Meriläinen on kansalaissodasta ylipäänsä?</p>
+  <p>&#8211;&#8201; Mielestäni Suomen yhteiskunnan kehitys on ollut positiivinen ihan ilman että olisi tarvinnut ryhtyä aseelliseen vallankumoukseen.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95869585" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T11:18:57</versionCreated>
+<firstCreated>2012-07-28T11:18:53</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T11:18:53</contentCreated>
+<contentModified>2012-07-28T11:18:57</contentModified>
+<located type="loctype:City">
+<name>Oulu</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:061">
+<name>stt 061</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75106">
+<name>Huomenna todennäköisesti rikotaan kesän lämpöennätys</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97760741">
+<name>Huomenna todennäköisesti rikotaan kesän lämpöennätys</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001020">
+<name>1020</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:11118"/>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17003000">
+<name>Säätiedotteet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17003001">
+<name>Sääuutiset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17001000">
+<name>Sääennusteet</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Oulu</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Lämmintä koko maassa &#8211; huomiseksi luvassa lämpöennätys</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:11118">
+<name>Oulu</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:205">
+<name>Oulu</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:23">
+<name>Pohjois-Pohjanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Kesän lämpöennätys rikotaan todennäköisesti huomenna, kun miltei koko maa kylpee helteessä pohjoista Lappia lukuun ottamatta. Helteestä on tulossa todella tukala kostean ilman vuoksi, varoittaa Ilmatieteen laitoksen meteorologi Eerik Saarikalle.</p>
+  <p>Lämpöraja rikottaneen huomenna maan itä- tai keskiosassa, jossa päästään jopa 30 asteen lukemiin.</p>
+  <p>&#8211;&#8201; Paikalliset sateet ja ukkoskuurot kuitenkin viilentävät ilmaa. Voimakkaita ukkoskuuroja on luvassa etenkin maan länsiosassa, Pohjois-Pohjanmaalla sekä Kainuussa. Korkeimmat hellelukemat mitataan siellä, missä ei ole iltapäivään mennessä satanut ollenkaan, Saarikalle sanoo.</p>
+  <p>Tänään on lämmintä koko maassa. Etelässä päästään hellerajan tuntumaan.</p>
+  <p>&#8211;&#8201; Idässä voi olla yksittäisiä sadekuuroja, Pohjois-Lapissa on jatkuvampaa sadetta.</p>
+  <p>Tänään hellerajaa hätyytellään esimerkiksi Vantaan, Hämeenlinnan, Turun ja Tampereen alueilla.</p>
+  <p>Kesän tähänastinen lämpöennätys on 28,5 astetta. Se mitattiin Hämeenlinnan Evolla 8. heinäkuuta.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95871049" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T18:41:43</versionCreated>
+<firstCreated>2012-07-28T18:41:38</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T18:41:38</contentCreated>
+<contentModified>2012-07-28T18:41:43</contentModified>
+<located type="loctype:City">
+<name>Beirut/Aleppo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:156">
+<name>stt 156</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75103">
+<name>Syyrian armeija aloitti hyökkäyksen Aleppoon</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97760556">
+<name>Syyrian armeija aloitti hyökkäyksen Aleppoon</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000490">
+<name>490</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16002000">
+<name>Aseelliset konfliktit</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Beirut/Aleppo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Ranska vaatii YK:n turvaneuvostoa koolle</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Ranskan presidentti Francois Hollande vaatii YK:n turvallisuusneuvostoa kokoontumaan jälleen Syyrian tilanteen takia. Hollanden mukaan neuvoston pitäisi pikimmiten puuttua Syyrian tilanteeseen, jotta voitaisiin estää maan ajautuminen täysimittaiseen sisällissotaan.</p>
+  <p>Jos YK ei toimi pikaisesti, Syyria syöksyy Hollanden mukaan täyteen kaaokseen.</p>
+  <p>Syyrialainen ihmisoikeusjärjestö ilmoittaa, että kansannousu on vaatinut jo yli 20&#8201; 000 ihmisen hengen.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120801:95889006" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-01T17:22:44</versionCreated>
+<firstCreated>2012-08-01T17:22:39</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-01T17:22:39</contentCreated>
+<contentModified>2012-08-01T17:22:44</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:168">
+<name>stt 168</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74482">
+<name>Sanoma pelkää mainosmarkkinoiden jatkavan heikentymistään</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97792792">
+<name>Sanoma pelkää mainosmarkkinoiden jatkavan heikentymistään</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002357">
+<name>2357</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:11791"/>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4010000">
+<name>Mediatalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016000">
+<name>Yritysinformaatio</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016018">
+<name>Tulostiedotteet</name>
+</subject>
+<slugline>///LEHTIVERSIO LIITTYY LEHTIKUVA///</slugline>
+<dateline>Helsinki</dateline>
+<by>ANNIINA LUOTONEN</by>
+<description role="drol:summary">Sanoma julkaisee osavuosikatsauksensa (1.1. - 30.6.) noin klo 8.30. Tiedotustilaisuudessa konsernin tuloksen esittelevät Harri-Pekka Kaukonen ja talousjohtaja Kim Ignatius. Tilaisuus pidetään englanniksi, ja sitä voi seurata live webcast -muodossa osoitteessa Sanoma.com.</description>
+<headline>Romahtanut mainosmyynti kurittaa Sanomaa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:11791">
+<name>Nelosen studio</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.1585,+24.9347</definition>
+<geoAreaDetails>
+<position latitude="60.158496" longitude="24.934734"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Pursimiehenkatu26 C</line>
+<postalCode>HELSINKI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Yhtiö joutui alentamaan koko vuoden tulosodotuksia</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Mediayhtiö Sanoma joutuu tekemään töitä sanoma- ja verkkolehtiensä kannattavuuden parantamiseksi. Paperilehtien kannattavuutta heikensivät huhti-kesäkuussa mainostajien kaikkoaminen ja lehtitilausten väheneminen.</p>
+  <p>Sanoman toimitusjohtaja Harri-Pekka Kaukonen kuvasi mainosmarkkinoiden tilannetta "hirveäksi" osavuosikatsauksen tiedotustilaisuudessa keskiviikkona.</p>
+  <p>&#8211;&#8201; Lähikuukausien aikana tämä tuottaa tuskaa. Kukaan ei tiedä, onko tämä kuukauden, kolmen tai kuuden juttu. Mutta uskon, että elämä jatkuu pitkällä aikavälillä, Kaukonen sanoi STT:lle.</p>
+  <p>Yhtiö esitteli vuoden takaista paremman huhti-kesäkuun tuloksen, jota kannatteli erityisesti yhtiön oppimateriaalien liiketoiminta.</p>
+  <p>Samalla se joutui kuitenkin kertomaan heikentyneistä koko vuoden odotuksista. Osakekohtaisen tuloksen ilman kertaeriä odotetaan heikentyvän jonkin verran edellisvuodesta. Liikevaihto ei odotuksista poiketen välttämättä kasvakaan.</p>
+  <p>Mainosmarkkinoiden hyytyminen rasittaa erityisesti Sanoman News-segmenttiä, joka pitää sisällään muun muassa yhtiön sanoma- ja verkkolehdet. Sen liikevoitto ilman kertaeriä putosi huhti-kesäkuussa noin puoleen vuodentakaisesta.</p>
+  <p></p>
+  <p>
+<h3>Verkkomaksuja harkitaan</h3>
+</p>
+  <p></p>
+  <p>Kaukosen mukaan sanoma- ja verkkolehtien yksikön toimintaa perataan lähikuukausina, minkä jälkeen kerrotaan konkreettisista toimista kannattavuuden parantamiseksi.</p>
+  <p>&#8211;&#8201; Se vaatii kokonaisvaltaista tarkastelua. En halua mennä yksityiskohtiin, koska työ on vielä kesken.</p>
+  <p>Lukijoista yritetään pitää kiinni uudistamalla Helsingin Sanomien tuoteryhmää. Tiistaina vahvistuksen saanut tabloidiuudistus on tästä tärkeä osa.</p>
+  <p>&#8211;&#8201; Tabloidi luo uusia tapoja kertoa tarinoita. Lukijoilta saamamme palautteen mukaan se koetaan myös broadsheetia modernimmaksi.</p>
+  <p>Sanoman verkkomainosmyynti kasvoi vuoden toisella neljänneksellä reipasta, lähes 10 prosentin tahtia vuoden takaisesta.</p>
+  <p>Verkkolehtien kannattavuuden parantamisessa on kuitenkin yhä paljon tehtävää.</p>
+  <p>&#8211;&#8201; Meillä ei ole salaista reseptiä. Tämä on systemaattista kokeilua, joka perustuu siihen, että sisältö on kunnossa.</p>
+  <p>Sanoma odottaa kannattavuuden paranevan muun muassa digi- ja paperilehtien yhteistilauksilla, mutta harkinnassa on myös verkkosivujen muuttaminen osittain maksullisiksi.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

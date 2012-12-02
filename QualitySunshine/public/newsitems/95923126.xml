@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120808:95923126" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-08T20:27:56</versionCreated>
+<firstCreated>2012-08-08T20:05:46</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:replace"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-08T20:05:46</contentCreated>
+<contentModified>2012-08-08T20:27:56</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:262">
+<name>stt 262</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76229">
+<name>Valtiovarainministeriö ja muut ministeriöt julkaisevat ehdotuksensa ensi vuoden budjetiksi</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97850428">
+<name>Valtiovarainministeriö ja muut ministeriöt julkaisevat ehdotuksensa ensi vuoden budjetiksi</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003533">
+<name>3533</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<slugline>///KORJATTU LEHTIVERSIO LIITTYY KAINALOITA, GRAFIIKKA, TIIVISTELMÄ, SITAATTIFAKTA JA LEHTIKUVA. POISTETTU LAUSE 1. VÄLIOTS. JÄLKEEN. ...61 MILJOONAA EUROA JÄLKEEN.///</slugline>
+<dateline>Helsinki</dateline>
+<by>ANNIINA LUOTONEN, MINNA KARKKOLA</by>
+<description role="drol:summary">Valtiovarainministerin budjettiehdotus julkistetaan kokonaisuudessaan VM:n nettisivuilla.
+Keskiviikkona tulevat julki myös muiden ministeriöiden toukokuussa valtiovarainministeriöön toimittamat budjettiehdotukset.</description>
+<headline>Budjettiesitys osui monien ministeriöiden odotuksiin</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Kilometrikorvausten leikkauksista ei saatu vielä selvyyttä</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Valtiovarainministeriön esitys ensi vuoden budjetiksi herätti keskiviikkona vain vähän murinaa muissa ministeriöissä.</p>
+  <p>Budjettiehdotus ei sisältänyt suuria yllätyksiä, koska monista asioista päätettiin jo maaliskuun kehysriihessä.</p>
+  <p>Paljon keskustelua herättänyt kilometrikorvausten leikkaus ei ratkennut vielä keskiviikkona, koska leikkausten suuruudesta ja kohdennuksesta ollaan vielä niin erimielisiä. Asia jää koko hallituksen ratkaistavaksi kuun lopun budjettiriihessä.</p>
+  <p>Budjettiriihessä haetaan myös rahoitusta paljon tunteita herättäneelle vanhuspalvelulain henkilöstömitoitukselle.</p>
+  
+  <p>
+<h3>Koulujen kunnostusrahat kortilla</h3>
+</p>
+  
+  <p>Ministeriöt voivat yrittää taivutella valtiovarainministeriötä puolelleen keskinäisissä neuvotteluissa vielä ensi viikolla.</p>
+  <p>Tiukimmat neuvottelut valtiovarainministeriö joutuu näillä näkymin käymään opetusministeriön kanssa. Ministeriön hallinnonalan määräraha jäi valtiovarainministeriön budjettiehdotuksessa lähes 35 miljoonaa euroa ehdotettua pienemmäksi.</p>
+  <p>Eniten rahaa on jäämässä pois yleissivistävästä koulutuksesta. Valtiovarainministeriön esittämä määräraha on vajaat 19 miljoonaa euroa ehdotettua pienempi. Lähes koko summa on pois koulujen rakennushankkeista ja koulutuksen järjestäjien valtionosuuksista ja -avustuksista.</p>
+  <p>Opetusministeriö olisi halunnut koulujen rakennushankkeisiin 61 miljoonaa euroa. Valtiovarainministeriö olisi valmis myöntämään vain 51 miljoonaa.</p>
+  <p>Rahaa jäi uupumaan myös taiteesta ja kulttuurista, johon valtiovarainministeriö esitti vajaata 13 miljoonaa euroa kulttuuriministeriötä vähemmän.</p>
+  <p>Sisäministeriö toivoo puolestaan lisärahaa uusien rajavartijoiden palkkaamiseen. Rahaa tarvittaisiin 4,8 miljoonaa euroa, jolla palkattaisiin 80 uutta rajavartijaa.</p>
+  <p>Liikenneministeriössä huolta kannetaan puolestaan rikkidirektiivin vaikutuksista laivaliikenteen kannattavuuteen. Liikenne- ja viestintäministeriön ylijohtajan Minna Kivimäen mukaan ministeriössä elätellään vielä toiveita siitä, että valtiovarainministeriö taipuisi ylimääräiseen kompensaatioon, joka olisi suuruudeltaan muutamia kymmeniä miljoonia euroja.</p>
+  <p></p>
+  <p>
+<h3>Sokeriveroa pohditaan vielä</h3>
+</p>
+  <p></p>
+  <p>Monille makeille herkuille suunnitellun sokeriveron kohtalo ratkeaa vasta syksyn aikana.</p>
+  <p>Valtiosihteeri Tuire Santamäki-Vuoren mukaan sokeriveron laajentamisen valmistelu on vielä kesken.</p>
+  <p>&#8211;&#8201; Vielä ei ole varmuutta siitä, ehtiikö laki voimaan ensi vuoden alusta, mutta se on mahdollista, Santamäki-Vuori sanoi.</p>
+  <p>Laajennetun makeisveron on suunniteltu koskevan nykyisten makeisten, jäätelön ja virvoitusjuomien lisäksi makeita leivonnaisia ja keksejä.</p>
+  <p></p>
+  <p>
+<h3>Vanhat päätökset täytäntöön</h3>
+</p>
+  <p></p>
+  <p>Valtiovarainministeriö on koostanut ensi vuoden budjetin poikkeuksellisen epävarmassa tilanteessa.</p>
+  <p>Uusia päätöksiä menojen leikkauksesta tai verojen korotuksista ei kuitenkaan tehty. Sen sijaan ensi vuonna toteutetaan viime maaliskuun kehysriihessä tehtyjä päätöksiä.</p>
+  <p>Valtio paikkaa talouttaan muun muassa arvonlisäveron yhden prosenttiyksikön korotuksella, lisäämällä valtion tuloveroasteikkoon ylimääräisen solidaarisuusveroluokan ja kiristämällä suuria eläketuloja ja perintöjä.</p>
+  <p>Merkittävimpiä päätöksiä on ansiotuloverotuksen inflaatio- ja ansiotasotarkistuksista luopuminen.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

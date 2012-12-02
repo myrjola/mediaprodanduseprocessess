@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95853989" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T09:01:26</versionCreated>
+<firstCreated>2012-07-30T09:01:00</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T09:01:00</contentCreated>
+<contentModified>2012-07-30T09:01:26</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:043">
+<name>stt 043</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:73740">
+<name>Miten yleisiä lumeavioliitot ovat Suomessa?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97703999">
+<name>Suomen tilanne Eurooppaan peilaten</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001685">
+<name>1685</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003000">
+<name>Poliisi</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003002">
+<name>Poliisitutkinta</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14003000">
+<name>Väestökysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14003002">
+<name>Maahanmuutto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006000">
+<name>Perhe</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006003">
+<name>Avioliitto</name>
+</subject>
+<slugline>///KAINALO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Ranskassa ja Hollannissa lumeliitosta monta vuotta vankeutta</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suomi on lumeavioliittoa yrittävälle hellä. Käytännössä sekä perheenkokoaja että oleskeluluvan hakija selviävät rangaistuksetta, jos lumeliittoon ei liity mitään rikollista.</p>
+  <p>Ranskassa lumeliitosta rankaistaan ankarasti. Maa uhkaa perheenkokoajaa viiden vuoden vankeudella, jota voidaan höystää 15&#8201; 000 euron sakolla.</p>
+  <p>Maahanmuuttoviraston mukaan Suomi, Saksa, Britannia ja Hollanti ovat ilmoittaneet, että lumeavioliitto ei ole rangaistava teko. Väärät dokumentit voivat kuitenkin johtaa koviin rangaistuksiin Saksassa ja Hollannissa.</p>
+  <p>&#8211;&#8201; Esimerkiksi Hollannissa lumeavioliitto katsotaan väärennysrikokseksi, josta on mahdollista tuomita henkilö maksimissaan 6 vuodeksi ehdottomaan vankeuteen tai sakkoja aina 78&#8201; 000 euroon saakka. Saksassa väärennetyt dokumentit voivat tuoda 3 vuotta vankeutta, sanoo Maahanmuuttoviraston tulosalueen johtaja Riikka Asa.</p>
+  <p>Asan mukaan Euroopassa on näyttöä siitä, että kansainvälinen järjestäytynyt rikollisuus kytkeytyy joihinkin lumeliittoihin. Vuosina 2009&#8211;2011 Ranskassa paljastui 16 rikollisryhmää, jotka järjestivät lumeliittoja ja olivat mukana laittoman maahantulon järjestämisessä. </p>
+  <p>&#8211;&#8201; Puolassa vastaavanlaisia ryhmiä on raportoitu löytyneen samana aikana vähintään kaksi. Italiassa löytyi viime vuonna lumeavioliittoja järjestäviä rikollisryhmiä useista kaupungeista.</p>
+  <p>Euroopan muuttoliikeverkoston (EMN) mukaan eniten lumeliittoepäilyjä on Puolassa. Määrä kasvoi toissa vuonna jo yli 5&#8201; 000:een. Britanniassa epäilyt yli kolminkertaistuivat vuodesta 2009 viime vuoteen, jolloin kirjattiin yli 1&#8201; 700 tapausta.</p>
+  <p>Vähiten lumeliittoepäilyjä, 5&#8211;20 vuodessa, EMN:lle ilmoittivat Viro ja Liettua.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

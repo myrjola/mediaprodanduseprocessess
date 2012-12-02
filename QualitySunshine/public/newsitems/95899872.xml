@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120803:95899872" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-03T20:48:04</versionCreated>
+<firstCreated>2012-08-03T20:47:59</firstCreated>
+<embargoed>2012-08-06T03:00:00</embargoed>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-03T20:47:59</contentCreated>
+<contentModified>2012-08-03T20:48:04</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:272">
+<name>stt 272</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75758">
+<name>HUOM. EMBARGO MA 6.8 KLO 3.00. Valtiovarainministeri Jutta Urpilaisen haastattelu</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97814633">
+<name>HUOM. EMBARGO MA 6.8 KLO 3.00. Valtiovarainministeri Jutta Urpilaisen haastattelu</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001739">
+<name>1739</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7670"/>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4017000">
+<name>Talouselämä Talouspolitiikka</name>
+</subject>
+<slugline>///KAINALO JUTTA URPILAISEN HAASTATTELUUN, HUOM! EMBARGO 6.8. KLO 03///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>EVM käyttöön syys-lokakuun vaihteessa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7670">
+<name>Helsinki</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Euroalueen vakausmekanismi EVM otetaan näillä näkymin käyttöön syys-lokakuun vaihteessa, kertoi valtiovarainministeri Jutta Urpilainen (sd.) STT:lle. Hänen mukaansa kaikki riippuu enää siitä, milloin Saksan perustuslakituomioistuin antaa lausuntonsa ja milloin Saksa pystyy sen ratifioimaan. EVM:stä on pyritty rakentamaan palomuuri eurokriisin leviämisen estämiseksi.</p>
+  <p>Monien velkaisten euromaiden, kuten Espanjan, valtionlainojen korkotaso on markkinoilla liikkunut jopa hälyttävällä tasolla. Markkinoita ei rauhoittanut sekään, että Euroopan keskuspankin pääjohtaja Mario Draghi kertoi torstaina EKP:n valmistelevan toimia rahoitusmarkkinoiden vakauttamiseksi.</p>
+  <p>Urpilaisen mielestä korkojen alas saamisessa on tärkeintä se, että jokainen maa pystyy sitoutumaan pitkäjänteisesti oman taloutensa parantamiseen. Hänen mukaansa markkinoiden ja sijoittajien luottamus vahvistuu vain sitä kautta.</p>
+  <p>&#8211;&#8201; Ei riitä, että tehdään nopeita ratkaisuja, vaan on sitouduttava tiukkaan talouskuriin.</p>
+  <p>Urpilaisen mukaan suuri merkitys on myös yhteisillä eurooppalaisilla ratkaisuilla, kuten erilaisilla kriisityökaluilla ja eurooppalaisilla avustustoimenpiteillä. Suomen on oltava talouskuritalkoissa mukana aivan kuin muidenkin maiden.</p>
+  <p>&#8211;&#8201; Suomi on tehnyt paljon veronkorotuksilla, menoleikkauksilla ja panostamalla talouskasvuun. Jos saamme velkaantumisen taittumaan, myös luottamus Suomea kohtaan vahvistuu.</p>
+  <p>Valtiovarainministerin mukaan kriisimaat, kuten Espanja, ovat tehneet toimenpiteitä taloutensa kuntoon saamiseksi. Urpilainen nostaa esille muun muassa työmarkkinoiden uudistamisen ja talouden sopeuttamistoimet.</p>
+  <p>&#8211;&#8201; Ei voida sanoa, etteikö toimia olisi tehty.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

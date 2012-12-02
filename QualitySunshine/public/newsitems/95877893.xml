@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95877893" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T11:41:36</versionCreated>
+<firstCreated>2012-07-30T11:41:10</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T11:41:10</contentCreated>
+<contentModified>2012-07-30T11:41:36</contentModified>
+<located type="loctype:City">
+<name>Madrid</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:076">
+<name>stt 076</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75287">
+<name>espanjan taantuma syveni huhti-kesäkuussa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97774814">
+<name>espanjan taantuma syveni huhti-kesäkuussa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000923">
+<name>923</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008004">
+<name>Talouden indikaattorit Talousennusteet</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Madrid</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Espanjan taantuma syveni huhti-kesäkuussa</headline><creditline>STT&#8211;Reuters-AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Espanjan talous painui keväällä entistä syvemmälle taantumaan. Maanantaina julkistettujen tilastolukujen mukaan maan bruttokansantuote supistui huhti-kesäkuussa 0,4 prosenttia edelliseen neljännekseen verrattuna. Vuoden takaisesta Espanjan bkt oli kutistunut yhdellä prosentilla.</p>
+  <p>Espanjan kuluttajahinnat sen sijaan nousivat vuoden takaisesta 2,2 prosenttia. Taloustieteilijät varoittivat, että kotimaisen kulutuksen laskun ja hintojen nousun yhteisvaikutus hankaloittaa entisestään Espanjan hallituksen pyrkimystä tasapainottaa maan taloutta.</p>
+  <p>Espanjan talous painui virallisen määritelmän mukaiseen taantumaan tammi-maaliskuussa. Maan talouden alamäen on ennakoitu jatkuvan vielä pitkälle vuoden 2013 puolelle. Muun muassa Kansainvälinen valuuttarahasto IMF on arvioinut, että Espanjan talous kutistuu tänä vuonna 1,7 prosenttia ja ensi vuonnakin vielä 1,2 prosenttia.</p>
+  <p></p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120801:95887541" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-01T04:39:21</versionCreated>
+<firstCreated>2012-08-01T04:39:10</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-01T04:39:10</contentCreated>
+<contentModified>2012-08-01T04:39:21</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:016">
+<name>stt 016</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74826">
+<name>Italian pääministeri Monti ja pääministeri Katainen keskustelevat eurokriisistä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97775118">
+<name>Montin ja Kataisen tiedotustilaisuus</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000586">
+<name>586</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7670"/>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006000">
+<name>Julkinen hallinto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006006">
+<name>Valtionpäämiehet</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">EI JULKISUUTEEN
+
+13.30 Keskustelut ja lounas Pääministeri Kataisen kanssa Kesärannassa (Meilahti 1, Helsinki). Alussa kuvausmahdollisuus.
+
+15.30 Pääministereiden yhteinen tiedotustilaisuus, Kesäranta.
+
+16.30 Eduskunnan puhemies Eero Heinäluoman tapaaminen eduskunnassa. Alussa kuvausmahdollisuus. Eduskuntaan saapuvia kuvaajia pyydetään ilmoittautumaan osoitteeseen tiedotus@eduskunta.fi viimeistään tiistaina 31.7.
+
+19.00 Työillallinen tasavallan presidentti Sauli Niinistön kanssa Mäntyniemessä. Alussa kuvausmahdollisuus.Ilmoittautumiset keskiviikkoon 1.8. klo 10 mennessä tasavallan presidentin kansliaan, p. (09) 661133 / Matti Porre tai matti.porre@tpk.fi. Kuvaajia pyydetään saapumaan turvatarkastukseen Mäntyniemen portille 45 minuuttia ennen tilaisuuden alkua.</description>
+<headline>Monti HS:lle: Italia voi tarvita tauon korkeista koroistaan</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7670">
+<name>Helsinki</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Italia ei tarvitse taloudellista pelastusohjelmaa mutta saattaa kaivata hengähdystaukoa korkeasta korkotasostaan, maan pääministeri Mario Monti sanoo Helsingin Sanomien haastattelussa.</p>
+  <p>Montin mukaan Italia on tehnyt merkittäviä kiristyksiä talouspolitiikassaan. Maan lainojen korkotaso huitelee kuitenkin edelleen korkealla, mikä hänen mielestään kielii siitä, että markkinoilla kestää ymmärtää maan ponnisteluja.</p>
+  <p>Montin mukaan korkotasoa voitaisiin suitsia esimerkiksi Euroopan rahoitusvakausvälineen kautta joukkolainaostoin.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

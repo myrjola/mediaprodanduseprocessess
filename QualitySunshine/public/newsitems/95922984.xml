@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120808:95922984" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-08T11:21:13</versionCreated>
+<firstCreated>2012-08-08T11:21:09</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-08T11:21:09</contentCreated>
+<contentModified>2012-08-08T11:21:13</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:070">
+<name>stt 070</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76465">
+<name>Euroviisuvoittaja Loreen tähdittää Elämä lapselle -konserttia</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97855600">
+<name>Euroviisuvoittaja Loreen tähdittää Elämä lapselle -konserttia</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000624">
+<name>624</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14002000">
+<name>Hyväntekeväisyys Vapaaehtoistyö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006000">
+<name>Perhe</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006998">
+<name>Lapset ja nuoret</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011004">
+<name>Populaarimusiikki</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Euroviisuvoittaja Loreen tähdittää Elämä lapselle -konserttia.</description>
+<headline>Euroviisuvoittaja Loreen Elämä lapselle -konserttiin</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Euroviisujen tämän vuoden voittaja, ruotsalainen Loreen pistäytyy laulamassa Suomessa. Loreen tähdittää Elämä lapselle -hyväntekeväisyyskonserttia Helsingin Areenassa 12. syyskuuta.</p>
+  <p>Eurovision laulukilpailun voittosävelmä Euphoria nousi iTunesin ykköspaikalle 16 maassa. Kappale on tuonut Loreenille platinalevyn myös Suomesta.</p>
+  <p>Elämä lapselle -konsertissa Loreen esittää hittinsä lisäksi uuden singlensä. Solistin debyyttialbumi ilmestyy lokakuussa.</p>
+  <p>Lastenklinikan kummien järjestämässä konsertissa Helsingissä esiintyvät myös muiden muassa PMMP, Anna Puu, Robin ja Jippu.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120803:95878889" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-03T14:35:01</versionCreated>
+<firstCreated>2012-08-03T14:34:30</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-03T14:34:30</contentCreated>
+<contentModified>2012-08-03T14:35:01</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:135">
+<name>stt 135</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74848">
+<name>Kiinteistösijoittajat hakevat talouskurimuksessa arvokiinteistöjä hyviltä paikoilta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97776847">
+<name>Kiinteistösijoittajat hakevat talouskurimuksessa arvokiinteistöjä hyviltä paikoilta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003462">
+<name>3462</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4004000">
+<name>Rakentaminen Kiinteistöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4004003">
+<name>Kiinteistökauppa</name>
+</subject>
+<slugline>///LEHTIVERSIO LIITTYY FAKTALISTA, KAINALO, GRAFIIKKA JA LEHTIKUVA///</slugline>
+<dateline>Helsinki</dateline>
+<by>ANNIINA LUOTONEN</by>
+<description role="drol:summary">Juttu käsittelöee ulkomaalaisten omistusoikeuksia Suomessa. Mitä ulkomaalainen voi omistaa ja mitä ei? Miten ulkomaisten yritysten omistuamista/maahantuloa rajoitetaan? Missä asemassa ovat  EU-maiden ja toisaalta muiden maiden asukkaat ja yritykset? Kuinka laajoja ulkomaisten omistukset Suomessa ovat? Asunnot ja kesämokit?</description>
+<headline>Ulkomaiset kiinteistösijoittajat suurkaupoilla heinäkuussa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Islantilaisen konkurssipesän 17 arvokiinteistöä menivät ruotsalaiselle sijoitusyhtiölle</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Liikekiinteistöjen hyvin hiljainen kauppa on piristynyt yllättäen keskikesällä.</p>
+  <p>Kiinteistösijoitusmarkkinoilla on ollut perin hiljaista parin viime vuoden aikana, koska pankit ovat rahoittaneet yritysten kiinteistöhankkeita nihkeästi.</p>
+  <p>Heinäkuussa alkoi kuitenkin tapahtua, sillä ulkomaiset sijoitusyhtiöt tekivät pääkaupunkiseudulla neljä merkittävää kiinteistökauppaa.</p>
+  <p>Suurimman niistä teki ruotsalainen kiinteistörahastoyhtiö Niam, joka osti 17 kiinteistöä keskeisiltä paikoilta Helsingistä, Espoosta ja Vantaalta. Kiinteistökokonaisuus on peruja konkurssiin menneeltä islantilaisyritykseltä Bronda Propertiesilta.</p>
+  <p>Omistajaa vaihtoi muun muassa Erottajalla sijaitseva Adams-salin rakennus, Kemiran pääkonttori Ruoholahdessa ja Microsoftin konttori Espoon Keilaniemessä. Kauppaan kuuluivat myös Bulevardilla sijaitsevat Koffin vanha panimo ja viinatehdas.</p>
+  <p>&#8211;&#8201; Olettaisin, että tämä on ilman muuta kuluvan vuoden suurin yksittäinen kiinteistökauppa, asiantuntijaorganisaatio KTI Kiinteistötiedon toimitusjohtaja Hanna Kaleva arvioi kaupasta, jonka hintaa ei ole kerrottu julkisuuteen.</p>
+  <p>Islantilainen Bronda Properties osti kiinteistöjä vauhdikkaasti vuonna 2007, mutta ajautui konkurssiin viisi vuotta myöhemmin. Konkurssin on arvioitu olevan yksi Suomen historian suurimmista kiinteistöyhtiöiden konkursseista.</p>
+  <p></p>
+  <p>
+<h3>Arvokiinteistöt kiinnostavat</h3>
+</p>
+  <p></p>
+  <p>Niamin johtajan Pekka Salakan mukaan yhtiö kiinnostui Brondan kiinteistökokonaisuudesta, koska se sopi hyvin yrityksen tavoitteisiin.</p>
+  <p>&#8211;&#8201; Se, että Suomessa on ollut hiljaisempaa viime aikoina johtuu siitä, että rahoituksen saaminen on ollut vaikeampaa. Me saimme tähän hankintaan rahoituksen Saksasta Helabalta, Salakka kertoo.</p>
+  <p>Pääkaupunkiseudulla keskeisellä paikalla sijaitsevat kiinteistöt kiinnostavat kiinteistösijoittajia talouden epävarmuudesta huolimatta. Kiinteistötiedon Kalevan mukaan sijoittajat ovat nyt todella varovaisia, mutta tarttuvat arvokkaisiin ja hyvällä paikalla oleviin kohteisiin.</p>
+  <p>Muutama viikko sitten Nordea Henkivakuutus myi Helsingin paraatipaikalla Aleksanterinkatu 11:ssä sijaitsevan toimisto- ja liikekiinteistönsä englantilaiselle kiinteistösijoitusyhtiölle noin 60 miljoonalla eurolla.</p>
+  <p>Arvokiinteistön kauppa Helsingin keskustassa on harvinainen, koska niitä on tullut myyntiin viime vuosina harvakseltaan.</p>
+  <p>&#8211;&#8201; Tämä on ensimmäinen merkittävä kauppa Helsingin keskustassa reiluun vuoteen, Kaleva sanoo.</p>
+  <p></p>
+  <p>
+<h3>Hinnat pysyneet</h3>
+</p>
+  <p></p>
+  <p>Ulkomaiset yritykset ovat olleet kiinnostuneita varsinkin kauppakeskuksista, joista monet ovat ulkomaisessa omistuksessa. Myös sellaiset toimistotilat, joiden vuokralaiset on varmistettu käyvät kaupaksi.</p>
+  <p>Heinäkuussa saksalainen sijoitusyhtiö osti Espoon Ison Omenan läheltä toimistokokonaisuuden noin 62 miljoonalla ja Leppävaarasta 20 miljoonalla eurolla.</p>
+  <p>Suomessa toimii noin 70&#8211;80 ulkomaista kiinteistösijoittajaa.</p>
+  <p>Kalevan mukaan viitisen vuotta sitten Suomeen ryntäsi sijoittajia, jotka rahoittivat kiinteistökauppansa pitkälti velkarahalla. Ne voivat olla nyt vaikeiden paikkojen edessä, jos niiden pitää neuvotella velkojaan uudelleen.</p>
+  <p>&#8211;&#8201; Sijoittajia kiinnostavat nyt hyvän sijainnin ja kassavirran riskittömät kohteet, joiden hinnatkin ovat pitäneet hyvin pintansa. Riskillisempien kohteiden hintojen odotetaan sen sijaan kääntyvän laskuun, Kaleva sanoo.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

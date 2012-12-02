@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120804:95905935" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-04T19:52:48</versionCreated>
+<firstCreated>2012-08-04T19:52:43</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-04T19:52:43</contentCreated>
+<contentModified>2012-08-04T19:52:48</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:201" type="cpnat:runnumber">
+<name>stt 201</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:76079" type="cpnat:topic">
+<name>Katainen ei ole huolissaan demarien kannatuksesta / Yle sit.</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97825271" type="cpnat:textpackageid">
+<name>Katainen ei ole huolissaan demarien kannatuksesta / Yle sit.</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000750" type="cpnat:length">
+<name>750</name>
+</subject>
+      <subject qcode="sttdepartment:0009" type="cpnat:department">
+         <name>Politiikka</name>
+      </subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11018000" type="cpnat:category">
+<name>Kansalaismielipide Gallupit</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Yle: Katainen ei huolestunut SDP:n kiristä</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>SDP on kirinyt Ylen gallupissa kannatuseron kokoomukseen puoleen prosenttiin. Ylen uutisten mukaan pääministeri Jyrki Katainen (kok.) ei ole huolestunut tilanteesta.</p>
+  <p>Katainen aikoo pysyä linjassaan.</p>
+  <p>–  Minulla on tavoite, jonka mukaan vaikeista ja epämiellyttävistäkin asioista pitää puhua ja päättää luottamusta herättävällä tavalla. Se joko saa kannatusta, tai ei saa kannatusta, Katainen linjasi Lontoossa lauantaina.</p>
+  <p>–  Vaalit ovat ainoa oikea kannatuksen mittaustapa, Katainen lisäsi.</p>
+  <p>Kataisen haastattelussa käsiteltiin myös valtiovarainministeriön perjantaina tekemää talousennusteen heikennystä. Katainen arvioi ennusteen olevan ymmärrettävä, koska Euroopan talouskriisi ei osoita taittumisen merkkejä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="338" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/9bfe4eac-511b-4967-b1de-fefe2dbdc436.jpg" rendition="rnd:web" size="4177680" version="1" width="515"/>
+   </contentSet>
+</newsItem>

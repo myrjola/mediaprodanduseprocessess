@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95918273" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T13:25:49</versionCreated>
+<firstCreated>2012-08-07T13:25:46</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-07T13:25:46</contentCreated>
+<contentModified>2012-08-07T13:25:49</contentModified>
+<located type="loctype:City">
+<name>Tampere</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:102">
+<name>stt 102</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76340">
+<name>Kiitos kotimaisesta näytelmästä -tunnustus Suomen Kansallisteatterille</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97846966">
+<name>Kiitos kotimaisesta näytelmästä -tunnustus Suomen Kansallisteatterille</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000795">
+<name>795</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7023"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1017000">
+<name>Teatteri</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1018000">
+<name>Kulttuuriperintö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Tampere</dateline>
+<by/>
+<description role="drol:summary">Kiitos kotimaisesta näytelmästä -addressi on jaettu vuodesta 1975 alkaen. Tunnustus annetaan ammattiteatterille, joka on nostanut ohjelmistoonsa erityisen paljon suomalaisia näytelmiä. Suomen näytelmäkirjailijat ja Käsikirjoittajat Ry:n palkinto jaettiin Tampereen Teatterikesän avajaisissa.</description>
+<headline>Suomen Kansallisteatterille tunnustus kotimaisista näytelmistä</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7023">
+<name>Tampere</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=61.4978,+23.7623</definition>
+<geoAreaDetails>
+<position latitude="61.49781" longitude="23.76226"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:295">
+<name>Tampere</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:27">
+<name>Pirkanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suomen Kansallisteatteri on palkittu Kiitos kotimaisesta näytelmästä -tunnustuksella. Suomen Näytelmäkirjailijat ja Käsikirjoittajat ry:n (Sunklo) tunnustus jaetaan ammattiteatterille, joka on nostanut ohjelmistoonsa erityisen paljon suomalaisia näytelmiä.</p>
+  <p>Suomen Kansallisteatterilla oli vuonna 2011 yhteensä kolmetoista ensi-iltaa, joista kymmenen oli kotimaisia. Näistä kymmenestä yhdeksän oli kantaesityksiä. </p>
+  <p>Korkean kotimaisuusasteen lisäksi Sunklo haluaa tunnustuksella kiinnittää huomiota teatterin sitoutumiseen suomalaisiin näytelmäkirjailijoihin. </p>
+  <p>Tunnustus jaettiin tiistaina Tampereen Teatterikesän avajaisten yhteydessä. Palkinnon vastaanotti teatterinjohtaja Mika Myllyaho. </p>
+  <p>Palkintoa on jaettu vuodesta 1975 lähtien. </p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

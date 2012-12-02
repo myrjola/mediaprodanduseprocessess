@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120729:95874092" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T16:19:52</versionCreated>
+<firstCreated>2012-07-29T16:19:49</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T16:19:49</contentCreated>
+<contentModified>2012-07-29T16:19:52</contentModified>
+<located type="loctype:City">
+<name>Espoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:123" type="cpnat:runnumber">
+<name>stt 123</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75205" type="cpnat:topic">
+<name>Kioski ryöstettiin teräaseella uhaten Espoossa</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97768409" type="cpnat:textpackageid">
+<name>Kioski ryöstettiin teräaseella uhaten Espoossa</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000585" type="cpnat:length">
+<name>585</name>
+</subject>
+      <subject qcode="sttdepartment:0003" type="cpnat:department">
+         <name>Kotimaa</name>
+      </subject>
+<subject qcode="sttlocationalias:6700" type="cpnat:geoArea"/>
+<subject qcode="subj:2000000" type="cpnat:category">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject qcode="subj:2001000" type="cpnat:category">
+<name>Rikokset</name>
+</subject>
+<subject qcode="subj:2001006" type="cpnat:category">
+<name>Väkivaltarikokset</name>
+</subject>
+<subject qcode="subj:2000000" type="cpnat:category">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject qcode="subj:2001000" type="cpnat:category">
+<name>Rikokset</name>
+</subject>
+<subject qcode="subj:2001003" type="cpnat:category">
+<name>Omaisuusrikokset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Espoo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>R-kioski ryöstettiin teräaseella Espoossa</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6700">
+<name>Espoo</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader qcode="city:13" type="cpnat:geoArea">
+<name>Espoo</name>
+</broader>
+<broader qcode="stat:31" type="cpnat:geoArea">
+<name>Uusimaa</name>
+</broader>
+<broader qcode="country:1" type="cpnat:geoArea">
+<name>Suomi</name>
+</broader>
+<broader qcode="continet:4" type="cpnat:geoArea">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Espoolainen R-kioski ryöstettiin lauantaina teräaseella uhaten, kertoo poliisi. Törkeänä ryöstönä tutkittava tapaus sattui puoli seitsemältä illalla Kauklahdessa Hansatiellä.</p>
+  <p>Kioskiin oli tullut kasvonsa peittänyt mies, jolla oli teräase. Mies sai saaliiksi rahaa.</p>
+  <p>Poliisi otti kioskin läheltä kiinni kaksi noin 35-vuotiasta miestä, joita epäillään osallisuudesta tekoon. Miehet on pidätetty.</p>
+  <p>Poliisi pyytää ilmoittamaan tapahtumaan liittyvistä havainnoista virka-aikana numeroon 071  873  8330 tai virka-ajan ulkopuolella numeroon 071  873  8003.</p>
+  <p/>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="411" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/5c19ffc0-c7da-4a8b-8ffd-56ae98e4ce0a.jpg" rendition="rnd:web" size="4961592" version="1" width="503"/>
+   </contentSet>
+</newsItem>

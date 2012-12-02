@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873336" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T09:55:48</versionCreated>
+<firstCreated>2012-07-29T09:55:45</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T09:55:45</contentCreated>
+<contentModified>2012-07-29T09:55:48</contentModified>
+<located type="loctype:City">
+<name>Jerusalem</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:031">
+<name>stt 031</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75177">
+<name>Lehti: Obaman neuvonantaja valaisi USA:n Iran-hyökkäyssuunnitelmaa Israelille</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97766837">
+<name>Lehti: Obaman neuvonantaja valaisi USA:n Iran-hyökkäyssuunnitelmaa Israelille</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000782">
+<name>782</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11001000">
+<name>Puolustus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11001009">
+<name>Ydinaseet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16009000">
+<name>Sodat</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Jerusalem</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Lehti: USA valaisi Iran-iskusuunnitelmiaan Israelille</headline><creditline>STT&#8211;Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Yhdysvallat on esitellyt Israelille suunnitelmiaan iskeä Irania vastaan, kertoi sanomalehti Haaretz sunnuntaina. Lehden mukaan suunnitelmaan turvauduttaisiin, jos Irania ei saada rajoittamaan ydinohjelmaansa diplomatian keinoin.</p>
+  <p>Amerikkalaiset virkamieslähteet kertoivat, että suunnitelma oli esillä, kun presidentti Barack Obaman turvallisuusneuvonantaja Thomas Donilon vieraili Israelissa aiemmin heinäkuussa. Haaretzin mukaan Donilon kertoi pääministeri Benjamin Netanjahulle, että Yhdysvallat harkitsee iskua Iranin ydinlaitoksiin ja esitteli joitakin hyökkäyssuunnitelmia. Haaretz arvioi, että Yhdysvallat pyrki näin taivuttelemaan Israelia luopumaan omista hyökkäysaikeistaan.</p>
+  <p>Israel ei kommentoinut lehden tietoja. </p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95869668" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T10:48:25</versionCreated>
+<firstCreated>2012-07-28T10:48:22</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T10:48:22</contentCreated>
+<contentModified>2012-07-28T10:48:25</contentModified>
+<located type="loctype:City">
+<name>Tukholma/Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:056">
+<name>stt 056</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75110">
+<name>Dagens Nyheter: Uuden muuntohuumeen epäillään aiheuttaneen 14 kuolemantapausta Ruotsissa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97760964">
+<name>Dagens Nyheter: Uuden muuntohuumeen epäillään aiheuttaneen 14 kuolemantapausta Ruotsissa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000783">
+<name>783</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14001000">
+<name>Riippuvuudet Päihteet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001004">
+<name>Huumausainerikokset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Tukholma/Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>DN: Uusi muuntohuume aiheuttanut ehkä 14 kuolemaa Ruotsissa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Verkon kautta myytävän uuden muuntohuumeen epäillään aiheuttaneen viime kuukausien aikana jopa 14 kuolemantapausta Ruotsissa, kertoo sanomalehti Dagens Nyheter. Kaikki uhrit ovat 20&#8211;30-vuotiaita miehiä.</p>
+  <p>Huumetta kutsutaan nimellä 5-IT. Ruotsin oikeuslääketieteen laitoksen mukaan aine on yksiselitteinen kuolinsyy kahdessa tapauksessa, muiden uhrien elimistöstä on löydetty myös muita huumaus- ja lääkeaineita.</p>
+  <p>Aineen levinneisyydestä Ruotsissa ei ole tietoa, mutta maan myrkytystietokeskus kertoo saaneensa alkuvuoden aikana kymmenkunta yhteydenottoa ihmisiltä, jotka ovat käyttäneet ainetta ja tunteneet olonsa huonoksi.</p>
+  <p>Ruotsin kansanterveyslaitos FHI aikoo nyt kriminalisoida 5-IT:n, mutta prosessi vie useita kuukausia.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

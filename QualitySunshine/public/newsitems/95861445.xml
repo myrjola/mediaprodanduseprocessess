@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95861445" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T15:39:50</versionCreated>
+<firstCreated>2012-07-30T08:59:08</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:update"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T08:59:08</contentCreated>
+<contentModified>2012-07-30T15:39:50</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:141">
+<name>stt 141</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74796">
+<name>Lämpenevä sää voi lisätä sinileviä järvissä ja merellä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97745697">
+<name>Lämpenevä sää ehtisi vielä herättää sinilevät</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002321">
+<name>2321</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17004000">
+<name>Säätilastot Sääilmiöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6000000">
+<name>Ympäristö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6007000">
+<name>Luonto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6000000">
+<name>Ympäristö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6005000">
+<name>Saastuminen</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6005002">
+<name>Vesien saastuminen </name>
+</subject>
+<slugline>///PÄIVITETTY LEHTIVERSIO ALKU, VESIEN LÄMPENEMINEN KESKIARVOJEN TUNTUMAAN///</slugline>
+<dateline>Helsinki</dateline>
+<by>SALLA SALMELA</by>
+<description role="drol:summary"/>
+<headline>Sään lämpeneminen voi vielä herättää sinilevät</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Koleus ja tuuli ovat toistaiseksi pitäneet levät kurissa </h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Säiden lämpeneminen voi lisätä sinileväkukintoja järvissä ja merialueilla elokuussa. Suomen ympäristökeskuksesta arvioidaan, että leväkukinnot saattavat vielä lisääntyä, jos säiden lämpeneminen jatkuu ja tuulet tyyntyvät.</p>
+  <p>Vesien pintalämpötilat kohosivat helteisen viikonlopun aikana ympäristökeskuksen mukaan keskiarvojen tuntumaan pohjoista Lappia lukuun ottamatta. Maan etelä- ja keskiosassa vedet ovat paikoin jopa asteen tai pari keskiarvoa lämpimämpiä.</p>
+  <p>Jos levät innostuvat kukkimaan, ensimmäiseksi niiden odotetaan ilmestyvän reheviin järviin sekä Saaristomerelle, missä vähäisiä levähavaintoja on jo tehty. Talvella mitattujen ravinnepitoisuuksien perusteella sinilevälle herkkää aluetta on myös Itämeren pääaltaan pohjoisosa.</p>
+  <p>Sopivissa olosuhteissa leväkukintoja voi syntyä muutamassa päivässä. Sinileviä voi esiintyä niin kauan kuin vesien pintalämpötila pysyttelee yli 17 asteessa.</p>
+  <p>&#8211;&#8201; Joinain vuosina sinileviä on havaittu vielä syyskuussakin, toteaa ympäristökeskuksen tutkija Sirpa Lehtinen. </p>
+  <p></p>
+  <p>
+<h3>Levistä lähinnä yksittäisiä havaintoja</h3>
+</p>
+  <p></p>
+  <p>Toistaiseksi kesän sinilevämäärät ovat olleet poikkeuksellisen vähäisiä. Sekä järvissä että merialueilla havaintojen määrä on koko kesän pysytellyt pitkän ajan keskiarvojen alapuolella. Talven ravinnepitoisuuksien pohjalta kesän sinilevätilanteesta povattiinkin ympäristökeskuksen mukaan vain kohtalaista.</p>
+  <p>Merellä sinilevähavainnot ovat toistaiseksi rajoittuneet yksittäisiin esiintymiin. Valtakunnallisessa seurannassa rannikkohavaintoja sinilevästä on tehty vain muutamalla havaintopaikalla Saaristomerellä ja Rauman edustalla. Saaristomereltä ympäristökeskus on lisäksi saanut muutamia yleisöhavaintoja levästä. Avomerellä sinilevää ei ole havaittu vielä lainkaan.</p>
+  <p>Järvissä vuodenaikaan nähden tavallista kylmemmät pintalämpötilat ovat pitäneet levät kurissa. Hieman sinilevää on havaittu 33 virallisella havaintopaikalla ja runsaasti kuudella. Hieman levää on löydetty yksittäisistä järvistä ympäri maata. Runsaita levähavaintoja on tehty Pirkanmaalla, Kainuussa, Hämeenlinnassa ja Naantalissa.</p>
+  <p>Erittäin runsaita kukintoja ei ole järvissä toistaiseksi esiintynyt. Yleisöltä havaintoja on tullut kymmenkunta.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

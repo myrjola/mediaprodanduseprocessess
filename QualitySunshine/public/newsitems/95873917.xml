@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873917" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T14:38:14</versionCreated>
+<firstCreated>2012-07-29T14:38:11</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T14:38:11</contentCreated>
+<contentModified>2012-07-29T14:38:14</contentModified>
+<located type="loctype:City">
+<name>Oslo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:093">
+<name>stt 093</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75200">
+<name>Rapmuusikko Snoop Dogg sai porttikiellon Norjaan</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97768038">
+<name>Rapmuusikko Snoop Dogg sai porttikiellon Norjaan</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000666">
+<name>666</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001004">
+<name>Huumausainerikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1011000">
+<name>Musiikki</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Oslo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Muusikko Snoop Dogg sai porttikiellon Norjaan</headline><creditline>STT&#8211;NTB</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Norja on langettanut amerikkalaiselle rap-artisti Snoop Doggille kahden vuoden maahantulokiellon. Syynä on muusikon kesäkuinen huumerikos Kristiansandissa.</p>
+  <p>Kjevikin lentokentän tullimiehet löysivät Snoop Doggilta kahdeksan grammaa marihuanaa sekä laittoman suuren määrän käteistä &#8211; 227&#8201; 000 kruunua eli yli 30&#8201; 000 euroa. </p>
+  <p>Festivaaleille Arendaliin matkalla ollut Snoop Dogg sai noin 7&#8201; 000 euron sakot.</p>
+  <p>Asianajajan mukaan Snoop Dogg, oikealta nimeltään Calvin Cordozar Broadus junior, ei aio valittaa maahantulokiellosta.</p>
+  <p>&#8211;&#8201; Artisti on tullut siihen tulokseen, että hän voi elää tämän päätöksen kanssa, lakimies ilmoitti.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

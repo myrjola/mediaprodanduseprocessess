@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95919853" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T20:51:07</versionCreated>
+<firstCreated>2012-08-07T20:07:33</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0006">
+<name>Tiivistelmä</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:supplement"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-07T20:07:33</contentCreated>
+<contentModified>2012-08-07T20:51:07</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:271">
+<name>stt 271</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76198">
+<name>Valtiovarainministeri Jutta Urpilainen esittelee ministeriönsä suunnitelmat ensi vuoden talousarvioesitykseksi.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97849716">
+<name>Valtiovarainministeri Jutta Urpilainen esittelee ministeriönsä suunnitelmat ensi vuoden talousarvioesitykseksi.</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001227">
+<name>1227</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<slugline>///TÄYDENNETTY TIIVISTELMÄ TÄSMENNETTY BUDJETIN ALIJÄÄMÄISYYTTÄ 2. KAPPALEESSA///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Valtion ensi vuoden budjetti vajaa 7 miljardia miinuksella</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suomen velka kasvaa ensi vuonna 95 miljardiin euroon, jos valtiovarainministeriön budjettiesitys toteutuu.</p>
+  <p>Valtiovarainministeriö julkisti tiistaina esityksensä ensi vuoden budjetiksi. Budjetti on noin 6,6 miljardia euroa alijäämäinen.</p>
+  <p>Hallitus päätti taloudenpidon keskeisistä ehdoista jo maaliskuun kehysriihessä, jonka vuoksi tiistaina julkistettu budjettiesitys ei sisältänyt isoja yllätyksiä.</p>
+  <p>Valtiovarainministeri Jutta Urpilainen (sd.) jätti kuitenkin tilaa hallituksen keskinäisille arvovalinnoille. Hallituksen budjettiriiheen päätyy ainakin kysymys vanhuspalvelulain henkilöstömitoituksesta.</p>
+  <p>&#8211;&#8201; Meidän pitää varautua pahan päivän varalle. Mihinkään uusiin merkittäviin veroetuihin tai menolisäyksiin meillä ei ole mahdollisuutta. Kehyksen sisällä meillä on mahdollisuus tehdä arvovalintoja, Urpilainen sanoi.</p>
+  <p>Valtiontalouden tasapainottamisen lisäksi hallitus on päättänyt joukosta rakenteellisia uudistuksia, jotka liittyvät väestön ikääntymiseen.</p>
+  <p>Ministeriöiden pitää jättää kuun lopulla pidettävään hallituksen budjettiriihen selvitys siitä, miten ne aikovat toteuttaa kehysriihessä päätettyjä uudistuksia.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

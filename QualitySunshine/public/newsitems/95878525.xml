@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95878525" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T10:46:01</versionCreated>
+<firstCreated>2012-07-31T10:45:57</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0018">
+<name>Sitaattifakta</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>5</urgency>
+<contentCreated>2012-07-31T10:45:57</contentCreated>
+<contentModified>2012-07-31T10:46:01</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:056">
+<name>stt 056</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75298">
+<name>Mitä EKP:lta odotetaan torstaina?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97776203">
+<name>Mitä Draghi sanoi</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001150">
+<name>1150</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008001">
+<name>Keskuspankit</name>
+</subject>
+<slugline>///SITAATTIFAKTA KAINALO MYÖHEMMIN TULEVAAN JUTTUUN KESKUSPANKKIEN KOKOUKSISTA///</slugline>
+<dateline>Helsinki</dateline>
+<by>HEIKKI KARKKOLAINEN</by>
+<description role="drol:summary"/>
+<headline>Markkinoita innostaneet Draghin kommentit</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>&#8211;&#8201; EKP on mandaattinsa puitteissa valmis tekemään mitä tahansa tarvitaan euron säilyttämiseksi. Ja uskokaa minua, se on riittävästi.</p>
+  <p>&#8211;&#8201; Valtionlainojen riskilisien suuruus kuuluu EKP:n toimivallan piiriin siinä määrin, kun se estää rahapolitiikan välittymistä.</p>
+  <p>&#8211;&#8201; Pankkien väliset markkinat eivät toimi, koska likviditeetin sääntelyä koskevat määräykset tekevät sen kannattamattomaksi. Sääntely on kalibroitava kokonaan uudelleen.</p>
+  <p>&#8211;&#8201; Euro on paljon, paljon vahvempi kuin ollaan valmiita myöntämään... Myös tänään euroalue on inflaatiolla, työllisyydellä ja tuottavuudella mitattuna menestynyt paremmin kuin Yhdysvallat tai Japani.</p>
+  <p>&#8211;&#8201; Kuuden viime kuukauden aikana (kriisin hallinnassa) on edetty poikkeuksellisesti. Alijäämien supistaminen ja rakenteelliset uudistukset ovat edistyneet huomionarvoisesti.</p>
+  <p>&#8211;&#8201; Huippukokous oli todellinen menestys, koska ensimmäisen kerran moniin vuosiin kaikkien 27 jäsenmaan, myös Britannian, johtajat olivat yhtä mieltä siitä, että ainoa tie ulos kriisistä on enemmän Eurooppaa, ei vähemmän Eurooppaa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

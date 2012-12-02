@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870409" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T18:07:05</versionCreated>
+<firstCreated>2012-07-28T18:07:02</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T18:07:02</contentCreated>
+<contentModified>2012-07-28T18:07:05</contentModified>
+<located type="loctype:City">
+<name>Beirut/Aleppo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:142">
+<name>stt 142</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75103">
+<name>Syyrian armeija aloitti hyökkäyksen Aleppoon</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97760556">
+<name>Syyrian armeija aloitti hyökkäyksen Aleppoon</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002232">
+<name>2232</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16002000">
+<name>Aseelliset konfliktit</name>
+</subject>
+<slugline>///LEHTIVERSIO LISÄKSI TAUSTAJUTTU ALEPPOSTA, PÄIVITYSTÄ TARVITTAESSA///</slugline>
+<dateline>Beirut/Aleppo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Syyrian armeija aloitti hyökkäyksen Aleppoon</headline><creditline>STT&#8211;AFP-Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Taistelu voi ratkaista koko sisällissodan</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Syyrian armeija näytti lauantaina aloittaneen suurhyökkäyksensä Aleppon kaupunkiin. Uutistoimisto AFP kertoi tykistön moukaroineen kaupunkia aamuvarhaisesta lähtien. Panssarivaunujen ja helikopterien tukemat sotilaat tunkeutuivat lounaisiin kaupunginosiin, joihin suurin osa kapinallistaistelijoista oli linnoittautunut.</p>
+  <p>&#8211;&#8201; Hallinnon joukot yrittivät vallata päämajan Salaheddinin kaupunginosassa, mutta Jumalan kiitos, Syyrian vapaan armeijan soturit torjuivat hyökkäyksen, kertoi kapinalliseversti Abdel Jabbar al-Oqaidi.</p>
+  <p>Taistelujen keskelle jääneet kaupunkilaiset hakeutuivat kellareihin suojaan tulitukselta.</p>
+  <p>&#8211;&#8201; Koko kansannousun kiivaimpia taisteluja käydään useissa kaupunginosissa, sanoi syyrialaisen ihmisoikeusjärjestön edustaja Rami Abdel Rahman.</p>
+  <p>Armeija ja kapinalliset ovat viime päivinä vahvistaneet rivejään Aleppossa. YK ja useat ulkovallat ovat varoittaneet, että hyökkäys voi johtaa verilöylyyn.</p>
+  <p>Armeijalla on mies- ja materiaaliylivoima, mutta turvallisuuslähteiden mukaan taisteluista kaupungin kapeilla kaduilla tulee vaikeita.</p>
+  <p></p>
+  <p>
+<h3>Libyan malli toistuu?</h3>
+</p>
+  <p></p>
+  <p>Taistelu kaupungista voi osoittautua ratkaisevaksi koko Syyrian kriisille, arvelevat asiantuntijat. Suurkaupungin kaatuminen kapinallisten käsiin voisi toistaa Libyassa nähdyn kaavan.</p>
+  <p>&#8211;&#8201; Kyseessä on äärimmäisen tärkeä taistelu molemmille osapuolille. Hallitukselle Aleppo on tärkeä keskus, jossa sillä on paljon tukijoita, kapinallisille se on avain Pohjois-Syyrian hallintaan, arvioi entinen diplomaatti Ignace Leverrier.</p>
+  <p>Hän huomautti, että Aleppon avulla kapinalliset voisivat luoda turva-alueen ja käyttää kaupunkia tukikohtanaan, kuten libyalaiset tekivät Bengasissa. Lisäksi Aleppo toimisi turvapaikkana loikkarisotilaiden perheille.</p>
+  <p>Brookings-instituutin edustajan Salaman Shaikhin mielestä kapinalliset ovat jo nyt antaneet valtavan iskun hallitukselle haastamalla sen otteen Alepposta. Hän uskoo armeijan käyttävän koko voimaansa estääkseen kaupungin päätymisen vastapuolen haltuun.</p>
+  <p>&#8211;&#8201; Jos Alepposta tulee Bengasin kaltainen vapaakaupunki, loppu on lähellä. Mutta taistelusta tullee pitkä, Shaikh arvioi.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95867674" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T15:33:21</versionCreated>
+<firstCreated>2012-07-28T15:33:17</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.noc.fi" residref="urn:newsml:stt.fi:wwwlink:0000312">
+<title>Suomen Olympiakomitea</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.olympic.org" residref="urn:newsml:stt.fi:wwwlink:0000319">
+<title>Official website of the Olympic Movement</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T15:33:17</contentCreated>
+<contentModified>2012-07-28T15:33:21</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:106">
+<name>stt 106</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74658">
+<name>Olympialaiset: Kultaharkko olympiamenestyksen kyytipoikana.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97757719">
+<name>Olympialaiset: Kultaharkko olympiamenestyksen kyytipoikana.</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001987">
+<name>1987</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY KAINALO SUOMALAISTEN BONUKSISTA///</slugline>
+<dateline>Lontoo</dateline>
+<by/>
+<description role="drol:summary">XXX Kesäolympialaiset 2012 (-12.8.)</description>
+<headline>Malesialainen miljonääri lupasi kultaa kullasta</headline><creditline>STT&#8211;AFP-Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Malesialainen kaivospohatta on luvannut maan sulkapallojoukkueelle noin 520&#8201; 000 euron arvoisen kultakimpaleen ensimmäisestä kultamitalista.</p>
+  <p>Malesialainen urheilija ei ole kertaakaan noussut olympialaisissa palkintokorokkeen korkeimmalle kohdalle. Maa esiintyi ensi kerran olympialaisissa 1956. Sen jälkeen maan urheilijat ovat voittaneet kaksi hopeaa ja kaksi pronssia. Mitalit ovat tulleet sulkapalloilussa.</p>
+  <p>Miljonääri Andrew Kam on sulkapallointoilija ja kualalumpurilaisen sulkapalloseuran puheenjohtaja. Hän halusi auttaa pelaajia.</p>
+  <p>&#8211;&#8201; Tavoitteena on toteuttaa tämä unelma, ja saavuttaa vaikeasti tavoitelteva kultamitali, jota maamme ei ole vielä saavuttanut, Kam sanoi.</p>
+  <p>Joukkueen ykkösehdokas kultamitalistiksi on maailmanlistan kärjessä neljä vuotta pysynyt Lee Chong Wei, joka kohtaa olympiaturnauksessa Ville Långin ensimmäisellä kierroksella. Lee putosi tovi sitten maailmanlistalla toiseksi.</p>
+  <p>Lee oli lähellä kultaa neljä vuotta sitten Pekingissä, mutta hävisi loppuottelussa kiinalaiselle Lin Danille, joka on nykyisin maailmanlistan kärjessä. Lee voitti Pekingissä hopeaa.</p>
+  <p>Lee loukkasi nilkkansa toukokuussa Wuhanissa, kärrättiiin peliareenalta pyörätuolilla ja on sen jälkeen kuntouttanut jalkaa mm. kantasoluhoidolla.</p>
+  <p>Malesian hallitus tarjoaa kultamitalista 260&#8201; 000 euron palkkiota minkä tahansa urheilun edustajalle. Malesialaiset osallistuvat Lontoossa sulkapalloilun ohella uimahyppyihin, pyöräilyyn, jousiammuntaan, uintiin, ampumiseen, purjehdukseen ja yleisurheiluun. Myös malesialaiset liikeyritykset ovat luvanneet tuntuvia palkkioita kultamitalista.</p>
+  <p>Kiinalaiset ovat sulkapalloilussa suosikkeja. Olympialaisissa sulkapallo tuli ensi kerran ohjelmaan Barcelonassa 1992, ja sen jälkeen jaetuista 24 kultamitalista 23 on mennyt kiinalaiselle, indonesialaiselle tai eteläkorealaiselle pelaajalle. Tanskalainen Poul-Erik Höyer Larsen voitti kaksinpelin Atlantassa.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

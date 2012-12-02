@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120804:95905130" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-04T16:23:32</versionCreated>
+<firstCreated>2012-08-04T16:16:49</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-08-04T16:16:49</contentCreated>
+<contentModified>2012-08-04T16:23:32</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:134">
+<name>stt 134</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76060">
+<name>Halonen Twitterissä: Rontti lähti Miskan luo</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97823771">
+<name>Halonen Twitterissä: Rontti lähti Miskan luo</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000902">
+<name>902</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:8000000">
+<name>Human interest</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8001000">
+<name>Eläimet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8000000">
+<name>Human interest</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8003000">
+<name>Ihmiset human interest</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:8003002">
+<name>Julkisuuden henkilöt</name>
+</subject>
+<slugline>///LEHTIVERSIO UUSITAAN POLITIIKAN KOODILLA///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Halonen Twitterissä: "Rontti lähti Miskan luo"</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Presidentti Tarja Halonen kertoi lauantaina Twitterissä kissansa Rontin kuolleen.</p>
+  <p>"Totuttelua elämään ilman kissaa", presidentti tulkitsi tuntojaan. "Rontti lähti Miskan luo", arvioi Halonen puolestaan Rontin määränpäätä.</p>
+  <p>Miska menehtyi viime kesänä syöpään. Siitäkin kansakunta kuuli Twitteristä: "Surullinen kesäuutinen. Sairaus voitti Miska-kissamme 15.7.", Halonen silloin viestitti.</p>
+  <p>Rontti ei ottanut Miskan kuolemaa raskaasti.</p>
+  <p>&#8211;&#8201; Päinvastoin. Rontista on tullut sen jälkeen paljon reippaampi, Halonen kertoi Helsingin Sanomille viime elokuussa.</p>
+  <p>Miska menehtyi 16-vuotiaana. Rontti, joka nimestään huolimatta myös oli tyttö, eli 18-vuotiaaksi.</p>
+  <p>Molemmat maatiaiskissat olivat alun perin Halosen Anna-tyttären, mutta ne olivat olleet presidentin hoidossa.</p>
+  <p>Halosella on lemmikkinä myös kaksi punakorvakilpikonnaa, Miki ja Kiki.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

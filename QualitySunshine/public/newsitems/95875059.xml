@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95875059" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T20:07:02</versionCreated>
+<firstCreated>2012-07-29T20:06:59</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:update"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T20:06:59</contentCreated>
+<contentModified>2012-07-29T20:07:02</contentModified>
+<located type="loctype:City">
+<name>Turku</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:189">
+<name>stt 189</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75167">
+<name>Ukkoset koettelivat kesän festareita</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97765658">
+<name>Down By The Laituri -tapahtuma keskeytettiin ukkosmyrskyn vuoksi</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000934">
+<name>934</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:6898"/>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3004000">
+<name>Tulipalot </name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1004000">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3007000">
+<name>Säätuhot</name>
+</subject>
+<slugline>///PÄIVITETTY LEHTIVERSIO SOPII KAINALOKSI SÄÄJUTTUUN///</slugline>
+<dateline>Turku</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Salamointi keskeytti viikonlopun festivaaleja</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6898">
+<name>Turku</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:304">
+<name>Turku</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:26">
+<name>Varsinais-Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Rajut sade- ja ukkoskuurot koettelivat viikonlopun kesätapahtumia. Turussa kaupunkifestivaali Down By The Laituri jouduttiin keskeyttämään sunnuntain vastaisena yönä, kun ukkosmyrsky iski kaupungin ylle. Festivaalin päätösesiintyjä Dingo joutui lopettamaan keikkansa etuajassa.</p>
+  <p>Hätäkeskuksesta arvioidaan, että yleisö ymmärsi ratkaisun ja tyytyi siihen.</p>
+  <p>Ukkonen ja sade yllättivät myöhään lauantai-iltana myös Raaseporissa Uudellamaalla järjestetyn etnofestivaali Facesin kävijät. Pelle Miljoonan puolilta öin alkanut keikka jouduttiin lopettamaan ennen aikojaan turvallisuussyistä, kun salamointi yltyi rajuksi.</p>
+  <p>Satakunnassa Harjavallassa Karmarock joutui niin ikään ukkosmyrskyn kouriin. Viimeisenä esiintyneen Paprika Korps -yhtyeen keikka jouduttiin keskeyttämään salamoinnin takia. Loppuunmyydyssä festivaalissa juhli järjestäjien mukaan noin 2&#8201; 500 ihmistä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120806:95913236" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-06T16:22:51</versionCreated>
+<firstCreated>2012-08-06T16:22:24</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0005">
+<name>Tausta</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-06T16:22:24</contentCreated>
+<contentModified>2012-08-06T16:22:51</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:152">
+<name>stt 152</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75452">
+<name>Miten asiantuntijat kommentoivat Suomen talouden näkymiä? VM on kertonut heikentävänsä ensi vuoden talousennustetta.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97836725">
+<name>Mitkä ovat ensi vuoden budjetin kiinnostavimmat ja kiistellyimmät kysymykset?</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002397">
+<name>2397</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:12223"/>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006000">
+<name>Julkinen hallinto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006009">
+<name>Ministerit</name>
+</subject>
+<slugline>///TAUSTA KYSYMYS-VASTAUS-PÄÄJUTTUUN///</slugline>
+<dateline>Helsinki</dateline>
+<by>OLLI KEMPPAINEN</by>
+<description role="drol:summary">Paikalla ovat myös hallinto- ja kuntaministeri Henna Virkkunen ja ministeriön muu johto. Urpilainen on toimittajien tavattavissa lounastauolla maanantaina 6.8. n. klo 12. Neuvottelujen päätyttyä Urpilainen pitää tiedotustilaisuuden Munkkiniemen vierastalolla. Tarkka aika ilmoitetaan myöhemmin.
+</description>
+<headline>Kilometrikorvauksista ja kotitalousvähennyksestä riidan siemeniä</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:12223">
+<name>Valtion vierastalo</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.1931,+24.8736</definition>
+<geoAreaDetails>
+<position latitude="60.193057" longitude="24.873584"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Kalastajatorpantie3</line>
+<postalCode>HELSINKI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Valtion ensi vuoden budjetin linjat päätettiin jo keväällä</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Valtion ensi vuoden budjetin päälinjat lyötiin lukkoon jo viime keväänä. Elokuussa lomiltaan palaavat poliitikot joutuvat hakemaan kuntavaalien lähestyessä riidan aiheet muun muassa omalla autollaan työajoja ajavien kilometrikorvausten leikkaamisesta ja kotitalousvähennyksen tasosta.</p>
+  <p>Valtiovarainministeriö on laatinut esityksen, jossa verovapaa kilometrikorvaus laskisi nykyisestä 45 sentistä 43 senttiin. 15&#8201; 000 korvatun kilometrin jälkeen korvaus putoaisi 25 senttiin kilometriltä.</p>
+  <p>Ammattiyhdistysliikkeessä on noustu esityksestä takajaloilleen, ja paine tuntuu varmaan myös ay-liikkeeseen tukeutuvan SDP:n eduskuntaryhmän kokouksessa Savonlinnassa keskiviikkona ja torstaina.</p>
+  <p>Oppositiossa olevan keskustan tuore puheenjohtaja Juha Sipilä pääsi jo maanantain herkuttelemaan asialla.</p>
+  <p>&#8211;&#8201; Korvaus oman auton käytöstä pitää osaltaan Suomea liikkeellä ja toimeliaana. Jos tuo toimeliaisuus vähenee nyt tehtyjen päätösten seurauksena, putoavat vastaavasti muut verotulot, Sipilä kirjoitti blogissaan.</p>
+  <p></p>
+  <p>
+<h3>Kokoomus mielii korottaa kotitalousvähennystä</h3>
+</p>
+  <p></p>
+  <p></p>
+  <p>Keväällä sovittuun ensi vuoden kehykseen jätettiin pelivaraa 166 miljoonaa euroa. Kokoomus on jo iskenyt siihen silmänsä, sillä eduskuntaryhmän varapuheenjohtaja Petteri Orpo (kok.) on jo puhunut tämän vuoden alusta pienennetyn kotitalousvähennyksen korottamisesta.</p>
+  <p>Peruspalveluministeri Maria Guzenina-Richardson (sd.) taas kaipaisi vanhuspalvelulakiin kirjausta hoitajien vähimmäismäärästä vanhusten ympärivuorokautisessa hoidossa. Kunnat haluavat, että valtio antaa siihen myös rahat.</p>
+  <p>Lisää vaatimuksia tulee pitkin elokuuta, sillä tällä viikolla kokoontuvien sosiaalidemokraattien jälkeen ensi viikolla on koolla kokoomuksen ministeriryhmä Oulussa.</p>
+  <p>Seuraava viikko on politiikan eräänlainen superviikko, kun koolla on kokoomuksen eduskuntaryhmä Kouvolassa ja Lahdessa, SDP:n ministeriryhmä ja RKP:n eduskuntaryhmä Raaseporissa, vasemmistoliiton eduskuntaryhmä Hämeenlinnassa ja vihreiden sekä kristillisdemokraattien eduskuntaryhmät Oulussa. Omaa lusikkaansa soppaan uittaa myös oppositiossa olevan keskustan eduskuntaryhmä Turussa.</p>
+  <p>Perussuomalaiset ovat koolla elokuun viimeisellä viikolla Savonlinnassa. Hallituksen budjettineuvottelut eli budjettiriihi pidetään 29.&#8211;30. elokuuta.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

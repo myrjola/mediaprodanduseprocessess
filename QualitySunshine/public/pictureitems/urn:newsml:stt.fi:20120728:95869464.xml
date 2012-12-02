@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120728:95869464" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T08:40:25</versionCreated>
+<firstCreated>2012-07-28T08:40:21</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T08:40:21</contentCreated>
+<contentModified>2012-07-28T08:40:25</contentModified>
+<located type="loctype:City">
+<name>Madrid/Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:033" type="cpnat:runnumber">
+<name>stt 033</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75102" type="cpnat:topic">
+<name>El Pais: Espanjalaiset solmivat lumeliittoja Brasiliaan saadakseen töitä</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97760537" type="cpnat:textpackageid">
+<name>El Pais: Espanjalaiset solmivat lumeliittoja Brasiliaan saadakseen töitä</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000805" type="cpnat:length">
+<name>805</name>
+</subject>
+      <subject qcode="sttdepartment:0014" type="cpnat:department">
+         <name>Ulkomaat</name>
+      </subject>
+<subject qcode="subj:9000000" type="cpnat:category">
+<name>Työelämä</name>
+</subject>
+<subject qcode="subj:9009000" type="cpnat:category">
+<name>Työttömyys</name>
+</subject>
+<subject qcode="subj:14000000" type="cpnat:category">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject qcode="subj:14006000" type="cpnat:category">
+<name>Perhe</name>
+</subject>
+<subject qcode="subj:14006003" type="cpnat:category">
+<name>Avioliitto</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Madrid/Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>El Pais: Espanjalaiset solmivat lumeliittoja saadakseen töitä</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suurtyöttömyyden piinaamat espanjalaiset ovat ryhtyneet solmimaan lumeavioliittoja ulkomaille, erityisesti Brasiliaan, saadakseen työluvan ja töitä, kertoo sanomalehti El Pais. Vuonna 2010 Espanjasta tehtiin Brasiliaan avioliiton perusteella yli 6  000 viisumihakemusta, mikä oli lähes kaksi kertaa niin paljon kuin vuotta aiemmin.</p>
+  <p>Viime vuonna lukema tosin putosi noin 3  500:aan.</p>
+  <p>Brasilia on haluttu kohde, koska maan työttömyysaste on vain noin viisi prosenttia. Espanjassa se on liki 25. Lumeliitot ovat suosittu konsti livahtaa maan työmarkkinoille, koska se helpottaa vaivalloista byrokratiaa huomattavasti.</p>
+  <p>Espanjan tilastokeskuksen mukaan Brasiliassa asuu noin 100  000 espanjalaista. Määrä on kasvanut parissa vuodessa yli neljänneksellä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="312" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/75521b43-1f65-4f4f-b7a3-85d8c731faf3.jpg" rendition="rnd:web" size="3489408" version="1" width="466"/>
+   </contentSet>
+</newsItem>

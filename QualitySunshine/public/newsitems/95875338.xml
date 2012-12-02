@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95875338" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T21:07:31</versionCreated>
+<firstCreated>2012-07-29T21:07:27</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T21:07:27</contentCreated>
+<contentModified>2012-07-29T21:07:31</contentModified>
+<located type="loctype:City">
+<name>Mafraq</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:222">
+<name>stt 222</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75236">
+<name>Jordania avasi ensimmäisen leirin Syyrian pakolaisille</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97770506">
+<name>Jordania avasi ensimmäisen leirin Syyrian pakolaisille</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000963">
+<name>963</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11011000">
+<name>Pakolaiset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16009000">
+<name>Sodat</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Mafraq</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Jordania avasi ensimmäisen leirin Syyrian pakolaisille</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Jordania on avannut Syyrian sisällissotaa paenneille tarkoitetun leirin. </p>
+  <p>Jordanian ulkoministeri Nasser Judehin mukaan maahan pakenee päivittäin tuhat, kaksituhatta syyrialaista. </p>
+  <p>&#8211;&#8201; Teemme parhaamme taataksemme turvaa pakolaisille samalla, kun etsimme poliittista ratkaisua Syyrian verilöylyn lopettamiseksi, Judeh sanoi sunnuntaina avatessaan Mafraqissa, Syyrian ja Jordanian rajan tuntumassa sijaitsevan leirin. Leirille mahtuu 120&#8201; 000 pakolaista. </p>
+  <p>Ulkoministerin mukaan Jordaniassa on nyt noin 142&#8201; 000 syyrialaispakolaista, joista 36&#8201; 000 YK:n rekisteröimiä. Toistaiseksi heistä suurin osa on voinut majoittua sukulaistensa luo.</p>
+  <p>Syyrialaisia on paennut myös Algeriaan. Algerian viranomaiset ovat arvioineet, että maassa on noin 12&#8201; 000 syyrialaispakolaista. Syyrian opposition mukaan heitä on jopa 20&#8201; 000.</p>
+  <p>Algeriassa harkitaan pakolaisten majoittamista kouluihin, jotka ovat kesälomien takia suljettuina.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

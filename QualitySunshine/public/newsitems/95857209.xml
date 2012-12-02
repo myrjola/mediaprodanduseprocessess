@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95857209" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T10:15:25</versionCreated>
+<firstCreated>2012-07-28T10:15:00</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T10:15:00</contentCreated>
+<contentModified>2012-07-28T10:15:25</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:050">
+<name>stt 050</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74613">
+<name>Miten sateinen kesä on vaikuttanut pohjavesitilanteeseen eri puolilla Suomea?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97737691">
+<name>Miten sateinen kesä on vaikuttanut pohjavesitilanteeseen eri puolilla Suomea?</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001943">
+<name>1943</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17004000">
+<name>Säätilastot Sääilmiöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6000000">
+<name>Ympäristö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6010000">
+<name>Vesivarat</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY KAINALO RANKKASATEIDEN VAIKUTUKSISTA TURVEPÄÄSTÖIHIN.///</slugline>
+<dateline>Helsinki</dateline>
+<by>KIIRA KOSKELA</by>
+<description role="drol:summary"/>
+<headline>Sadekesä on nostanut pohjavesien pinnat korkealle</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Pintaveden pääsy kaivoon voi saastuttaa veden</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Pohjavesien pinnat ovat suuressa osassa maata tavanomaista korkeammalla, kerrotaan Suomen ympäristökeskuksesta.</p>
+  <p>&#8211;&#8201; Meillähän oli jo valmiiksi hyvä tilanne. Talvella oli paljon lunta ja syksyllä sateita, minkä lisäksi kesällä on satanut reippaasti, sanoo geohydrologi Risto Mäkinen Suomen ympäristökeskuksesta.</p>
+  <p>Pohjavesien pinnat ovat Mäkisen mukaan 20&#8211;30 senttiä yli ajankohdan keskimääräisen. Tilanne on melko samanlainen ympäri Suomen.</p>
+  <p>&#8211;&#8201; Kainuussa ja Itä-Suomessa pinnat ovat vähän korkeammalla, koska näillä paikoilla sateita on ollut vielä enemmän.</p>
+  <p></p>
+  <p>
+<h3>Kesäisin pinnat laskevat</h3>
+</p>
+  <p></p>
+  <p>Pienissä pohjavesimuodostumissa pinnankorkeudet ovat ympäristökeskuksen mukaan laskussa koko maassa, kuten kesällä on tavallista. Tänä vuonna lasku on ollut lämpimiä kesiä vähäisempää. Kasvillisuus haihduttaa vettä silti sadekesänäkin.</p>
+  <p>&#8211;&#8201; Voi sanoa, että kesällä pitää sataa yli 50 milliä, jotta uutta pohjavettä muodostuu laisinkaan, Mäkinen toteaa.</p>
+  <p>Suurissa muodostumissa pohjavesien pinnat ovat sen sijaan nousussa, sillä niiden vesivarannot täydentyvät kuukausien tai jopa vuosien viipeellä.</p>
+  <p></p>
+  <p>
+<h3>Pintavesi voi päästä kaivoon</h3>
+</p>
+  <p></p>
+  <p>Sadekesänä vaarana on se, että kaivovesi saastuu veteen päässeiden bakteereiden vuoksi. Kaivon kansi- ja rengasrakenteissa ei saisi olla aukkoja, joista pintavesi tai eläimet pääsevät kaivoon.</p>
+  <p>&#8211;&#8201; Muutamasta vatsatautitapauksesta olen tänä vuonna kuullut, mutta en mistään epidemioista. Olen oikeastaan ihmetellytkin tätä, mutta ehkä vuosien varrella on opittu jotain, Mäkinen kertoo.</p>
+  <p>Kaivon renkaan ja kannen tiiviys kannattaa tarkistaa, koska ylimmän renkaan liikkuminen on talvella roudan takia tavallista. Valumavesien poistumisesta kaivon rakenteista pitää myös huolehtia.</p>
+  <p>&#8211;&#8201; Yleensä riittää, että kaivo on montun sijaan pienen kukkulan laella, Mäkinen toteaa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

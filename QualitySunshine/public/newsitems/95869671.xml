@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95869671" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T10:47:13</versionCreated>
+<firstCreated>2012-07-28T10:46:47</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T10:46:47</contentCreated>
+<contentModified>2012-07-28T10:47:13</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:055">
+<name>stt 055</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75109">
+<name>Pyöräilijöitä pidätettiin olympia-avajaisten aikana</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97760957">
+<name>Pyöräilijöitä pidätettiin</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000451">
+<name>451</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Lontoo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Yli sata pyöräilijää pidätettiin olympia-avajaisten aikana</headline><creditline>STT&#8211;AP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Poliisi pidätti runsaat sata pyöräilijää Lontoon olympiakisojen avajaisten aikana. Mieltään osoittaneet pyöräilijät yrittivät tunkeutua poliisiketjun läpi olympiapuiston alueelle.</p>
+  <p>Poliisi ja pyöräilijät joutuivat käsikähmään, mutta poliisi ei kertonut kenenkään loukkaantuneen vakavasti. Poliisin mukaan pidätetyt kuuluivat pyöräilyaktivistien ryhmään, joka kokoontuu joka kuukausi ajamaan.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

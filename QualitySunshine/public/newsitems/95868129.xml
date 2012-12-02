@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95868129" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T21:55:51</versionCreated>
+<firstCreated>2012-07-27T21:55:47</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0013">
+<name>Tulokset</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T21:55:47</contentCreated>
+<contentModified>2012-07-27T21:55:51</contentModified>
+<located type="loctype:City">
+<name>Trento</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:229">
+<name>stt 229</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75039">
+<name>Muut tulokset</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97758505">
+<name>Koripallotulos/Italian turnaus</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000435">
+<name>435</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15008000">
+<name>Koripallo</name>
+</subject>
+<slugline/>
+<dateline>Trento</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Koripallotulos/Trenton turnaus</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Trento:</p>
+  <p>Koripallon miesten turnaus:</p>
+  <p>Bosnia-Hertsegovina&#8211;Suomi 74&#8211;86 (42&#8211;40).</p>
+  <p>Suomi: Petteri Koponen 18/3/4 syöttöä, Hanno Möttölä 12/5, Sasu Salin 11/1, Shawn Huff 10/7, Ville Kaunisto 8/4, Kimmo Muurinen 8/3, Tuukka Kotti 6/5, Antto Nikkarinen 4/2, Vesa Mäkäläinen 4/1, Mikko Koivisto 3/5, Roope Ahonen 2/1.</p>
+  <p>Bosnia-Hertsegovina: Mirza Teletovic 29/8, Elmedin Kikanovic 17/8, Zach Wright 8/5/10 syöttöä.</p>
+  <p></p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

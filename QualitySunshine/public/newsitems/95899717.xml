@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120803:95899717" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-03T14:46:06</versionCreated>
+<firstCreated>2012-08-03T14:46:01</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-03T14:46:01</contentCreated>
+<contentModified>2012-08-03T14:46:06</contentModified>
+<located type="loctype:City">
+<name>Urjala</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:142">
+<name>stt 142</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75282">
+<name>Esikoiskirjailija on nykyään usein keski-ikäinen perheenisä tai -äiti</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97813707">
+<name>Kirjailijan eläke tulee Melasta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000894">
+<name>894</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:6903"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1010000">
+<name>Kirjallisuus</name>
+</subject>
+<slugline>///KAINALO LIITTYY ESIKOISKIRJAILIJAJUTTUUN///</slugline>
+<dateline>Urjala</dateline>
+<by/>
+<description role="drol:summary">Pentinkulman päivät -kirjallisuustapahtumaan liittyy perinteisesti esikoiskirjailijoiden seminaari. Jututetaan paria kirjailijaa ja jotakuta seminaarin ohjaajaa siitä, mitä esikoiskirjan julkaiseminen tuo elämään.</description>
+<headline>Mela teki parhaan eläketarjouksen</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6903">
+<name>Urjala</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:311">
+<name>Urjala</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:27">
+<name>Pirkanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Yksi esikoiskirjailijaseminaarin tehtävistä on tarjota opastusta käytännön asioissa. Esimerkiksi siitä, että apurahojen perusteella voi nykyään saada eläkettä.</p>
+  <p>Kirjailijoiden eläkekassa on Mela eli Maatalousyrittäjien eläkelaitos, joka hoitaa viljelijöiden, kalastajien ja poronhoitajien työeläkevakuutuksia.</p>
+  <p>&#8211;&#8201; Mela teki parhaan tarjouksen, selittää Tommi Parkko, yksi seminaarin vastuuhenkilöistä.</p>
+  <p>Apurahoja ei kaikille riitä, ja toimeentulo pelkällä kirjallisella työllä on usein epävarmaa. Niinpä osa kirjailijoista jatkaa vanhassa työssään ja pitää kirjoittamista kakkosammattina. </p>
+  <p>Suomessa noin joka viides esikoiskirjan julkaissut ei enää julkaise toista teosta. Kirjailijaliiton jäseneksi voi päästä vasta kahden kirjan jälkeen.</p>
+  <p>&#8211;&#8201; Monet toivovat, että Kirjailijaliitossa olisi jonkinlainen oppilasjäsenyys, kertoo Parkko.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

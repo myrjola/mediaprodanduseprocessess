@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873358" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T09:51:42</versionCreated>
+<firstCreated>2012-07-29T09:51:39</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T09:51:39</contentCreated>
+<contentModified>2012-07-29T09:51:42</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:030">
+<name>stt 030</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75169">
+<name>Kesän pahimmat ukkosmyrskyt riepottelevat Suomea</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97766100">
+<name>Kesän pahimmat ukkosmyrskyt riepottelevat Suomea</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000485">
+<name>485</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17003000">
+<name>Säätiedotteet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17004000">
+<name>Säätilastot Sääilmiöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17001000">
+<name>Sääennusteet</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Salama- ja lämpöennätys luvassa tänään</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Kesän salama- ja lämpöennätykset rikkoutuvat todennäköisesti tänään kostean ja lämpimän ilmamassan ansiosta. Lämpötila voi nousta Itä- ja Kaakkois-Suomessa 30 asteeseen ja jopa ylikin, kerrotaan Ilmatieteen laitokselta. </p>
+  <p>Salamoinnissa koettiin eilen kesän vilkkain päivä, liki 3&#8201; 700 salamaa. Tänään luku oli jo aamuyhdeksältä lähellä 2&#8201; 900:aa. </p>
+  <p>Kesän tähänastinen lämpöennätys on 28,5 astetta, joka mitattiin heinäkuun alkupuolella Hämeenlinnassa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

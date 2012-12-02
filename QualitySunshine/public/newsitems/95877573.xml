@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95877573" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T16:38:12</versionCreated>
+<firstCreated>2012-07-30T16:38:08</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T16:38:08</contentCreated>
+<contentModified>2012-07-30T16:38:12</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:166">
+<name>stt 166</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74817">
+<name>Työeläkemaksut nousevat lähivuosina</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97774017">
+<name>Talouden epävarmuus lisää työeläkemaksujen nousupaineita</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002338">
+<name>2338</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008034">
+<name>Yritykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008023">
+<name>Rahoitusmarkkinat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:9000000">
+<name>Työelämä</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:9006000">
+<name>Eläkkeet Eläköityminen</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY GRAFIIKKAA JA MINIFAKTA.///</slugline>
+<dateline>Helsinki</dateline>
+<by>PAULIINA PIETILÄ</by>
+<description role="drol:summary">Työeläkemaksuihin kohdistuu nousupainetta. Eläketurvakeskuksen ennusteen mukaan vuonna 2030 eläkemenot nousevat suuremmaksi kuin maksut. Uusi laki pyrkii turvaamaan työeläkelaitosten sijoitustoimintaa.</description>
+<headline>Talouden epävarmuus voi nostaa työeläkemaksuja</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Työeläkeyhtiöiden sijoitusnäkymät ovat heikentyneet</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Talouden epävarmuus ja siitä johtunut osakekurssien lasku on heikentänyt myös eläkeyhtiöiden sijoitustuottoja. Tuottojen heikkeneminen voi lisätä työeläkemaksujen nostopaineita. Jos sijoitustuotot jäävät liian alas, on vajetta korvattava maksuja korottamalla. </p>
+  <p>&#8211;&#8201; Nykyiset sijoitustuottonäkymät ovat kohtuullisen heikot Euroopan finanssikriisin takia, sanoo Eläketurvakeskuksen (ETK) toimitusjohtaja Jukka Rantala. </p>
+  <p>Hän kertoo, että vuoden 2008 finanssikriisi alensi eläkeyhtiöiden sijoitusten arvoja noin 15 prosenttia.</p>
+  <p>&#8211;&#8201; Se oli kova pudotus. Sitten tuli kova nousu, mutta vuotta 2008 edeltäviin tuottoihin ei ole päästy. Siinä voi mennä pitkään, Rantala sanoo.</p>
+  <p>Työeläkevakuuttajien TELA:n analyysitoimintojen johtaja Reijo Vanne uskoo, että velkakriisistä johtuva talouden epävarmuus haittaa sijoitusten tuottoja myös lähitulevaisuudessa, mutta tuskin enää 30 vuoden päästä.</p>
+  <p>Nyt työeläkemaksun osuus palkasta on 22,8 prosenttia. Maksuihin kohdistuu Eläketurvakeskuksen laskelmien mukaan korotuspaineita vuoteen 2030 asti. Sen jälkeen maksu jäisi 26 prosenttiin, eikä nostopaineita enää olisi.</p>
+  <p>&#8211;&#8201; Tämä perustuu siihen, että työeläkeyhtiöiden sijoitustuotoissa olisi 3,5 prosentin reaalinen vuotuinen keskituotto, Vanne kertoo.</p>
+  <p>&#8211;&#8201; Juuri nyt ei näytä siltä, että siihen päästäisiin lähiaikoina. Pidän sitä pitemmällä aikavälillä mahdollisena, mutta en helppona.</p>
+  <p></p>
+  <p>
+<h3>Uusi laki hillitsemään nostopaineita</h3>
+</p>
+  <p></p>
+  <p>Laki eläkelaitosten riskinkantokyvystä vahvistettiin reilu viikko sitten. Sen tarkoitus on turvata laitosten sijoitustuottoja. Riskinkantokykyä vahvistetaan niin kutsutulla vakavaraisuuspääomalla. </p>
+  <p>&#8211;&#8201; Jos vakavaraisuus on vähäinen, ei voida ottaa riskiä. Jos sijoitukset olisivat niin varmoja kuin voivat, saisimme hyvin matalia tuottoja, ja tulevaisuudessa pitäisi maksaa enemmän työeläkemaksuja, Vanne selvittää.</p>
+  <p>Keskimääräinen työeläke oli viime vuonna reilut 1&#8201; 400 euroa kuukaudessa. Eläketurvakeskuksen ennusteen mukaan vuonna 2050 se nousee hieman yli 2&#8201; 200 euroon.</p>
+  <p>Silloin eläke olisi kuitenkin enää alle 45 prosenttia omasta palkasta, kun se viime vuonna vastasi noin puolta palkasta.</p>
+  <p>&#8211;&#8201; Prosentti riippuu ratkaisevasti siitä, miten pitkään työura kestää, Vanne TELA:sta huomauttaa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

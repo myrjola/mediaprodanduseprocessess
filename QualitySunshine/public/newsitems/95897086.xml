@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95897086" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T21:29:22</versionCreated>
+<firstCreated>2012-08-02T21:29:18</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T21:29:18</contentCreated>
+<contentModified>2012-08-02T21:29:22</contentModified>
+<located type="loctype:City">
+<name>Oulu</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:302">
+<name>stt 302</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75838">
+<name>Luottamusmies: Nokia vähentänee Oulusta 700 henkilöä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97808640">
+<name>Luottamusmies: Nokia vähentänee Oulusta 700 henkilöä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002234">
+<name>2234</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:10615"/>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016000">
+<name>Yritysinformaatio</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016025">
+<name>Irtisanomiset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003000">
+<name>Tietotekniikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4003006">
+<name>Matkapuhelimet Mobiililaitteet</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY GRAFIIKKAA JA ARKISTOKUVAA///</slugline>
+<dateline>Oulu</dateline>
+<by>JOUNI KELA, NIINA RINTALA</by>
+<description role="drol:summary"/>
+<headline>Nokialaisten kohtalo Oulussa: 700 lähtee, vain 500 jää</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:10615">
+<name>Oulu</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=65.0103,+25.4735</definition>
+<geoAreaDetails>
+<position latitude="65.0103" longitude="25.473499"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:205">
+<name>Oulu</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:23">
+<name>Pohjois-Pohjanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Kaupunginjohtaja yrittää kääntää ison muutoksen mahdollisuudeksi</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Matkapuhelinyhtiö Nokia karsii ennakoitua enemmän henkilöstöä Oulun yksiköstään. Valtaosin läpivietyjen yt-neuvottelujen perusteella Oulusta lähtee noin 700 työpaikkaa, kertoo Nokian ylempien toimihenkilöiden luottamushenkilö Mikko Merihaara. Irtisanottavien määrä arvioitiin alun perin reilut sata pienemmäksi.</p>
+  <p>Merihaaran mukaan valtaosa joutuu lähtemään jo tämän kuun aikana.</p>
+  <p>&#8211;&#8201; Vauhti oli hieman yllätys, mutta jo alkuun oli tiedossa, ettei Nokia sovella pitkiä irtisanomis- tai suoja-aikoja, hän kertoi torstai-iltana.</p>
+  <p>Osa työntekijöistä on jo ehtinyt reagoida. He ovat muuttaneet muualle tai perustaneet yrityksen.</p>
+  <p>&#8211;&#8201; Kyllähän tämä on valtava määrä. Nyt katsotaan, lähteekö Nokia kasvuun ja mihin suuntaan. Täällä on paljon epävarmuutta ja pelkoa siitä, katoaako Nokia lopulta Oulusta kokonaan, Merihaara luonnehti.</p>
+  <p>Ouluun jää vielä vajaat 500 työntekijää. Yksikkö keskittyy peruspuhelimiin liittyvään tuotekehitykseen.</p>
+  <p>STT ei tavoittanut illalla puoli kymmeneen mennessä Nokiaa kommentoimaan asiaa.</p>
+  <p></p>
+  <p>
+<h3>Toipuminen vie aikaa</h3>
+</p>
+  <p></p>
+  <p>Oulun kaupunginjohtajan Matti Pennasen mukaan vie pitkään, ennen kuin irtisanomisten tuomasta muutoksesta voidaan täysin toipua. Pennaselle irtisanomisten suuruusluokka ei tullut yllätyksenä.</p>
+  <p>&#8211;&#8201; Meillä on ollut tiedossa kesäkuusta asti, että luku on 600&#8211;700. Ikävää, että se on nyt yläkanttiin, Pennanen kommentoi STT:lle.</p>
+  <p>Hän näkee, että iso muutos täytyy kääntää mahdollisuudeksi.</p>
+  <p>Pennasen mukaan kaupunki tekee yhteistyötä yritysten ja valtion kanssa, jotta korvaavia työpaikkoja saataisiin muualta.</p>
+  <p>&#8211;&#8201; Panostamme siihen, että tänne pystyttäisiin perustamaan uusia yrityksiä ja löytämään uusia toimijoita. Vain sillä on kantavuutta pitkäjänteisesti.</p>
+  <p>Pennanen korostaa, että yhteistyötä on tehtävä koko Suomessa.</p>
+  <p>Viime perjantaina Nokia ilmoitti yt-neuvottelujen päättyneen Salossa. Siellä työpaikkansa menettää tehtaan alasajon vuoksi 780 henkeä.</p>
+  <p>Kesäkuussa yhtiö ilmoitti jättimäisistä irtisanomisista, joista Suomen osuus on noin 3&#8201; 700 työpaikkaa. Nämä vähennykset toteutetaan Nokian mukaan ensi vuoden loppuun mennessä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

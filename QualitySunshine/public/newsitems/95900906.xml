@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120906:95900906" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-09-06T12:25:03</versionCreated>
+<firstCreated>2012-09-06T12:24:59</firstCreated>
+<embargoed>2012-09-09T00:01:00</embargoed>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0017">
+<name>Poimintafakta</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>5</urgency>
+<contentCreated>2012-09-06T12:24:59</contentCreated>
+<contentModified>2012-09-06T12:25:03</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:091">
+<name>stt 091</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75902">
+<name>Viikon henkilö: Anna Kortelainen</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97815367">
+<name>Elämäntehtävänä kirjoittaminen</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000712">
+<name>712</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0004"><name>Kulttuuri</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7670"/>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1010000">
+<name>Kirjallisuus</name>
+</subject>
+<slugline>///POIMINTAFAKTA LIITTYY ANNA KORTELAISEN HAASTATTELUUN, JULKIVAPAA SUNNUNTAIN LEHDILLE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Elämäntehtävänä kirjoittaminen</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7670">
+<name>Helsinki</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.1712,+24.9326</definition>
+<geoAreaDetails>
+<position latitude="60.171162" longitude="24.93265"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kysyimme Anna Kortelaiselta, mitä seuraavista sanoista tulee mieleen.</p>
+  <p>Tavaratalo</p>
+  <p>&#8211;&#8201; Au Bon Marché. Maailman vanhin ja kaunein tavaratalo, joka sijaitsee Pariisin Seine-joen vasemmalla rannalla.</p>
+  <p>Valta</p>
+  <p>&#8211;&#8201; Tulee mieleen muutama kirja, jotka eivät mahtuneet 10 kirjaa vallasta -tv-sarjaan. Olisin halunnut esimerkiksi Elvi Sinervoa mukaan.</p>
+  <p>Mielikuvitus</p>
+  <p>&#8211;&#8201; Sisäinen elämä. Se oli isäni lausahdus, jolla hän tarkoitti sitä kun päälle päinkin näkee, että jotain tapahtuu.  Sisäinen elämä on älyn ja tunteen myllerrys. </p>
+  <p>Isoisä</p>
+  <p>&#8211;&#8201; Kaipuu. Kaipaan häntä vaikka en ole koskaan häntä tavannut.</p>
+  <p>Kirjoittaminen</p>
+  <p>&#8211;&#8201; Elämäntehtävä.</p>
+  <p></p>
+  <p></p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

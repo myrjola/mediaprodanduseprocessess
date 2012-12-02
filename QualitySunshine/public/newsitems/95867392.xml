@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95867392" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T18:35:23</versionCreated>
+<firstCreated>2012-07-27T18:35:21</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0013">
+<name>Tulokset</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.noc.fi" residref="urn:newsml:stt.fi:wwwlink:0000312">
+<title>Suomen Olympiakomitea</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.olympic.org" residref="urn:newsml:stt.fi:wwwlink:0000319">
+<title>Official website of the Olympic Movement</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-07-27T18:35:21</contentCreated>
+<contentModified>2012-07-27T18:35:23</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:181">
+<name>stt 181</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74393">
+<name>Olympialaiset: Lontoon olympiakisojen tulokset</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97757153">
+<name>Olympialaiset: jousiammunnan tulokset</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001091">
+<name>1091</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline/>
+<dateline>Lontoo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Jousiammuntatuloksia/olympia</headline><creditline>STT&#8211;TT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Lontoo:</p>
+  <p>Rankingkierroksen (72 nuolta) parhaat:</p>
+  <p>Miehet: 1) Im Dong-Hyun Etelä-Korea 699 (ME), 2) Kim Bubmin Etelä-Korea 698, 3) Oh Jin-Hyek Etelä-Korea 690, 4) Larry Godfrey Britannia 680, 5) Takaharu Furukawa Japani 679, 6) Gael Prevost Ranska 679, 7) Dai Xiaoxiang Kiina 678, 8) Crispin Duenas Kanada 678, 9) Romain Girouille Ranska 677, 10) Brady Ellison USA 676.</p>
+  <p>Naiset: 1) Ki Bo-Bae Etelä-Korea 671, 2) Lee Sung-Jin Etelä-Korea 671, 3) Tan Ya-Ting Taiwan 671, 4) Khatuna Lorig USA 669, 5) Lin Chia-En Taiwan 667, 6) Miki Kanie Japani 665, 7) Carina Christiansen Tanska 663, 8) Deepika Kumari Intia 662, 9) Ksenia Perova Venäjä 659, 10) Mariana Avitia Meksiko 659.</p>
+  <p>Kilpailut jatkuvat maanantaina 1. pudotuskierroksella, jossa ovat mukana kaikki 64 ampujaa sekä miehissä että naisissa.</p>
+  <p>Joukkuekilpailun rankingkierroksen parhaat:</p>
+  <p>Miehet: 1) Etelä-Korea 2&#8201; 087 (ME), 2) Ranska 2&#8201; 021, 3) Kiina 2&#8201; 019, 4) USA 2&#8201; 019, 5) Japani 2&#8201; 009, 6) Italia 1&#8201; 998.</p>
+  <p>Naiset: 1) Etelä-Korea 1&#8201; 993, 2) USA 1&#8201; 979, 3) Taiwan 1&#8201; 976, 4) Meksiko 1&#8201; 974, 5) Japani 1&#8201; 965, 6) Venäjä 1&#8201; 962.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

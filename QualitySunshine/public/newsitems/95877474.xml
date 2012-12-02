@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95877474" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T09:20:25</versionCreated>
+<firstCreated>2012-07-30T09:20:22</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T09:20:22</contentCreated>
+<contentModified>2012-07-30T09:20:25</contentModified>
+<located type="loctype:City">
+<name>Nokia,</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:046">
+<name>stt 046</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75263">
+<name>Hanavesi käyttökiellossa Nokian Kankaantaassa, sairastapauksia ei tiedossa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97773861">
+<name>Hanavesi käyttökiellossa Nokian Kankaantaassa, sairastapauksia ei tiedossa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000422">
+<name>422</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:6821"/>
+<subject type="cpnat:category" qcode="subj:6000000">
+<name>Ympäristö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6010000">
+<name>Vesivarat</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Nokia,</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Hanavesi käyttökiellossa Nokian Kankaantaassa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6821">
+<name>Nokia</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:194">
+<name>Nokia</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:27">
+<name>Pirkanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Hanavesi on käyttökiellossa Nokian Kankaantaan kaupunginosassa Pirkanmaalla. Asukkaille jaetaan vettä omiin astioihin.</p>
+  <p>Kaupungin tiedotteen mukaan vedessä on maku- ja hajuhaittoja, jotka johtuvat todennäköisesti pumpun rikkoutumisesta. Terveyskeskuksen tietoon ei ole tullut sairastapauksia.</p>
+  <p>Ongelmat vedessä havaittiin eilen. Nokian vesijohtoverkostoa huuhdellaan parhaillaan.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

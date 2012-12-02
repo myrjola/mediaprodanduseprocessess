@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95838827" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T09:00:12</versionCreated>
+<firstCreated>2012-07-30T09:00:03</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T09:00:03</contentCreated>
+<contentModified>2012-07-30T09:00:12</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:042">
+<name>stt 042</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:73740">
+<name>Miten yleisiä lumeavioliitot ovat Suomessa?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97701372">
+<name>Miten yleisiä lumeavioliitot ovat Suomessa?</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003202">
+<name>3202</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003000">
+<name>Poliisi</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003002">
+<name>Poliisitutkinta</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14003000">
+<name>Väestökysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14003002">
+<name>Maahanmuutto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006000">
+<name>Perhe</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14006003">
+<name>Avioliitto</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by>HEIKKI METSÄMÄKI</by>
+<description role="drol:summary"/>
+<headline>Suomi pysäyttää lumeliitolla maahan pyrkivät ennen rajaa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Tekaistu liitto olisi tulokkaalle portti maahan</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suomi pysäyttää lumeavioliitolla oleskelulupaa hakevan useimmiten jo rajojen ulkopuolella. Maahanmuuttovirasto teki viime vuonna lumeliittoon perustuvia kielteisiä oleskelulupapäätöksiä vähän yli 200. Maan rajojen sisäpuolella poliisi teki vastaavia päätöksiä alle 30.</p>
+  <p>Lumeavioliitto on useimmiten muodollisesti pätevä, vihkipaperit ovat kunnossa. Hakijan päämaalina on kuitenkin oleskelulupa, ei avioarki. </p>
+  <p>Lumeliittoja selvittelevät Maahanmuuttovirasto ja poliisi. Virasto on etulinjassa ja tutkii hakijat, jotka itse ovat ulkomailla.</p>
+  <p>&#8211;&#8201; Pyrimme estämään tilanteen, että maahan tullaan ilman edellytystä, kertoo Pauliina Helminen, tulosalueen johtaja Maahanmuuttovirastosta.</p>
+  <p>Poliisin heiniä ovat hakijat, jotka ovat jo maassa.</p>
+  <p>&#8211;&#8201; Kaksi suurinta ryhmää ovat kielteisen turvapaikkapäätöksen saaneet ja turistiviisumilla maahan saapuneet, kuvaa komisario Heli Aaltonen Helsingin ulkomaalaispoliisista hakijoita, joiden kohdalla lumeliittoepäilyjä on eniten.</p>
+  <p></p>
+  <p>
+<h3>Paperin punnitsijat</h3>
+</p>
+  <p></p>
+  <p>Maahanmuuttovirastossa lumeavioliittoja tutkitaan paperitietojen perusteella. Suomessa oleva perheenkokoaja ja ulkomailla asuva hakija täyttävät kumpikin oleskeluhakemuksensa, joita maahanmuuttoviranomaiset puntaroivat. Jos epäily lumeliitosta on riittävä, maahan pääsy evätään.</p>
+  <p>Pikainen avioliitto on aina viranomaisille hälytysmerkki.</p>
+  <p>&#8211;&#8201; Epäilyt heräävät myös esimerkiksi, jos puolisot antavat ristiriitaisia tietoja vaikkapa yhteiselämästä tai asuinpaikasta. Räikeimmissä tapauksissa avioliitosta on maksettu rahaa, Helminen listaa.</p>
+  <p>Lumeliittoja paljastuu eniten maista, joista tulee eniten oleskelulupahakemuksia. Venäjä, Thaimaa, Vietnam ja Turkki ovat kärkipäässä.</p>
+  <p>&#8211;&#8201; Lumeavioliitot eivät ole yhteen sukupuoleen tai johonkin maahan liittyvä ilmiö. Tyypillistä kuitenkin on, että turkkilainen hakija on mies, thaimaalainen nainen.</p>
+  <p>Useimmista viraston lumeliittoepäilyistä valitetaan. Hallinto-oikeuden koneessa jauhautuu keskimäärin vuosi.</p>
+  <p>&#8211;&#8201; Vuositasolla 20&#8211;40 prosenttia epäilyistä menee hallinto-oikeudessa nurin. Useimmiten olosuhteet ovat muuttuneet, kertoo Helminen oikeiksi liitoiksi jalostuneiden epäiltyjen lumeliittojen määrästä.</p>
+  <p></p>
+  <p>
+<h3>Rakkauden ammattilaiset</h3>
+</p>
+  <p></p>
+  <p>Lumeavioliittoa epäilevällä poliisilla on melkoinen etumatka Maahanmuuttoviraston työntekijään nähden. Hänellä on edessään ihminen, jonka sydäntä ja syitä vaaita.</p>
+  <p>&#8211;&#8201; Kuten itse leikillämme sanomme, olemme rakkauden ammattilaisia. Kuulemme tarinoita laidasta laitaan, liikuttaviakin. Työssä oppii kulttuureista paljon, kertoo komisario Heli Aaltonen.</p>
+  <p>Helsingin ulkomaalaispoliisissa työtä tekee vakituinen lupatutkintaryhmä.</p>
+  <p>&#8211;&#8201; Pyrimme kuulemaan kumpaakin puolisoa samaan aikaan. Näin ei tule tilannetta, että kotona sovittaisiin, mitä sanotaan.</p>
+  <p>Yhteen tapaukseen saatetaan käyttää paljon aikaa ja vaivaa. Koti- ja työpaikkakäyntejäkin tehdään.</p>
+  <p>&#8211;&#8201; Emme mene kotiin karmit kaulassa, yhteistyössä puolison kanssa sovitaan.</p>
+  <p>Poliisin satsaus palkitaan. Heidänkin päätöksistään valitetaan, mutta useimmiten poliisin kanta jää voimaan.</p>
+  <p>Jos lumeavioliitosta epäilty oleskeluluvan hakija ei valita, hänen on poistuttava maasta 30 vuorokauden sisällä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

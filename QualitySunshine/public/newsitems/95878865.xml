@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120730:95878865" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T15:57:22</versionCreated>
+<firstCreated>2012-07-30T15:56:54</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T15:56:54</contentCreated>
+<contentModified>2012-07-30T15:57:22</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:149">
+<name>stt 149</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75353">
+<name>Valuuttakurssit 30.7.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97776951">
+<name>Valuuttakurssit 30.7.</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000997">
+<name>997</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Valuuttakurssit</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>EKP:n julkaisemat euronkurssit klo 15.15</p>
+  <p></p>
+  <p>Valuutta / Valuutta euro</p>
+  <p></p>
+  <p>Australian dollari&#9;AUD&#9;1,1668</p>
+  <p>Brasilian real&#9;BRL&#9;2,4828</p>
+  <p>Bulgarian uusi lev&#9;BGN&#9;1,9558</p>
+  <p>Englannin punta&#9;GBP&#9;0,77985</p>
+  <p>Etelä-Afrikan randi&#9;ZAR&#9;10,0252</p>
+  <p>Etelä-Korean won&#9;KRW&#9;1 392,94</p>
+  <p>Filippiinien peso&#9;PHP&#9;51,262</p>
+  <p>Hongkongin dollari&#9;HKD&#9;9,4971</p>
+  <p>Indonesian rupia&#9;IDR&#9;11 591,31</p>
+  <p>Intian rupia&#9;INR&#9;68,0690</p>
+  <p>Israelin uusi sekeli&#9;ILS&#9;4,9458</p>
+  <p>Japanin jeni&#9;JPY&#9;95,78</p>
+  <p>Kanadan dollari&#9;CAD&#9;1,2297</p>
+  <p>Kiinan juan renminbi&#9;CNY&#9;7,8123</p>
+  <p>Kroatian kuna&#9;HRK&#9;7,5220</p>
+  <p>Latvian lati&#9;LVL&#9;0,6965</p>
+  <p>Liettuan liti&#9;LTL&#9;3,4528</p>
+  <p>Malesian ringgit&#9;MYR&#9;3,8593</p>
+  <p>Meksikon peso&#9;MXN&#9;16,2021</p>
+  <p>Norjan kruunu&#9;NOK&#9;7,4220</p>
+  <p>Puolan zloty&#9;PLN&#9;4,1207</p>
+  <p>Romanian uusi leu&#9;RON&#9;4,5635</p>
+  <p>Ruotsin kruunu&#9;SEK&#9;8,3488</p>
+  <p>Singaporen dollari&#9;SGD&#9;1,5268</p>
+  <p>Sveitsin frangi&#9;CHF&#9;1,2010</p>
+  <p>Tanskan kruunu&#9;DKK&#9;7,4385</p>
+  <p>Thaimaan baht&#9;THB&#9;38,673</p>
+  <p>Tšekin koruna&#9;CZK&#9;25,258</p>
+  <p>Turkin liira&#9;TRY&#9;2,2110</p>
+  <p>Unkarin forintti&#9;HUF&#9;279,70</p>
+  <p>Uuden-Seelannin dollari&#9;NZD&#9;1,5133</p>
+  <p>Venäjän rupla&#9;RUB&#9;39,3690</p>
+  <p>Yhdysvaltain dollari&#9;USD&#9;1,2246</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

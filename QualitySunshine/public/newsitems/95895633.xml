@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120806:95895633" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-06T12:50:45</versionCreated>
+<firstCreated>2012-08-06T12:50:18</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-06T12:50:18</contentCreated>
+<contentModified>2012-08-06T12:50:45</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:090">
+<name>stt 090</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75617">
+<name>Tutkija: Biopolttoaineiden käyttö johtaa elintarvikkeiden hintojen nousuun</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97795583">
+<name>Tutkija: Biopolttoaineiden käyttö johtaa elintarvikkeiden hintojen nousuun</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001158">
+<name>1158</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005000">
+<name>Energia Raaka-aineet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005011">
+<name>Fossiiliset polttoaineet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005000">
+<name>Energia Raaka-aineet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005003">
+<name>Öljy ja kaasu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4015000">
+<name>Liikenne</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005000">
+<name>Energia Raaka-aineet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005001">
+<name>Vaihtoehtoiset energialähteet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6000000">
+<name>Ympäristö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6001000">
+<name>Uusiutuvat energialähteet</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Biopolttoaineiden kulutus kasvaa. Esimerkiksi Yhdysvalloissa haluttaisiin luopua bioetanolivaatimuksista, koska maissisadot ovat jääneet pieneksi kuivuuden takia, ja tämä nostaa ruoan hintoja.</description>
+<headline>Yhdysvaltojen kuivuus herätti keskustelun biopolttoaineista</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Yhdysvaltoja piinaava kuivuus uhkaa nostaa elintarvikkeiden hintoja. Tämä on herättänyt keskustelun maan biopolttoainevaatimuksista. </p>
+  <p>Kuivuus on pienentänyt Yhdysvaltojen maissisatoa, josta 40% käytetään polttoaineisiin.</p>
+  <p>Elintarvikeyhtiö Cargillin toimitusjohtaja Gregory Page sanoi viime viikolla CNBC:n haastattelussa, että maissintuotannon väheneminen kasvattaa maissin kysyntää niin paljon, että hinnat voivat nousta jopa 40&#8211;50 prosenttia.</p>
+  <p>Pagen ja monien karjantuottajien mielestä Yhdysvaltojen biopolttoainevaatimuksia tulisi höllentää.</p>
+  <p>Myös Euroopassa biopolttoaineiden käyttö on lisääntynyt. Direktiivin mukaan EU-maiden liikenteen polttoaineista 10 prosentin tulisi koostua uusituvasta energiasta vuoteen 2020 mennessä.</p>
+  <p>Suomalaistutkijan mukaan erityisesti kasvipohjaiset biopolttoaineet ovat nostaneet ruoan hintaa.</p>
+  <p>&#8211;&#8201; Elintarvikkeiden kallistuminen alkoi siitä, kun biopolttoainetuotantoa alettiin tukea. Viljelijät saavat energiakasveista paremman hinnan kuin muista kasveista, sanoo maatalousteknologian erikoistutkija Winfried Schäfer Maa- ja elintarviketalouden tutkimuskeskus MTT:stä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

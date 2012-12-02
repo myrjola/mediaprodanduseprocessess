@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95871009" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T18:26:00</versionCreated>
+<firstCreated>2012-07-28T18:25:26</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.tampereopen.fi" residref="urn:newsml:stt.fi:wwwlink:0010505">
+<title>Tampere Open</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T18:25:26</contentCreated>
+<contentModified>2012-07-28T18:26:00</contentModified>
+<located type="loctype:City">
+<name>Tampere</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:151">
+<name>stt 151</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75056">
+<name>Tennis: Haastajaturnaus Tampere Open, naisten ja miesten kaksinpelien välierät ja nelinpelien loppuottelut</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97763216">
+<name>Tennis: Haastajaturnaus Tampere Open, naisten ja miesten kaksinpelien välierät ja nelinpelien loppuottelut</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001884">
+<name>1884</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:5856"/>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15065000">
+<name>Tennis</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Tampere</dateline>
+<by>TOMI SIREN</by>
+<description role="drol:summary"/>
+<headline>Henri Laaksonen taipui välierässä</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:5856">
+<name>Tampereen tenniskeskus</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=61.5093,+23.8435</definition>
+<geoAreaDetails>
+<position latitude="61.5093" longitude="23.84355"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:295">
+<name>Tampere</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:27">
+<name>Pirkanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Toimelankatu8</line>
+<postalCode>TAMPERE</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Eric Prodon hakee neljättä turnausvoittoaan Tampereella</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Henri Laaksosen urakka tenniksen 42&#8201; 000 euron ATP-haastajaturnauksessa päättyi tylysti lauantaina. Kilpailun ykkössijoitettu, Portugalin Joao Sousa, löi suomalais-sveitsiläisen välierässä lukemin 7&#8211;6 (7&#8211;5), 6&#8211;1.</p>
+  <p>Loppuottelussa Sousa (ATP-ranking 145.) kohtaa Tampereen-turnauksen peräti kolme kertaa voittaneen Ranskan Eric Prodonin (ATP-160).</p>
+  <p>Villillä kortilla kilpailuun yllätyskutsun saanut Laaksonen (ATP-467) taisteli tasapäisesti alkuun. </p>
+  <p>Hän menetti avauserän vastustajalleen, kun portugalilainen pystyi niin sanottuun minibreikkiin katkaisupelin 5&#8211;6-tilanteessa. Laaksonen oli ollut lupaavasti 5&#8211;4-johdossa, mutta eräpallotilanteessa hänen vahvuutensa petti ja kämmenlyönti painui keskikentältä pitkäksi.</p>
+  <p>&#8211;&#8201; Pienestä se oli taas kiinni. Sousa oli varma takakentältä, Laaksonen kertoi.</p>
+  <p>Kaikkiaan ensimmäistä erää tahkottiin jopa tasan tunti. Toinen taas valmistui läpihuutotahtiin, kun Sousa karkasi nopeasti 3&#8211;0- ja sitten vieläpä 5&#8211;0-johtoonkin.</p>
+  <p>&#8211;&#8201; Huonoa oli se, että palautukseni ei toiminut kummaltakaan puolelta, Laaksonen harmitteli.</p>
+  <p></p>
+  <p>
+<h3>Nousua yli 50 sijaa</h3>
+</p>
+  <p></p>
+  <p>Lauantaina täsmentyi, että välierän pistesaalistuksella Laaksonen petraa rankingiaan reilut 50 pykälää sijan 400 tuntumaan. Hänen häviönsä myötä tamperelaisen tennisyleisön suosikiksi sunnuntain finaalissa nousee Prodon.</p>
+  <p>&#8211;&#8201; Tämä oli selvästi paras viikkoni tuloksellisesti, oli mukava viikko ja kiva oli tulla Suomeen, 20-vuotias Laaksonen summasi.</p>
+  <p>Prodon ylsi ensimmäisen kerran turnauksen loppuotteluun 2004, jolloin Serbia-Montenegron Boris Pashanski vei tittelin. Prodon puolestaan on juhlinut turnausvoittoa 2007, 2010 ja 2011.</p>
+  <p>Suomalaisista turnausvoittoon on yltänyt vain Jarkko Nieminen, joka oli ykkönen 2001 ja 2002. Kilpailun nykyinen johtaja Veli Paloheimo hävisi finaalin 1991, Tommi Lenho puolestaan 1998.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95884015" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T14:55:57</versionCreated>
+<firstCreated>2012-07-31T14:55:54</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T14:55:54</contentCreated>
+<contentModified>2012-07-31T14:55:57</contentModified>
+<located type="loctype:City">
+<name>Bryssel</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:122">
+<name>stt 122</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75488">
+<name>EU:n inflaatio ja työttömyys</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97786090">
+<name>EU:n inflaatio ja työttömyys</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000693">
+<name>693</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008016">
+<name>Inflaatio Deflaatio</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008004">
+<name>Talouden indikaattorit Talousennusteet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:9000000">
+<name>Työelämä</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:9009000">
+<name>Työttömyys</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Bryssel</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Euroalueen inflaatio vakaana, työttömyys ennätykseen</headline><creditline>STT&#8211;Reuters</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Euroalueen inflaatio pysyi heinäkuussa vakaana jo kolmatta kuukautta peräkkäin. EU:n tilastoviranomaisen tiistaina julkistamien tietojen mukaan euroalueen kuluttajahinnat nousivat vuoden takaisesta 2,4 prosenttia. </p>
+  <p>Euroalueen työttömyys sen sijaan nousi ennätysmäisen korkealle eli 11,2 prosenttiin. Tilanne on pahin Espanjassa, jossa työttömyysaste nousi peräti 24,8 prosenttiin. Ranskassa, joka on Saksan jälkeen euroalueen toiseksi suurin talous, työttömyysaste kohosi 10,1 prosenttiin. Saksan työttömyysaste pysyi ennallaan 6,8 prosentissa.</p>
+  <p>Vähiten työttömiä on Itävallassa, jossa työtä vailla oli vain 4,5 prosenttia työvoimasta.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95868002" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T21:18:35</versionCreated>
+<firstCreated>2012-07-27T21:18:32</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0013">
+<name>Tulokset</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-07-27T21:18:32</contentCreated>
+<contentModified>2012-07-27T21:18:35</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:219">
+<name>stt 219</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75039">
+<name>Muut tulokset</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97758318">
+<name>Tyttöjen superpesis</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000384">
+<name>384</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15007000">
+<name>Pesäpallo Baseball</name>
+</subject>
+<slugline/>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Pesäpallotuloksia/tyttöjen superpesis</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Tyttöjen superpesis:</p>
+  <p>Jatkosarja:</p>
+  <p>Vuokatti&#8211;Seinäjoki 1&#8211;2 (4&#8211;5, 2&#8211;1, 0&#8211;4).</p>
+  <p>Rauma&#9;5&#9;5&#9;0&#9;0&#9;0&#9;54&#8211;&#9;22&#9;15</p>
+  <p>Roihu&#9;5&#9;2&#9;1&#9;0&#9;2&#9;41&#8211;&#9;37&#9;8</p>
+  <p>Lapua&#9;4&#9;2&#9;0&#9;1&#9;1&#9;40&#8211;&#9;32&#9;7</p>
+  <p>Lappeenranta&#9;4&#9;1&#9;2&#9;0&#9;1&#9;36&#8211;&#9;41&#9;7</p>
+  <p>Seinäjoki&#9;4&#9;1&#9;1&#9;1&#9;1&#9;27&#8211;&#9;29&#9;6</p>
+  <p>Susiraja&#9;4&#9;1&#9;1&#9;0&#9;2&#9;28&#8211;&#9;28&#9;5</p>
+  <p>Vuokatti&#9;4&#9;1&#9;0&#9;2&#9;1&#9;24&#8211;&#9;32&#9;5</p>
+  <p>Kankaanpää&#9;5&#9;1&#9;0&#9;1&#9;3&#9;37&#8211;&#9;52&#9;4</p>
+  <p>Pori&#9;4&#9;0&#9;1&#9;1&#9;2&#9;27&#8211;&#9;40&#9;3</p>
+  <p>Vimpeli&#9;3&#9;0&#9;1&#9;0&#9;2&#9;23&#8211;&#9;24&#9;2</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

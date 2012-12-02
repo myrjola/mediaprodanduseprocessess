@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95874262" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T16:47:36</versionCreated>
+<firstCreated>2012-07-29T16:47:33</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T16:47:33</contentCreated>
+<contentModified>2012-07-29T16:47:36</contentModified>
+<located type="loctype:City">
+<name>Tampere</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:131">
+<name>stt 131</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75208">
+<name>Raiskausta yrittänyttä etsitään Turussa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97768654">
+<name>Raiskausta yrittänyttä  miestä etsitään Turussa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000916">
+<name>916</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:7591"/>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3017000">
+<name>Pelastusoperaatiot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3016000">
+<name>Onnettomuuksien ehkäisy </name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Tampere</dateline>
+<by/>
+<description role="drol:summary">Turun poliisi etsii sekä raiskautta yrittänyttä että raiskauksen estänyttä miestä.</description>
+<headline>Sivullisen väliintulo esti raiskauksen Turussa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7591">
+<name>Turku</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:304">
+<name>Turku</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:26">
+<name>Varsinais-Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Läntinen Rantakatu</line>
+<postalCode>TURKU</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Turussa poliisi etsii raiskauksen yrityksestä epäiltyä miestä.</p>
+  <p>Naiselle tuntematon mies oli lyöttäytynyt tämän seuraan Turun Tuomaansillalla sunnuntain vastaisena yönä hieman kello kolmen jälkeen. Poliisin mukaan mies oli sillan ylittämisen jälkeen raahannut naisen viereiseen pusikkoon ja kaatanut naisen alleen. Mies oli yrittänyt riisua naisen vaatteita.</p>
+  <p>Paikalle osui sattumalta toinen mies, joka poliisin mukaan naisen avunhuudot kuultuaan tuli keskeyttämään tilanteen. Naisen onnistui tässä yhteydessä päästä juoksemalla karkuun.</p>
+  <p>Poliisi etsii raiskauksen yrityksestä epäiltynä tummaihoista miestä, joka on alle 180 cm pitkä ja iältään 20&#8211;25-vuotias. Vaatetuksena hänellä oli tummat farmarihousut ja valkoinen kauluspaita.</p>
+  <p>Poliisi toivoo yhteydenottoja kaikilta tapauksesta jotain tietäviltä ja erityisesti naista auttaneelta mieheltä puhelinnumeroon 046&#8201; 566&#8201; 2725.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

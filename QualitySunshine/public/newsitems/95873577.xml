@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873577" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T14:07:21</versionCreated>
+<firstCreated>2012-07-29T14:06:55</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T14:06:55</contentCreated>
+<contentModified>2012-07-29T14:07:21</contentModified>
+<located type="loctype:City">
+<name>Oulu</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:081">
+<name>stt 081</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75189">
+<name>Nuori nainen löytyi kuolleena Kotkasta aamulla</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97767380">
+<name>Nuori nainen löytyi kuolleena aamulla Kotkasta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000645">
+<name>645</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003000">
+<name>Poliisi</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2003002">
+<name>Poliisitutkinta</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14023000">
+<name>Kuolema</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Oulu</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Nuori nainen kuoli pudottuaan kalliolta Kotkassa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Nuori nainen löytyi kuolleena sunnuntaiaamuna kello viiden jälkeen Kotkan keskusta-alueelta. Poliisin mukaan ohikulkija löysi kuolleen 21-vuotiaan kotkalaisnaisen Palotorninvuoren juurelta Satamakadulta.</p>
+  <p>Poliisi kertoo, että naisen vammoista voi päätellä, että hän on pudonnut useita metrejä alas Palotorninvuorelta. Nainen on todennäköisesti kuollut aamuyön aikana.</p>
+  <p>Poliisin mukaan onnettomuuspaikka ei ollut Kotkan meripäivien huvialueella, mutta sen välittömässä läheisyydessä.</p>
+  <p>Toistaiseksi ei epäillä, että tapahtumaan liittyisi rikosta. Poliisi tutkii asiaa normaalina kuolemansyyntutkintana.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

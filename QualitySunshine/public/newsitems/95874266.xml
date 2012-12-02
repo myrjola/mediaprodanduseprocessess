@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95874266" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T17:31:08</versionCreated>
+<firstCreated>2012-07-29T17:10:34</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:replace"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T17:10:34</contentCreated>
+<contentModified>2012-07-29T17:31:08</contentModified>
+<located type="loctype:City">
+<name>Madrid</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:142">
+<name>stt 142</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75193">
+<name>Espanja suunnittelee kiristämistä aborttilainsäädäntöön</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97768734">
+<name>Espanja suunnittelee kiristämistä aborttilainsäädäntöön</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001015">
+<name>1015</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<slugline>///KORJATTU LEHTIVERSIO JÄTTÄMÄLLÄ POIS VIIMEINEN, VIRHEELLINEN JA TARPEETON VIRKE///</slugline>
+<dateline>Madrid</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Espanjan hallitus uhkaa kiristää aborttilakia </headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Espanjan konservatiivihallitus haluaa kiristää aborttilakia, jonka edellinen sosialistihallitus hyväksyi 2010. Hallitus kieltäisi mahdollisuuden aborttiin, vaikka sikiö olisi epämuodostunut.</p>
+  <p>Ehdotus on herättänyt vastustusta kansalaisjärjestöissä. Sunnuntaina pieni naisvaltainen joukko osoitti mieltään Madridissa lainmuutosta vastaan.</p>
+  <p>&#8211;&#8201; Me synnytämme, me päätämme. Ei oteta takapakkia, mielenosoittajat lauloivat.</p>
+  <p>&#8211;&#8201; Me katsomme, että se olisi paluuta takaisin Francon diktatuurin aikoihin. Me emme halua missään oloissa hyväksyä päätöksiä, jotka vievät meidän oikeutemme, sanoi Justa Montero.</p>
+  <p>Hallitus ilmoitti perjantaina, että se aikoo kiristää aborttien ehtoja. Nykyisin raskauden voi keskeyttää 14 ensimmäisen raskausviikon aikana. Abortti sallitaan aina 22. viikkoon asti, jos äidin terveys on vaarassa tai jos sikiö on vakavasti epämuodostunut.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

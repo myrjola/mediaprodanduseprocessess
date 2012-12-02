@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95893998" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T10:05:12</versionCreated>
+<firstCreated>2012-08-02T10:05:09</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T10:05:09</contentCreated>
+<contentModified>2012-08-02T10:05:12</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:061">
+<name>stt 061</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:73320">
+<name>Tikkurilan osavuosikatsaus tammi-kesäkuulta 2012 </name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97803628">
+<name>Tikkurilan osavuosikatsaus tammi-kesäkuulta 2012 </name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000809">
+<name>809</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:11605"/>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016000">
+<name>Yritysinformaatio</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016038">
+<name>Osavuosikatsaukset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Tikkurila julksitaa tammi-kesäkuun 2012 osavuosikatsauksensa.
+
+Osavuosikatsausta esittelevät toimitusjohtaja Erkki Järvinen ja CFO Jukka Havia. </description>
+<headline>Tikkurilan tulos parani selvästi</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:11605">
+<name>Hotel Kämp</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.1678,+24.9474</definition>
+<geoAreaDetails>
+<position latitude="60.167792" longitude="24.947444"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Pohjoisesplanadi29</line>
+<postalCode>HELSINKI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Maaleja valmistavan Tikkurilan tulos parani keväällä selvästi. Huhti-kesäkuun tulos ennen veroja kasvoi vuoden takaisesta melkein kolmanneksen 31 miljoonaan euroon. Tikkurilan liikevaihto kasvoi kuutisen prosenttia lähes 210 miljoonaan euroon.</p>
+  <p>Toimitusjohtaja Erkki Järvisen mukaan tulokseen voi olla tyytyväinen, vaikka epävarma taloustilanne alkoi katsauskauden lopulla heijastua myös maalien kysyntään.</p>
+  <p>Vahvan alkuvuoden ansiosta Tikkurila pitää arvion koko vuoden tuloskehityksestä ennallaan, vaikka euroalueen kriisi synkentää nyt näkymiä.</p>
+  <p>Yhtiö arvioi, että sen liikevaihto kasvaa tänä vuonna keskeisten markkina-alueiden bkt:tä nopeammin ja euromääräinen liikevoitto pysyy viime vuoden tasolla. Keskeiset markkina-alueet Tikkurilalle ovat Venäjä, Ruotsi, Suomi ja Puola.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

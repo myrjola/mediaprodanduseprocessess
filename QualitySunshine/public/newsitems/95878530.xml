@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95878530" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T11:32:06</versionCreated>
+<firstCreated>2012-07-31T11:32:03</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T11:32:03</contentCreated>
+<contentModified>2012-07-31T11:32:06</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:064">
+<name>stt 064</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75298">
+<name>Mitä EKP:lta odotetaan torstaina?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97776199">
+<name>EKP, Fed ja BoE punnitsevat rahapolitiikan suuntaa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002425">
+<name>2425</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4006000">
+<name>Rahoituspalvelut Liike-elämän palvelut</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4006002">
+<name>Pankkitoiminta</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008003">
+<name>Velkamarkkinat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008009">
+<name>Korko</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008020">
+<name>Luotto Velka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008001">
+<name>Keskuspankit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008004">
+<name>Talouden indikaattorit Talousennusteet</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY SITAATTIFAKTA STT 058///</slugline>
+<dateline>Helsinki</dateline>
+<by>HEIKKI KARKKOLAINEN</by>
+<description role="drol:summary"/>
+<headline>Sijoittajien katseet nyt tiukasti keskuspankeissa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Pyöriikö setelipaino taas USA:ssa ja Britanniassa? Mitä tekee EKP?</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Yhdysvaltain, euroalueen ja Britannian keskuspankit arvioivat keskiviikkona ja torstaina uusia toimia finanssi- ja velkakriisin helpottamiseksi. Suurista ennakko-odotuksista huolimatta keskuspankit eivät markkina-arvioiden mukaan välttämättä kerro uusista toimista.</p>
+  <p>EKP:n pääjohtajan Mario Draghin viimeviikkoiset kommentit ja johtavien poliitikkojen kannanotot innostivat markkinat nousuun. Se on kuitenkin hiipunut keskuspankkien päättävien elinten kokousten lähestyessä.</p>
+  <p>Yhdysvaltain keskuspankin Fedin avomarkkinakomitea aloitti kaksipäiväisen kokouksen tiistaina. Euroopan keskuspankki ja Englannin pankki BoE ovat koolla torstaina. Fedin päätökset julkistetaan keskiviikkoiltana 21.15 Suomen aikaa. Englannin pankki on vuorossa torstaina kello 14 ja EKP 14.45.</p>
+  <p>Markkinat odottavat talousuutistoimistojen mukaan sekä Fedin että BoE:n jatkavan setelirahoitusta, mutta vasta myöhemmin syksyllä. Euroopan keskuspankilta odotetaan vielä yhtä ohjauskoron laskua syksyn aikana.</p>
+  <p></p>
+  <p>
+<h3>Pankeilla vähän vaihtoehtoja</h3>
+</p>
+  <p></p>
+  <p>Vaikeimmassa tilanteessa on Englannin pankki. Britannian talous on painunut uudelleen taantumaan ja julkisen talouden alijäämä on edelleen yli 8 prosenttia bruttokansantuotteesta.</p>
+  <p>Markkinat veikkaavat BoE:n nostavan setelirahoituksen syksyllä 375 miljardista punnasta 500 miljardiin puntaan. Se vastaisi kolmannesta bruttokansantuotteesta. Britannian ohjauskorko on laskettu 0,50 prosenttiin.</p>
+  <p>Fed on sitoutunut jatkamaan nollakorkopolitiikkaa vuoden 2014 loppuun asti. Mittavan setelirahoituksen lisäksi se on aktiivisesti painanut alas pitkiä korkoja. USA:n kasvun hidastuminen ja suuri budjettialijäämä ovat vahvistaneet odotuksia kolmannesta setelirahoituskierroksesta. Sitä odotetaan kuitenkin vasta syksymmällä.</p>
+  <p>Draghin puheenvuoro synnytti arvailuja mahdollisesta EKP:n velkapaperiohjelman uudelleen käynnistämisestä. Ostot ovat käytännössä olleet jäissä puoli vuotta. Markkinakommenteissa pidettiin myös mahdollisena kolmatta pitkäaikaista rahoitusoperaatiota pankeille.</p>
+  <p>EKP:n ohjauskorko on nyt 0,75 prosenttia eli alhaisempi kuin koskaan aiemmin. Keskuspankki alensi ohjauskorkoa heinäkuun alussa 0,25 prosenttiyksiköllä. EKP:n kuten teollisuusmaiden muidenkin johtavien keskuspankkien ohjauskorot ovat reaalisesti vahvasti negatiivisia.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873535" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T12:21:07</versionCreated>
+<firstCreated>2012-07-29T12:20:39</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-07-29T12:20:39</contentCreated>
+<contentModified>2012-07-29T12:21:07</contentModified>
+<located type="loctype:City">
+<name>Ängelholm</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:062">
+<name>stt 062</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75187">
+<name>Kummallinen talojen vahingoittamisyritys paljastui Skånessa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97767327">
+<name>Kummallinen talojen vahingoittamisyritys paljastui Skånessa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000679">
+<name>679</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4004000">
+<name>Rakentaminen Kiinteistöt</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Ängelholm</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Outoa ilkivaltaa Ruotsissa &#8211; reikä seinään ja vettä sisään</headline><creditline>STT&#8211;TT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Ruotsin Skånessa on paljastunut eriskummallinen ilkivaltatapaus. Poliisin mukaan joku on porannut reiät kahden omakotitalon seinään Ängelholmissa ja Munka-Ljunbyssä ja ruiskuttanut niiden kautta puutarhaletkulla vettä sisään.</p>
+  <p>Viranomaiset saivat ilmoitukset tapauksista runsaan tunnin sisällä lauantai-iltana. Asiaa tutkitaan törkeänä vahingontekona.</p>
+  <p>&#8211;&#8201; En ole koskaan kuullut mistään vastaavasta, hämmästeli Skånen poliisin edustaja Jimmy Modin. Vielä ei tiedetä, onko tapauksilla yhteys.</p>
+  <p>Kummankaan talon asukkaat eivät olleet paikalla tapahtuma-aikaan. Ainakin toinen taloista on asumiskelvoton vesivaurioiden vuoksi.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

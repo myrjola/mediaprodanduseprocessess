@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873375" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T12:33:10</versionCreated>
+<firstCreated>2012-07-29T12:33:07</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0002">
+<name>Kainalo</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T12:33:07</contentCreated>
+<contentModified>2012-07-29T12:33:10</contentModified>
+<located type="loctype:City">
+<name>Tampere</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:066">
+<name>stt 066</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75169">
+<name>Kesän pahimmat ukkosmyrskyt riepottelevat Suomea</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97766934">
+<name>Mitä vahinkoja sunnuntaiyön ukkonen aiheutti?</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001139">
+<name>1139</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3007000">
+<name>Säätuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3007001">
+<name>Myrskyt</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Tampere</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Ukkonen kiusasi Pohjanmaalla, sähkökatkoja muuallakin</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Viime yön ukkosrintama riepotteli eniten Pohjanmaata, jossa salamat sytyttivät useita maasto- ja rakennuspaloja. Pelastuslaitos sai hoitaakseen toistakymmentä tehtävää.</p>
+  <p>Henkilövahingoilta kuitenkin vältyttiin, ja vahingot rajoittuivat maastoon ja omaisuuteen.</p>
+  <p>Ukkosrintama lähti liikkeelle Varsinais-Suomesta. Myrsky ei hätäkeskuksen mukaan aiheuttanut siellä niin paljon vahinkoja kuin oli pelätty.</p>
+  <p>Salamat aiheuttivat myös sähkökatkoja tuhansille, kerrotaan Fortumista ja Elenia Verkosta.</p>
+  <p>Fortumin asiakkaista enimmillään 6&#8201; 000 oli ilman sähköä. Suurin osa vioista oli muutaman minuutin mittaisia. Pidempiä katkoja seurasi, kun salamat iskivät rikki muuntamoita.</p>
+  <p>Lähes kaikki viat saatiin aamuun mennessä korjattua. Fortum on kuitenkin varautunut uusiin ukkosrintamiin vahvistamalla miehitystään.</p>
+  <p>Elenia Verkon eli entisen Vattenfallin asiakkaista ilman sähköä oli enimmillään noin 4&#8201; 600. Hetkellisesti sähköä vailla oli enemmän.</p>
+  <p>Elenialla häiriöitä oli Hämeessä, Pirkanmaalla, Keski-Suomessa ja aamun tunteina Etelä-Pohjanmaalla. Katkoista valtaosa saatiin korjattua aamuun mennessä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

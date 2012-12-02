@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95874092" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T16:19:52</versionCreated>
+<firstCreated>2012-07-29T16:19:49</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T16:19:49</contentCreated>
+<contentModified>2012-07-29T16:19:52</contentModified>
+<located type="loctype:City">
+<name>Espoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:123">
+<name>stt 123</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75205">
+<name>Kioski ryöstettiin teräaseella uhaten Espoossa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97768409">
+<name>Kioski ryöstettiin teräaseella uhaten Espoossa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000585">
+<name>585</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:6700"/>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001006">
+<name>Väkivaltarikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2000000">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001000">
+<name>Rikokset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:2001003">
+<name>Omaisuusrikokset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Espoo</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>R-kioski ryöstettiin teräaseella Espoossa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6700">
+<name>Espoo</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:13">
+<name>Espoo</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Espoolainen R-kioski ryöstettiin lauantaina teräaseella uhaten, kertoo poliisi. Törkeänä ryöstönä tutkittava tapaus sattui puoli seitsemältä illalla Kauklahdessa Hansatiellä.</p>
+  <p>Kioskiin oli tullut kasvonsa peittänyt mies, jolla oli teräase. Mies sai saaliiksi rahaa.</p>
+  <p>Poliisi otti kioskin läheltä kiinni kaksi noin 35-vuotiasta miestä, joita epäillään osallisuudesta tekoon. Miehet on pidätetty.</p>
+  <p>Poliisi pyytää ilmoittamaan tapahtumaan liittyvistä havainnoista virka-aikana numeroon 071&#8201; 873&#8201; 8330 tai virka-ajan ulkopuolella numeroon 071&#8201; 873&#8201; 8003.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95867731" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T20:05:42</versionCreated>
+<firstCreated>2012-07-27T20:05:39</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T20:05:39</contentCreated>
+<contentModified>2012-07-27T20:05:42</contentModified>
+<located type="loctype:City">
+<name>Guadalajara</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:199">
+<name>stt 199</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75053">
+<name>Tulipalo keskeytti Batman-elokuvan ensi-illan Meksikossa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97757775">
+<name>Tulipalo keskeytti Batman-elokuvan ensi-illan Meksikossa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000743">
+<name>743</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3004000">
+<name>Tulipalot </name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1000000">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:1005000">
+<name>Elokuva </name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Guadalajara</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>800 ihmistä evakuoitiin Batman-elokuvan ensi-illasta</headline><creditline>STT&#8211;AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Noin 800 ihmistä evakuoitiin Batman-elokuvan ensi-illasta Meksikossa perjantaina, kun elokuvateatterissa syttyi tulipalo.</p>
+  <p>Meneillään oli uusimman Batman-elokuvan Yön ritarin paluun esitys Meksikon toiseksi suurimmassa kaupungissa Guadalajarassa.</p>
+  <p>Palokunnan mukaan kukaan ei loukkaantunut, eikä suurevakuointi aiheuttanut paniikkia ihmisjoukossa. Monet tosin epäilivät hälytyksen aitoutta.</p>
+  <p>&#8211;&#8201; Emme tienneet, oliko se osa elokuvaa tai mistä oli kyse. Tajusimme asian vasta kun valot syttyivät ja meitä käskettiin poistumaan, kertoi yleisössä ollut Carlos Martinez.</p>
+  <p>Saman elokuvan ensi-ilta Yhdysvaltain Coloradossa päättyi 12 ihmisen kuolemaan, kun nuori mies avasi tulen elokuvateatterissa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95918028" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T20:25:08</versionCreated>
+<firstCreated>2012-08-07T20:24:42</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-07T20:24:42</contentCreated>
+<contentModified>2012-08-07T20:25:08</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:261">
+<name>stt 261</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76309">
+<name>Miten Italian pääministerin Mario Montin arvostelua tulkitaan Suomessa?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97845750">
+<name>Miten Italian pääministerin Mario Montin arvostelua tulkitaan Suomessa?</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003592">
+<name>3592</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4017000">
+<name>Talouselämä Talouspolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY KAKSI TÄSTÄ ON KYSE -FAKTAA, SITAATTIFAKTA, KUVITUSTA LEHTIKUVASTA///</slugline>
+<dateline>Helsinki</dateline>
+<by>TIINA TUOMINEN, RAIKO HÄYRINEN</by>
+<description role="drol:summary"/>
+<headline>Mario Montin lausunnot nostivat äläkän Suomessa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Katainen: En aio käyttää työaikaani tällaiseen sapelinkalisteluun</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suomen ja Italian viime viikolla alkanut kuherruskuukausi jäi lyhyeksi, kun Italian pääministeri Mario Monti repi vanhat haavat auki saksalaisen Der Spiegel -lehden haastattelussa. Siinä Monti kritisoi "Saksan pohjoispuolella" sijaitsevia maita siitä, että pari päivää sen jälkeen, kun asioista on neuvostossa päästy yhteisymmärrykseen, nämä maat asettavat sen kyseenalaiseksi.</p>
+  <p>Suomessa kommentit saivat aikaan hämmennystä, sillä Monti oli vasta tavannut Suomen ylintä johtoa ja vierailu vaikutti onnistuneelta. Pääministeri Jyrki Katainen (kok.) ei Montin kommenteista hätkähtänyt, vaan sanoi jättävänsä ne omaan arvoonsa.</p>
+  <p>&#8211;&#8201; Pitäisin kohtuuttomana sitä, että rupeaisin käyttämään omaa työaikaani tällaiseen turhanpäiväiseen sapelinkalisteluun.</p>
+  <p>Eduskunnan suuren valiokunnan puheenjohtaja Miapetra Kumpula-Natri (sd.) sanoi olevansa huolissaan Montin ajatuksesta vähentää parlamenttien vaikutusvaltaa. Kumpula-Natrin mukaan Eurooppaa ei pelasteta vähentämällä demokratiaa.</p>
+  <p></p>
+  <p>
+<h3>Teksti hyväksytty kahdessa osassa</h3>
+</p>
+  <p></p>
+  <p>Hämmennystä aiheutti myös se, mitä Monti oli sanonut ja milloin. Toinen haastattelua tehneistä toimittajista kertoi STT:lle, että Monti antoi Suomea kritisoivan lausuntonsa Der Spiegelille heinäkuussa ennen Suomen-vierailuaan. Toimittaja Hans Hoyngin mukaan Spiegel tapasi Montin heinäkuussa, mutta haastattelua tuoreutettiin lisäkysymyksillä myöhemmin.</p>
+  <p>&#8211;&#8201; Yleisesti voi sanoa, että haastattelun alkuosa on uusista kysymyksistä ja loppuosa heinäkuun tapaamisesta Roomasta, Hoyng kertoi puhelimitse.</p>
+  <p>Hoyngin mukaan Monti sai haastattelutekstin kokonaisuudessaan tarkistettavakseen viime viikolla ja hyväksyi sen. Hoyng kertoi saaneensa Montin hyväksynnän kahdessa osassa. Vanhemmalle osalle Montin hyväksyntä tuli viime viikon torstaina iltapäivällä ja uudemmalle osalle perjantaina.</p>
+  <p>Myös Italian Helsingin-suurlähetystöstä kerrottiin, että Monti antoi haastattelun ennen Suomen-vierailuaan, jo 19.7. Suurlähetystön mukaan kohua aiheuttaneet kommentit annettiin juuri tuolloin, mutta muutoin juttua on päivitetty muutama päivä ennen sen julkaisemista.</p>
+  <p>&#8211;&#8201; Keskustelussa on nostettu osioita, jotka viittaavat Suomen aiempaan tilanteeseen, ei suinkaan tulevaan, sanoo suurlähetystön lähetystöneuvos Nicola Occhipinti.</p>
+  <p>Monti vieraili Suomessa elokuun kahtena ensimmäisenä päivänä, keskiviikkona ja torstaina. </p>
+  <p></p>
+  <p>
+<h3>"Pienestä ei kannata provosoitua"</h3>
+</p>
+  <p></p>
+  <p>Pääministeri Kataisen mukaan suomalaisten itsetunto kestää sen, vaikka Suomea joskus arvostellaan. Hänen mielestään nyt on tärkeämpiäkin asioita hoidettavana eli Euroopan talouskriisi. Kataisen mukaan talouskriisi on nyt niin vakava, ettei pienistä asioista kannata provosoitua.</p>
+  <p>&#8211;&#8201; Tärkeintä olisi, että itse kukin pidättäytyisi sellaisista sanomisista, jotka heikentävät ilmapiiriä.</p>
+  <p>Pääministeri kehui kritiikistä huolimatta Montin Kesärannan-vierailua ja sanoi kertoneensa avoimesti suomalaisten tuntemuksista eurokriisissä. Montin tuoreimmat lausunnot eivät olleet Kataisen mukaan "tarpeellisia tai välttämättömiä", mutta hän antoi Montille kuitenkin hieman ymmärrystä.</p>
+  <p>&#8211;&#8201; Niin kunta- kuin eurooppapolitiikassa tulee tehtyä silloin tällöin tahattomiakin virheitä.</p>
+  <p>Katainen kertoi jatkavansa Montin kanssa tiivistä, kahdenvälistä yhteistyötä. Hän sanoi myös selventävänsä lähipäivinä kansainväliselle medialle suomalaista EU-päätöksentekojärjestelmää. Kataisen mukaan Suomen parlamentti on Euroopan parhaiten informoitu.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

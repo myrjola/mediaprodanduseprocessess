@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95870572" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T16:43:51</versionCreated>
+<firstCreated>2012-07-28T16:43:48</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-07-28T16:43:48</contentCreated>
+<contentModified>2012-07-28T16:43:51</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:126">
+<name>stt 126</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75128">
+<name>Olympialaiset: Avajaistunnelmia kaupungilta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97762587">
+<name>Olympialaiset: Avajaistunnelmia kaupungilta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0002922">
+<name>2922</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///LEHTIVERSIO LEHTIKUVAA///</slugline>
+<dateline>Lontoo</dateline>
+<by>JARKKO SORJONEN</by>
+<description role="drol:summary"/>
+<headline>Piccadillyn kautta avajaistunnelmaan</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Olympialaisten avajaiset Lontoossa, mutta jossain muualla kuin Olympiastadionilla. Piccadilly Circus vaikutti oikealta paikalta perjantai-iltana.</p>
+  <p>Sinne pääsee kätevästi metrolla. Metrolle piti päästä bussilla, joka oli myöhässä.</p>
+  <p>&#8211;&#8201; Olympialaiset ne varmaan sotkevat liikettä, manasi rouva sateisella bussipysäkillä.</p>
+  <p>Bussi tuli juuri, kun stadionilla alkoi tapahtua. RAF:n hävittäjät pauhasivat bussin päältä ja herättivät matkustajissa innostunutta huokailua.</p>
+  <p>Metrossa muutaman juhlapukuisen matkaajan lisäksi tunnelma oli korkealla ainakin brasilialais-espanjalaisella seurueella, jonka muovinen jääteepullo jäi jumiin metron ovien väliin. Kikatuksen laadusta saattoi päätellä, että kielletyillä aineilla oli osuutta asiaan.</p>
+  <p></p>
+  <p>
+<h3>"Ei voisi vähempää kiinnostaa"</h3>
+</p>
+  <p></p>
+  <p>Piccadilly Circusin läheltä löytyi kookas urheilubaari Sports Cafe. Sinne oli kymmenen metriä pitkä ja kolme leveä jono. Portsarit olivat isoja, ja heidän esimiestään ei olympiakulkuluvan heiluttelu heilauttanut. Jonon ohi ei ollut asiaa.</p>
+  <p>Baarin sisällä kuvaaminenkin olisi vaatinut pääkonttorin luvan ja kuvattavilta allekirjoitetun suostumuksen.</p>
+  <p>Sama oli tilanne läheisessä TigerTiger-ravintolassa.</p>
+  <p>Ehkä perinteinen lontoolaispubi olisi parempi paikka. Kulman takaa Leicester Squarelta niitä pitäisi löytyä.</p>
+  <p>Vaan ei. Aukiota reunustavat maailman suurimpien ravintolaketjujen kyltit.</p>
+  <p>Pikkukujaa kiinalaiskortteliin. Sieltä löytyi kansanomaisempi ravitsemusliike Slug and Lettuce, jossa väki seurasi niskat väärinä suoraa lähetystä avajaisista katonrajaan ripustetulta skriiniltä. Lontoolainen Matt ja hänen skotlantilainen kaverinsa Fraser lähtivät ulos tupakalle.</p>
+  <p>&#8211;&#8201; Ei voisi vähempää kiinnostaa, Matt kertoi suhtautumisensa avajaisseremoniaan, ja Fraser oli samaa mieltä.</p>
+  <p>Olympialaiset urheilutapahtumat kiinnostavat Fraseria jonkin verran, mutta Matt ei niistäkään innostu.</p>
+  <p>&#8211;&#8201; Eräs sukulaiseni kutsuttiin Afganistanista olympialaisten turvatoimiin. Hän on varmaan tyytyväinen, Fraser mainitsi positiiviseksi seikaksi.</p>
+  
+  <p>
+<h3>Kulmakapakan maailma ei muuttunut</h3>
+</p>
+  <p></p>
+  <p>Takaisin Piccadillyn aukiolle. Sinne oli kerääntynyt viitisensataa katsojaa. Osa oli kivunnut patsaan päälle. Amerikkalaistyttö Madira ja italialainen John-David seurasivat käsi kädessä kookkaalta näytöltä, kun James Bond haki kuningattaren stadionille.</p>
+  <p>Madiran kuukauden mittainen opiskelurupeama Lontoossa oli edennyt viimeiseen viikonloppuun. Nuoripari vaikutti haikealta.</p>
+  <p>Takaisin metroon. Piccadillyn aseman uumenissa tunnelisoittajan kitarasta ja komppikoneelta raikui sama kappale kuin tullessa.</p>
+  <p>Läheltä majapaikkaa, King's Crossin liepeiltä se vasta löytyi. Kulmakapakka, jonka parin terassipöydän ääressä puhuttiin niitä näitä ja istuttiin iltaa kaikessa rauhassa. Pubin ainoa televisio oli viritetty avajaiskanavalle, mutta kanta-asiakkaiden laimeasta innostuksesta päätellen maailmasta löytyy tärkeämpiäkin asioita kuin yhdet avajaiset.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95865996" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T14:00:36</versionCreated>
+<firstCreated>2012-07-28T14:00:08</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.noc.fi" residref="urn:newsml:stt.fi:wwwlink:0000312">
+<title>Suomen Olympiakomitea</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.olympic.org" residref="urn:newsml:stt.fi:wwwlink:0000319">
+<title>Official website of the Olympic Movement</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T14:00:08</contentCreated>
+<contentModified>2012-07-28T14:00:36</contentModified>
+<located type="loctype:City">
+<name>Lontoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:086">
+<name>stt 086</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74659">
+<name>Olympialaiset: Lontoossa Isoveli ei nuku, se valvoo 24 h</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97754445">
+<name>Olympialaiset: Isoveli valvoo</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003094">
+<name>3094</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073000">
+<name>Urheilutapahtumat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15073001">
+<name>Kesäolympialaiset</name>
+</subject>
+<slugline>///LEHTIVERSIO LEHTIKUVA///</slugline>
+<dateline>Lontoo</dateline>
+<by>KAIJA YLINIEMI</by>
+<description role="drol:summary"/>
+<headline>Katse kameraan, olympiavieras!</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Oletko joskus miettinyt, että elämä tosi-tv:n tähtenä on tavoittelemisen arvoista? Tule Lontooseen kokeilemaan.</p>
+  <p>Olympiakaupungissa kameran edessä esiintymisestä saa tuntumaa niinkin arkisessa paikassa kuin keskustan kaksikerroksisessa bussissa. Bussin ylä- ja alakerrassa monitorit näyttävät kuvaa itsestä ja kanssamatkustajista, edestä, takaa ja sivulta. Saman näkymän näkee kuljettaja, joka voi tarvittaessa puuttua häiriökäyttäytymiseen.</p>
+  <p>Valvontakamerat seuraavat kulkijoita myös kaupungilla muutaman metrin välein, ja tarroja tai kylttejä CCTV:n (close circuit television) olemassaolosta näkyy muun muassa kaduilla, metroissa ja kauppakeskuksissa.</p>
+  <p>Valvontakamerat ovat niin luonteva osa brittien arkea, että harva kiinnittää niihin huomiota tai kyseenalaistaa niiden olemassaoloa. Moni on sitä mieltä, että jos ei ole mitään salattavaa, kameroista ei ole haittaa.</p>
+  <p>Kameroiden avulla luodaan turvallisuuden tunnetta, koska lähes kaikki tallentuu viranomaisten pengottavaksi. Yleisradioyhtiö BBC:n poliisi-tv on olympialaisten aikaan kesätauolla, mutta muulloin sen avulla ratkotaan rikoksia. Ohjelmassa julkaistuista valvontakamerakuvista tulvii yleisövihjeitä, joiden avulla poliisi on päässyt kioskiryöstäjien ja monenlaisten muiden vilpintekijöiden jäljille.</p>
+  <p></p>
+  <p>
+<h3>Münchenin muisto ei katoa</h3>
+</p>
+  <p></p>
+  <p>Isoveli valvoo elektronisesti, mutta Lontoon olympialaisissa turvatoimet ovat hyvinkin näkyvä osa päivittäistä elämää. Olympialaiset ovatkin Britannian rauhan ajan suurin turvallisuusoperaatio.</p>
+  <p>Viime vuosikymmenten olympialaiset ovat sujuneet pääosin rauhallisesti, mutta koskaan ei voi olla varma. Münchenin olympialaisten verilöylystä on kulunut vain 40 vuotta, eikä Lontoo halua ongelmia omille rappusilleen.</p>
+  <p>Vuoden 1972 kesäkisoissa palestiinalaistaistelijat surmasivat 11 israelilaista urheilijaa Münchenin olympiakylässä.</p>
+  <p></p>
+  <p>
+<h3>Ainakin 700 miljoonaa</h3>
+</p>
+  <p></p>
+  <p>Turvallisuuden tunnetta ei saa ilmaiseksi. Britit kysyvät, millaisiin summiin lopulta päädytään, kun jo keväällä kisojen turvakustannusten laskettiin kipuavan noin 700 miljoonaan euroon. Olympiavieraiden lisäksi ympärivuorokautista valvontaa vaativat olympialaisten kisapaikat, joita on Lontoon lisäksi ympäri Britanniaa.</p>
+  <p>Huoli kustannuksista nousi uudelleen esiin, kun turvatoimista vastaava G4S-yhtiö ilmoitti pari viikkoa ennen kisoja, ettei se pysty hankkimaan ja kouluttamaan lupaamaansa kymmentä tuhatta turvallisuustyöntekijää. Hallituksen ratkaisu oli lisätä sotilaiden määrää kisoissa, maksoi mitä maksoi.</p>
+  <p>Olympiapuistossa toimittajatkin ovat saaneet kokemusta sotilaiden ja G4S:n henkilökunnan tarkastuksista. Sotilaat hoitavat repun ja kisavieraan läpivalaisun nopeasti ja järjestelmällisesti ja heittävät väliin myös ystävällisen sanan. Lyhyen turvakoulutuksen saaneilta siviileiltä tehtävä kestää kauemmin ja näyttää vähemmän organisoidulta.</p>
+  <p>Tuoreimman laskelman mukaan olympiatehtävissä on 18&#8201; 200 sotilasta. Lisäksi kaupungilla ja kisa-alueilla partioivat tuhannet poliisit ovat tavallista järeämmin aseistettuja, ja olympiavieraiden joukkoa tarkkailee myös siviiliasuisia poliiseja.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

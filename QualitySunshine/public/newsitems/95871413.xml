@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95871413" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T20:08:09</versionCreated>
+<firstCreated>2012-07-28T20:08:06</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.sul.fi" residref="urn:newsml:stt.fi:wwwlink:0002948">
+<title>SUL</title>
+</link>
+<link rel="irel:seeAlso" href="http://www.botniagames.fi" residref="urn:newsml:stt.fi:wwwlink:0009663">
+<title>Botnia Games</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T20:08:06</contentCreated>
+<contentModified>2012-07-28T20:08:09</contentModified>
+<located type="loctype:City">
+<name>Vaasa</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:190">
+<name>stt 190</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74976">
+<name>Yleisurheilu: Jonathan Åstrand ja muita maajoukkueurheilijoita Vaasan Tähtikisoissa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97763939">
+<name>Åstrand kovaan myötätuuliaikaan Vaasassa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000882">
+<name>882</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:13432"/>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15005000">
+<name>Yleisurheilu</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Vaasa</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Åstrand lähenteli ennätystään kovassa myötäisessä</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:13432">
+<name>Kaarlen kenttä</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=63.0854,+21.6423</definition>
+<geoAreaDetails>
+<position latitude="63.085354" longitude="21.642275"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:317">
+<name>Vaasa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:40">
+<name>Pohjanmaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Ruutikellarintie</line>
+<postalCode>VAASA</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Lontoon olympiakisojen 200 metrille valmistautuva Jonathan Åstrand lähenteli 100 metrin ennätystään lauantaina Vaasan Tähtikisoissa.</p>
+  <p>Närpiöläinen pyyhkäisi etusuoran aikaan 10,28, mutta 3,8 metriä sekunnissa puhaltaneeseen myötätuuleen. Näin ollen Åstrandin kauden paras satasen aika kirjataan edelleen 10,46.</p>
+  <p>Ennätyksensä 10,26 IF Kraftin juoksija pinkaisi reilu vuosi sitten Tampereella.</p>
+  <p>Olympiakisojen 200 metrin alkuerät juostaan tiistaina 7. elokuuta. </p>
+  <p>Myös naisten sadalla metrillä nähtiin kelpo aika, kun matkan hallitseva Suomen mestari Ella Räsänen, 18, juoksi ennätyksensä 11,87.</p>
+  <p>Helsingin EM-kisoissa 400 metriä juossut Tampereen Pyrinnön lahjakkuus sai taakseen juuri ja juuri sallitun 1,9 metrin myötätuulen.</p>
+  <p>Naisten kiekkoringissä Lapinlahden Veikkojen Sanna Kämäräinen sinkautti voittajaksi 54,66 kantaneella kaarella.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95892259" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T00:51:22</versionCreated>
+<firstCreated>2012-08-02T00:51:19</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T00:51:19</contentCreated>
+<contentModified>2012-08-02T00:51:22</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:009">
+<name>stt 009</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74964">
+<name>Italian pääministeri Monti puhuu EK:n ja UPIn seminaarissa eurosta ja EU:sta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97800549">
+<name>Italian pääministeri Monti puhuu EK:n ja UPIn seminaarissa eurosta ja EU:sta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000640">
+<name>640</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:1607"/>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11028000">
+<name>Kansainväliset järjestöt EU YK</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11002000">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4009000">
+<name>Markkinat Pörssit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008011">
+<name>Kansainvälinen kauppa</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008012">
+<name>Rahamarkkinat</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Italian pääministeri Mario Monti puhuu EU:sta ja eurosta Elinkeinoelämän keskusliiton EK:n ja Ulkopoliittisen instituutin UPIn järjestämässä seminaarissa.</description>
+<headline>Italian Monti puhuu tänään EU:sta ja eurosta</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:1607">
+<name>Hotelli Palace</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="60.165251" longitude="24.952689"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:35">
+<name>Helsinki</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:31">
+<name>Uusimaa</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:1">
+<name>Suomi</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line>Eteläranta10</line>
+<postalCode>HELSINKI</postalCode>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Italian pääministeri Mario Monti jatkaa vierailuaan Suomessa. Tänään hän osallistuu Euroopan tulevaisuutta käsittelevään seminaariin, jossa hänen on tarkoitus puhua EU:sta ja eurosta.</p>
+  <p>Monti aloitti Suomen-vierailunsa eilen ja tapasi muun muassa pääministeri Jyrki Kataisen (kok.).</p>
+  <p>Italia maksaa valtionlainoistaan sijoittajille huomattavasti korkeampaa korkoa kuin esimerkiksi Suomi tai Saksa. Monti toivoisi kuitenkin markkinoiden ymmärtävän nopeammin maansa edistymistä talousuudistuksissa.</p>
+  <p>Monti on vierailullaan korostanut, että Italia ei tarvitse lainapakettia Kreikan tai Portugalin tapaan.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

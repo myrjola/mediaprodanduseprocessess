@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95883563" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T13:21:02</versionCreated>
+<firstCreated>2012-07-31T13:20:57</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T13:20:57</contentCreated>
+<contentModified>2012-07-31T13:21:02</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:095">
+<name>stt 095</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75475">
+<name>Asuntolainan korko alle 2 prosenttia kesäkuuusa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97785245">
+<name>Asuntolainojen korko pysyi alle 2 prosentissa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000750">
+<name>750</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008021">
+<name>Lainat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008009">
+<name>Korko</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Asuntolainaa saa nyt 1,98 prosentin korolla</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Uusien asuntolainojen korko pysyi kesäkuussa alle kahdessa prosentissa. Kotitaloudet maksoivat uusista asuntolainoista korkoa keskimäärin 1,98 prosenttia eli yhtä paljon kuin toukokuussa, kertoi Suomen Pankki tiistaina.</p>
+  <p>Asuntolainojen reaalikorko oli 0,8 prosenttiyksikköä negatiivinen eli alempi kuin hintojen nousuvauhti. Suomen inflaatio oli Tilastokeskuksen mukaan kesäkuussa 2,8 prosenttia.</p>
+  <p>Kotitaloudet nostivat kesäkuussa asuntolainoja 1,9 miljardia euroa eli kutakuinkin yhtä paljon kuin vuosi sitten. Uusia asuntolainasopimuksia ne tekivät 2,1 miljardin euron arvosta.</p>
+  <p>Kotitalouksien asuntolainakanta nousi kesäkuun lopussa 84,2 miljardiin euroon. Kaikkiaan niillä oli velkaa 112,4 miljardia euroa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

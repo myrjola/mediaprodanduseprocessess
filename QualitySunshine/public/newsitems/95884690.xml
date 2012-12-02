@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120731:95884690" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T17:15:46</versionCreated>
+<firstCreated>2012-07-31T17:15:42</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T17:15:42</contentCreated>
+<contentModified>2012-07-31T17:15:46</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:178">
+<name>stt 178</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75512">
+<name>Katainen Ylessä: Ei leikkauksia</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97787484">
+<name>Katainen Ylessä: Ei leikkauksia</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000898">
+<name>898</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006000">
+<name>Julkinen hallinto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006005">
+<name>Hallitus</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Katainen Ylessä: Eurokriisi ei tuo Suomeen leikkauksia</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Pääministeri Jyrki Katainen (kok.) sanoi tiistaina Ylen uutisten haastattelussa, että Euroopan myllerrys ei aiheuta kotimaassa uusia leikkauksia tai veronkiristyksiä.</p>
+  <p>Katainen korosti hallituksensa sitoutuneen valtion velkakierteen katkaisemiseen. Hän arvioi, että tehtyjen päätösten perusteella näyttäisi, että siinä onnistutaan.</p>
+  <p>Pääministeri kuitenkin muistutti, että hallitus voi tarvittaessa ensi keväänä tehdä uusia ratkaisuja, jos taloustilanne huononee ennakoitua enemmän.</p>
+  <p>Kataisen mukaan tarkasta talouslinjasta ei ole kuitenkaan varaa lipsua piiruakaan ministerien toiveista huolimatta.</p>
+  <p>&#8211;&#8201; Yli budjettikehysten meneviä määrärahatoiveita ei tietenkään oteta huomioon, Katainen sanoi.</p>
+  <p>Katainen varoitti, etteivät syksyn kuumiksi povatut kuntavaalit saa sotkea kotimaista päätöksentekoa. Pääministeri palasi kesälomalta töihin maanantaina.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120802:95893832" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-02T09:25:59</versionCreated>
+<firstCreated>2012-08-02T09:25:56</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0003">
+<name>Sähke</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-02T09:25:56</contentCreated>
+<contentModified>2012-08-02T09:25:59</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:049">
+<name>stt 049</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74505">
+<name>Neste Oilin tiedotustilaisuus tammi-kesäkuun tuloksestaan</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97756071">
+<name>Neste Oilin tulos</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000620">
+<name>620</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005000">
+<name>Energia Raaka-aineet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005003">
+<name>Öljy ja kaasu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016000">
+<name>Yritysinformaatio</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4016018">
+<name>Tulostiedotteet</name>
+</subject>
+<slugline>///SÄHKE///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary">Neste Oil julkistaa toisen vuosineljänneksen tuloksensa arviolta kello 9. Suomenkielinen lehdistötilaisuus järjestetään samana päivänä kello 11.30. Kv. puhelinkonferenssi analyytikoille ja sijoittajille pidetään kello 15.</description>
+<headline>Uusiutuvan dieselin kysyntä kasvatti Neste Oilin liikevaihtoa</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Uusiutuvien polttoaineiden hyvä menekki kasvatti Neste Oilin liikevaihtoa. Se kasvoi vuoden takaisesta melkein 17 prosenttia vajaaseen 4,3 miljardiin euroon. Yhtiön mukaan uusiutuvan dieselin myyntimäärät olivat ennätystasolla, mutta marginaalit matalalla.</p>
+  <p>Neste Oilin tulos ennen veroja painui huhti-kesäkuussa varastotappioiden vuoksi 144 miljoonaa euroa tappiolle, kun se vuotta aiemmin oli 98 miljoonaa euroa voitolla. Vertailukelpoinen liiketulos pieneni viidenneksen 38 miljoonaan euroon. Siihen vaikuttivat Porvoon ja Naantalin jalostamojen huoltotyöt.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873526" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T12:42:58</versionCreated>
+<firstCreated>2012-07-29T12:42:55</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0004">
+<name>Nettiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T12:42:55</contentCreated>
+<contentModified>2012-07-29T12:42:58</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:067">
+<name>stt 067</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75169">
+<name>Kesän pahimmat ukkosmyrskyt riepottelevat Suomea</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97766100">
+<name>Kesän pahimmat ukkosmyrskyt riepottelevat Suomea</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001145">
+<name>1145</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17003000">
+<name>Säätiedotteet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17004000">
+<name>Säätilastot Sääilmiöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17000000">
+<name>Sää</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:17001000">
+<name>Sääennusteet</name>
+</subject>
+<slugline>///NETTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Salamointi ennätyksellisestä &#8211; lämpöhuippukin luvassa </headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  <p>Kuluvan kesän yhden vuorokauden salamaennätys on rikkoutunut tänään aamupäivällä. Kello 11:een mennessä ehti iskeä mahdollisesti jo liki 6&#8201; 000 maasalamaa, arvioi päivystävä meteorologi Hannu Valta Ilmatieteen laitokselta.</p>
+  <p>Kostea ja kuuma, liki trooppinen ilmamassa tuo todennäköisesti tänään myös kesän ennätyslämmön. Itä- ja Kaakkois-Suomessa saatetaan päästä iltapäivällä jopa 30 asteen tietämille.</p>
+  <p>Puoliltapäivin helleraja oli rikottu paikoin Länsi- ja Lounais-Suomessa. Esimerkiksi Salossa oli noin 26 astetta ja Vaasassa 25.</p>
+  <p>Kesän tähänastinen lämpöennätys on 28,5 astetta, joka mitattiin heinäkuun alkupuolella Hämeenlinnassa.</p>
+  <p>Kesäaikana salamavuorokauden tilastointi alkaa aamukolmen aikaan, koska virallisesti salamia ei lasketa Suomen vuorokauden mukaan, vaan Lontoon Greenwichin ajan mukaan.</p>
+  <p>Greenwichin virallisen salamavuorokauden aikana kello 11:een mennessä oli listattu noin 3&#8201; 300 maasalamaa. Suomen ajassa oikea salamaluku on tätä huomattavasti suurempi, koska kuluvan vuorokauden puolenyön ja aamukolmen välissä ukkonen rymisteli reippaasti Turun ja Helsingin suunnalla.</p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

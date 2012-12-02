@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95865458" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T09:50:22</versionCreated>
+<firstCreated>2012-07-28T09:50:19</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0019">
+<name>Tästä on kyse</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T09:50:19</contentCreated>
+<contentModified>2012-07-28T09:50:22</contentModified>
+<located type="loctype:City">
+<name>Lahti</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:045">
+<name>stt 045</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74607">
+<name>Ovatko leväkasvattamot osa tulevaisuuden energia- ja jätehuoltoa?</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97753270">
+<name>Ovatko leväkasvattamot osa tulevaisuuden energia- ja jätehuoltoa? Suuri mahdollisuus</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001008">
+<name>1008</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:13000000">
+<name>Tiede Teknologia</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005000">
+<name>Energia Raaka-aineet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4005001">
+<name>Vaihtoehtoiset energialähteet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6000000">
+<name>Ympäristö</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:6013000">
+<name>Saastuneiden alueiden puhdistus</name>
+</subject>
+<slugline>///TÄSTÄ ON KYSE LEVÄJUTTUUN.///</slugline>
+<dateline>Lahti</dateline>
+<by/>
+<description role="drol:summary">Levänergiaa tutkitaan ympäri maailmaa. Eräät levälajit voisivat menestyä Suomessakin ja puhdistaa samalla sopivissa oloissa jätevesiä. Suomalaisilla on iso leväenegiaprojekti meneillään myös Intiassa. Näin arvelevat professori Martin Romantschuk ja tutkija Marika Viita Helsingin yliopiston ympäristötieteiden laitokselta Lahdesta.
+ </description>
+<headline>Suuri mahdollisuus</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Levä pystyy kasvattamaan massansa päivässä jopa kolminkertaisesti. Levistä saa satoa jatkuvasti, ja öljyä irtoaa tuntuvasti enemmän kuin palmuista tai rapsista.</p>
+  <p>Levien kasvatus ei vaadi peltoa tai peräti sademetsien kaatamista. Levää syntyy vaikka korkeissa astioissa, putkistoissa, kerroksittain tai muovipusseissa merellä niin kuin on tehty ainakin Kaliforniassa.</p>
+  <p>Leväenergiaa tutkittiin varsinkin Yhdysvalloissa jo 1970-luvun öljykriisin jälkeen. Asiaan on palattu ympäri maailmaa 2000-luvulla, kun energian kysyntä kasvaa ja öljyn hinta nousee.</p>
+  <p>Osa tutkimuksista perustuu geenimanipuloituihin leviin, mutta ei Suomessa.</p>
+  <p>Rahoitukseen osallistuu muun muassa öljy-yhtiöitä, jotka kaipaavat uusia öljylähteitä ja parempaa ympäristöimagoa.</p>
+  <p>Pilottilaitoksia toimii jo maailmalla. Lentoyhtiöt ovat kokeilleet leväpohjaista polttoainetta perinteisen joukossa.</p>
+  <p>Suuria haasteita liittyy edelleen lajien valintaan, levien keruuseen sekä veden erottamiseen levistä.</p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

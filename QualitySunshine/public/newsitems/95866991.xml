@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95866991" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T16:20:16</versionCreated>
+<firstCreated>2012-07-28T16:20:12</firstCreated>
+<embargoed>2012-07-28T17:00:00</embargoed>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T16:20:12</contentCreated>
+<contentModified>2012-07-28T16:20:16</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:119">
+<name>stt 119</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75030">
+<name>Opetusministeriö valmistelee ohjelmaa koulutuksen tasa-arvosta</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97756381">
+<name>Opetusministeriö valmistelee ohjelmaa koulutuksen tasa-arvosta</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001134">
+<name>1134</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:14000000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14025000">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:14025999">
+<name>Tasa-arvo</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:5000000">
+<name>Koulutus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010000">
+<name>Puolueet Poliittiset liikkeet Järjestöt</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11010996">
+<name>SDP</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006000">
+<name>Julkinen hallinto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006005">
+<name>Hallitus</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Gustafsson haluaa tasa-arvoa koulutukseen</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Opetusministeri Jukka Gustafssonin (sd.) mukaan opetusministeriö valmistelee toimenpideohjelmaa tasa-arvon parantamiseksi suomalaisessa koulutuksessa.</p>
+  <p>Gustafssonin mukaan on erittäin huolestuttavaa, että koulujen väliset erot oppimistuloksissa ovat kasvussa.</p>
+  <p>&#8211;&#8201; Meidän täytyy menestyä paremmin työssämme koulutuksen periytyvyyttä vastaan. Koulutetut perheet antavat hyvää mallia siinä, kuinka hyviin tuloksiin lapset voivat päästä kun he saavat tuen toteuttaa omaa lahjakkuuttaan. Tämä tuki täytyy tarjota jokaiselle, ettei tausta muodostuisi elämälle kahleeksi vaan ponnahduslaudaksi, Gustafsson sanoi puheessaan työväen musiikkijuhlissa Valkeakoskella.</p>
+  <p>&#8211;&#8201; Keskeinen tekijä Suomen Pisa-menestyksen taustalla oli peruskoulun aikaansaama suhteellisen tasa-arvoinen koulu. Pisa-tutkimus on kerta toisensa jälkeen osoittanut, että parhaita tuloksia saadaan maissa, joissa sosiaalinen tausta vaikuttaa vähemmän oppilaiden oppimistuloksiin.</p>
+  <p>Koulutuksellisen tasa-arvon toimenpideohjelman tavoitteena on muun muassa koulujen välisten oppimiserojen puolittaminen. Ohjelma on määrä hyväksyä joulukuussa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

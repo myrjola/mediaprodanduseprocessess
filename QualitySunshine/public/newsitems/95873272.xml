@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120729:95873272" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T08:56:42</versionCreated>
+<firstCreated>2012-07-29T08:56:38</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T08:56:38</contentCreated>
+<contentModified>2012-07-29T08:56:42</contentModified>
+<located type="loctype:City">
+<name>Lontoo/Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:024">
+<name>stt 024</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75173">
+<name>Guardian: Loikkarikenraali sanoo Syyrian armeijan olevan romahduspisteessä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97766709">
+<name>Guardian: Loikkarikenraali sanoo Syyrian armeijan olevan romahduspisteessä</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000828">
+<name>828</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0014"><name>Ulkomaat</name></subject>
+<subject type="cpnat:category" qcode="subj:16000000">
+<name>Levottomuudet Konfliktit Sodat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:16002000">
+<name>Aseelliset konfliktit</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11001000">
+<name>Puolustus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11001004">
+<name>Puolustusvoimat</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Lontoo/Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Guardian: Loikkarikenraali ennustaa Syyrian armeijan romahtavan</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Syyrian armeijan huolto on romahduspisteessä, kertoo Turkkiin loikannut ex-kenraali Mohammad al-Zobi. Sanomalehti Guardianin haastatteleman al-Zobin mukaan armeija kärsii muun muassa vakavasta polttoainepulasta.</p>
+  <p>&#8211;&#8201; Bensiini on lähes loppu, raketit samaten. Sotilaille riittää hädin tuskin vettä ja leipää. Sotilaat ovat hermostuneita, väsyneitä ja nälkäisiä. Useimmat ovat olleet tukikohdissaan useita kuukausia, eivätkä he ole nähneet perheitään. Ja kun he soittavat vaimolleen, joku salakuuntelee puhelut, hän kuvailee,</p>
+  <p>Loikkarikenraali arvioi, että Syyrian hallinto voi pysytellä vallassa enintään kuukauden tai kaksi. Myös YK:n sotilastarkkailijoiden entinen johtaja, kenraali Robert Mood arvioi vastikään, että Syyrian hallinnon kaatuminen on enää ajan kysymys.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

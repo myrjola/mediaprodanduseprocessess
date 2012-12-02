@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120807:95919282" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-07T17:04:22</versionCreated>
+<firstCreated>2012-08-07T17:04:18</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0001">
+<name>Viiva</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>2</urgency>
+<contentCreated>2012-08-07T17:04:18</contentCreated>
+<contentModified>2012-08-07T17:04:22</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:179">
+<name>stt 179</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:76198">
+<name>Valtiovarainministeri Jutta Urpilainen esittelee ministeriönsä suunnitelmat ensi vuoden talousarvioesitykseksi.</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97839757">
+<name>Urpilainen esittelee VM:n budjettiehdotuksen</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000145">
+<name>145</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11013000">
+<name>Valtion budjetti Verot</name>
+</subject>
+<slugline/>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline/>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  <p>Urpilainen: Perusturvan ylimääräiset indeksikorotukset tehdään jo ensi vuoden alussa. Korotus koskee Kelan maksamia etuuksia ja toimeentulotukea.</p>
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

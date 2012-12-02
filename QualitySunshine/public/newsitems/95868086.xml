@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95868086" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T21:46:58</versionCreated>
+<firstCreated>2012-07-27T21:46:55</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.pesis.fi/" residref="urn:newsml:stt.fi:wwwlink:0002671">
+<title>Pesäpalloliitto</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T21:46:55</contentCreated>
+<contentModified>2012-07-27T21:46:58</contentModified>
+<located type="loctype:City">
+<name>Joensuu</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:228">
+<name>stt 228</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:65082">
+<name>Pesäpallo: Miesten Superpesiksessä viisi ottelua</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97758457">
+<name>Aleksi Rautiainen pelasti Joensuun</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001979">
+<name>1979</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15007000">
+<name>Pesäpallo Baseball</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Joensuu</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Aleksi Rautiainen pelasti Joensuun</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Joensuun Maila sinetöi paikkansa Superpesiksen pudotuspeleissä voittamalla perjantaina Kouvolan Pallonlyöjät 2&#8211;0 (2&#8211;0, 3&#8211;1).</p>
+  <p>Kauden kolmannen täyden pistepotin kotiareenalla Mehtimäellä varmisti kaikki toisen jakson juoksut lyönyt Aleksi Rautiainen. Avausjakson JoMa voitti Joni Nousiaisen tuomalla vapaataivaljuoksulla ja Aki Tervon kotiutuksella.</p>
+  <p>JoMasta palkittiin kolmesti kotiuttanut Rautiainen (5 kärkilyöntiä/9 yritystä) ja lukkari Mika Väisänen (0/1).</p>
+  <p>&#8211;&#8201; Sisäpelimme oli jälleen luokatonta. Toisella jaksolla saimme aikaan tilanteita, mutta virheet ennen kotiutusyrityksiä kuivattivat ne, kommentoi tappiosta huolimatta pudotuspeliviivan paremmalla puolella säilyneen Koplan pelinjohtaja Mikko Hylkilä.</p>
+  <p>Kuudennen kerran kauden vieraspeleissään pisteettä jääneen KPL:n palkitut olivat täydellistä työtä mailan varressa tehnyt Iiro Haimi (6/6) ja Rautiaisen läpilyönnin maisemiin räpylänsä kautta päästänyt koppari Juho Hacklin (3/5).</p>
+  <p> </p>
+  <p>
+<h3>KoU takoi kunnareita</h3>
+</p>
+  <p> </p>
+  <p>Koskenkorvan Urheilijat tarrasi viikon kuluttua sunnuntaina päättyvän runkosarjan kolmossijaan voittamalla Ilmajoella vierailleen Jyväskylän Kirin 2&#8211;0 (6&#8211;1, 11&#8211;2).</p>
+  <p>KoU tyrmäsi vieraansa molemmilla jaksoilla jo ensimmäisessä vuoroparissa.</p>
+  <p>Avausjaksolla Kirin Jyri Kyllösen lyömän avausjuoksun kuittasi nopeasti kunnarin ja kaksi tavallista juoksua lyönyt Mikko Vainionpää, joka iski lyöntikierrosta myöhemmin vielä juoksun lisää.</p>
+  <p>Toisen jakson tyrmäyksestä vastasi ajolähdön tyhjentänyt (1+3) jokeri Juha Niemi, joka puuskutti perään tuplajuoksun Janne Leppälän lyömänä.</p>
+  <p>Kolmannen täyden pistepotin kotikentällään ottaneiden ilmajokisten tehomiehet olivat 1+6 juoksua lyönyt Niemi (8/11) ja 1+3 juoksua kirjauttanut sieppari Vainionpää (7/12).</p>
+  <p>Kiristä esiintyivät edukseen vaihtaja Pasi Rajala (6/8) ja lukkari Perttu Hautala (6/9). Henrik Tawast pelasi kauden avausottelunsa kolmosvahtina, mutta muutoksella takaisin jokeriksi saatu Mikko Rantalahti ei onnistunut mailan varressa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

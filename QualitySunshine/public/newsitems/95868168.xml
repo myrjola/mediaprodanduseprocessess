@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120727:95868168" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T22:05:59</versionCreated>
+<firstCreated>2012-07-27T22:05:32</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/>
+<link rel="irel:seeAlso" href="http://www.basket.fi" residref="urn:newsml:stt.fi:wwwlink:0000075">
+<title>Koripalloliitto</title>
+</link></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T22:05:32</contentCreated>
+<contentModified>2012-07-27T22:05:59</contentModified>
+<located type="loctype:City">
+<name>Trento</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:233">
+<name>stt 233</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:73305">
+<name>Koripallo: Miesten maajoukkueen kv. turnaus, klo 19 Bosnia-Hertsegovina-Suomi</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97758557">
+<name>Suomen koripallomiehet kukistivat Bosnian</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0001926">
+<name>1926</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0016"><name>Urheilu</name></subject>
+<subject type="cpnat:geoArea" qcode="sttlocationalias:9711"/>
+<subject type="cpnat:category" qcode="subj:15000000">
+<name>Urheilu</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:15008000">
+<name>Koripallo</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Trento</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Koponen piiskasi Suomen koripallovoittoon 12 pisteen takaa</headline><creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:9711">
+<name>Trento</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader type="cpnat:geoArea" qcode="city:762">
+<name>Trento</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="stat:62">
+<name>N/A</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="country:86">
+<name>Italia</name>
+</broader>
+<broader type="cpnat:geoArea" qcode="continet:4">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suomen miesten koripallomaajoukkue avasi kesän kolmannella yrittämällä. Se voitti Bosnia-Hertsegovinan Trenton turnauksen päätöspäivänä 86&#8211;74 (40&#8211;42). Heittäjähirmu Mirza Teletovicin johtama Bosnia latoi avausjaksolla Suomen koriin 29 pistettä, mutta Petteri Koposen herätettyä Suomen koko joukkue osallistui ansiokkaasti voittotalkoisiin.</p>
+  <p>Bosnian maajoukkueen ehdoton supertähti, ensi kaudeksi NBA:n Brooklyn Netsiin siirtyvä 206-senttinen heittokone Teletovic oli ottelun alussa Suomelle täysin pysäyttämätön. Bosnia käytti palloscreenitilanteita tehokkaasti hyödykseen ja vyörytti pelinrakentajansa Zach Wrightin johdolla jatkuvasti erinomaisia heittopaikkoja Teletovicille. Tämä säkitti 17 pistettä Bosnian rynnistäessä 29&#8211;17-johtoon.</p>
+  <p>Toisella jaksolla ohjat otti käsiinsä Petteri Koponen, joka lukitsi taitavan Wrightin puolustuksellaan nippusiteisiin ja alkoi vyöryttää palloa hyökkäyspäässä määrätietoisesti kohti koria. Tuukka Kotin ja Kimmo Muurisen saatua Teletovicin kuriin kiipesi Suomi puoliaikaan mennessä kahden pisteen päähän.</p>
+  <p>Kolmannella jaksolla Bosnian kärkiviisikko alkoi väsyä ja Koponen jakoi liukuhihnalta namupasseja erityisesti Shawn Huffille ja Hanno Möttölä. Nämä upottivat heittojaan kovin tarkkuuksin ja johdattivat Suomen 11 pisteen johtoon, kun ottelua oli pelaamatta päätösneljänneksen verran. Suomi nosti johtonsa parhaimmillaan 20 pisteeseen, kunnes Bosnia pääsi lopussa kaunistelemaan loppulukemia.</p>
+  <p>&#8211;&#8201; Emme ensimmäisellä jaksolla pärjänneet ollenkaan Bosnian palloscreenien puolustuksessa, joten jouduimme käymään puolustuksemme periaatteita aika tarkkaan läpi toiselle jaksolle lähdettäessä. Siitä lähtien paransimme koko ajan otteitamme aina pisteeseen, jossa peliä oli jäljellä enää kolme minuuttia, Suomen apuvalmentaja Jukka Toijala kiitteli.</p>
+  <p>&#8211;&#8201; Meillä oli yhä tuoreita jalkoja kentällä Bosnian väsähtäessä, jatkoi Toijala.</p>
+  <p></p>
+  <p> </p>
+  <p></p>
+  <p></p>
+  <p></p>
+  <p></p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

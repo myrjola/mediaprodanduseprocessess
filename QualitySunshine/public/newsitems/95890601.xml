@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120801:95890601" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-01T18:56:01</versionCreated>
+<firstCreated>2012-08-01T18:55:57</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-01T18:55:57</contentCreated>
+<contentModified>2012-08-01T18:56:01</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:194">
+<name>stt 194</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:74826">
+<name>Italian pääministeri Monti ja pääministeri Katainen keskustelevat eurokriisistä</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97797057">
+<name>Monti: Italia ei tarvitse apua</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0003240">
+<name>3240</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0009"><name>Politiikka</name></subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4017000">
+<name>Talouselämä Talouspolitiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008021">
+<name>Lainat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008008">
+<name>Valtion velka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008000">
+<name>Makrotalous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4008012">
+<name>Rahamarkkinat</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11000000">
+<name>Politiikka</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006000">
+<name>Julkinen hallinto</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:11006006">
+<name>Valtionpäämiehet</name>
+</subject>
+<slugline>///LEHTIVERSIO JUTTUUN TULEE KAINALO///</slugline>
+<dateline>Helsinki</dateline>
+<by>OLLI KEMPPAINEN</by>
+<description role="drol:summary">Kdeski &lt;Kdeski@stt-lehtikuva.fi&gt;</description>
+<headline>Nöyrä Monti kävi hakemassa ymmärrystä</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Italian pääministeri kehui Suomea esimerkiksi</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Italian pääministerin vaihtuminen on kuin katukauppiaan tilalle olisi asettunut laadukkaan pizzerian ystävällinen hovimestari.</p>
+  <p>Suomalaista ruokaa arvostelleen Silvio Berlusconin tuskin olisi kannattanut lähteä hakemaan Helsingistä ymmärrystä maansa tilanteelle, mutta hänet marraskuussa korvannut Mario Monti esiintyi keskiviikkona pääministerin virka-asunnon Kesärannan puutarhassa nöyränä ja sovinnollisena.</p>
+  <p>Monti vakuutti tiedotustilaisuudessa, että Italia ei tarvitse muun Euroopan talousapua. Maan julkinen talous on ylijäämäinen ilman korkokuluja, eli julkinen velka on vähenemässä.</p>
+  <p>&#8211;&#8201; Italia voi tarvita ehkä apua siihen, miten hitaasti markkinat tunnistavat tehdyt toimet ja Italian tai muiden maiden saavutukset. Sanoisin, että apua tarvitsee euroalueen valtionlainojen markkinoiden toiminta, Monti sanoi.</p>
+  <p></p>
+  <p>
+<h3>Markkinatalous toimimaan</h3>
+</p>
+  <p></p>
+  <p>Myös Montia isännöineen pääministeri Jyrki Kataisen (kok.) mukaan markkinatalous on saatava jälleen toimimaan niin, että kunkin maan velka hinnoitellaan oikein.</p>
+  <p>Katainenkaan ei uskonut Italian tarvitsevan tukea, mutta jos niin käy, ja sitä annetaan väliaikaisen vakausrahaston kautta, Suomi vaatisi vakuuksia. Pysyvässä vakausmekanismissa niitä ei tarvita, koska lainoilla on ensisijaisuus.</p>
+  <p>Euromaat ovat Kataisen mukaan valmistelemassa toimia, jotka olisivat yhdistelmä esillä olleista keinoista. Tavoitteena on hankkia aikaa eri maille toteuttaa päätettyjä toimia ja markkinavoimille tutustua niihin.</p>
+  <p></p>
+  <p>
+<h3>Katainen: Monti kuin suomalaiset</h3>
+</p>
+  <p></p>
+  <p>Entisen EU:n kilpailukomissaarin charmi puri ainakin Kataiseen, joka kehui vieraansa olevan kuin suomalaiset eli korostavan unionin sääntöjen noudattamista. Monti korostaa myös markkinavoimien roolia, eikä vain valtioiden toimia.</p>
+  <p>Pääministerit keskustelivat myös molempien maiden kansalaisten näkemyksistä. Kataisen mukaan Monti ymmärsi hyvin suomalaisten kannan, että sopimuksista on pidettävä kiinni.</p>
+  <p>Kataisen mukaan Monti ei kajonnut enää vajaan kuukauden takaisiin puheisiinsa, joiden mukaan unionin "pohjoisten maiden" linjaukset ovat osaltaan vaikuttaneet lainakorkojen nousuun kriisimaissa.</p>
+  <p>Tiedotustilaisuudessa kuultiin sen sijaan Montin ylistystä Suomelle esimerkkinä hyvästä taloudenpidosta. Kiitosta sai myös Katainen itse, jonka 69-vuotias yliopistomies sanoi tunnistaneensa muutaman kuukauden aikana pääministerien kokouksissa yhdeksi kiintoisimmista politiikan luojista.</p>
+  <p></p>
+  <p>
+<h3>Soini ei tavannut Montia</h3>
+</p>
+  <p></p>
+  <p>Montin viestinä tiedotustilaisuudessa oli, että poliitikkojen pitäisi johtaa julkista mielipidettä.</p>
+  <p>&#8211;&#8201; Olisi kauhistuttavaa Euroopan integraation kannalta, jos euro, joka oli tarkoitettu kaikkein täydellisimmäksi askeleeksi, muodostuisi ongelmien takia vähä vähältä jakajaksi jäsenvaltioiden välillä, Monti sanoi.</p>
+  <p>Viestiään Monti pääsi viemään myös muille suomalaispoliitikoille Kataisen lisäksi. Illansuussa hän tapasi eduskunnan puhemiehen Eero Heinäluoman (sd.) ja eri valiokuntien johtoa.</p>
+  <p>Ulkoasiainvaliokunnan puheenjohtaja Timo Soini (ps.) ei osallistunut tapaamiseen vaan perussuomalaisia edusti IPU-valtuuskunnan puheenjohtaja Maria Lohela (ps.).</p>
+  <p>Tasavallan presidentti Sauli Niinistö keskusteli Montin kanssa illallisella.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

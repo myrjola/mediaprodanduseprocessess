@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120728:95869424" version="2" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T13:11:55</versionCreated>
+<firstCreated>2012-07-28T08:47:11</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:replace"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T08:47:11</contentCreated>
+<contentModified>2012-07-28T13:11:55</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:076">
+<name>stt 076</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75101">
+<name>2 loukkaantui tieltä ajosta Kangasalalla</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97760447">
+<name>2 loukkaantui tieltä ajosta Kangasalalla</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000606">
+<name>606</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0003"><name>Kotimaa</name></subject>
+<subject type="cpnat:category" qcode="subj:3000000">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3010000">
+<name>Liikenneonnettomuudet</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:3010001">
+<name>Tieliikenneonnettomuudet</name>
+</subject>
+<slugline>///KORJATTU LEHTIVERSIO KIRJOITUSASU: PO. KANGASALLA, EI KANGASALALLA///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Kaksi nuorta miestä loukkaantui ulosajossa Kangasalla</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kaksi nuorta miestä loukkaantui henkilöauton ulosajossa lauantaina aamulla Kangasalla Pirkanmaalla. Molemmat miehet loukkaantuivat vakavasti, mutta he olivat tajuissaan onnettomuuden jälkeen.</p>
+  <p>Turma sattui puoli seitsemän jälkeen Ysitiellä.</p>
+  <p>Päivystävä palomestari Johannes Valkama kertoo, että tie onnettomuuspaikalla on melkein suora. Pientareelle ajautunut Tampereen suunnasta tullut auto katkaisi tieltä suistuessaan yhden valopylvään.</p>
+  <p>Autossa ei ollut muita ihmisiä.</p>
+  <p>Poliisi selvittää onnettomuuden syytä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>

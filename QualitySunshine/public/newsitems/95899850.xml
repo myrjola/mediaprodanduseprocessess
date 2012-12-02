@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<newsItem guid="urn:newsml:stt.fi:20120803:95899850" version="1" standardversion="2.7" conformance="power" xml:lang="fi-FI" standard="NewsML-G2" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd" xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ><catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:text"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-03T13:18:48</versionCreated>
+<firstCreated>2012-08-03T13:18:45</firstCreated>
+<pubStatus qcode="stat:usable"/><role qcode="sttarticletype:0001">
+<name>Pääjuttu</name></role><service qcode="sttelementtype:0005">
+<name>Lehtiversio</name></service><edNote/>
+<signal qcode="action:new"/></itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-03T13:18:45</contentCreated>
+<contentModified>2012-08-03T13:18:48</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject type="cpnat:runnumber" literal="Service run id" qcode="sttrunnumber:104">
+<name>stt 104</name>
+</subject>
+<subject type="cpnat:topic" literal="Related topic id" qcode="stttopic:75915">
+<name>Tallinkilla 1,1 miljoonaa matkustajaa</name>
+</subject>
+<subject type="cpnat:textpackageid" literal="Text package id" qcode="stttextpackage:97814583">
+<name>Tallinkilla 1,1 miljoonaa matkustajaa</name>
+</subject>
+<subject type="cpnat:length" literal="Content length" qcode="sttlength:0000612">
+<name>612</name>
+</subject><subject type="cpnat:department" qcode="sttdepartment:0011"><name>Talous</name></subject>
+<subject type="cpnat:category" qcode="subj:10000000">
+<name>Vapaa-aika</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:10006000">
+<name>Lomamatkailu Turismi</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4000000">
+<name>Talous</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4014000">
+<name>Matkailu- ja vapaa-aikateollisuus</name>
+</subject>
+<subject type="cpnat:category" qcode="subj:4014005">
+<name>Matkanjärjestäjät</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Tallink Siljan matkustajamäärät Viroon lisääntyneet</headline><creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Laivayhtiö Tallink Silja teki heinäkuussa uuden matkustajaennätyksen. Yhtiön reiteillä kulki yhteensä yli 1,16 miljoonaa matkustajaa, mikä oli puoli prosenttia vielä viime vuoden heinäkuuta enemmän.</p>
+  <p>Matkustajamäärät kasvoivat erityisesti Suomesta ja Ruotsista Viroon suuntautuvilla reiteillä. Sen sijaan Suomen ja Ruotsin välinen reitti menetti matkustajia yli 3,5 prosenttia. Suomen ja Ruotsin välillä matkusti lähes 410&#8201; 000 ihmistä, kun Suomen ja Viron välillä matkustajia oli yli 550&#8201; 000.</p>
+  <p>Myös ajoneuvoja kuljetetaan Tallink Siljan laivoilla entistä enemmän.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet></newsItem>
