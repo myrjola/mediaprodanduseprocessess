@@ -3,3 +3,9 @@ mpup_part3_images/*
 .settings/*
 path_to_newsitems/*
 pictureitems/*.xml
+QualitySunshine/public/images/*
+QualitySunshine/logs
+QualitySunshine/project/project
+QualitySunshine/project/target
+QualitySunshine/target
+QualitySunshine/tmp

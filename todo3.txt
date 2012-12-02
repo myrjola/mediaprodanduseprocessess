@@ -1,10 +1,10 @@
 Task1
 DONE skriv en metod för att retrieva metadata
 DONE Gör en minimal NewsItem för bilden
-TODO Output XML fil
+DONE Output XML fil
 
 Task2
-TODO Hitta en set av similar images med lire analysera resultaten
-TODO Av LIRES 7 documentbuilders (indexers)
-http://www.semanticmetadata.net/lire-files/apidoc/
-indexera med (minst) 4 av dom och implementera en search
+DONE Hitta en set av similar images med lire analysera resultaten
+DONE Av LIRES 7 documentbuilders (indexers)
+DONE http://www.semanticmetadata.net/lire-files/apidoc/
+DONE indexera med (minst) 4 av dom och implementera en search
