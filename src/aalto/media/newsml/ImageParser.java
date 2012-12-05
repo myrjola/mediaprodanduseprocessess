@@ -174,7 +174,7 @@ public class ImageParser {
 
                 		PrintWriter out;
 						try {
-							out = new PrintWriter("pictureitems/" + guid + ".xml");
+							out = new PrintWriter("pictureitems/" + guid.replaceAll(":", "") + ".xml");
 	                		out.print(xmlString);
 	                		out.close();
 						} catch (FileNotFoundException e) {
