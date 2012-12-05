@@ -41,6 +41,8 @@ public class PackageGenerator {
 	private final static String TYPE_ROLE_XPATH = "/newsItem/itemMeta/role/name";
 	private final static String DEPARTMENT_XPATH = "/newsItem/contentMeta/subject[@type='cpnat:department']/name";
 	private final static String CATEGORIES_XPATH = "/newsItem/contentMeta/subject[@type='cpnat:category']/name";
+	private final static String TOPIC_XPATH = "/newsItem/contentMeta/subject[@type='cpnat:topic']/name";
+	private final static String ARTICLE_XPATH = "/newsItem/contentSet/inlineXML/html/body";
 	
 	private String newsItemFolder;
 	private ArrayList<NewsItem> newsItems;
@@ -133,6 +135,17 @@ public class PackageGenerator {
 				/*
 				 * Add your own code here, e.g. rest of the needed elements from newsItem.
 				 */
+                // Set topic
+				expr = xpath.compile(TOPIC_XPATH);
+				nodes = (NodeList)expr.evaluate(xmlDocument, XPathConstants.NODESET);
+				String topic = nodes.item(0).getTextContent();
+				newsItem.setTopic(topic);
+
+                // Set article
+				expr = xpath.compile(ARTICLE_XPATH);
+				nodes = (NodeList)expr.evaluate(xmlDocument, XPathConstants.NODESET);
+				String article = nodes.item(0).getTextContent();
+				newsItem.setTopic(article);
 				
 				// Adds current news item to newsItems-list
 				newsItems.add(newsItem);
