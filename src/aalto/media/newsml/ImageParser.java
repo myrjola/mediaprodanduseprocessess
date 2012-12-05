@@ -26,6 +26,7 @@ import javax.xml.xpath.XPathFactory;
 import org.apache.sanselan.ImageReadException;
 import org.apache.sanselan.Sanselan;
 import org.apache.sanselan.ImageInfo;
+import org.w3c.dom.DOMException;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
@@ -132,7 +133,12 @@ public class ImageParser {
                 	    Element contentSet = xmlDocument.createElement("contentSet");
                 	    Element remoteContent = xmlDocument.createElement("remoteContent");
                 	    contentSet.appendChild(remoteContent);
-                	    remoteContent.setAttribute("href", "file://" + file.getPath());
+                	    try {
+				remoteContent.setAttribute("href", "file://" + file.getCanonicalPath());
+			    } catch (DOMException | IOException e2) {
+				// TODO Auto-generated catch block
+				e2.printStackTrace();
+			    }
                 	    remoteContent.setAttribute("version", "1");
                 	    remoteContent.setAttribute("size", Integer.toString(ii.getBitsPerPixel() * ii.getHeight() * ii.getWidth()));
                 	    remoteContent.setAttribute("contenttype", ii.getMimeType());
