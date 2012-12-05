@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120731:95882979" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T11:36:47</versionCreated>
+<firstCreated>2012-07-31T11:36:44</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T11:36:44</contentCreated>
+<contentModified>2012-07-31T11:36:47</contentModified>
+<located type="loctype:City">
+<name>Washington</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:065" type="cpnat:runnumber">
+<name>stt 065</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75455" type="cpnat:topic">
+<name>Yhdysvaltain valtiovarainministeri vierailulla Euroopassa</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97784129" type="cpnat:textpackageid">
+<name>Yhdysvaltain valtiovarainministeri vierailulla Euroopassa</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000731" type="cpnat:length">
+<name>731</name>
+</subject>
+      <subject qcode="sttdepartment:0011" type="cpnat:department">
+         <name>Talous</name>
+      </subject>
+<subject qcode="subj:4000000" type="cpnat:category">
+<name>Talous</name>
+</subject>
+<subject qcode="subj:4008000" type="cpnat:category">
+<name>Makrotalous</name>
+</subject>
+<subject qcode="subj:4008010" type="cpnat:category">
+<name>Kansainväliset talousjärjestöt</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Washington</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>USA:n rahaministeri tapasi eurooppalaiset kollegansa</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Yhdysvaltain valtiovarainministeri Timothy Geithner on vieraillut Euroopassa. Hän tapasi maanantaina Ranskan valtiovarainministerin Pierre Moscovicin ja Saksan valtiovarainministerin Wolfgang Schäublen. Geithner keskusteli heidän kanssaan Euroopan taloustilanteesta.</p>
+  <p>Keskusteluihin nousivat Yhdysvaltain valtiovarainministeriön mukaan Euroopan ponnistukset taloudellisen vakauden säilyttämiseksi ja suurempi taloudellinen yhdentyminen Euroopassa.</p>
+  <p>Schäuble ja Geithner kertoivat luottavansa, että Eurooppa pystyy viemään läpi toimet, joilla kriisistä noustaan. He painottivat kansainvälistä yhteistyötä.</p>
+  <p>Geithnerin oli määrä tavata myös Euroopan keskuspankin johtaja Mario Draghi.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+<remoteContent contenttype="image/jpeg" height="600" href="file://images/031c3a39-c19c-439d-ab0a-44f0b5dce9aa.jpg" rendition="rnd:web" size="5760000" version="1" width="400"/>
+   </contentSet>
+</newsItem>

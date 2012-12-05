@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120731:95884973" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T17:57:57</versionCreated>
+<firstCreated>2012-07-31T17:57:31</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T17:57:31</contentCreated>
+<contentModified>2012-07-31T17:57:57</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:194" type="cpnat:runnumber">
+<name>stt 194</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75440" type="cpnat:topic">
+<name>Millaisia keinoja oikeusministeriössä pohditaan järjestäytyneen rikollisuuden ehkäisyyn?</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97783666" type="cpnat:textpackageid">
+<name>Poliisijohtaja Robin Lardot tarkensi Ylelle kommenttejaan järjestäytyneen rikollisuuden tuista</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0001154" type="cpnat:length">
+<name>1154</name>
+</subject>
+      <subject qcode="sttdepartment:0009" type="cpnat:department">
+         <name>Politiikka</name>
+      </subject>
+<subject qcode="subj:2000000" type="cpnat:category">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject qcode="subj:2010000" type="cpnat:category">
+<name>Järjestäytynyt rikollisuus</name>
+</subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11016000" type="cpnat:category">
+<name>Sisäpolitiikka</name>
+</subject>
+<subject qcode="subj:14000000" type="cpnat:category">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject qcode="subj:14015000" type="cpnat:category">
+<name>Hyvinvointi Sosiaaliturva</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Poliisiylijohtaja: Sosiaalitukien ei tulisi edistää rikoksia</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Poliisiylijohtaja Mikko Paatero ei tyrmää ajatusta siitä, että järjestäytyneeseen rikollisuuteen sotkeutuneiden yhteiskunnallisia tukia saatettaisiin tulevaisuudessa poistaa.</p>
+  <p>–  Kyllä minäkin näen epäloogisena, että jos ammatikseen tekee rikoksia, niin yhteiskunta tukijärjestelmällään ikään kuin tukee sitä toimintaa, Paatero totesi STT:n haastattelussa tiistaina.</p>
+  <p>Tukien epääminen tulisi Paateron mukaan rajoittua vain rikoksentekijään itseensä kohdistuviin sosiaalitukiin. Hänen mukaansa on selvää, että esimerkiksi lapsilisien kaltaisia perheenjäseniä koskevia tukia ei voitaisi poistaa.</p>
+  <p>Poliisijohtaja Robin Lardot käynnisti keskustelun asiasta viikonloppuna mainitessaan tukien mahdollisesta poistamisesta Ylelle. Hän tarkensi myöhemmin kommenttejaan sanomalla, ettei ole poistamassa tukia, mutta viranomaisten yhteistyötä järjestäytyneen rikollisuuden torjunnassa pitäisi tiivistää.</p>
+  <p>Poliisiylijohtaja Paatero on samoilla linjoilla:</p>
+  <p>–  Kaikki keinot, joilla järjestäytynyttä rikollisuutta voidaan estää, on otettava käyttöön. Se edellyttää, että viranomaisten tiedonvaihto olisi saumatonta.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+<remoteContent contenttype="image/jpeg" height="310" href="file://images/36ab2427-4c30-4be5-a498-5caebb2ca04d.jpg" rendition="rnd:web" size="3467040" version="1" width="466"/>
+   </contentSet>
+</newsItem>

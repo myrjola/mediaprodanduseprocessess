@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120730:95877302" standard="NewsML-G2" standardversion="2.7" version="2" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T17:15:20</versionCreated>
+<firstCreated>2012-07-30T08:07:34</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T08:07:34</contentCreated>
+<contentModified>2012-07-30T17:15:20</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:175" type="cpnat:runnumber">
+<name>stt 175</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75254" type="cpnat:topic">
+<name>Oikeuskansleri tutkii EVM-sopimuksen. </name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97773343" type="cpnat:textpackageid">
+<name>Soini vaatii oikeuskansleria tutkimaan EVM-asian - sopimus ollut kansanedustajien nähtävillä jo huhtikuussa</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0002361" type="cpnat:length">
+<name>2361</name>
+</subject>
+      <subject qcode="sttdepartment:0009" type="cpnat:department">
+         <name>Politiikka</name>
+      </subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11002000" type="cpnat:category">
+<name>Diplomatia Ulkopolitiikka</name>
+</subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11022000" type="cpnat:category">
+<name>Laillisuusvalvonta</name>
+</subject>
+<subject qcode="subj:11022998" type="cpnat:category">
+<name>Oikeuskansleri</name>
+</subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11016000" type="cpnat:category">
+<name>Sisäpolitiikka</name>
+</subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11010000" type="cpnat:category">
+<name>Puolueet Poliittiset liikkeet Järjestöt</name>
+</subject>
+<subject qcode="subj:11010994" type="cpnat:category">
+<name>Perussuomalaiset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by>TIINA TUOMINEN</by>
+<description role="drol:summary"/>
+<headline>EVM-sopimus hallituksen esityksen liitteenä jo huhtikuussa</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Sopimus oikeuskanslerin tutkintaan tavallisen kansalaisen aloitteesta</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kiistely EVM-sopimuksen ympärillä kiihtyy. Oikeuskanslerin viraston mukaan hallituksen esityksessä on ollut kaikki tarvittavat tiedot siitä, miten sopimus on laadittu. Kysymys on nyt siitä, ovatko kansanedustajat ymmärtäneet mistä on kyse.</p>
+  <p>–  Sopimustekstistä ja hallituksen esityksen perusteluista käy huolellisella lukemisella ilmi, mikä on kansainvälisen sopimuksen pykälissä ja mikä taas sen johdannossa oleva sopimusvaltioiden välinen yhteinen näkemys, sanoo apulaisoikeuskanslerin sijainen Risto Hiekkataipale.</p>
+  <p>Hänen mukaansa oleellisinta on, saiko eduskunta tarvittavan tiedon sopimuksen sisällöstä. Hiekkataipaleen mukaan eduskunta sai jo huhtikuun lopulla hallituksen esityksen, josta se päätti kesäkuun lopulla. Kohuttu EVM-sopimus oli hallituksen esityksen liitteenä.</p>
+  <p>–  Toivottavasti kaikki, jotka sopimusta kovasti kommentoivat, ovat esityksen myös lukeneet.</p>
+  <p>Oikeuskanslerille tehdyn kantelun valmistelussa kuullaan Hiekkataipaleen mukaan esittelevää ministeriötä, eli lähinnä valtiovarainministeriötä. Hallituksen esitys on kaikkien luettavissa internetissä.</p>
+  <p>–  Ainakaan minulle ei ole syntynyt käsitystä, että se olisi jotenkin "vajaa" ja etteikö siitä ilmenisi se asia, mistä puhutaan.</p>
+  <p/>
+  <p>
+<h3>Soini vaatii sopimustutkintaa</h3>
+</p>
+  <p/>
+  <p>Perussuomalaisten puheenjohtaja Timo Soini toivoi maanantaina oikeuskanslerin tutkivan, johdettiinko eduskuntaa harhaan eduskunnan päättäessä euroalueen pysyvän vakausmekanismin EVM:n hyväksymisestä. Soinin kannasta kertoi Yle uutiset.</p>
+  <p>Soinin mukaan nyt käydään taistelua siitä, mitä EVM-sopimuksen muotoilu tarkoittaa. Sopimuksen johdannossa mainitaan, että sen kautta annetuilla lainoilla on ensisijainen asema. Itse sopimuspykälistä tämä kuitenkin puuttuu.</p>
+  <p>Kesälomalla olevan Soinin mielestä olisi tyylikästä, jos oikeuskansleri ottaisi asian oma-aloitteisesti käsittelyynsä.</p>
+  <p>–  Jos hyväksymismenettelyssä todetaan vajavaisuuksia, EVM-sopimus on tuotava uudelleen eduskunnan käsittelyyn, Soini sanoi Ylelle.</p>
+  <p>Hiekkataipaleen mukaan kanslerille on jo ennen Soinin kommentteja tullut EVM-sopimusta koskeva tutkimuspyyntö "valistuneelta kansalaiselta", joten se on jo siirtynyt tutkintaan. Oikeuskansleri Jaakko Jonkka ottanee sopimuksen katsottavakseen pian lomansa jälkeen viikon kuluttua.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+<remoteContent contenttype="image/jpeg" height="532" href="file://images/7ac28b31-1f0f-4680-a205-4ae6ea513192.jpg" rendition="rnd:web" size="10214400" version="1" width="800"/>
+   </contentSet>
+</newsItem>

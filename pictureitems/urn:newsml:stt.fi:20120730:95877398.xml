@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120730:95877398" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-30T09:07:09</versionCreated>
+<firstCreated>2012-07-30T09:07:06</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-30T09:07:06</contentCreated>
+<contentModified>2012-07-30T09:07:09</contentModified>
+<located type="loctype:City">
+<name>Tokio/Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:044" type="cpnat:runnumber">
+<name>stt 044</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75260" type="cpnat:topic">
+<name>Lehti: Fukushiman tuhojen puhdistustyöt seisovat</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97773701" type="cpnat:textpackageid">
+<name>Lehti: Fukushiman tuhojen puhdistustyöt seisovat</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000963" type="cpnat:length">
+<name>963</name>
+</subject>
+      <subject qcode="sttdepartment:0014" type="cpnat:department">
+         <name>Ulkomaat</name>
+      </subject>
+<subject qcode="subj:3000000" type="cpnat:category">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject qcode="subj:3008000" type="cpnat:category">
+<name>Ydinonnettomuudet</name>
+</subject>
+<subject qcode="subj:6000000" type="cpnat:category">
+<name>Ympäristö</name>
+</subject>
+<subject qcode="subj:6013000" type="cpnat:category">
+<name>Saastuneiden alueiden puhdistus</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Tokio/Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Lehti: Fukushiman alueen puhdistustyöt liki seisahduksissa</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Fukushiman ydinturmassa saastuneiden maa-alueiden puhdistustyöt ovat lähes seisahduksissa, kertoo sanomalehti Asahi Shimbun. Valtio on myöntänyt tukea puhdistusurakkaa varten yhdelletoista sellaiselle kunnalle, joissa tehtiin turman vuoksi evakuointeja, mutta vain viidessä niistä työt on aloitettu.</p>
+  <p>Puhdistus pitäisi saada päätökseen maaliskuussa 2014, mutta aikataulun pitävyyttä epäillään.</p>
+  <p>Syynä kangerteluun on etenkin valtion ja kuntien kiista siitä, minne saastunut maa säilötään. Ympäristöministeriön suunnitelman mukaan maa on ensin väliaikaissäilytyksessä kuntien alueella enintään kaksi ja puoli vuotta, minkä jälkeen se siirretään keskipitkän aikavälin varastoihin. Toistaiseksi ei kuitenkaan tiedetä, millaisia nämä varastot olisivat ja minne ne sijoitetaan.</p>
+  <p>Ydintuhon koettelemien alueiden asukkaat pelkäävätkin, että saastunut maa jää niiden riesaksi huomattavasti sovittua pidemmäksi aikaa.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+<remoteContent contenttype="image/jpeg" height="420" href="file://images/a7b48969-bd19-4f55-8594-de93df4dc4e7.jpg" rendition="rnd:web" size="5644800" version="1" width="560"/>
+   </contentSet>
+</newsItem>

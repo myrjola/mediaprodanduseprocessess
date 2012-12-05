@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120729:95873821" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T14:10:05</versionCreated>
+<firstCreated>2012-07-29T14:10:01</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T14:10:01</contentCreated>
+<contentModified>2012-07-29T14:10:05</contentModified>
+<located type="loctype:City">
+<name>Seinäjoki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:082" type="cpnat:runnumber">
+<name>stt 082</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75197" type="cpnat:topic">
+<name>Seinäjoen Vauhtiajot työllistivät poliisia</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97767798" type="cpnat:textpackageid">
+<name>Seinäjoen Vauhtiajot työllistivät poliisia</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000781" type="cpnat:length">
+<name>781</name>
+</subject>
+      <subject qcode="sttdepartment:0003" type="cpnat:department">
+         <name>Kotimaa</name>
+      </subject>
+<subject qcode="sttlocationalias:6875" type="cpnat:geoArea"/>
+<subject qcode="subj:1000000" type="cpnat:category">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject qcode="subj:1004000" type="cpnat:category">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<subject qcode="subj:2000000" type="cpnat:category">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Seinäjoki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Nyrkit heiluivat viikonloppuna Seinäjoella</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6875">
+<name>Seinäjoki</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader qcode="city:267" type="cpnat:geoArea">
+<name>Seinäjoki</name>
+</broader>
+<broader qcode="stat:22" type="cpnat:geoArea">
+<name>Etelä-Pohjanmaa</name>
+</broader>
+<broader qcode="country:1" type="cpnat:geoArea">
+<name>Suomi</name>
+</broader>
+<broader qcode="continet:4" type="cpnat:geoArea">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p> Levottomasti käyttäytyneet juhlijat työllistivät poliisia viikonloppuna Seinäjoella. Nyrkit heiluivat ainakin Lakeuden puistossa ja keskustassa.</p>
+  <p>Puistoon oli kokoontunut satoja nuoria juhlimaan autourheilu- ja musiikkitapahtuma Vauhtiajoja. Jotkut heistä yltyivät selvittelemään välejään lauantaina aamuyöllä. Yksi joutui sairaalaan, kertoo Etelä-Pohjanmaan poliisi.</p>
+  <p>Sunnuntaiyönä suurempi joukko pahoinpiteli useita ihmisiä Lakeuden puistossa.</p>
+  <p>Poliisi sai puuttua käsirysyihin muuallakin Seinäjoella. Lisäksi järjestyksenvalvojat Vauhtiajojen alueella ja Lappajärven Halkosaaressa joutuivat osallisiksi tappeluihin, kun he puuttuivat häiriökäyttäytymiseen.</p>
+  <p>Liikkeellä oli myös juopuneita sekä ihmisiä, joiden hallussa oli huumausaineita.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+<remoteContent contenttype="image/jpeg" height="303" href="file://images/f86a5912-b36a-4e74-b900-f49d53cd495d.jpg" rendition="rnd:web" size="3599640" version="1" width="495"/>
+   </contentSet>
+</newsItem>

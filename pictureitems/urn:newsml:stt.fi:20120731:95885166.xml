@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120731:95885166" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T18:45:35</versionCreated>
+<firstCreated>2012-07-31T18:45:29</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T18:45:29</contentCreated>
+<contentModified>2012-07-31T18:45:35</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:210" type="cpnat:runnumber">
+<name>stt 210</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75440" type="cpnat:topic">
+<name>Millaisia keinoja oikeusministeriössä pohditaan järjestäytyneen rikollisuuden ehkäisyyn?</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97783666" type="cpnat:textpackageid">
+<name>Poliisijohtaja Robin Lardot tarkensi Ylelle kommenttejaan järjestäytyneen rikollisuuden tuista</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0003263" type="cpnat:length">
+<name>3263</name>
+</subject>
+      <subject qcode="sttdepartment:0009" type="cpnat:department">
+         <name>Politiikka</name>
+      </subject>
+<subject qcode="subj:2000000" type="cpnat:category">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject qcode="subj:2010000" type="cpnat:category">
+<name>Järjestäytynyt rikollisuus</name>
+</subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11016000" type="cpnat:category">
+<name>Sisäpolitiikka</name>
+</subject>
+<subject qcode="subj:14000000" type="cpnat:category">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject qcode="subj:14015000" type="cpnat:category">
+<name>Hyvinvointi Sosiaaliturva</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by>TIINA TUOMINEN, SALLA SALMELA</by>
+<description role="drol:summary"/>
+<headline>Poliisiylijohtaja jättäisi rikollisille lapsilisät</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Asiantuntijat: Enemmistö rikollisista on tukia tarvitsevia reppanoita</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Poliisiylijohtaja Mikko Paatero ei tyrmää ajatusta siitä, että järjestäytyneeseen rikollisuuteen sotkeutuneiden yhteiskunnallisia tukia saatettaisiin tulevaisuudessa poistaa.</p>
+  <p>–  Kyllä minäkin näen epäloogisena, että jos ammatikseen tekee rikoksia, niin yhteiskunta tukijärjestelmällään ikään kuin tukee sitä toimintaa, Paatero toteaa STT:n haastattelussa.</p>
+  <p>Tukien epääminen tulisi Paateron mukaan rajoittua vain rikoksentekijään itseensä kohdistuviin sosiaalitukiin. Hänen mukaansa on selvää, että esimerkiksi lapsilisien kaltaisia perheenjäseniä koskevia tukia ei voitaisi poistaa.</p>
+  <p>Poliisijohtaja Robin Lardot käynnisti keskustelun asiasta viikonloppuna mainitessaan tukien mahdollisista poistamisista Ylelle. Hän tarkensi myöhemmin kommenttejaan sanomalla, ettei ole poistamassa tukia, mutta viranomaisten yhteistyötä järjestäytyneen rikollisuuden torjunnassa pitäisi tiivistää.</p>
+  <p>Myös poliisiylijohtaja Paateron mielestä viranomaisten keskinäinen tietojen vaihto olisi tehtävä helpommaksi.</p>
+  <p/>
+  <p>
+<h3>Rikollisten tukien karsiminen johtaisi ehkä uusiin ongelmiin</h3>
+</p>
+  <p/>
+  <p>Poliisijohtaja Robin Lardotin kommentit rikollisten tukien poistamisesta ovat saaneet alan asiantuntijat takajaloilleen. Köyhyystutkija Jouko Karjalainen Terveyden ja hyvinvoinnin laitokselta ei usko, että rikollisten tukien leikkaamisesta olisi apua. Hän arvioi, että leikkaamisen haitat muuttuisivat pian hyötyjä suuremmiksi.</p>
+  <p>–  Tasa-arvoinen kohtelu on pohjoismaisen hyvinvointivaltion lähtökohta, Karjalainen muistuttaa.</p>
+  <p>Sosiaalitukien leikkaaminen tulisi kyseeseen hänen mielestään vain silloin, kun tukia on käytetty väärin ja vilpillisesti.</p>
+  <p>Köyhyystutkijan mielestä leikkaukset johtaisivat siihen, että sosiaalitoimi ja yksittäiset sosiaalityöntekijät joutuisivat mahdottomiin tilanteisiin.</p>
+  <p>–  Heidän pitäisi tietää asiakkaidensa elämästä niin paljon, että siinä mennään jo vakavien tietosuojaongelmien äärelle, sanoo itsekin sosiaalityöntekijänä kriminaalihuollossa työskennellyt Karjalainen.</p>
+  <p/>
+  <p>
+<h3>"Lardot ei ole tietoinen ihmisoikeuksista"</h3>
+</p>
+  <p/>
+  <p>Kriminaalihuollon tukisäätiön toiminnanjohtaja Jukka Mäki ihmettelee, miksi huomio on kiinnittynyt juuri järjestäytyneeseen rikollisuuteen, jota edustavia on maamme vankiloissa vain 1–2 prosenttia.</p>
+  <p>Mäen mielestä vangit ovat ennen kaikkea hoidon ja kuntoutuksen tarpeessa. Hän pelkää, että pahimmillaan tukien rajaaminen aiheuttaisi Suomeen rikollisen alakulttuurin.</p>
+  <p>Mäen mukaan etuisuuksien poistaminen aiheuttaisi lisää ongelmia ja turvattomuutta. Tuet kuuluvat hänen mukaansa kaikille. </p>
+  <p>–  Ihmetyttää, miten korkea poliisiviranomainen ei ole tietoinen kaikkia kansalaisia koskevista perus- ja ihmisoikeuksista, Mäki ihmettelee viitaten Lardotin kommenttiin.</p>
+  <p>Hän sanoo olevansa huolissaan siitä, onko poliisilla aukottomat keinot yksilöidä, ketkä kuuluvat järjestäytyneen rikollisuuden piiriin. Mäen mielestä rajanveto ei ole selvä.</p>
+  <p>–  Yli 90 prosenttia omista rikollisistamme on reppanoita, eivät he kuulu järjestäytyneeseen rikollisuuteen. Valkokaulusrikolliset sen sijaan eivät yhteiskunnan rahoja tarvitse, he elävät konnuusrahoillaan.</p>
+  <p>STT ei tavoittanut tiistaina poliisijohtaja Robin Lardotia kommentoimaan asiaa.</p>
+  <p/>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+<remoteContent contenttype="image/jpeg" height="310" href="file://images/fb6169d1-d3d0-44ca-afb9-0fbe53e18a12.jpg" rendition="rnd:web" size="3467040" version="1" width="466"/>
+   </contentSet>
+</newsItem>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120728:95871289" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T21:30:57</versionCreated>
+<firstCreated>2012-07-28T21:30:54</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:update"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T21:30:54</contentCreated>
+<contentModified>2012-07-28T21:30:57</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:231" type="cpnat:runnumber">
+<name>stt 231</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75106" type="cpnat:topic">
+<name>Kesän lämpöennätys rikotaan todennäköisesti sunnuntaina</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97760741" type="cpnat:textpackageid">
+<name>Kesän lämpöennätys rikotaan todennäköisesti sunnuntaina</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000950" type="cpnat:length">
+<name>950</name>
+</subject>
+      <subject qcode="sttdepartment:0003" type="cpnat:department">
+         <name>Kotimaa</name>
+      </subject>
+<subject qcode="sttlocationalias:11118" type="cpnat:geoArea"/>
+<subject qcode="subj:17000000" type="cpnat:category">
+<name>Sää</name>
+</subject>
+<subject qcode="subj:17003000" type="cpnat:category">
+<name>Säätiedotteet</name>
+</subject>
+<subject qcode="subj:17003001" type="cpnat:category">
+<name>Sääuutiset</name>
+</subject>
+<subject qcode="subj:17000000" type="cpnat:category">
+<name>Sää</name>
+</subject>
+<subject qcode="subj:17001000" type="cpnat:category">
+<name>Sääennusteet</name>
+</subject>
+<slugline>///PÄIVITETTY LEHTIVERSIO ILMATIETEEN LAITOKSEN TUOREILLA TIEDOILLA///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Sunnuntaiksi luvassa hellettä, ukkosta ja rakeita</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:11118">
+<name>Oulu</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader qcode="city:205" type="cpnat:geoArea">
+<name>Oulu</name>
+</broader>
+<broader qcode="stat:23" type="cpnat:geoArea">
+<name>Pohjois-Pohjanmaa</name>
+</broader>
+<broader qcode="country:1" type="cpnat:geoArea">
+<name>Suomi</name>
+</broader>
+<broader qcode="continet:4" type="cpnat:geoArea">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kesän lämpöennätys rikkoontuu todennäköisesti sunnuntaina, kun miltei koko maa kylpee helteessä pohjoista Lappia lukuun ottamatta. Helteestä on tulossa tukala ilman kosteuden vuoksi. Lämpöennätys rikottaneen sunnuntaina maan itä- tai keskiosassa, jossa päästään jopa 30 asteen lukemiin.</p>
+  <p>Kesän tähänastinen ennätys on 28,5 astetta. Se mitattiin Hämeenlinnan Evolla 8. heinäkuuta.</p>
+  <p>Etelärannikolta Oulun tienoille tulee monin paikoin ukkoskuuroja, jotka voivat olla voimakkaita. Ilmatieteen laitos ennustaa lisäksi rankkasateita ja paikoin jopa suuria rakeita.</p>
+  <p>–  Olosuhteet raekuuroille ovat otolliset, sillä on voimakkaita nousuvirtauksia ja kosteutta, kertoi päivystävä meteorologi Jari Tuovinen.</p>
+  <p>Tuovinen kehottaa seuraamaan sääennustuksia.</p>
+  <p>–  Normaalia varovaisuutta kannattaa noudattaa. Esimerkiksi iltapäivällä ei kannata olla järvenselällä kaukana rannasta.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+<remoteContent contenttype="image/jpeg" height="312" href="file://images/6a959c82-0d32-40df-838e-dc01f9ba3a63.jpg" rendition="rnd:web" size="3489408" version="1" width="466"/>
+   </contentSet>
+</newsItem>

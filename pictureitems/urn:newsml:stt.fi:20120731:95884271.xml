@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120731:95884271" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T15:48:32</versionCreated>
+<firstCreated>2012-07-31T15:48:29</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T15:48:29</contentCreated>
+<contentModified>2012-07-31T15:48:32</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:145" type="cpnat:runnumber">
+<name>stt 145</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75504" type="cpnat:topic">
+<name>Valuuttakurssit 31.7.</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97786732" type="cpnat:textpackageid">
+<name>Valuuttakurssit 31.7.</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000998" type="cpnat:length">
+<name>998</name>
+</subject>
+      <subject qcode="sttdepartment:0011" type="cpnat:department">
+         <name>Talous</name>
+      </subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Valuuttakurssit</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>EKP:n julkaisemat euronkurssit klo 15.15</p>
+  <p/>
+  <p>Valuutta / Valuutta euro</p>
+  <p/>
+  <p>Australian dollari	AUD	1,1675</p>
+  <p>Brasilian real	BRL	2,5117</p>
+  <p>Bulgarian uusi lev	BGN	1,9558</p>
+  <p>Englannin punta	GBP	0,78395</p>
+  <p>Etelä-Afrikan randi	ZAR	10,0556</p>
+  <p>Etelä-Korean won	KRW	1 387,85</p>
+  <p>Filippiinien peso	PHP	51,244</p>
+  <p>Hongkongin dollari	HKD	9,5246</p>
+  <p>Indonesian rupia	IDR	11 606,59</p>
+  <p>Intian rupia	INR	68,3670</p>
+  <p>Israelin uusi sekeli	ILS	4,9064</p>
+  <p>Japanin jeni	JPY	96,03</p>
+  <p>Kanadan dollari	CAD	1,2312</p>
+  <p>Kiinan juan renminbi	CNY	7,8147</p>
+  <p>Kroatian kuna	HRK	7,5175</p>
+  <p>Latvian lati	LVL	0,6961</p>
+  <p>Liettuan liti	LTL	3,4528</p>
+  <p>Malesian ringgit	MYR	3,8455</p>
+  <p>Meksikon peso	MXN	16,2856</p>
+  <p>Norjan kruunu	NOK	7,4215</p>
+  <p>Puolan zloty	PLN	4,1050</p>
+  <p>Romanian uusi leu	RON	4,5800</p>
+  <p>Ruotsin kruunu	SEK	8,3590</p>
+  <p>Singaporen dollari	SGD	1,5278</p>
+  <p>Sveitsin frangi	CHF	1,2014</p>
+  <p>Tanskan kruunu	DKK	7,4407</p>
+  <p>Thaimaan baht	THB	38,670</p>
+  <p>Tšekin koruna	CZK	25,255</p>
+  <p>Turkin liira	TRY	2,1990</p>
+  <p>Unkarin forintti	HUF	278,94</p>
+  <p>Uuden-Seelannin dollari	NZD	1,5166</p>
+  <p>Venäjän rupla	RUB	39,5270</p>
+  <p>Yhdysvaltain dollari	USD	1,2284</p>
+  <p/>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+<remoteContent contenttype="image/jpeg" height="381" href="file://images/05cce320-e2b7-4c0d-901f-720b62ac323e.jpg" rendition="rnd:web" size="4279392" version="1" width="468"/>
+   </contentSet>
+</newsItem>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120728:95870686" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T17:07:07</versionCreated>
+<firstCreated>2012-07-28T17:07:04</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T17:07:04</contentCreated>
+<contentModified>2012-07-28T17:07:07</contentModified>
+<located type="loctype:City">
+<name>Kemiönsaari</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:132" type="cpnat:runnumber">
+<name>stt 132</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75131" type="cpnat:topic">
+<name>Kadonnut mies löytyi hukkuneena Taalintehtaalla Varsinais-Suomessa</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97762840" type="cpnat:textpackageid">
+<name>Kadonnut mies löytyi hukkuneena Taalintehtaalla Varsinais-Suomessa</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000374" type="cpnat:length">
+<name>374</name>
+</subject>
+      <subject qcode="sttdepartment:0003" type="cpnat:department">
+         <name>Kotimaa</name>
+      </subject>
+<subject qcode="sttlocationalias:8242" type="cpnat:geoArea"/>
+<subject qcode="subj:3000000" type="cpnat:category">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject qcode="subj:3017000" type="cpnat:category">
+<name>Pelastusoperaatiot</name>
+</subject>
+<subject qcode="subj:3000000" type="cpnat:category">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject qcode="subj:3014000" type="cpnat:category">
+<name>Onnettomuudet ja turmat</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Kemiönsaari</dateline>
+<by/>
+<description role="drol:summary">Viime sunnuntaina kadonnut mies löytyi hukkuneena läheltä kadonneen veneen löytöpaikkaa.</description>
+<headline>Kadonnut mies löytyi hukkuneena Varsinais-Suomessa</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:8242">
+<name>Kemiönsaari</name>
+<definition>http://www.bing.com/maps/?v=2&amp;where1=60.1694,+22.7374</definition>
+<geoAreaDetails>
+<position latitude="60.169449" longitude="22.73735"/>
+</geoAreaDetails>
+<broader qcode="city:139" type="cpnat:geoArea">
+<name>Kemiönsaari</name>
+</broader>
+<broader qcode="stat:26" type="cpnat:geoArea">
+<name>Varsinais-Suomi</name>
+</broader>
+<broader qcode="country:1" type="cpnat:geoArea">
+<name>Suomi</name>
+</broader>
+<broader qcode="continet:4" type="cpnat:geoArea">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kadonnut mies löydettiin hukkuneena Kemiönsaaren Taalintehtaalta Varsinais-Suomesta.</p>
+  <p>Vuonna 1959 syntynyt mies ilmoitettiin kadonneeksi viime viikon sunnuntaina. Hänet löydettiin lauantaina kuolleena Taalintehtaan satamasta, läheltä hänen veneensä löytöpaikkaa.</p>
+  <p>Poliisin mukaan mies todennäköisesti hukkui katoamispäivänään.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+<remoteContent contenttype="image/jpeg" height="400" href="file://images/40bbf3fb-f171-4d25-bb1b-c365451787f4.jpg" rendition="rnd:web" size="2572800" version="1" width="268"/>
+   </contentSet>
+</newsItem>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120728:95853012" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T11:00:33</versionCreated>
+<firstCreated>2012-07-28T11:00:29</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T11:00:29</contentCreated>
+<contentModified>2012-07-28T11:00:33</contentModified>
+<located type="loctype:City">
+<name>Saltvik</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:058" type="cpnat:runnumber">
+<name>stt 058</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:74087" type="cpnat:topic">
+<name>Reportaasi hylkeenmetsästyksestä Ahvenanmaalla</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97729146" type="cpnat:textpackageid">
+<name>Reportaasi hylkeenmetsästyksestä Ahvenanmaalla</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0002241" type="cpnat:length">
+<name>2241</name>
+</subject>
+      <subject qcode="sttdepartment:0003" type="cpnat:department">
+         <name>Kotimaa</name>
+      </subject>
+<subject qcode="subj:10000000" type="cpnat:category">
+<name>Vapaa-aika</name>
+</subject>
+<subject qcode="subj:10012000" type="cpnat:category">
+<name>Metsästys</name>
+</subject>
+<slugline>///LEHTIVERSIO FAKTALAATIKKO, LEHTIKUVAA///</slugline>
+<dateline>Saltvik</dateline>
+<by>MÅRTEN ARVIDSSON</by>
+<description role="drol:summary"/>
+<headline>Hylkeenpyynnissä Ahvenanmaan laidalla</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kaukana ulkosaaristossa on käynnissä hylkeenpyynti, jota toimittaja pääsi seuraamaan.</p>
+  <p>–  Maku riippuu kokista ja valmistustavasta. Se muistuttaa hieman maksaa, Conny Sjöholm kuvaa hylkeenlihaa.</p>
+  <p>Istumme hänen veneessään Saltvikin Karvikenissa. Odotamme mukaan pyyntiretkelle Robert Tolosta ja Sebastian Nordinia.</p>
+  <p>Robertilla on tullessaan mukana pitkä pyssy, joka näyttää luodikolta. Muut aseet eivät tulisi hylkeenpyynnissä kyseeseen, eivätkä ne olisi laillisiakaan. </p>
+  <p>–  Eläinten pitää kuolla niin nopeasti kuin mahdollista, joten haulit eivät käy, Robert sanoo.</p>
+  
+  <p>
+<h3>Salainen paikka</h3>
+</p>
+  <p/>
+  <p>Veneemme puksuttaa poispäin Karvikenista. Tuuli puhaltaa hiuksiamme, mutta näkyvyys on hyvä. Opin, että tyyni sää on hylkeenpyynnissä tärkeää. Aallokossa hylkeen päähän on vaikea osua.</p>
+  <p>Hitaasti ja varovasti, moottori yhä käynnissä, lähestymme luotoa. </p>
+  <p>–  Parasta hylkeenpyynnissä on olla täällä, Conny sanoo ja viittaa kohti merta ja sileäpintaisia kallioita.</p>
+  <p>–  Täällä kuulee vain luonnon äänet, ei autojen, Robert tuumii.</p>
+  <p>Kysyn, miltä miehistä tuntuu teurastaa hylje.</p>
+  <p>–  Ne ovat hirveän rasvaisia, joten se on vaikeaa, Conny sanoo.</p>
+  <p>–  Pitää myös käyttää hanskoja. Muuten voi saada hylkeestä virustartunnan, Robert huomauttaa.</p>
+  <p>Parhaat pyyntipaikat ovat salaisia. Miehet eivät kerro minulle, minkä nimisellä luodolla olemme. </p>
+  
+  <p>
+<h3>Havaitut</h3>
+</p>
+  <p/>
+  <p>Jatkamme matkaa toiselle luodolle, missä havaitsemme 15–20 hyljettä. Ne pulahtavat meidät nähdessään veteen.</p>
+  <p>–  Saa nähdä, saisinko ne menemään matalikkoon, Conny sanoo.</p>
+  <p>Hylkeiden pitää olla matalassa vedessä, sillä kuollessaan ne uppoavat pohjaan kuin kivet.</p>
+  <p>Miehet alkavat ulvoa. He matkivat hylkeiden ääniä. </p>
+  <p>Miehet nostavat aseensa, ja samalla hylkeet kaikkoavat.</p>
+  <p>Pian ymmärrämme, miksi hylkeet ovat niin säikkyjä. Kaukana näkyy pieni vene.</p>
+  <p>Miehet laskevat aseensa.</p>
+  <p>–  Meillä on pyyntiin lupa, mutta eiväthän he voi tietää sitä. Emme halua provosoida, Robert sanoo.</p>
+  <p>Odotamme, mitä toinen vene tekee.</p>
+  <p>Odottaminen vaikuttaa olevan olennainen osa hylkeenpyytiä. </p>
+  <p>Viimein toinen vene suuntaa kohti itää, ja aseiden piiput nousevat taas.</p>
+  <p>Lopulta palaamme kuitenkin kotiin ilman saalista.</p>
+  <p>–  Toisinaan käy näin. Huono tulos, mutta hieno jahti, Robert sanoo.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+<remoteContent contenttype="image/jpeg" height="454" href="file://images/34b63925-1eef-4b11-b753-827d486dff5b.jpg" rendition="rnd:web" size="7191360" version="1" width="660"/>
+   </contentSet>
+</newsItem>

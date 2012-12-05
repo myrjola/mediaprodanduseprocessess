@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120801:95888405" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-08-01T15:48:52</versionCreated>
+<firstCreated>2012-08-01T15:48:48</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-08-01T15:48:48</contentCreated>
+<contentModified>2012-08-01T15:48:52</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:141" type="cpnat:runnumber">
+<name>stt 141</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75577" type="cpnat:topic">
+<name>Seksuaalilainsäädäntö kaipaa kansanedustaja Anna Kontulan mielestä viilausta - mitä mieltä asiantuntijat ovat?</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97793487" type="cpnat:textpackageid">
+<name>Seksuaalilainsäädäntö kaipaa kansanedustaja Anna Kontulan mielestä viilausta - mitä mieltä asiantuntijat ovat?</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0002305" type="cpnat:length">
+<name>2305</name>
+</subject>
+      <subject qcode="sttdepartment:0009" type="cpnat:department">
+         <name>Politiikka</name>
+      </subject>
+<subject qcode="subj:14000000" type="cpnat:category">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject qcode="subj:14006000" type="cpnat:category">
+<name>Perhe</name>
+</subject>
+<subject qcode="subj:14006005" type="cpnat:category">
+<name>Parisuhde Seksi</name>
+</subject>
+<subject qcode="subj:2000000" type="cpnat:category">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject qcode="subj:2006000" type="cpnat:category">
+<name>Lainsäädäntö</name>
+</subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11010000" type="cpnat:category">
+<name>Puolueet Poliittiset liikkeet Järjestöt</name>
+</subject>
+<subject qcode="subj:11010997" type="cpnat:category">
+<name>Vasemmistoliitto</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by>TIINA TUOMINEN</by>
+<description role="drol:summary"/>
+<headline>Kontulan esille nostama insestipykälä pohdinnassa aika ajoin</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+<h2>Väestöliitto ei näe syytä keskustella koko asiasta</h2>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Keskustelu seksin harrastamisesta lähisukulaisten kesken ei ole uusi asia, vaan siitä on puhuttu koko seksuaalirikosten historian ajan, sanoo lainsäädäntöneuvos Jussi Matikkala oikeusministeriöstä. Edellisen kerran asiasta keskusteltiin isommin, kun rikoslakiin tehtiin seksuaalirikoksia koskeva kokonaisuudistus vuonna 1998.</p>
+  <p>Uusin avaus kuultiin kansanedustaja Anna Kontulalta (vas.), joka sohaisi muurahaispesään sanomalla tiistaina, että on tarpeetonta kieltää laissa lähisukulaisia harrastamasta keskenään seksiä.</p>
+  <p>Kontulan mukaan seksi ei ole enää vain jälkeläisten tuottamista. Hän näki myös epäloogisuutta siinä, että eläinporno on kielletty, mutta eläimiin sekaantumista ei. Asiasta kertoi Iltalehti. STT ei tavoittanut Kontulaa keskiviikkona.</p>
+  <p>Lähisukulaisilla tarkoitetaan rikoslaissa suoraan ylenevää ja alenevaa polvea sekä omia sisaruksia. Lain kumoavaa hanketta ei ole lainsäädäntöneuvos Matikkalan mukaan viritteillä.</p>
+  <p>–  Tämä on luonteeltaan paljolti marginaali- ja moraalikysymys, joten rikoslaista tuskin löytyy siihen ratkaisua.</p>
+  <p>Eläimiin sekaantumisen kieltävä pykälä on seksuaalilainsäädännöstä poistettu, mutta Matikkalan mukaan toiminta voi joissakin tapauksissa olla eläinsuojelurikos.</p>
+  <p>–  Riippuu siitä, onko tilanne ollut laissa tarkoitetulla tavalla eläimen olosuhteita heikentävä vai ei.</p>
+  
+  <p>
+<h3>Vapaaehtoinenkin teko rangaistava</h3>
+</p>
+  <p/>
+  <p>Nykylainsäädännössä suojataan erityisesti seksuaalista itsemääräämisoikeutta. Insestipykälä lähtee kuitenkin siitä, että teosta rangaistaan, vaikka se olisikin vapaaehtoinen, sanoo Matikkala.</p>
+  <p>–  Kieltoa on voitu arvostella, vaikka kyse on aikuisten välisistä vapaaehtoisista teoista.</p>
+  <p>Ylilääkäri Dan Apter Väestöliitosta tyrmää Kontulan avauksen suoralta kädeltä. Hänen mukaansa sukupuoliyhteys ei kuulu vanhemman ja lapsen eikä sisarustenkaan välille, minkä vuoksi Väestöliitto ei näe tarvetta lakitekstin muuttamiseen.</p>
+  <p>–  Tunneside on lähisukulaisten välillä erilainen kuin muiden. Seksin kautta tulee helposti hyväksikäyttöongelmia.</p>
+  <p>Apter uskoo, että asia koskettaa monia varsin syvällisesti. Siksi sen käsittelemiseen liittyy voimakkaita tunteita.</p>
+  <p>–  Se lienee luonnollista. En näe tarvetta virittää asiasta tämän suurempaa keskustelua.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+<remoteContent contenttype="image/jpeg" height="391" href="file://images/74d2c14b-fb16-459a-a41f-2748ce79be8e.jpg" rendition="rnd:web" size="6099600" version="1" width="650"/>
+   </contentSet>
+</newsItem>

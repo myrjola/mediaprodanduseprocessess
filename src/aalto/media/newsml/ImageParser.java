@@ -98,6 +98,7 @@ public class ImageParser {
                 //System.out.println(guid);
                 for (NewsItem ni: newsItems) {
                     if (ni.getGuid().equals(guid)) {
+                        System.out.println("Mathing guid found for: " + guid);
 
                 		try {
                 			documentBuilder = documentFactory.newDocumentBuilder();
@@ -130,12 +131,10 @@ public class ImageParser {
                 	    // Add image metadata
                     	ImageInfo ii = ImageParser.readImageInfo(file.getAbsolutePath());
 
-                	    Element contentSet = xmlDocument.createElement("contentSet");
                 	    Element remoteContent = xmlDocument.createElement("remoteContent");
-                	    contentSet.appendChild(remoteContent);
                 	    try {
-				remoteContent.setAttribute("href", "file://" + file.getCanonicalPath());
-			    } catch (DOMException | IOException e2) {
+				remoteContent.setAttribute("href", "file://" + file.getPath());
+			    } catch (DOMException e2) {
 				// TODO Auto-generated catch block
 				e2.printStackTrace();
 			    }
@@ -146,7 +145,7 @@ public class ImageParser {
                 	    remoteContent.setAttribute("width", Integer.toString(ii.getWidth()));
                 	    remoteContent.setAttribute("height", Integer.toString(ii.getHeight()));
                 	    
-                	    xmlDocument.getElementsByTagName("newsItem").item(0).appendChild(contentSet);
+                	    xmlDocument.getElementsByTagName("contentSet").item(0).appendChild(remoteContent);
                 	    
                 	    
                 		TransformerFactory transfac = TransformerFactory.newInstance();

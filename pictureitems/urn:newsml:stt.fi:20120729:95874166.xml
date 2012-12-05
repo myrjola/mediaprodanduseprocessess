@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120729:95874166" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T16:14:04</versionCreated>
+<firstCreated>2012-07-29T16:14:01</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T16:14:01</contentCreated>
+<contentModified>2012-07-29T16:14:04</contentModified>
+<located type="loctype:City">
+<name>Sysmä</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:121" type="cpnat:runnumber">
+<name>stt 121</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75206" type="cpnat:topic">
+<name>Poliisi selvittää epäselvää kuolemaa Sysmässä</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97768521" type="cpnat:textpackageid">
+<name>Poliisi selvittää epäselvää kuolemaa Sysmässä</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000511" type="cpnat:length">
+<name>511</name>
+</subject>
+      <subject qcode="sttdepartment:0003" type="cpnat:department">
+         <name>Kotimaa</name>
+      </subject>
+<subject qcode="sttlocationalias:6888" type="cpnat:geoArea"/>
+<subject qcode="subj:2000000" type="cpnat:category">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject qcode="subj:2003000" type="cpnat:category">
+<name>Poliisi</name>
+</subject>
+<subject qcode="subj:2003002" type="cpnat:category">
+<name>Poliisitutkinta</name>
+</subject>
+<subject qcode="subj:2000000" type="cpnat:category">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject qcode="subj:2001000" type="cpnat:category">
+<name>Rikokset</name>
+</subject>
+<subject qcode="subj:2001006" type="cpnat:category">
+<name>Väkivaltarikokset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Sysmä</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Mies kuoli epäselvissä olosuhteissa mökillä Sysmässä</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6888">
+<name>Sysmä</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader qcode="city:286" type="cpnat:geoArea">
+<name>Sysmä</name>
+</broader>
+<broader qcode="stat:24" type="cpnat:geoArea">
+<name>Päijät-Häme</name>
+</broader>
+<broader qcode="country:1" type="cpnat:geoArea">
+<name>Suomi</name>
+</broader>
+<broader qcode="continet:4" type="cpnat:geoArea">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Poliisi selvittää miehen epäselvää kuolemaa Sysmässä Päijät-Hämeessä. Noin 50-vuotias mies löytyi kuolleena kesämökiltä. Poliisin mukaan hänessä oli ulkoisen väkivallan merkkejä.</p>
+  <p>Poliisi sai hälytyksen sunnuntaina aamuyöllä. Paikalla oli useita miehen lähipiiriin kuuluvia ihmisiä. Poliisin mukaan kuollut mies oli riidellyt hieman ennen kuolemaansa muiden kanssa.</p>
+  <p>Poliisi otti paikalta kiinni kaksi miestä. Poliisi selvittää tapahtumia ja miehen kuolinsyytä.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+<remoteContent contenttype="image/jpeg" height="330" href="file://images/6564df70-a72e-4a1d-bc34-9d6b0247cbd9.jpg" rendition="rnd:web" size="3920400" version="1" width="495"/>
+   </contentSet>
+</newsItem>

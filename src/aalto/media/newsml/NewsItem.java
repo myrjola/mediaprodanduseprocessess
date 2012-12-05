@@ -29,6 +29,8 @@ public class NewsItem {
     private String topic;
     // Topic of the article
     private String article;
+    // Path to the image of the article
+    private String image_path;
     // File
     private File file;
     
@@ -142,6 +144,20 @@ public class NewsItem {
      */
     public void setArticle(String article) {
     this.article = article;
+    }
+
+    /**
+     * @return the image_path
+     */
+    public String getImagePath() {
+    return image_path;
+    }
+
+    /**
+     * @param image_path the image_path to set
+     */
+    public void setImagePath(String image_path) {
+    this.image_path = image_path;
     }
 
     public File getFile() {

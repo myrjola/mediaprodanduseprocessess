@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120727:95867413" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T19:39:18</versionCreated>
+<firstCreated>2012-07-27T19:39:15</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T19:39:15</contentCreated>
+<contentModified>2012-07-27T19:39:18</contentModified>
+<located type="loctype:City">
+<name>Espoo</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:194" type="cpnat:runnumber">
+<name>stt 194</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:74606" type="cpnat:topic">
+<name>Roolipelitapahtuma Ropecon käynnistyy Espoon Otaniemessä</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97757263" type="cpnat:textpackageid">
+<name>Roolipelitapahtuma Ropecon käynnistyy Espoon Otaniemessä</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000940" type="cpnat:length">
+<name>940</name>
+</subject>
+      <subject qcode="sttdepartment:0003" type="cpnat:department">
+         <name>Kotimaa</name>
+      </subject>
+<subject qcode="sttlocationalias:6700" type="cpnat:geoArea"/>
+<subject qcode="subj:10000000" type="cpnat:category">
+<name>Vapaa-aika</name>
+</subject>
+<subject qcode="subj:10001000" type="cpnat:category">
+<name>Pelit</name>
+</subject>
+<subject qcode="subj:1000000" type="cpnat:category">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject qcode="subj:1004000" type="cpnat:category">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Espoo</dateline>
+<by/>
+<description role="drol:summary">Suomen suurin roolipelitapahtuma Ropecon järjestetään 27.-29.7.2012 Dipolissa, Espoossa. Tapahtuman teemoina ovat fantasia ja muut vaihtoehtoiset todellisuudet, sekä rajat ja rajapinnat.
+</description>
+<headline>Fantasia elävöittää roolipelitapahtumaa Espoossa</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6700">
+<name>Espoo</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader qcode="city:13" type="cpnat:geoArea">
+<name>Espoo</name>
+</broader>
+<broader qcode="stat:31" type="cpnat:geoArea">
+<name>Uusimaa</name>
+</broader>
+<broader qcode="country:1" type="cpnat:geoArea">
+<name>Suomi</name>
+</broader>
+<broader qcode="continet:4" type="cpnat:geoArea">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suomen suurin roolipelitapahtuma Ropecon painottuu tällä kertaa fantasiamaailmoihin. Perjantaina Espoon Dipolissa alkaneeseen tapahtumaan odotetaan yli 3  700:aa kävijää. Tapahtuman teemana on fantasian lisäksi muut vaihtoehtotodellisuudet sekä rajat ja rajapinnat. Tapahtuman tiedottajan Maija Hannulan mukaan roolipelaamisen rajat ovat hämärtyneet.</p>
+  <p>–  Esimerkiksi monet teatterit käyttävät live-roolipelaamista taidemuotona. Tietysti videopelit rikkovat niitä rajoja, mihin roolipelaamista yleensä mietitään. </p>
+  <p>Yhdeksättätoista kertaa järjestettävä Ropecon sisältää esimerkiksi roolipelejä, työpajoja ja harrastukseen liittyvää puheohjelmaa. Luvassa on myös tanssiaiset ja pehmomiekkailun eli bofferoinnin mestaruuskilpailut.</p>
+  <p>Kolmipäiväiseen tapahtumaan osallistuu kaksi kunniavierasta. Wizards of the Coast -pelitalon perustajan Peter Adkisonin lisäksi mukana on larp-veteraani Larson Kasper.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+<remoteContent contenttype="image/jpeg" height="343" href="file://images/e0820060-d369-40f1-8cef-bb479171779c.jpg" rendition="rnd:web" size="4239480" version="1" width="515"/>
+   </contentSet>
+</newsItem>
