@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120731:95885243" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T19:00:22</versionCreated>
+<firstCreated>2012-07-31T19:00:19</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T19:00:19</contentCreated>
+<contentModified>2012-07-31T19:00:22</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:218" type="cpnat:runnumber">
+<name>stt 218</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:74857" type="cpnat:topic">
+<name>Tiistain pörssijutut</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97784329" type="cpnat:textpackageid">
+<name>Tiistain pörssijutut</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000801" type="cpnat:length">
+<name>801</name>
+</subject>
+      <subject qcode="sttdepartment:0011" type="cpnat:department">
+         <name>Talous</name>
+      </subject>
+<subject qcode="subj:4000000" type="cpnat:category">
+<name>Talous</name>
+</subject>
+<subject qcode="subj:4009000" type="cpnat:category">
+<name>Markkinat Pörssit</name>
+</subject>
+<subject qcode="subj:4009003" type="cpnat:category">
+<name>Arvopaperipörssit</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Nokia loikkasi vastavirtaan laskupörssissä</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Euroopan pörssit olivat tiistaina enimmäkseen pienessä laskussa, kun markkinoilla jännitettiin, päättävätkö USA:n ja Euroopan keskuspankit tämän viikon kokouksissaan uusista toimista talouden tukemiseksi.</p>
+  <p>Helsingissä nousukärkeen ponkaisi Nokia, jonka kurssi koheni melkein yhdeksän prosenttia 1,95 euroon. Yksi selitys voi olla Wall Street Journal -lehden uutinen, jonka mukaan Nokian ylin johto lisäsi viime viikolla tuntuvasti omistustaan yhtiössä. Suomessa MTV3 uutisoi Nokia-pomojen ostoksista jo maanantaina.</p>
+  <p>Muu vaihtokärki oli Helsingissä laskussa. Toiseksi eniten vaihdettu Outokumpu halpeni yli neljä prosenttia. Myös konepajayhtiöt Outotec ja Metso tulivat selvästi alaspäin.</p>
+  <p>OMXH-yleisindeksi päätyi 1,11 prosenttia miinukselle 5  225 pisteeseen. </p>
+  <p/>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="312" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/ef7b1d5f-2617-40a5-895d-ffa2ee40373c.jpg" rendition="rnd:web" size="3489408" version="1" width="466"/>
+   </contentSet>
+</newsItem>

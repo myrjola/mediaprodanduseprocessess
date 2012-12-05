@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120729:95872543" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-29T01:34:41</versionCreated>
+<firstCreated>2012-07-29T01:34:38</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-29T01:34:38</contentCreated>
+<contentModified>2012-07-29T01:34:41</contentModified>
+<located type="loctype:City">
+<name>Turku</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:009" type="cpnat:runnumber">
+<name>stt 009</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75167" type="cpnat:topic">
+<name>Down By The Laituri -tapahtuma keskeytettiin ukkosmyrskyn vuoksi</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97765658" type="cpnat:textpackageid">
+<name>Down By The Laituri -tapahtuma keskeytettiin ukkosmyrskyn vuoksi</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000558" type="cpnat:length">
+<name>558</name>
+</subject>
+      <subject qcode="sttdepartment:0003" type="cpnat:department">
+         <name>Kotimaa</name>
+      </subject>
+<subject qcode="sttlocationalias:6898" type="cpnat:geoArea"/>
+<subject qcode="subj:3000000" type="cpnat:category">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject qcode="subj:3004000" type="cpnat:category">
+<name>Tulipalot </name>
+</subject>
+<subject qcode="subj:1000000" type="cpnat:category">
+<name>Taide Kulttuuri Viihde</name>
+</subject>
+<subject qcode="subj:1004000" type="cpnat:category">
+<name>Kulttuuritapahtumat Festivaalit</name>
+</subject>
+<subject qcode="subj:3000000" type="cpnat:category">
+<name>Onnettomuudet ja tuhot</name>
+</subject>
+<subject qcode="subj:3007000" type="cpnat:category">
+<name>Säätuhot</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Turku</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Kaupunkifestivaali keskeytettiin ukkosmyrskyn vuoksi Turussa</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:6898">
+<name>Turku</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="" longitude=""/>
+</geoAreaDetails>
+<broader qcode="city:304" type="cpnat:geoArea">
+<name>Turku</name>
+</broader>
+<broader qcode="stat:26" type="cpnat:geoArea">
+<name>Varsinais-Suomi</name>
+</broader>
+<broader qcode="country:1" type="cpnat:geoArea">
+<name>Suomi</name>
+</broader>
+<broader qcode="continet:4" type="cpnat:geoArea">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Suomen vanhin kaupunkifestivaali Down By The Laituri keskeytettiin sunnuntain vastaisena yönä ukkosmyrskyn vuoksi. </p>
+  <p>Järjestäjät tekivät päätöksen keskeytyksestä puoli yhden aikaan yöllä. Festivaalin päätösesiintyjä Dingo joutui lopettamaan keikkansa etuajassa.</p>
+  <p>Rajuilma riepotteli Turun lisäksi muutakin Varsinais-Suomea. Pelastuslaitoksen tiedossa ei ollut henkilövahinkoja, mutta kahden rakennuksen uskottiin syttyneen tuleen ukkosen vuoksi. </p>
+  <p>Festivaalin keskeyttämisestä kertoi ensimmäisenä Yle.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="240" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/586a541c-680b-447c-b280-56c456eff1f0.jpg" rendition="rnd:web" size="2304000" version="1" width="400"/>
+   </contentSet>
+</newsItem>

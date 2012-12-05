@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120731:95885116" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-31T18:22:59</versionCreated>
+<firstCreated>2012-07-31T18:22:32</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-31T18:22:32</contentCreated>
+<contentModified>2012-07-31T18:22:59</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:201" type="cpnat:runnumber">
+<name>stt 201</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75523" type="cpnat:topic">
+<name>Niinistö Haminaan</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97788183" type="cpnat:textpackageid">
+<name>Niinistö vierailee Haminassa ja Pyhtäällä</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000558" type="cpnat:length">
+<name>558</name>
+</subject>
+      <subject qcode="sttdepartment:0009" type="cpnat:department">
+         <name>Politiikka</name>
+      </subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Presidentti Niinistö vierailee Haminassa ja Pyhtäällä</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Tasavallan presidentti Sauli Niinistö vierailee torstaina Haminassa ja Pyhtäällä. Haminassa Niinistö tutustuu Googlen palvelinkeskukseen, tapaa kaupungin edustajia Raatihuoneella sekä vierailee Reserviupseerikoulussa. Illalla ohjelmassa on Hamina Tattoo-marssikonsertin kutsuvierasesitys.</p>
+  <p>Pyhtäällä presidentti Niinistö tapaa kunnan edustajia ja tutustuu Stockforsin ruukkialueeseen. Ohjelmassa on myös kyläkahvit Huutjärven koulukeskuksessa.</p>
+  <p>Myös presidentin puoliso Jenni Haukio osallistuu vierailuun.</p>
+  <p/>
+  <p/>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="376" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/a2f4d110-1abd-4e63-8827-b71456db59a6.jpg" rendition="rnd:web" size="4187136" version="1" width="464"/>
+   </contentSet>
+</newsItem>

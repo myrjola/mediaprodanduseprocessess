@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120728:95870392" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T19:15:24</versionCreated>
+<firstCreated>2012-07-28T19:15:21</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-28T19:15:21</contentCreated>
+<contentModified>2012-07-28T19:15:24</contentModified>
+<located type="loctype:City">
+<name>Vantaa</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:172" type="cpnat:runnumber">
+<name>stt 172</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:73992" type="cpnat:topic">
+<name>Paljon puhuttanut Kaljakellunta kellutaan jälleen Vantaanjoessa.</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97762120" type="cpnat:textpackageid">
+<name>Paljon puhuttanut Kaljakellunta kellutaan jälleen Vantaanjoessa.</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000983" type="cpnat:length">
+<name>983</name>
+</subject>
+      <subject qcode="sttdepartment:0003" type="cpnat:department">
+         <name>Kotimaa</name>
+      </subject>
+<subject qcode="sttlocationalias:7670" type="cpnat:geoArea"/>
+<slugline>///LEHTIVERSIO JUTTUUN LIITTYY TUORETTA KUVAA///</slugline>
+<dateline>Vantaa</dateline>
+<by/>
+<description role="drol:summary">Paljon puhuttanut Kaljakellunta kellutaan jälleen Vantaanjoessa. Tänä vuonna olutta siemailevat kellujat lipuvat Keravanjoen ja Vantaanjoen risteyksestä Tammistosta Helsinkiin Pikkukoskelle. Tapahtumalla ei ole virallista järjestää, joten kellujat kelluvat omalla vastuulla. Omat Facebook-sivut tapahtumalla on. Sitä kautta on voinut mm. ilmoittautua vapaaehtoiseksi siivouspartioon.
+
+Viime vuonna Kaljakelluntaan osallistui poliisin arvion mukaan jopa 5 000 ihmistä.</description>
+<headline>Kaljakellujat lipuivat taas pitkin Vantaanjokea</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<assert qcode="sttlocationalias:7670">
+<name>Helsinki</name>
+<definition/>
+<geoAreaDetails>
+<position latitude="0" longitude="0"/>
+</geoAreaDetails>
+<broader qcode="city:35" type="cpnat:geoArea">
+<name>Helsinki</name>
+</broader>
+<broader qcode="stat:31" type="cpnat:geoArea">
+<name>Uusimaa</name>
+</broader>
+<broader qcode="country:1" type="cpnat:geoArea">
+<name>Suomi</name>
+</broader>
+<broader qcode="continet:4" type="cpnat:geoArea">
+<name>Eurooppa</name>
+</broader>
+<POIDetails>
+<address>
+<line/>
+<postalCode/>
+</address>
+</POIDetails>
+</assert>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Paljon puhuttanut Kaljakellunta täytti lauantaina Vantaanjoen pikkupaateilla. Olutta siemailleet osallistujat lähtivät kumiveneillään liikkeelle aamupäivällä Keravanjoen ja Vantaanjoen risteyksestä. Tavoitteena oli päästä Helsingin Pikkukoskelle asti.</p>
+  <p>Facebookissa tapahtumaan oli ilmoittautunut yli 4  100 ihmistä. Helsingin pelastuslaitoksen mukaan iltaan mennessä vakavista havereista ei ollut tullut hälytyksiä. Paikan päällä oli käyty paikkailemassa lievempiä haavoja.</p>
+  <p>Pelastuslaitokselta kerrotaan, että viranomaiset eivät olleet virallisesti paikalla valvomassa, koska Kaljakellunnalla ei ole järjestäjää eikä lupia.</p>
+  <p>Keskustelua herättänyttä tapahtumaa onkin pidetty riskialttiina, koska kellujat ovat liikkeellä omalla vastuulla. Närää on aiheuttanut myös roskaaminen. Jälkien siivoamista varten oli tänä vuonna koottu vapaaehtoisia Facebookissa.</p>
+  <p>Ensimmäinen Kaljakellunta järjestettiin vuonna 1997.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="548" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/d184933a-44e6-4595-a543-5102691f00c2.jpg" rendition="rnd:web" size="12862656" version="1" width="978"/>
+   </contentSet>
+</newsItem>

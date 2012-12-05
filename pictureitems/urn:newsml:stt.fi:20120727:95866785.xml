@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120727:95866785" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-27T18:44:23</versionCreated>
+<firstCreated>2012-07-27T18:43:55</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>3</urgency>
+<contentCreated>2012-07-27T18:43:55</contentCreated>
+<contentModified>2012-07-27T18:44:23</contentModified>
+<located type="loctype:City">
+<name>Helsinki</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:184" type="cpnat:runnumber">
+<name>stt 184</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75015" type="cpnat:topic">
+<name>EIT ei ole saanut valitusta Halla-aholta </name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97755907" type="cpnat:textpackageid">
+<name>EIT ei ole saanut valitusta Halla-aholta </name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0001135" type="cpnat:length">
+<name>1135</name>
+</subject>
+      <subject qcode="sttdepartment:0009" type="cpnat:department">
+         <name>Politiikka</name>
+      </subject>
+<subject qcode="subj:14000000" type="cpnat:category">
+<name>Sosiaalikysymykset</name>
+</subject>
+<subject qcode="subj:14010000" type="cpnat:category">
+<name>Vähemmistöt</name>
+</subject>
+<subject qcode="subj:14010002" type="cpnat:category">
+<name>Etniset vähemmistöt</name>
+</subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11025000" type="cpnat:category">
+<name>Sananvapaus</name>
+</subject>
+<subject qcode="subj:12000000" type="cpnat:category">
+<name>Uskonto</name>
+</subject>
+<subject qcode="subj:12010000" type="cpnat:category">
+<name>Islam Muslimit  </name>
+</subject>
+<subject qcode="subj:2000000" type="cpnat:category">
+<name>Laki Oikeus Rikokset</name>
+</subject>
+<subject qcode="subj:2011000" type="cpnat:category">
+<name>Kansainvälinen oikeus</name>
+</subject>
+<subject qcode="subj:2011001" type="cpnat:category">
+<name>Kansainväliset tuomioistuimet</name>
+</subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11009000" type="cpnat:category">
+<name>Eduskunta</name>
+</subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11007000" type="cpnat:category">
+<name>Ihmisoikeudet</name>
+</subject>
+<subject qcode="subj:11000000" type="cpnat:category">
+<name>Politiikka</name>
+</subject>
+<subject qcode="subj:11010000" type="cpnat:category">
+<name>Puolueet Poliittiset liikkeet Järjestöt</name>
+</subject>
+<subject qcode="subj:11010994" type="cpnat:category">
+<name>Perussuomalaiset</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Helsinki</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>EIT ei ole saanut valitusta Halla-aholta</headline>
+      <creditline>STT</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Euroopan ihmissoikeustuomioistuin ei ole saanut kansanedustaja Jussi Halla-aholta (ps.) valitusta korkeimman oikeuden blogikirjoitustuomiosta, EIT:n viestinnästä kerrotaan.</p>
+  <p>Halla-aho sai kesäkuun alussa korkeimmassa oikeudessa 400 euron sakkotuomion islaminuskoa ja somaleja loukanneesta blogikirjoituksestaan.</p>
+  <p>Halla-ahon kerrottiin tuolloin harkitsevan asian viemistä EIT:n käsiteltäväksi.</p>
+  <p>EIT on Strasbourgissa Ranskassa toimiva ylikansallinen tuomioistuin, joka valvoo Euroopan ihmisoikeussopimuksen noudattamista.</p>
+  <p>EIT:hen voi valittaa, jos kokee ihmisoikeussopimuksessa turvattujen oikeuksiensa tulleen loukatuksi. EIT:ssä osapuolina ovat aina valtio ja yksityinen valittaja, eikä toista yksityistä vastaan voi nostaa kannetta. Tutkittavaksi ottamisen edellytyksenä on, että kotimaiset valitustiet on jo käyty tapauksessa läpi.</p>
+  <p>Valittajalla on aikaa valituksen tekoon puoli vuotta viimeisen tuomioistuinpäätöksen jälkeen. Halla-ahon tapauksessa valitusaikaa on joulukuun alkupuolelle asti.</p>
+  <p>STT ei perjantaina tavoittanut Halla-ahoa kertomaan, suunnitteleeko hän valituksen tekemistä EIT:hen.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="543" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/fb38e208-f7bc-4657-815d-3de4d3465f7d.jpg" rendition="rnd:web" size="12745296" version="1" width="978"/>
+   </contentSet>
+</newsItem>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<newsItem xmlns="http://iptc.org/std/nar/2006-10-01/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" conformance="power" guid="urn:newsml:stt.fi:20120728:95869375" standard="NewsML-G2" standardversion="2.7" version="1" xml:lang="fi-FI" xsi:schemaLocation="http://iptc.org/std/nar/2006-10-01/ NewsML-G2_2.7-spec-NewsItem-Power.xsd">
+   <catalogRef href="http://www.iptc.org/std/catalog/catalog.IPTC-G2-Standards_13.xml"/>
+<itemMeta>
+
+<itemClass qcode="ninat:image"/>
+<provider literal="STT"/>
+<versionCreated>2012-07-28T08:08:27</versionCreated>
+<firstCreated>2012-07-28T08:08:24</firstCreated>
+<pubStatus qcode="stat:usable"/>
+      <role qcode="sttarticletype:0001">
+<name>Pääjuttu</name>
+      </role>
+      <service qcode="sttelementtype:0005">
+<name>Lehtiversio</name>
+      </service>
+      <edNote/>
+<signal qcode="action:new"/>
+   </itemMeta>
+<contentMeta>
+<urgency>4</urgency>
+<contentCreated>2012-07-28T08:08:24</contentCreated>
+<contentModified>2012-07-28T08:08:27</contentModified>
+<located type="loctype:City">
+<name>Ottawa</name>
+</located>
+<infoSource qcode="sttsource:0001">
+<name>STT</name>
+</infoSource>
+<subject literal="Service run id" qcode="sttrunnumber:029" type="cpnat:runnumber">
+<name>stt 029</name>
+</subject>
+<subject literal="Related topic id" qcode="stttopic:75099" type="cpnat:topic">
+<name>Kanada harkitsee ulkomaisten opiskelijoiden maksujen leikkaamista</name>
+</subject>
+<subject literal="Text package id" qcode="stttextpackage:97760403" type="cpnat:textpackageid">
+<name>Kanada harkitsee ulkomaisten opiskelijoiden maksujen leikkaamista</name>
+</subject>
+<subject literal="Content length" qcode="sttlength:0000823" type="cpnat:length">
+<name>823</name>
+</subject>
+      <subject qcode="sttdepartment:0014" type="cpnat:department">
+         <name>Ulkomaat</name>
+      </subject>
+<subject qcode="subj:5000000" type="cpnat:category">
+<name>Koulutus</name>
+</subject>
+<subject qcode="subj:5007000" type="cpnat:category">
+<name>Ammattikorkeakoulut Korkeakoulut Yliopistot</name>
+</subject>
+<subject qcode="subj:13000000" type="cpnat:category">
+<name>Tiede Teknologia</name>
+</subject>
+<subject qcode="subj:13006000" type="cpnat:category">
+<name>Tutkimustyö Tutkimusohjelmat ja rahoitus</name>
+</subject>
+<slugline>///LEHTIVERSIO///</slugline>
+<dateline>Ottawa</dateline>
+<by/>
+<description role="drol:summary"/>
+<headline>Kanada harkitsee alennusta ulkomaisten opiskelijoiden maksuihin</headline>
+      <creditline>STT–AFP</creditline>
+</contentMeta>
+<contentSet>
+<inlineXML contenttype="xhtml/xml">
+<html>
+<body>
+
+
+
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+  <p>Kanadan hallitus pohtii leikkausta ulkomaisten korkeakouluopiskelijoiden lukukausimaksuihin. Tällä hetkellä ulkomaiset opiskelijat pulittavat kaksin- tai jopa kuusinkertaisia maksuja kanadalaisiin verrattuna.</p>
+  <p>Kauppaministeriön tilaaman selvityksen mukaan maksuja pitäisi leikata, jotta maa pystyisi houkuttelemaan ulkomaalaisia korkeakouluihinsa. Selvitys arvioi, että ulkomaiset opiskelijat tuottavat kansantaloudelle jopa kahdeksan miljardin dollarin piristysruiskeen vuosittain.</p>
+  <p>–  Ottaen huomioon kansainvälisen kilpailun yliopistomarkkinoilla, koulutuspolitiikan päättäjien pitäisi pohtia uudelleen maksukäytäntöjä, selvitys suosittaa.</p>
+  <p>Kanadassa oli edellisvuonna 218  000 ulkomaalaista täysipäiväistä opiskelijaa, enimmäkseen Kiinasta ja Etelä-Koreasta.</p>
+ 
+  
+ 
+  
+ 
+
+</body>
+</html>
+</inlineXML>
+</contentSet>
+   <contentSet>
+      <remoteContent contenttype="image/jpeg" height="314" href="file:///home/martin/git/mediaprodanduseprocessess/mpup_part3_images/21085f70-5f2d-4c0d-8a1e-a410106eb65d.jpg" rendition="rnd:web" size="3511776" version="1" width="466"/>
+   </contentSet>
+</newsItem>
