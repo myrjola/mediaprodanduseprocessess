@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
 <web-app id="WebApp_ID">
-	<display-name>AddressBook</display-name>
+	<display-name>Newstopia</display-name>
 	<!-- ApplicationServlet from Vaadin jar will respond to requests. -->
 	<servlet>
 		<servlet-name>AddressBook</servlet-name>
@@ -9,7 +9,7 @@
 		<init-param>
 			<!-- Define our application class for servlet. -->
 			<param-name>application</param-name>
-	    	<param-value>com.vaadin.demo.tutorial.addressbook.AddressBookApplication</param-value>
+	    	<param-value>vaadin.main.window.NewsItemDisplayer</param-value>
 		</init-param>
 	</servlet>
 	
