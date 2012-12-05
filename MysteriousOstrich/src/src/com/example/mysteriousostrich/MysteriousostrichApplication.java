@@ -1,4 +1,4 @@
-package com.example.mysteriousostrich;
+package src.com.example.mysteriousostrich;
 
 import com.vaadin.Application;
 import com.vaadin.ui.*;

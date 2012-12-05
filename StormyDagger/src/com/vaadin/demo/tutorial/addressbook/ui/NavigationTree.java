@@ -6,14 +6,12 @@ import com.vaadin.ui.Tree;
 
 @SuppressWarnings("serial")
 public class NavigationTree extends Tree {
-    public static final Object SHOW_ALL = "Show all";
-    public static final Object SEARCH = "Search";
+    public static final Object SHOW_ALL = "Package Item 1";
+    public static final Object SEARCH = "Package Item 2";
 
     public NavigationTree(AddressBookApplication app) {
         addItem(SHOW_ALL);
         addItem(SEARCH);
-
-        setChildrenAllowed(SHOW_ALL, false);
 
         /*
          * We want items to be selectable but do not want the user to be able to

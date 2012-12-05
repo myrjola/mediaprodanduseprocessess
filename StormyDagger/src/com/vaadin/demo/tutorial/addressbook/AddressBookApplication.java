@@ -36,37 +36,37 @@ public class AddressBookApplication extends Application implements
 
     private NavigationTree tree = new NavigationTree(this);
 
-    private Button newContact = new Button("Add contact");
-    private Button search = new Button("Search");
-    private Button share = new Button("Share");
-    private Button help = new Button("Help");
+//    private Button newContact = new Button("Add contact");
+//    private Button search = new Button("Search");
+//    private Button share = new Button("Share");
+//    private Button help = new Button("Help");
     private HorizontalSplitPanel horizontalSplit = new HorizontalSplitPanel();
 
     // Lazyly created ui references
-    private ListView listView = null;
+//    private ListView listView = null;
     private SearchView searchView = null;
-    private PersonList personList = null;
-    private PersonForm personForm = null;
-    private HelpWindow helpWindow = null;
-    private SharingOptions sharingOptions = null;
+//    private PersonList personList = null;
+//    private PersonForm personForm = null;
+//    private HelpWindow helpWindow = null;
+//    private SharingOptions sharingOptions = null;
 
     private PersonContainer dataSource = PersonContainer.createWithTestData();
 
     @Override
     public void init() {
         buildMainLayout();
-        setMainComponent(getListView());
+        setMainComponent(getSearchView());
     }
 
     private void buildMainLayout() {
-        setMainWindow(new Window("Address Book Demo application"));
+        setMainWindow(new Window("Awesome Media articles"));
 
         setTheme("contacts");
 
         VerticalLayout layout = new VerticalLayout();
         layout.setSizeFull();
 
-        layout.addComponent(createToolbar());
+//        layout.addComponent(createToolbar());
         layout.addComponent(horizontalSplit);
         layout.setExpandRatio(horizontalSplit, 1);
 
@@ -75,38 +75,38 @@ public class AddressBookApplication extends Application implements
 
         getMainWindow().setContent(layout);
     }
-
-    private HorizontalLayout createToolbar() {
-        HorizontalLayout lo = new HorizontalLayout();
-        lo.addComponent(newContact);
-        lo.addComponent(search);
-        lo.addComponent(share);
-        lo.addComponent(help);
-
-        search.addListener((ClickListener) this);
-        share.addListener((ClickListener) this);
-        help.addListener((ClickListener) this);
-        newContact.addListener((ClickListener) this);
-
-        search.setIcon(new ThemeResource("icons/32/folder-add.png"));
-        share.setIcon(new ThemeResource("icons/32/users.png"));
-        help.setIcon(new ThemeResource("icons/32/help.png"));
-        newContact.setIcon(new ThemeResource("icons/32/document-add.png"));
-
-        lo.setMargin(true);
-        lo.setSpacing(true);
-
-        lo.setStyleName("toolbar");
-
-        lo.setWidth("100%");
-
-        Embedded em = new Embedded("", new ThemeResource("images/logo.png"));
-        lo.addComponent(em);
-        lo.setComponentAlignment(em, Alignment.MIDDLE_RIGHT);
-        lo.setExpandRatio(em, 1);
-
-        return lo;
-    }
+//
+//    private HorizontalLayout createToolbar() {
+//        HorizontalLayout lo = new HorizontalLayout();
+//        lo.addComponent(newContact);
+//        lo.addComponent(search);
+//        lo.addComponent(share);
+//        lo.addComponent(help);
+//
+//        search.addListener((ClickListener) this);
+//        share.addListener((ClickListener) this);
+//        help.addListener((ClickListener) this);
+//        newContact.addListener((ClickListener) this);
+//
+//        search.setIcon(new ThemeResource("icons/32/folder-add.png"));
+//        share.setIcon(new ThemeResource("icons/32/users.png"));
+//        help.setIcon(new ThemeResource("icons/32/help.png"));
+//        newContact.setIcon(new ThemeResource("icons/32/document-add.png"));
+//
+//        lo.setMargin(true);
+//        lo.setSpacing(true);
+//
+//        lo.setStyleName("toolbar");
+//
+//        lo.setWidth("100%");
+//
+//        Embedded em = new Embedded("", new ThemeResource("images/logo.png"));
+//        lo.addComponent(em);
+//        lo.setComponentAlignment(em, Alignment.MIDDLE_RIGHT);
+//        lo.setExpandRatio(em, 1);
+//
+//        return lo;
+//    }
 
     private void setMainComponent(Component c) {
         horizontalSplit.setSecondComponent(c);
@@ -116,14 +116,14 @@ public class AddressBookApplication extends Application implements
      * View getters exist so we can lazily generate the views, resulting in
      * faster application startup time.
      */
-    private ListView getListView() {
-        if (listView == null) {
-            personList = new PersonList(this);
-            personForm = new PersonForm(this);
-            listView = new ListView(personList, personForm);
-        }
-        return listView;
-    }
+//    private ListView getListView() {
+//        if (listView == null) {
+//            personList = new PersonList(this);
+//            personForm = new PersonForm(this);
+//            listView = new ListView(personList, personForm);
+//        }
+//        return listView;
+//    }
 
     private SearchView getSearchView() {
         if (searchView == null) {
@@ -132,19 +132,19 @@ public class AddressBookApplication extends Application implements
         return searchView;
     }
 
-    private HelpWindow getHelpWindow() {
-        if (helpWindow == null) {
-            helpWindow = new HelpWindow();
-        }
-        return helpWindow;
-    }
-
-    private SharingOptions getSharingOptions() {
-        if (sharingOptions == null) {
-            sharingOptions = new SharingOptions();
-        }
-        return sharingOptions;
-    }
+//    private HelpWindow getHelpWindow() {
+//        if (helpWindow == null) {
+//            helpWindow = new HelpWindow();
+//        }
+//        return helpWindow;
+//    }
+//
+//    private SharingOptions getSharingOptions() {
+//        if (sharingOptions == null) {
+//            sharingOptions = new SharingOptions();
+//        }
+//        return sharingOptions;
+//    }
 
     public PersonContainer getDataSource() {
         return dataSource;
@@ -153,41 +153,26 @@ public class AddressBookApplication extends Application implements
     public void buttonClick(ClickEvent event) {
         final Button source = event.getButton();
 
-        if (source == search) {
-            showSearchView();
-        } else if (source == help) {
-            showHelpWindow();
-        } else if (source == share) {
-            showShareWindow();
-        } else if (source == newContact) {
-            addNewContanct();
-        }
-    }
+      }
 
-    private void showHelpWindow() {
-        getMainWindow().addWindow(getHelpWindow());
-    }
+//    private void showHelpWindow() {
+//        getMainWindow().addWindow(getHelpWindow());
+//    }
 
-    private void showShareWindow() {
-        getMainWindow().addWindow(getSharingOptions());
-    }
+//    private void showShareWindow() {
+//        getMainWindow().addWindow(getSharingOptions());
+//    }
 
-    private void showListView() {
-        setMainComponent(getListView());
-    }
+//    private void showListView() {
+//        setMainComponent(getListView());
+//    }
 
     private void showSearchView() {
         setMainComponent(getSearchView());
     }
 
     public void valueChange(ValueChangeEvent event) {
-        Property property = event.getProperty();
-        if (property == personList) {
-            Item item = personList.getItem(personList.getValue());
-            if (item != personForm.getItemDataSource()) {
-                personForm.setItemDataSource(item);
-            }
-        }
+     
     }
 
     public void itemClick(ItemClickEvent event) {
@@ -197,7 +182,7 @@ public class AddressBookApplication extends Application implements
                 if (NavigationTree.SHOW_ALL.equals(itemId)) {
                     // clear previous filters
                     getDataSource().removeAllContainerFilters();
-                    showListView();
+                    showSearchView();
                 } else if (NavigationTree.SEARCH.equals(itemId)) {
                     showSearchView();
                 } else if (itemId instanceof SearchFilter) {
@@ -206,11 +191,11 @@ public class AddressBookApplication extends Application implements
             }
         }
     }
-
-    private void addNewContanct() {
-        showListView();
-        personForm.addContact();
-    }
+//
+//    private void addNewContanct() {
+//        showListView();
+//        personForm.addContact();
+//    }
 
     public void search(SearchFilter searchFilter) {
         // clear previous filters
@@ -218,7 +203,7 @@ public class AddressBookApplication extends Application implements
         // filter contacts with given filter
         getDataSource().addContainerFilter(searchFilter.getPropertyId(),
                 searchFilter.getTerm(), true, false);
-        showListView();
+        showSearchView();
 
         getMainWindow().showNotification(
                 "Searched for " + searchFilter.getPropertyId() + "=*"
@@ -237,5 +222,6 @@ public class AddressBookApplication extends Application implements
         // select the saved search
         tree.setValue(searchFilter);
     }
+
 
 }
