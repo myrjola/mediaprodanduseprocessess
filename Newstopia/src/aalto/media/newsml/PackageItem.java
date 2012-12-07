@@ -138,6 +138,10 @@ public class PackageItem {
     public ArrayList<NewsItem> getNewsItems() {
         return this.newsItems;
     }
+    
+    public String toString() {
+    	return this.getHeadline();
+    }
 
     public String getVersion() {
         // TODO Auto-generated method stub

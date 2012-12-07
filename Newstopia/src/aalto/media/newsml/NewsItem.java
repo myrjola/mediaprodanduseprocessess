@@ -113,9 +113,7 @@ public class NewsItem {
     
     @Override
     public String toString() {
-        String s = "NewsItem " + getGuid() + "\n" +
-                "Version " + getVersion() + ", sent " + getVersion_created();
-        return s;
+        return getTopic();
     }
 
     /**
