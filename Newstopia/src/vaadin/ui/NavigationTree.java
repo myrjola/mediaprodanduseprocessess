@@ -15,7 +15,7 @@ public class NavigationTree extends Tree {
     public static final Object PACKAGE2 = "Package Item 2";
 
     public NavigationTree(NewsItemDisplayer app) {
-    	pg = new PackageGenerator("/public/pictureitems");
+    	pg = new PackageGenerator("/home/dp0/git/mediaprodanduseprocessess/pictureitems");
     	PACKAGE1 = pg.generatePackage();
         addItem(PACKAGE1);
         addItem(PACKAGE2);

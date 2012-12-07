@@ -1,9 +1,14 @@
 package vaadin.main.window;
 
+import java.util.ArrayList;
+
 import vaadin.data.PersonContainer;
 import vaadin.data.SearchFilter;
 import vaadin.ui.NavigationTree;
 import vaadin.ui.NewsItemView;
+import vaadin.ui.Startpage;
+
+import aalto.media.newsml.PackageItem;
 
 import com.vaadin.Application;
 import com.vaadin.data.Item;
@@ -42,6 +47,7 @@ public class NewsItemDisplayer extends Application implements
     // Lazyly created ui references
 //    private ListView listView = null;
     private NewsItemView searchView = null;
+    private Startpage start = null;
 //    private PersonList personList = null;
 //    private PersonForm personForm = null;
 //    private HelpWindow helpWindow = null;
@@ -52,7 +58,7 @@ public class NewsItemDisplayer extends Application implements
     @Override
     public void init() {
         buildMainLayout();
-        setMainComponent(getSearchView());
+        setMainComponent(getStartpage());
     }
 
     private void buildMainLayout() {
@@ -103,13 +109,19 @@ public class NewsItemDisplayer extends Application implements
 //        return listView;
 //    }
 
-    private NewsItemView getSearchView() {
+    private NewsItemView getSearchView(ArrayList list) {
         if (searchView == null) {
-            searchView = new NewsItemView(this,"pass arguments here");
+            searchView = new NewsItemView(this,list);
         }
         return searchView;
     }
 
+    private Startpage getStartpage() {
+    	if (start == null) {
+    		start = new Startpage(this);
+    	}
+    	return start;
+    }
 //    private HelpWindow getHelpWindow() {
 //        if (helpWindow == null) {
 //            helpWindow = new HelpWindow();
@@ -145,8 +157,8 @@ public class NewsItemDisplayer extends Application implements
 //        setMainComponent(getListView());
 //    }
 
-    private void showSearchView() {
-        setMainComponent(getSearchView());
+    private void showSearchView(ArrayList list) {
+        setMainComponent(getSearchView(list));
     }
 
     public void valueChange(ValueChangeEvent event) {
@@ -158,9 +170,9 @@ public class NewsItemDisplayer extends Application implements
             Object itemId = event.getItemId();
             if (itemId != null) {
                 if (NavigationTree.PACKAGE1.equals(itemId)) {
-                    showSearchView();
+                    showSearchView(((PackageItem) NavigationTree.PACKAGE1).getNewsItems());
                 } else if (NavigationTree.PACKAGE2.equals(itemId)) {
-                    showSearchView();
+                    showSearchView(((PackageItem) NavigationTree.PACKAGE2).getNewsItems());
                 } else if (itemId instanceof SearchFilter) {
                     search((SearchFilter) itemId);
                 }
@@ -179,7 +191,7 @@ public class NewsItemDisplayer extends Application implements
         // filter contacts with given filter
         getDataSource().addContainerFilter(searchFilter.getPropertyId(),
                 searchFilter.getTerm(), true, false);
-        showSearchView();
+        //showSearchView();
 
         getMainWindow().showNotification(
                 "Searched for " + searchFilter.getPropertyId() + "=*"
