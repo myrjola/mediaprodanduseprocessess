@@ -112,17 +112,14 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 	// }
 
 	private NewsItemView getSearchView(ArrayList list) {
-		if (searchView == null) {
-			searchView = new NewsItemView(this, list);
-		}
+		searchView = new NewsItemView(this, list);
 		return searchView;
 	}
 
 
 	private NewsItemView getNewsView(NewsItem item) {
-		if (searchView == null) {
-			searchView = new NewsItemView(this, item);
-		}
+		
+		searchView = new NewsItemView(this, item);
 		return searchView;
 	}
 
@@ -215,5 +212,4 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 						+ getDataSource().size() + " item(s).",
 				Notification.TYPE_TRAY_NOTIFICATION);
 	}
-
 }
