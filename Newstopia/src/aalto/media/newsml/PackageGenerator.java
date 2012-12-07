@@ -10,8 +10,13 @@ package aalto.media.newsml;
 
 import java.io.File;
 import java.io.FileFilter;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.FileWriter;
+import java.nio.MappedByteBuffer;
+import java.nio.channels.FileChannel;
+import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -42,7 +47,7 @@ public class PackageGenerator {
 	private final static String DEPARTMENT_XPATH = "/newsItem/contentMeta/subject[@type='cpnat:department']/name";
 	private final static String CATEGORIES_XPATH = "/newsItem/contentMeta/subject[@type='cpnat:category']/name";
 	private final static String TOPIC_XPATH = "/newsItem/contentMeta/subject[@type='cpnat:topic']/name";
-	private final static String ARTICLE_XPATH = "/newsItem/contentSet/inlineXML/html/body";
+	private final static String ARTICLE_XPATH = "/newsItem/contentSet/inlineXML";
 	private final static String IMAGEPATH_XPATH = "/newsItem/contentSet/remoteContent";
 
 	private String newsItemFolder;
@@ -156,10 +161,30 @@ public class PackageGenerator {
 				}
 
 				// Set article
-				expr = xpath.compile(ARTICLE_XPATH);
-				nodes = (NodeList) expr.evaluate(xmlDocument,
-						XPathConstants.NODESET);
-				String article = nodes.item(0).getTextContent();
+				String filecontents = "";
+				FileInputStream stream = new FileInputStream(newsItemFile);
+				try {
+					FileChannel fc = stream.getChannel();
+					MappedByteBuffer bb = fc.map(FileChannel.MapMode.READ_ONLY,
+							0, fc.size());
+					/* Instead of using default, pass in a decoder. */
+					filecontents = Charset.defaultCharset().decode(bb)
+							.toString();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				} finally {
+					try {
+						stream.close();
+					} catch (IOException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+				}
+				String startstr = "<inlineXML contenttype=\"xhtml/xml\">";
+				int start = filecontents.indexOf(startstr) + startstr.length();
+				int end = filecontents.indexOf("</inlineXML>");
+				String article = filecontents.substring(start, end);
 				newsItem.setArticle(article);
 
 				// Set ImagePath
@@ -179,6 +204,9 @@ public class PackageGenerator {
 			} catch (XPathExpressionException e) {
 
 				e.printStackTrace();
+			} catch (FileNotFoundException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
 			}
 		}
 	}
