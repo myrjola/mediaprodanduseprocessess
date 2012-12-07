@@ -17,28 +17,25 @@ public class NavigationTree extends Tree {
 
 	public NavigationTree(NewsItemDisplayer app) {
 		pg = new PackageGenerator("public/pictureitems");
-		PackageItem pi = pg.generatePackage();
+		for (PackageItem pi : pg.generatePackages()) {
 
-		addItem(pi);
-		ArrayList<NewsItem> newsitems = pi.newsItems;
+			addItem(pi);
+			ArrayList<NewsItem> newsitems = pi.newsItems;
 
-		/* Add newsitems as root items in the tree. */
-		for (NewsItem ni : newsitems) {
+			/* Add newsitems as root items in the tree. */
+			for (NewsItem ni : newsitems) {
 
-			// Add the item as a regular item.
-			addItem(ni);
-			// Set it to be a child.
-			setParent(ni, pi);
-			// Make the moons look like leaves.
-			setChildrenAllowed(ni, false);
+				// Add the item as a regular item.
+				addItem(ni);
+				// Set it to be a child.
+				setParent(ni, pi);
+				// Make the moons look like leaves.
+				setChildrenAllowed(ni, false);
+			}
+			// Expand the subtree.
+			expandItemsRecursively(pi);
+
 		}
-		// Expand the subtree.
-		expandItemsRecursively(pi);
-
-		/*
-		 * We want items to be selectable but do not want the user to be able to
-		 * de-select an item.
-		 */
 		setSelectable(true);
 		setNullSelectionAllowed(false);
 
