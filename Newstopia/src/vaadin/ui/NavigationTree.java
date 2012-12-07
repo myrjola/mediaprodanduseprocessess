@@ -1,7 +1,10 @@
 package vaadin.ui;
 
+import java.util.ArrayList;
+
 import vaadin.main.window.NewsItemDisplayer;
 
+import aalto.media.newsml.NewsItem;
 import aalto.media.newsml.PackageGenerator;
 import aalto.media.newsml.PackageItem;
 
@@ -11,24 +14,36 @@ import com.vaadin.ui.Tree;
 @SuppressWarnings("serial")
 public class NavigationTree extends Tree {
 	public static PackageGenerator pg;
-	public static Object PACKAGE1;
-    public static final Object PACKAGE2 = "Package Item 2";
 
-    public NavigationTree(NewsItemDisplayer app) {
-    	pg = new PackageGenerator("/home/dp0/git/mediaprodanduseprocessess/pictureitems");
-    	PACKAGE1 = pg.generatePackage();
-        addItem(PACKAGE1);
-        addItem(PACKAGE2);
+	public NavigationTree(NewsItemDisplayer app) {
+		pg = new PackageGenerator("public/pictureitems");
+		PackageItem pi = pg.generatePackage();
 
-        /*
-         * We want items to be selectable but do not want the user to be able to
-         * de-select an item.
-         */
-        setSelectable(true);
-        setNullSelectionAllowed(false);
+		addItem(pi);
+		ArrayList<NewsItem> newsitems = pi.newsItems;
 
-        // Make application handle item click events
-        addListener((ItemClickListener) app);
+		/* Add newsitems as root items in the tree. */
+		for (NewsItem ni : newsitems) {
 
-    }
+			// Add the item as a regular item.
+			addItem(ni);
+			// Set it to be a child.
+			setParent(ni, pi);
+			// Make the moons look like leaves.
+			setChildrenAllowed(ni, false);
+		}
+		// Expand the subtree.
+		expandItemsRecursively(pi);
+
+		/*
+		 * We want items to be selectable but do not want the user to be able to
+		 * de-select an item.
+		 */
+		setSelectable(true);
+		setNullSelectionAllowed(false);
+
+		// Make application handle item click events
+		addListener((ItemClickListener) app);
+
+	}
 }
