@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 import vaadin.main.window.NewsItemDisplayer;
 
+import aalto.media.newsml.NewsItem;
+
 import com.vaadin.ui.Panel;
 import com.vaadin.ui.Label;
 import com.vaadin.ui.VerticalLayout;
@@ -26,7 +28,7 @@ public class NewsItemView extends Panel {
         /* Use a FormLayout as main layout for this Panel */
         VerticalLayout Layout = new VerticalLayout();
         setContent(Layout);
-        String names = null;
+        String names = "";
         for(int i = 0; i<list.size();i++) {
         	names = names + list.get(i).toString() + '\n';
         }
@@ -36,10 +38,10 @@ public class NewsItemView extends Panel {
 
         /* Add all the created components to the form */
         addComponent(article);
-        //addComponent(fieldToSearch);
-        //addComponent(saveSearch);
-        //addComponent(searchName);
-        //addComponent(search);
     }
 
+    public NewsItemView(final NewsItemDisplayer app, NewsItem item) {
+        this.app = app;
+        //TODO generate view if itemID is newsitem
+    }
 }

@@ -8,6 +8,7 @@ import vaadin.ui.NavigationTree;
 import vaadin.ui.NewsItemView;
 import vaadin.ui.Startpage;
 
+import aalto.media.newsml.NewsItem;
 import aalto.media.newsml.PackageItem;
 
 import com.vaadin.Application;
@@ -33,183 +34,197 @@ import com.vaadin.ui.Window;
 import com.vaadin.ui.Window.Notification;
 
 @SuppressWarnings("serial")
-public class NewsItemDisplayer extends Application implements
-        ClickListener, ValueChangeListener, ItemClickListener {
+public class NewsItemDisplayer extends Application implements ClickListener,
+		ValueChangeListener, ItemClickListener {
 
-    private NavigationTree tree = new NavigationTree(this);
+	private NavigationTree tree = new NavigationTree(this);
 
-//    private Button newContact = new Button("Add contact");
-//    private Button search = new Button("Search");
-//    private Button share = new Button("Share");
-//    private Button help = new Button("Help");
-    private HorizontalSplitPanel horizontalSplit = new HorizontalSplitPanel();
+	// private Button newContact = new Button("Add contact");
+	// private Button search = new Button("Search");
+	// private Button share = new Button("Share");
+	// private Button help = new Button("Help");
+	private HorizontalSplitPanel horizontalSplit = new HorizontalSplitPanel();
 
-    // Lazyly created ui references
-//    private ListView listView = null;
-    private NewsItemView searchView = null;
-    private Startpage start = null;
-//    private PersonList personList = null;
-//    private PersonForm personForm = null;
-//    private HelpWindow helpWindow = null;
-//    private SharingOptions sharingOptions = null;
+	// Lazyly created ui references
+	// private ListView listView = null;
+	private NewsItemView searchView = null;
+	private Startpage start = null;
+	// private PersonList personList = null;
+	// private PersonForm personForm = null;
+	// private HelpWindow helpWindow = null;
+	// private SharingOptions sharingOptions = null;
 
-    private PersonContainer dataSource = PersonContainer.createWithTestData();
+	private PersonContainer dataSource = PersonContainer.createWithTestData();
 
-    @Override
-    public void init() {
-        buildMainLayout();
-        setMainComponent(getStartpage());
-    }
+	@Override
+	public void init() {
+		buildMainLayout();
+		setMainComponent(getStartpage());
+	}
 
-    private void buildMainLayout() {
-        setMainWindow(new Window("Awesome Media articles"));
+	private void buildMainLayout() {
+		setMainWindow(new Window("Awesome Media articles"));
 
-        //setTheme("contacts");
+		// setTheme("contacts");
 
-        VerticalLayout layout = new VerticalLayout();
-        layout.setSizeFull();
+		VerticalLayout layout = new VerticalLayout();
+		layout.setSizeFull();
 
-        layout.addComponent(createToolbar());
-        layout.addComponent(horizontalSplit);
-        layout.setExpandRatio(horizontalSplit, 1);
+		layout.addComponent(createToolbar());
+		layout.addComponent(horizontalSplit);
+		layout.setExpandRatio(horizontalSplit, 1);
 
-        horizontalSplit.setSplitPosition(200, Sizeable.UNITS_PIXELS);
-        horizontalSplit.setFirstComponent(tree);
+		horizontalSplit.setSplitPosition(200, Sizeable.UNITS_PIXELS);
+		horizontalSplit.setFirstComponent(tree);
 
-        getMainWindow().setContent(layout);
-    }
-//
-    private HorizontalLayout createToolbar() {
-        HorizontalLayout lo = new HorizontalLayout();
-        lo.setMargin(true);
-        lo.setSpacing(true);
-        lo.setStyleName("toolbar");
-        lo.setWidth("100%");
-        Label logo = new Label("LOGO");
-        lo.addComponent(logo);
-        lo.setComponentAlignment(logo, Alignment.MIDDLE_RIGHT);
-        lo.setExpandRatio(logo, 1);
-        return lo;
-    }
+		getMainWindow().setContent(layout);
+	}
 
-    private void setMainComponent(Component c) {
-        horizontalSplit.setSecondComponent(c);
-    }
+	//
+	private HorizontalLayout createToolbar() {
+		HorizontalLayout lo = new HorizontalLayout();
+		lo.setMargin(true);
+		lo.setSpacing(true);
+		lo.setStyleName("toolbar");
+		lo.setWidth("100%");
+		Label logo = new Label("LOGO");
+		lo.addComponent(logo);
+		lo.setComponentAlignment(logo, Alignment.MIDDLE_RIGHT);
+		lo.setExpandRatio(logo, 1);
+		return lo;
+	}
 
-    /*
-     * View getters exist so we can lazily generate the views, resulting in
-     * faster application startup time.
-     */
-//    private ListView getListView() {
-//        if (listView == null) {
-//            personList = new PersonList(this);
-//            personForm = new PersonForm(this);
-//            listView = new ListView(personList, personForm);
-//        }
-//        return listView;
-//    }
+	private void setMainComponent(Component c) {
+		horizontalSplit.setSecondComponent(c);
+	}
 
-    private NewsItemView getSearchView(ArrayList list) {
-        if (searchView == null) {
-            searchView = new NewsItemView(this,list);
-        }
-        return searchView;
-    }
+	/*
+	 * View getters exist so we can lazily generate the views, resulting in
+	 * faster application startup time.
+	 */
+	// private ListView getListView() {
+	// if (listView == null) {
+	// personList = new PersonList(this);
+	// personForm = new PersonForm(this);
+	// listView = new ListView(personList, personForm);
+	// }
+	// return listView;
+	// }
 
-    private Startpage getStartpage() {
-    	if (start == null) {
-    		start = new Startpage(this);
-    	}
-    	return start;
-    }
-//    private HelpWindow getHelpWindow() {
-//        if (helpWindow == null) {
-//            helpWindow = new HelpWindow();
-//        }
-//        return helpWindow;
-//    }
-//
-//    private SharingOptions getSharingOptions() {
-//        if (sharingOptions == null) {
-//            sharingOptions = new SharingOptions();
-//        }
-//        return sharingOptions;
-//    }
+	private NewsItemView getSearchView(ArrayList list) {
+		if (searchView == null) {
+			searchView = new NewsItemView(this, list);
+		}
+		return searchView;
+	}
 
-    public PersonContainer getDataSource() {
-        return dataSource;
-    }
 
-    public void buttonClick(ClickEvent event) {
-        final Button source = event.getButton();
+	private NewsItemView getNewsView(NewsItem item) {
+		if (searchView == null) {
+			searchView = new NewsItemView(this, item);
+		}
+		return searchView;
+	}
 
-      }
+	
+	private Startpage getStartpage() {
+		if (start == null) {
+			start = new Startpage(this);
+		}
+		return start;
+	}
 
-//    private void showHelpWindow() {
-//        getMainWindow().addWindow(getHelpWindow());
-//    }
+	// private HelpWindow getHelpWindow() {
+	// if (helpWindow == null) {
+	// helpWindow = new HelpWindow();
+	// }
+	// return helpWindow;
+	// }
+	//
+	// private SharingOptions getSharingOptions() {
+	// if (sharingOptions == null) {
+	// sharingOptions = new SharingOptions();
+	// }
+	// return sharingOptions;
+	// }
 
-//    private void showShareWindow() {
-//        getMainWindow().addWindow(getSharingOptions());
-//    }
+	public PersonContainer getDataSource() {
+		return dataSource;
+	}
 
-//    private void showListView() {
-//        setMainComponent(getListView());
-//    }
+	public void buttonClick(ClickEvent event) {
+		final Button source = event.getButton();
 
-    private void showSearchView(ArrayList list) {
-        setMainComponent(getSearchView(list));
-    }
+	}
 
-    public void valueChange(ValueChangeEvent event) {
-     
-    }
+	// private void showHelpWindow() {
+	// getMainWindow().addWindow(getHelpWindow());
+	// }
 
-    public void itemClick(ItemClickEvent event) {
-        if (event.getSource() == tree) {
-            Object itemId = event.getItemId();
-            if (itemId != null) {
-                if (NavigationTree.PACKAGE1.equals(itemId)) {
-                    showSearchView(((PackageItem) NavigationTree.PACKAGE1).getNewsItems());
-                } else if (NavigationTree.PACKAGE2.equals(itemId)) {
-                    showSearchView(((PackageItem) NavigationTree.PACKAGE2).getNewsItems());
-                } else if (itemId instanceof SearchFilter) {
-                    search((SearchFilter) itemId);
-                }
-            }
-        }
-    }
-//
-//    private void addNewContanct() {
-//        showListView();
-//        personForm.addContact();
-//    }
+	// private void showShareWindow() {
+	// getMainWindow().addWindow(getSharingOptions());
+	// }
 
-    public void search(SearchFilter searchFilter) {
-        // clear previous filters
-        getDataSource().removeAllContainerFilters();
-        // filter contacts with given filter
-        getDataSource().addContainerFilter(searchFilter.getPropertyId(),
-                searchFilter.getTerm(), true, false);
-        //showSearchView();
+	// private void showListView() {
+	// setMainComponent(getListView());
+	// }
 
-        getMainWindow().showNotification(
-                "Searched for " + searchFilter.getPropertyId() + "=*"
-                        + searchFilter.getTerm() + "*, found "
-                        + getDataSource().size() + " item(s).",
-                Notification.TYPE_TRAY_NOTIFICATION);
-    }
+	private void showSearchView(ArrayList list) {
+		setMainComponent(getSearchView(list));
+	}
+	
+	private void showNewsView(NewsItem item) {
+		setMainComponent(getNewsView(item));
+	}
 
-    public void saveSearch(SearchFilter searchFilter) {
-        tree.addItem(searchFilter);
-        tree.setParent(searchFilter, NavigationTree.PACKAGE2);
-        // mark the saved search as a leaf (cannot have children)
-        tree.setChildrenAllowed(searchFilter, false);
-        // make sure "Search" is expanded
-        tree.expandItem(NavigationTree.PACKAGE2);
-        // select the saved search
-        tree.setValue(searchFilter);
-    }
+	public void valueChange(ValueChangeEvent event) {
 
+	}
+
+	public void itemClick(ItemClickEvent event) {
+		if (event.getSource() == tree) {
+			Object itemId = event.getItemId();
+			if (itemId != null) {
+				if (itemId instanceof PackageItem) {
+					showSearchView(((PackageItem) itemId).getNewsItems());
+				}
+				else if (itemId instanceof NewsItem) {
+					showNewsView(((NewsItem) itemId));
+				}
+			}
+		}
+	}
+
+	//
+	// private void addNewContanct() {
+	// showListView();
+	// personForm.addContact();
+	// }
+
+	public void search(SearchFilter searchFilter) {
+		// clear previous filters
+		getDataSource().removeAllContainerFilters();
+		// filter contacts with given filter
+		getDataSource().addContainerFilter(searchFilter.getPropertyId(),
+				searchFilter.getTerm(), true, false);
+		// showSearchView();
+
+		getMainWindow().showNotification(
+				"Searched for " + searchFilter.getPropertyId() + "=*"
+						+ searchFilter.getTerm() + "*, found "
+						+ getDataSource().size() + " item(s).",
+				Notification.TYPE_TRAY_NOTIFICATION);
+	}
+
+	public void saveSearch(SearchFilter searchFilter) {
+		tree.addItem(searchFilter);
+		tree.setParent(searchFilter, NavigationTree.PACKAGE2);
+		// mark the saved search as a leaf (cannot have children)
+		tree.setChildrenAllowed(searchFilter, false);
+		// make sure "Search" is expanded
+		tree.expandItem(NavigationTree.PACKAGE2);
+		// select the saved search
+		tree.setValue(searchFilter);
+	}
 
 }
