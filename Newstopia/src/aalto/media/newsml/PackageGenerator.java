@@ -161,7 +161,7 @@ public class PackageGenerator {
 		nodes = (NodeList) expr.evaluate(xmlDocument,
 			XPathConstants.NODESET);
 		String article = nodes.item(0).getTextContent();
-		newsItem.setTopic(article);
+		newsItem.setArticle(article);
 
 		// Set ImagePath
 		expr = xpath.compile(IMAGEPATH_XPATH);

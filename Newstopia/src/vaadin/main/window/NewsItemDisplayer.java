@@ -216,15 +216,4 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 				Notification.TYPE_TRAY_NOTIFICATION);
 	}
 
-	public void saveSearch(SearchFilter searchFilter) {
-		tree.addItem(searchFilter);
-		tree.setParent(searchFilter, NavigationTree.PACKAGE2);
-		// mark the saved search as a leaf (cannot have children)
-		tree.setChildrenAllowed(searchFilter, false);
-		// make sure "Search" is expanded
-		tree.expandItem(NavigationTree.PACKAGE2);
-		// select the saved search
-		tree.setValue(searchFilter);
-	}
-
 }
