@@ -12,8 +12,9 @@ public class NewsItemView extends Panel {
     private Label article;
     private NewsItemDisplayer app;
 
-    public NewsItemView(final NewsItemDisplayer app) {
+    public NewsItemView(final NewsItemDisplayer app, String string) {
         this.app = app;
+        String test = string;
         addStyleName("view");
 
         setCaption("Articles be here");
@@ -24,7 +25,7 @@ public class NewsItemView extends Panel {
         setContent(Layout);
 
         /* Create UI components */
-        article = new Label("Article text goes here?",Label.CONTENT_XHTML);
+        article = new Label(test,Label.CONTENT_XHTML);
 
         /* Add all the created components to the form */
         addComponent(article);

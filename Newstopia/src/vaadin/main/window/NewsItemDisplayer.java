@@ -19,6 +19,7 @@ import com.vaadin.ui.Button;
 import com.vaadin.ui.Button.ClickEvent;
 import com.vaadin.ui.Button.ClickListener;
 import com.vaadin.ui.Component;
+import com.vaadin.ui.Label;
 import com.vaadin.ui.Embedded;
 import com.vaadin.ui.HorizontalLayout;
 import com.vaadin.ui.HorizontalSplitPanel;
@@ -62,7 +63,7 @@ public class NewsItemDisplayer extends Application implements
         VerticalLayout layout = new VerticalLayout();
         layout.setSizeFull();
 
-//        layout.addComponent(createToolbar());
+        layout.addComponent(createToolbar());
         layout.addComponent(horizontalSplit);
         layout.setExpandRatio(horizontalSplit, 1);
 
@@ -72,37 +73,18 @@ public class NewsItemDisplayer extends Application implements
         getMainWindow().setContent(layout);
     }
 //
-//    private HorizontalLayout createToolbar() {
-//        HorizontalLayout lo = new HorizontalLayout();
-//        lo.addComponent(newContact);
-//        lo.addComponent(search);
-//        lo.addComponent(share);
-//        lo.addComponent(help);
-//
-//        search.addListener((ClickListener) this);
-//        share.addListener((ClickListener) this);
-//        help.addListener((ClickListener) this);
-//        newContact.addListener((ClickListener) this);
-//
-//        search.setIcon(new ThemeResource("icons/32/folder-add.png"));
-//        share.setIcon(new ThemeResource("icons/32/users.png"));
-//        help.setIcon(new ThemeResource("icons/32/help.png"));
-//        newContact.setIcon(new ThemeResource("icons/32/document-add.png"));
-//
-//        lo.setMargin(true);
-//        lo.setSpacing(true);
-//
-//        lo.setStyleName("toolbar");
-//
-//        lo.setWidth("100%");
-//
-//        Embedded em = new Embedded("", new ThemeResource("images/logo.png"));
-//        lo.addComponent(em);
-//        lo.setComponentAlignment(em, Alignment.MIDDLE_RIGHT);
-//        lo.setExpandRatio(em, 1);
-//
-//        return lo;
-//    }
+    private HorizontalLayout createToolbar() {
+        HorizontalLayout lo = new HorizontalLayout();
+        lo.setMargin(true);
+        lo.setSpacing(true);
+        lo.setStyleName("toolbar");
+        lo.setWidth("100%");
+        Label logo = new Label("LOGO");
+        lo.addComponent(logo);
+        lo.setComponentAlignment(logo, Alignment.MIDDLE_RIGHT);
+        lo.setExpandRatio(logo, 1);
+        return lo;
+    }
 
     private void setMainComponent(Component c) {
         horizontalSplit.setSecondComponent(c);
@@ -123,7 +105,7 @@ public class NewsItemDisplayer extends Application implements
 
     private NewsItemView getSearchView() {
         if (searchView == null) {
-            searchView = new NewsItemView(this);
+            searchView = new NewsItemView(this,"pass arguments here");
         }
         return searchView;
     }
@@ -175,11 +157,9 @@ public class NewsItemDisplayer extends Application implements
         if (event.getSource() == tree) {
             Object itemId = event.getItemId();
             if (itemId != null) {
-                if (NavigationTree.SHOW_ALL.equals(itemId)) {
-                    // clear previous filters
-                    getDataSource().removeAllContainerFilters();
+                if (NavigationTree.PACKAGE1.equals(itemId)) {
                     showSearchView();
-                } else if (NavigationTree.SEARCH.equals(itemId)) {
+                } else if (NavigationTree.PACKAGE2.equals(itemId)) {
                     showSearchView();
                 } else if (itemId instanceof SearchFilter) {
                     search((SearchFilter) itemId);
@@ -210,11 +190,11 @@ public class NewsItemDisplayer extends Application implements
 
     public void saveSearch(SearchFilter searchFilter) {
         tree.addItem(searchFilter);
-        tree.setParent(searchFilter, NavigationTree.SEARCH);
+        tree.setParent(searchFilter, NavigationTree.PACKAGE2);
         // mark the saved search as a leaf (cannot have children)
         tree.setChildrenAllowed(searchFilter, false);
         // make sure "Search" is expanded
-        tree.expandItem(NavigationTree.SEARCH);
+        tree.expandItem(NavigationTree.PACKAGE2);
         // select the saved search
         tree.setValue(searchFilter);
     }

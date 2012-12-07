@@ -7,12 +7,13 @@ import com.vaadin.ui.Tree;
 
 @SuppressWarnings("serial")
 public class NavigationTree extends Tree {
-    public static final Object SHOW_ALL = "Package Item 1";
-    public static final Object SEARCH = "Package Item 2";
+    public static final Object PACKAGE1 = "Package Item 1";
+    public static final Object PACKAGE2 = "Package Item 2";
 
     public NavigationTree(NewsItemDisplayer app) {
-        addItem(SHOW_ALL);
-        addItem(SEARCH);
+        addItem(PACKAGE1);
+        addItem(PACKAGE2);
+        
 
         /*
          * We want items to be selectable but do not want the user to be able to
