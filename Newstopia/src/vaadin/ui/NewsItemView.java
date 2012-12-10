@@ -1,5 +1,6 @@
 package vaadin.ui;
 
+import java.io.File;
 import java.util.ArrayList;
 
 import vaadin.main.window.NewsItemDisplayer;
@@ -7,6 +8,8 @@ import vaadin.main.window.NewsItemDisplayer;
 import aalto.media.newsml.NewsItem;
 import aalto.media.newsml.PackageItem;
 
+import com.vaadin.terminal.FileResource;
+import com.vaadin.ui.Embedded;
 import com.vaadin.ui.Panel;
 import com.vaadin.ui.Label;
 import com.vaadin.ui.VerticalLayout;
@@ -42,9 +45,11 @@ public class NewsItemView extends Panel {
 
     public NewsItemView(final NewsItemDisplayer app, NewsItem item) {
         this.app = app;
+        String path = "public"+item.getImagePath().substring(6);
+        Embedded img = new Embedded(null,new FileResource(new File(path),app));
+        addComponent(img);
         String text = newsArticle(item);
         article = new Label(text,Label.CONTENT_XHTML);
-
         /* Add all the created components to the form */
         setCaption(item.getTopic());
         addComponent(article);
