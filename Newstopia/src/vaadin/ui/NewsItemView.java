@@ -5,6 +5,7 @@ import java.util.ArrayList;
 import vaadin.main.window.NewsItemDisplayer;
 
 import aalto.media.newsml.NewsItem;
+import aalto.media.newsml.PackageItem;
 
 import com.vaadin.ui.Panel;
 import com.vaadin.ui.Label;
@@ -18,12 +19,12 @@ public class NewsItemView extends Panel {
     private NewsItemDisplayer app;
     private ArrayList list;
 
-    public NewsItemView(final NewsItemDisplayer app, ArrayList list) {
+    public NewsItemView(final NewsItemDisplayer app, PackageItem item) {
         this.app = app;
-        this.list = list;
+        this.list = item.getNewsItems();
         addStyleName("view");
         
-        setCaption("Articles be here");
+        setCaption("<b>"+item.getHeadline()+"</b>");
         setSizeFull();
 
         /* Use a FormLayout as main layout for this Panel */
@@ -45,6 +46,7 @@ public class NewsItemView extends Panel {
         article = new Label(text,Label.CONTENT_XHTML);
 
         /* Add all the created components to the form */
+        setCaption(item.getTopic());
         addComponent(article);
 
         //TODO generate view if itemID is newsitem
@@ -53,7 +55,7 @@ public class NewsItemView extends Panel {
     public String newsArticle(NewsItem item)
     {
     	String article = "<i>"+item.getArticle()+"</i>";
-    	String topic = "<b>"+item.getTopic()+"</b>";
-    	return topic+"<br>"+article+"<br><br>";
+    	//String topic = "<b>"+item.getTopic()+"</b>";
+    	return article+"<br><br>";
     }
 }

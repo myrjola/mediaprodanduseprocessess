@@ -24,7 +24,7 @@ public class Startpage extends Panel {
 	        setContent(Layout);
 
 	        /* Create UI components */
-	        article = new Label("Start page duh",Label.CONTENT_XHTML);
+	        article = new Label("Home to the best articles available",Label.CONTENT_XHTML);
 
 	        /* Add all the created components to the form */
 	        addComponent(article);

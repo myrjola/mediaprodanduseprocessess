@@ -65,7 +65,7 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 	private void buildMainLayout() {
 		setMainWindow(new Window("Awesome Media articles"));
 
-		// setTheme("contacts");
+		setTheme("runo");
 
 		VerticalLayout layout = new VerticalLayout();
 		layout.setSizeFull();
@@ -111,8 +111,8 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 	// return listView;
 	// }
 
-	private NewsItemView getSearchView(ArrayList list) {
-		searchView = new NewsItemView(this, list);
+	private NewsItemView getSearchView(PackageItem item) {
+		searchView = new NewsItemView(this, item);
 		return searchView;
 	}
 
@@ -166,8 +166,8 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 	// setMainComponent(getListView());
 	// }
 
-	private void showSearchView(ArrayList list) {
-		setMainComponent(getSearchView(list));
+	private void showSearchView(PackageItem item) {
+		setMainComponent(getSearchView(item));
 	}
 	
 	private void showNewsView(NewsItem item) {
@@ -183,7 +183,7 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 			Object itemId = event.getItemId();
 			if (itemId != null) {
 				if (itemId instanceof PackageItem) {
-					showSearchView(((PackageItem) itemId).getNewsItems());
+					showSearchView(((PackageItem) itemId));
 				}
 				else if (itemId instanceof NewsItem) {
 					showNewsView(((NewsItem) itemId));

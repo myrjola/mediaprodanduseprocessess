@@ -38,7 +38,7 @@ public class NavigationTree extends Tree {
 		}
 		setSelectable(true);
 		setNullSelectionAllowed(false);
-
+		
 		// Make application handle item click events
 		addListener((ItemClickListener) app);
 
