@@ -220,7 +220,7 @@ public class PackageGenerator {
 		packages.add(generatePackageKotimaa());
 		packages.add(generatePackageTalous());
 		packages.add(generatePackageUlkomaat());
-		packages.add(generatePackageUrheilu());
+		packages.add(generatePackagePolitiikka());
 		return packages;
 	}
 
@@ -240,19 +240,19 @@ public class PackageGenerator {
 		return packageItem;
 	}
 
-	public PackageItem generatePackageUrheilu() {
+	public PackageItem generatePackagePolitiikka() {
 		// Finds all items from specific department
 		ArrayList<NewsItem> packageItems = new ArrayList<NewsItem>();
 		for (int i = 0; i < newsItems.size(); i++) {
 			NewsItem item = newsItems.get(i);
 			// System.out.println(item.getDepartment());
-			if (item.getDepartment().equals(("Urheilu"))) { // You can use
+			if (item.getDepartment().equals(("Politiikka"))) { // You can use
 				// your own rules here.
 				packageItems.add(item);
 			}
 		}
 		PackageItem packageItem = generatePackageFromNewsItems(packageItems, 10);
-		packageItem.setHeadline("Urheilun top-10.");
+		packageItem.setHeadline("Kieroja juoruja politiikasta");
 		return packageItem;
 	}
 
