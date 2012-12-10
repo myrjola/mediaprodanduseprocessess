@@ -2,8 +2,6 @@ package vaadin.main.window;
 
 import java.util.ArrayList;
 
-import vaadin.data.PersonContainer;
-import vaadin.data.SearchFilter;
 import vaadin.ui.NavigationTree;
 import vaadin.ui.NewsItemView;
 import vaadin.ui.Startpage;
@@ -45,7 +43,6 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 	// Lazyly created ui references
 	private NewsItemView newsItemView = null;
 	private Startpage start = null;
-	private PersonContainer dataSource = PersonContainer.createWithTestData();
 
 	@Override
 	public void init() {
@@ -80,7 +77,7 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 		lo.setWidth("100%");
 		logo = new Button("HOME");
 		// Make application handle item click events
-		logo.addListener((ClickListener)(this));
+		logo.addListener((ClickListener) (this));
 		Label name = new Label("LOGO");
 		lo.addComponent(name);
 		lo.addComponent(logo);
@@ -99,11 +96,11 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 	}
 
 	private NewsItemView getNewsView(NewsItem item) {
-		
+
 		newsItemView = new NewsItemView(this, item);
 		return newsItemView;
 	}
-	
+
 	private Startpage getStartpage() {
 		if (start == null) {
 			start = new Startpage(this);
@@ -111,14 +108,9 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 		return start;
 	}
 
-	public PersonContainer getDataSource() {
-		return dataSource;
-	}
-
 	public void buttonClick(ClickEvent event) {
-		//final Button source = event.getButton();
-		if (event.getButton() == logo)
-		{
+		// final Button source = event.getButton();
+		if (event.getButton() == logo) {
 			setMainComponent(getStartpage());
 		}
 	}
@@ -126,7 +118,7 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 	private void showSearchView(PackageItem item) {
 		setMainComponent(getPackageView(item));
 	}
-	
+
 	private void showNewsView(NewsItem item) {
 		setMainComponent(getNewsView(item));
 	}
@@ -141,32 +133,10 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 			if (itemId != null) {
 				if (itemId instanceof PackageItem) {
 					showSearchView(((PackageItem) itemId));
-				}
-				else if (itemId instanceof NewsItem) {
+				} else if (itemId instanceof NewsItem) {
 					showNewsView(((NewsItem) itemId));
 				}
 			}
 		}
-	}
-
-	//
-	// private void addNewContanct() {
-	// showListView();
-	// personForm.addContact();
-	// }
-
-	public void search(SearchFilter searchFilter) {
-		// clear previous filters
-		getDataSource().removeAllContainerFilters();
-		// filter contacts with given filter
-		getDataSource().addContainerFilter(searchFilter.getPropertyId(),
-				searchFilter.getTerm(), true, false);
-		// showSearchView();
-
-		getMainWindow().showNotification(
-				"Searched for " + searchFilter.getPropertyId() + "=*"
-						+ searchFilter.getTerm() + "*, found "
-						+ getDataSource().size() + " item(s).",
-				Notification.TYPE_TRAY_NOTIFICATION);
 	}
 }

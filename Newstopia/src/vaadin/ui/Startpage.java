@@ -7,32 +7,28 @@ import com.vaadin.ui.Label;
 import com.vaadin.ui.VerticalLayout;
 
 public class Startpage extends Panel {
-	
-	    private Label article;
-	    private NewsItemDisplayer app;
 
-	    public Startpage(final NewsItemDisplayer app) {
-	        this.app = app;
-	        //String test = string;
-	        addStyleName("start");
+	private Label article;
+	private NewsItemDisplayer app;
 
-	        setCaption("Welcome");
-	        setSizeFull();
+	public Startpage(final NewsItemDisplayer app) {
+		this.app = app;
+		// String test = string;
+		addStyleName("start");
 
-	        /* Use a FormLayout as main layout for this Panel */
-	        VerticalLayout Layout = new VerticalLayout();
-	        setContent(Layout);
+		setCaption("Welcome");
+		setSizeFull();
 
-	        /* Create UI components */
-	        article = new Label("Home to the best articles available",Label.CONTENT_XHTML);
+		/* Use a FormLayout as main layout for this Panel */
+		VerticalLayout Layout = new VerticalLayout();
+		setContent(Layout);
 
-	        /* Add all the created components to the form */
-	        addComponent(article);
-	        //addComponent(fieldToSearch);
-	        //addComponent(saveSearch);
-	        //addComponent(searchName);
-	        //addComponent(search);
-	    }
+		/* Create UI components */
+		article = new Label("Home to the best articles available",
+				Label.CONTENT_XHTML);
 
+		/* Add all the created components to the form */
+		addComponent(article);
 	}
 
+}
