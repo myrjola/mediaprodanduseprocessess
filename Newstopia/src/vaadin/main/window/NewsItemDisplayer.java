@@ -38,22 +38,12 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 		ValueChangeListener, ItemClickListener {
 
 	private NavigationTree tree = new NavigationTree(this);
-
-	// private Button newContact = new Button("Add contact");
-	// private Button search = new Button("Search");
-	// private Button share = new Button("Share");
-	// private Button help = new Button("Help");
+	private Button logo;
 	private HorizontalSplitPanel horizontalSplit = new HorizontalSplitPanel();
 
 	// Lazyly created ui references
-	// private ListView listView = null;
-	private NewsItemView searchView = null;
+	private NewsItemView newsItemView = null;
 	private Startpage start = null;
-	// private PersonList personList = null;
-	// private PersonForm personForm = null;
-	// private HelpWindow helpWindow = null;
-	// private SharingOptions sharingOptions = null;
-
 	private PersonContainer dataSource = PersonContainer.createWithTestData();
 
 	@Override
@@ -87,9 +77,13 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 		lo.setSpacing(true);
 		lo.setStyleName("toolbar");
 		lo.setWidth("100%");
-		Label logo = new Label("LOGO");
+		logo = new Button("HOME");
+		// Make application handle item click events
+		logo.addListener((ClickListener)(this));
+		Label name = new Label("LOGO");
+		lo.addComponent(name);
 		lo.addComponent(logo);
-		lo.setComponentAlignment(logo, Alignment.MIDDLE_RIGHT);
+		lo.setComponentAlignment(logo, Alignment.MIDDLE_LEFT);
 		lo.setExpandRatio(logo, 1);
 		return lo;
 	}
@@ -98,31 +92,16 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 		horizontalSplit.setSecondComponent(c);
 	}
 
-	/*
-	 * View getters exist so we can lazily generate the views, resulting in
-	 * faster application startup time.
-	 */
-	// private ListView getListView() {
-	// if (listView == null) {
-	// personList = new PersonList(this);
-	// personForm = new PersonForm(this);
-	// listView = new ListView(personList, personForm);
-	// }
-	// return listView;
-	// }
-
-	private NewsItemView getSearchView(PackageItem item) {
-		searchView = new NewsItemView(this, item);
-		return searchView;
+	private NewsItemView getPackageView(PackageItem item) {
+		newsItemView = new NewsItemView(this, item);
+		return newsItemView;
 	}
-
 
 	private NewsItemView getNewsView(NewsItem item) {
 		
-		searchView = new NewsItemView(this, item);
-		return searchView;
+		newsItemView = new NewsItemView(this, item);
+		return newsItemView;
 	}
-
 	
 	private Startpage getStartpage() {
 		if (start == null) {
@@ -131,43 +110,20 @@ public class NewsItemDisplayer extends Application implements ClickListener,
 		return start;
 	}
 
-	// private HelpWindow getHelpWindow() {
-	// if (helpWindow == null) {
-	// helpWindow = new HelpWindow();
-	// }
-	// return helpWindow;
-	// }
-	//
-	// private SharingOptions getSharingOptions() {
-	// if (sharingOptions == null) {
-	// sharingOptions = new SharingOptions();
-	// }
-	// return sharingOptions;
-	// }
-
 	public PersonContainer getDataSource() {
 		return dataSource;
 	}
 
 	public void buttonClick(ClickEvent event) {
-		final Button source = event.getButton();
-
+		//final Button source = event.getButton();
+		if (event.getButton() == logo)
+		{
+			setMainComponent(getStartpage());
+		}
 	}
 
-	// private void showHelpWindow() {
-	// getMainWindow().addWindow(getHelpWindow());
-	// }
-
-	// private void showShareWindow() {
-	// getMainWindow().addWindow(getSharingOptions());
-	// }
-
-	// private void showListView() {
-	// setMainComponent(getListView());
-	// }
-
 	private void showSearchView(PackageItem item) {
-		setMainComponent(getSearchView(item));
+		setMainComponent(getPackageView(item));
 	}
 	
 	private void showNewsView(NewsItem item) {
