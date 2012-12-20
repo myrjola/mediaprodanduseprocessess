@@ -16,7 +16,7 @@ public class NavigationTree extends Tree {
 	public static PackageGenerator pg;
 
 	public NavigationTree(NewsItemDisplayer app) {
-		pg = new PackageGenerator("public/pictureitems");
+		pg = new PackageGenerator("webapps/Newstopia/WEB-INF/public/pictureitems");
 		for (PackageItem pi : pg.generatePackages()) {
 
 			addItem(pi);

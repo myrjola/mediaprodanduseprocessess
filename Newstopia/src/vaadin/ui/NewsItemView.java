@@ -41,7 +41,7 @@ public class NewsItemView extends Panel {
 
     public NewsItemView(final NewsItemDisplayer app, NewsItem item) {
         this.app = app;
-        String path = "public"+item.getImagePath().substring(6);
+        String path = "webapps/Newstopia/WEB-INF/public"+item.getImagePath().substring(6);
         Embedded img = new Embedded(null,new FileResource(new File(path),app));
         addComponent(img);
         String text = newsArticle(item);
